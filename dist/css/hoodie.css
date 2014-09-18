@@ -1,0 +1,68 @@
+/* The basic css including the reset stylesheet */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after {
+  content: '';
+  content: none; }
+
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* Colours */
+body {
+  color: #282828;
+  background-color: #fff; }
+
+aside {
+  color: #999999; }
+
+.cb:odd {
+  background-color: #fefefe; }
+
+.orange h1, .orange h2, .orange h3, .orange h4, .orange a {
+  color: #e94e1b; }
+
+.blue h1, .blue h2, .blue h3, .blue h4, .blue a {
+  color: #312783; }
+
+.green h1, .green h2, .green h3, .green h4, .green a {
+  color: #0b8e36; }
+
+.yellow h1, .yellow h2, .yellow h3, .yellow h4, .yellow a {
+  color: #f9b233; }
+
+.gray h1, .gray h2, .gray h3, .gray h4, .gray a {
+  color: #999999; }
+
+.lilac h1, .lilac h2, .lilac h3, .lilac h4, .lilac a {
+  color: #520644; }
+
+/*# sourceMappingURL=hoodie.css.map */

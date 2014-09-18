@@ -1,0 +1,40 @@
+$orange: 	#e94e1b;
+$orange-l:	#f9c4b3;
+
+$blue: 		#312783;
+$blue-l:	#bfbcd8;
+
+$green:		#0b8e36; 
+$green-l:	#a9d6b8;
+
+$yellow: 	#f9b233;
+$yellow-l:	#fce3b6;
+
+$gray:		#282828;
+$gray-l:	#b3b3b3;
+
+$lilac: 	#520644;
+$lilac-l:	#c1a7bc;
+
+$gray-d: 	#282828;
+$gray :		#999999;
+$gray-l: 	#fefefe;
+
+/* Colours */
+
+body { color: $gray-d; background-color: #fff; }
+aside { color: $gray; }
+
+.cb:odd { background-color: $gray-l; }
+
+.orange { h1, h2, h3, h4, a { color: $orange; } }
+
+.blue { h1, h2, h3, h4, a { color: $blue; } }
+
+.green { h1, h2, h3, h4, a { color: $green; } }
+
+.yellow { h1, h2, h3, h4, a { color: $yellow; } }
+
+.gray {	h1, h2, h3, h4, a { color: $gray; } }
+
+.lilac { h1, h2, h3, h4, a { color: $lilac; } }
