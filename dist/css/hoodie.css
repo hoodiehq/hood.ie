@@ -36,6 +36,9 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+section {
+  width: 100%; }
+
 /* Colours */
 body {
   color: #282828;
@@ -44,25 +47,42 @@ body {
 aside {
   color: #999999; }
 
+#main-nav a, .sub-nav a, #meta-nav a {
+  color: white !important; }
+
 .cb:odd {
   background-color: #fefefe; }
 
 .orange h1, .orange h2, .orange h3, .orange h4, .orange a {
   color: #e94e1b; }
+.orange header, .orange footer {
+  background-color: #e94e1b; }
+.orange .sub-nav {
+  background-color: #f9c4b3; }
 
 .blue h1, .blue h2, .blue h3, .blue h4, .blue a {
   color: #312783; }
+.blue header, .blue footer {
+  background-color: #312783; }
 
 .green h1, .green h2, .green h3, .green h4, .green a {
   color: #0b8e36; }
+.green header, .green footer {
+  background-color: #0b8e36; }
 
 .yellow h1, .yellow h2, .yellow h3, .yellow h4, .yellow a {
   color: #f9b233; }
+.yellow header, .yellow footer {
+  background-color: #f9b233; }
 
 .gray h1, .gray h2, .gray h3, .gray h4, .gray a {
   color: #999999; }
+.gray header, .gray footer {
+  background-color: #999999; }
 
 .lilac h1, .lilac h2, .lilac h3, .lilac h4, .lilac a {
   color: #520644; }
+.lilac header, .lilac footer {
+  background-color: #520644; }
 
 /*# sourceMappingURL=hoodie.css.map */

@@ -25,16 +25,18 @@ $gray-l: 	#fefefe;
 body { color: $gray-d; background-color: #fff; }
 aside { color: $gray; }
 
+#main-nav a, .sub-nav a, #meta-nav a { color: white!important; }
+
 .cb:odd { background-color: $gray-l; }
 
-.orange { h1, h2, h3, h4, a { color: $orange; } }
+.orange { h1, h2, h3, h4, a { color: $orange; } header, footer { background-color:$orange; } .sub-nav { background-color: $orange-l; } }
 
-.blue { h1, h2, h3, h4, a { color: $blue; } }
+.blue { h1, h2, h3, h4, a { color: $blue; } header, footer { background-color:$blue; } }
 
-.green { h1, h2, h3, h4, a { color: $green; } }
+.green { h1, h2, h3, h4, a { color: $green; } header, footer { background-color:$green; } }
 
-.yellow { h1, h2, h3, h4, a { color: $yellow; } }
+.yellow { h1, h2, h3, h4, a { color: $yellow; } header, footer { background-color:$yellow; } }
 
-.gray {	h1, h2, h3, h4, a { color: $gray; } }
+.gray {	h1, h2, h3, h4, a { color: $gray; } header, footer { background-color:$gray; } }
 
-.lilac { h1, h2, h3, h4, a { color: $lilac; } }
+.lilac { h1, h2, h3, h4, a { color: $lilac; } header, footer { background-color:$lilac; } }
