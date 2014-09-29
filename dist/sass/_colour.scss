@@ -17,19 +17,25 @@ $lilac: 	#520644;
 $lilac-l:	#c1a7bc;
 
 $gray-d: 	#282828;
+$gray-t: 	#404040;
+$gray-m: 	#606060;
 $gray :		#999999;
 $gray-l: 	#fefefe;
 
 /* Colours */
 
-body { color: $gray-d; background-color: #fff; }
+body { color: $gray-t; background-color: #fff; }
 aside { color: $gray; }
+
+.cb:nth-child(even) { background-color: $green; }
+
+#sub-nav a { color: $gray-m; }
 
 #main-nav a, .sub-nav a, #meta-nav a { color: white!important; }
 
 .cb:odd { background-color: $gray-l; }
 
-.orange { h1, h2, h3, h4, a { color: $orange; } header, footer { background-color:$orange; } .sub-nav { background-color: $orange-l; } }
+.orange { h1, h2, h3, h4, a { color: $orange; } #nav, footer { background-color:$orange; } #sub-nav { background-color: $orange-l; } }
 
 .blue { h1, h2, h3, h4, a { color: $blue; } header, footer { background-color:$blue; } }
 

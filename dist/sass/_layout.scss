@@ -1,1 +1,31 @@
-section { width: 100%; }
+section, #main-nav, #sub-nav { width: 100%; }
+header section li, header section a { display: inline-block; }
+
+#nav { height: 65px; }
+
+#logo { left: 20px; top: 20px; }
+
+#meta-nav { right: 30px; top: 25px; }
+#main-nav { top: 25px; }
+
+#sub-nav { top: 65px; padding-top: 12px; height: 24px;}
+ 
+#logo, #meta-nav { width: 230px; }
+.cb { width: 830px; }
+
+// header section { div, nav, ul { float: left; } }
+
+#main-nav, #meta-nav, #logo { display: inline-block; }
+#sub-nav, .cb, #main-nav { margin: 0 auto; }
+
+.clear { clear: both; }
+.cb aside { width: 180px; float: left; margin-right: 50px; }
+.cb article { width: 600px; float: left;}
+
+.hide { display: none; }
+
+
+#nav, #logo, #main-nav, #meta-nav, #sub-nav {position: absolute;}
+
+
+#content { padding-top: 300px; }

@@ -36,16 +36,77 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-section {
+section, #main-nav, #sub-nav {
   width: 100%; }
+
+header section li, header section a {
+  display: inline-block; }
+
+#nav {
+  height: 65px; }
+
+#logo {
+  left: 20px;
+  top: 20px; }
+
+#meta-nav {
+  right: 30px;
+  top: 25px; }
+
+#main-nav {
+  top: 25px; }
+
+#sub-nav {
+  top: 65px;
+  padding-top: 12px;
+  height: 24px; }
+
+#logo, #meta-nav {
+  width: 230px; }
+
+.cb {
+  width: 830px; }
+
+#main-nav, #meta-nav, #logo {
+  display: inline-block; }
+
+#sub-nav, .cb, #main-nav {
+  margin: 0 auto; }
+
+.clear {
+  clear: both; }
+
+.cb aside {
+  width: 180px;
+  float: left;
+  margin-right: 50px; }
+
+.cb article {
+  width: 600px;
+  float: left; }
+
+.hide {
+  display: none; }
+
+#nav, #logo, #main-nav, #meta-nav, #sub-nav {
+  position: absolute; }
+
+#content {
+  padding-top: 300px; }
 
 /* Colours */
 body {
-  color: #282828;
+  color: #404040;
   background-color: #fff; }
 
 aside {
   color: #999999; }
+
+.cb:nth-child(even) {
+  background-color: #0b8e36; }
+
+#sub-nav a {
+  color: #606060; }
 
 #main-nav a, .sub-nav a, #meta-nav a {
   color: white !important; }
@@ -55,9 +116,9 @@ aside {
 
 .orange h1, .orange h2, .orange h3, .orange h4, .orange a {
   color: #e94e1b; }
-.orange header, .orange footer {
+.orange #nav, .orange footer {
   background-color: #e94e1b; }
-.orange .sub-nav {
+.orange #sub-nav {
   background-color: #f9c4b3; }
 
 .blue h1, .blue h2, .blue h3, .blue h4, .blue a {
@@ -84,5 +145,47 @@ aside {
   color: #520644; }
 .lilac header, .lilac footer {
   background-color: #520644; }
+
+body {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 300;
+  font-size: 16px; }
+
+#sub-nav, #main-nav {
+  text-align: center; }
+
+#meta-nav {
+  text-align: right; }
+
+#meta-nav, #main-nav {
+  font-size: 1.094em; }
+
+#sub-nav {
+  font-size: 0.938em; }
+
+#nav, #sub-nav {
+  text-transform: uppercase; }
+
+a {
+  text-decoration: none; }
+
+#nav a, #meta-nav li {
+  margin-right: 9px; }
+
+#sub-nav li {
+  margin-right: 9px; }
+
+#nav a:last-child, #sub-nav li:last-child, #meta-nav li:last-child {
+  margin-right: 0; }
+
+aside {
+  text-align: right; }
+
+.teaser h1 {
+  font-size: 2.250em;
+  line-height: 2em; }
+.teaser p {
+  font-size: 1.500em;
+  line-height: 1.75em; }
 
 /*# sourceMappingURL=hoodie.css.map */

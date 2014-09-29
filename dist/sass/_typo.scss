@@ -1,0 +1,21 @@
+body {font-family: 'Fira Sans', sans-serif; font-weight: 300; font-size: 16px; }
+#sub-nav, #main-nav { text-align: center; }
+#meta-nav { text-align: right; }
+
+#meta-nav, #main-nav { font-size: 1.094em; }
+#sub-nav { font-size: 0.938em; }
+
+#nav, #sub-nav { text-transform: uppercase; }
+
+a { text-decoration: none; }
+#nav a, #meta-nav li { margin-right: 9px; }
+#sub-nav li { margin-right: 9px; }
+
+#nav a:last-child, #sub-nav li:last-child, #meta-nav li:last-child { margin-right: 0; }
+
+aside { text-align: right; }
+
+.teaser { 
+	h1 { font-size: 2.250em; line-height: 2em ;  }
+	p { font-size: 1.500em; line-height: 1.75em; }
+ }
