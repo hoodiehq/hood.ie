@@ -91,8 +91,18 @@ header section li, header section a {
 #nav, #logo, #main-nav, #meta-nav, #sub-nav {
   position: absolute; }
 
+.cb .teaser {
+  padding: 0 0 40px; }
+
+.cb {
+  padding: 30px 0; }
+
 #content {
-  padding-top: 300px; }
+  padding-top: 300px;
+  background: url("../img/logo_cut.png") no-repeat center 60px; }
+
+.teaser h1 {
+  padding-left: 230px; }
 
 /* Colours */
 body {
@@ -169,6 +179,9 @@ body {
 a {
   text-decoration: none; }
 
+a:hover, .active {
+  text-decoration: underline; }
+
 #nav a, #meta-nav li {
   margin-right: 9px; }
 
@@ -181,11 +194,19 @@ a {
 aside {
   text-align: right; }
 
-.teaser h1 {
+.teaser p {
+  font-size: 1.7em;
+  line-height: 1.8em; }
+.teaser aside {
+  font-size: 1.2em;
+  line-height: 1.8em; }
+
+h1 {
   font-size: 2.250em;
   line-height: 2em; }
-.teaser p {
-  font-size: 1.500em;
+
+h2 {
+  font-size: 1.5em;
   line-height: 1.75em; }
 
 /*# sourceMappingURL=hoodie.css.map */
