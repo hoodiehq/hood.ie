@@ -25,11 +25,11 @@ header section li, header section a { display: inline-block; }
 .hide { display: none; }
 
 
-#nav, #logo, #main-nav, #meta-nav, #sub-nav {position: absolute;}
+#nav, #logo, #main-nav, #meta-nav, #sub-nav { position: absolute; }
 
-.cb .teaser { padding:0 0 40px; }
-.cb { padding: 30px 0; }
+.cb.teaser { padding: 0 0 60px; }
+.cb { padding: 35px 0 50px; }
 
-#content { padding-top: 300px; background: url("../img/logo_cut.png") no-repeat center 60px; }
+#content { padding-top: 300px; background: url("../img/logo_cut.png") no-repeat center 56px; }
 
-.teaser h1 { padding-left: 230px; }
+.teaser h1, .cb h2 { padding-left: 230px; }

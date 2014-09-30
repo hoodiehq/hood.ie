@@ -10,7 +10,7 @@ $green-l:	#a9d6b8;
 $yellow: 	#f9b233;
 $yellow-l:	#fce3b6;
 
-$gray:		#282828;
+$gray-vd:	#282828;
 $gray-l:	#b3b3b3;
 
 $lilac: 	#520644;
@@ -20,18 +20,20 @@ $gray-d: 	#282828;
 $gray-t: 	#404040;
 $gray-m: 	#606060;
 $gray :		#999999;
-$gray-l: 	#fefefe;
+$gray-vl: 	#fefefe;
 
 /* Colours */
 
 body { color: $gray-t; background-color: #fff; }
 aside { color: $gray; }
 
-.cb:nth-child(even) { background-color: $green; }
+.box:nth-child(even) { background-color: $gray-vl; }
 
 #sub-nav a { color: $gray-m; }
 
 #main-nav a, .sub-nav a, #meta-nav a { color: white!important; }
+
+.cb aside a { color: $gray; }
 
 .cb:odd { background-color: $gray-l; }
 
@@ -43,6 +45,6 @@ aside { color: $gray; }
 
 .yellow { h1, h2, h3, h4, a { color: $yellow; } header, footer { background-color:$yellow; } }
 
-.gray {	h1, h2, h3, h4, a { color: $gray; } header, footer { background-color:$gray; } }
+.gray {	h1, h2, h3, h4, a { color: $gray-vd; } header, footer { background-color:$gray-vd; } }
 
 .lilac { h1, h2, h3, h4, a { color: $lilac; } header, footer { background-color:$lilac; } }

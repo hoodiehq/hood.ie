@@ -91,17 +91,17 @@ header section li, header section a {
 #nav, #logo, #main-nav, #meta-nav, #sub-nav {
   position: absolute; }
 
-.cb .teaser {
-  padding: 0 0 40px; }
+.cb.teaser {
+  padding: 0 0 60px; }
 
 .cb {
-  padding: 30px 0; }
+  padding: 35px 0 50px; }
 
 #content {
   padding-top: 300px;
-  background: url("../img/logo_cut.png") no-repeat center 60px; }
+  background: url("../img/logo_cut.png") no-repeat center 56px; }
 
-.teaser h1 {
+.teaser h1, .cb h2 {
   padding-left: 230px; }
 
 /* Colours */
@@ -112,8 +112,8 @@ body {
 aside {
   color: #999999; }
 
-.cb:nth-child(even) {
-  background-color: #0b8e36; }
+.box:nth-child(even) {
+  background-color: #fefefe; }
 
 #sub-nav a {
   color: #606060; }
@@ -121,8 +121,11 @@ aside {
 #main-nav a, .sub-nav a, #meta-nav a {
   color: white !important; }
 
+.cb aside a {
+  color: #999999; }
+
 .cb:odd {
-  background-color: #fefefe; }
+  background-color: #b3b3b3; }
 
 .orange h1, .orange h2, .orange h3, .orange h4, .orange a {
   color: #e94e1b; }
@@ -147,9 +150,9 @@ aside {
   background-color: #f9b233; }
 
 .gray h1, .gray h2, .gray h3, .gray h4, .gray a {
-  color: #999999; }
+  color: #282828; }
 .gray header, .gray footer {
-  background-color: #999999; }
+  background-color: #282828; }
 
 .lilac h1, .lilac h2, .lilac h3, .lilac h4, .lilac a {
   color: #520644; }
@@ -194,19 +197,32 @@ a:hover, .active {
 aside {
   text-align: right; }
 
-.teaser p {
+.cb.teaser p {
   font-size: 1.7em;
   line-height: 1.8em; }
-.teaser aside {
+.cb.teaser aside {
   font-size: 1.2em;
-  line-height: 1.8em; }
+  line-height: 2.55em; }
+
+.cb p {
+  font-size: 1.2em;
+  line-height: 1.85em; }
+.cb aside {
+  font-size: 1.2em;
+  line-height: 2.65em; }
 
 h1 {
   font-size: 2.250em;
-  line-height: 2em; }
+  line-height: 2.25em;
+  font-weight: 500; }
 
 h2 {
-  font-size: 1.5em;
-  line-height: 1.75em; }
+  font-size: 1.4em;
+  line-height: 2.438em;
+  font-weight: 500;
+  text-transform: uppercase; }
+
+strong {
+  font-weight: 500; }
 
 /*# sourceMappingURL=hoodie.css.map */

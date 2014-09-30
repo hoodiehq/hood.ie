@@ -17,10 +17,17 @@ a:hover, .active { text-decoration: underline; }
 
 aside { text-align: right; }
 
-.teaser { 
+.cb.teaser { 
 	p { font-size: 1.7em; line-height: 1.8em; }
-	aside { font-size: 1.2em; line-height: 1.8em; }
+	aside { font-size: 1.2em; line-height: 2.55em; }
  }
 
- h1 { font-size: 2.250em; line-height: 2em ;  }
- h2 { font-size: 1.5em; line-height: 1.75em ;  }
+ .cb { 
+	p { font-size: 1.2em; line-height: 1.85em; }
+	aside { font-size: 1.2em; line-height: 2.65em; }
+ }
+
+ h1 { font-size: 2.250em; line-height: 2.25em ; font-weight: 500; }
+ h2 { font-size: 1.4em; line-height: 2.438em ; font-weight: 500; text-transform: uppercase; }
+
+ strong { font-weight: 500; }
