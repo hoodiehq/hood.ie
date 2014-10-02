@@ -33,3 +33,18 @@ header section li, header section a { display: inline-block; }
 #content { padding-top: 300px; background: url("../img/logo_cut.png") no-repeat center 56px; }
 
 .teaser h1, .cb h2 { padding-left: 230px; }
+
+.grid-9 figure {
+	img  { padding-bottom: 10px; }
+	figcaption { padding-bottom: 30px; }
+}
+
+
+// grids
+.grid-9 { width: 100%; max-width: 600px; }
+.grid-6 { width: 65%; max-width: 450px; }
+.grid-3 { width: 32%; max-width: 150px; }
+
+// helper
+.l { float: left; }
+.r { float: right; }

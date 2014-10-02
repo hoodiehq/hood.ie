@@ -34,6 +34,9 @@ aside { color: $gray; }
 #main-nav a, .sub-nav a, #meta-nav a { color: white!important; }
 
 .cb aside a { color: $gray; }
+article figure {
+	figcaption  { color: $gray; }
+}
 
 .cb:odd { background-color: $gray-l; }
 

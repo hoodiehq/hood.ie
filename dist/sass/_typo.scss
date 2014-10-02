@@ -23,7 +23,7 @@ aside { text-align: right; }
  }
 
  .cb { 
-	p { font-size: 1.2em; line-height: 1.85em; }
+	p { font-size: 1.2em; line-height: 1.8em; }
 	aside { font-size: 1.2em; line-height: 2.65em; }
  }
 
@@ -31,3 +31,7 @@ aside { text-align: right; }
  h2 { font-size: 1.4em; line-height: 2.438em ; font-weight: 500; text-transform: uppercase; }
 
  strong { font-weight: 500; }
+
+article figure {
+	figcaption  { font-size: 1.1em; line-height: 1.45em;  }
+}

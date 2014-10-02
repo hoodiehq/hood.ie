@@ -104,6 +104,29 @@ header section li, header section a {
 .teaser h1, .cb h2 {
   padding-left: 230px; }
 
+.grid-9 figure img {
+  padding-bottom: 10px; }
+.grid-9 figure figcaption {
+  padding-bottom: 30px; }
+
+.grid-9 {
+  width: 100%;
+  max-width: 600px; }
+
+.grid-6 {
+  width: 65%;
+  max-width: 450px; }
+
+.grid-3 {
+  width: 32%;
+  max-width: 150px; }
+
+.l {
+  float: left; }
+
+.r {
+  float: right; }
+
 /* Colours */
 body {
   color: #404040;
@@ -122,6 +145,9 @@ aside {
   color: white !important; }
 
 .cb aside a {
+  color: #999999; }
+
+article figure figcaption {
   color: #999999; }
 
 .cb:odd {
@@ -206,7 +232,7 @@ aside {
 
 .cb p {
   font-size: 1.2em;
-  line-height: 1.85em; }
+  line-height: 1.8em; }
 .cb aside {
   font-size: 1.2em;
   line-height: 2.65em; }
@@ -224,5 +250,12 @@ h2 {
 
 strong {
   font-weight: 500; }
+
+article figure figcaption {
+  font-size: 1.1em;
+  line-height: 1.45em; }
+
+.personBio .grid-3 {
+  margin: 8px 30px 0 0; }
 
 /*# sourceMappingURL=hoodie.css.map */
