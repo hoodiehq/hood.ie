@@ -1,9 +1,17 @@
-.person-bio { 
-	.grid-3 { margin: 5px 25px 0 0; }
-	.bio-link { padding-top: 129px }
- }
+.person-bio {
+  .grid-3 {
+    margin: 5px 25px 0 0;
+  }
 
+  .bio-link {
+    padding-top: 129px;
+  }
+}
 
-
- // hot fix for prism
- code { white-space: normal  !important; border: 0 none !important; background-color: transparent !important; margin-top: 25px !important; }
+// hot fix for prism
+code {
+  white-space: normal !important;
+  border: 0 none !important;
+  background-color: transparent !important;
+  margin-top: 25px !important;
+}

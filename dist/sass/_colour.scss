@@ -1,53 +1,157 @@
-$orange: 	#e94e1b;
-$orange-l:	#f9c4b3;
+$orange: #e94e1b;
+$orange-l: #f9c4b3;
 
-$blue: 		#312783;
-$blue-l:	#bfbcd8;
+$blue: #312783;
+$blue-l: #bfbcd8;
 
-$green:		#0b8e36; 
-$green-l:	#a9d6b8;
+$green: #0b8e36;
+$green-l: #a9d6b8;
 
-$yellow: 	#f9b233;
-$yellow-l:	#fce3b6;
+$yellow: #f9b233;
+$yellow-l: #fce3b6;
 
-$gray-vd:	#282828;
-$gray-l:	#b3b3b3;
+$gray-vd: #282828;
+$gray-l: #b3b3b3;
 
-$lilac: 	#520644;
-$lilac-l:	#c1a7bc;
+$lilac: #520644;
+$lilac-l: #c1a7bc;
 
-$gray-d: 	#282828;
-$gray-t: 	#404040;
-$gray-m: 	#606060;
-$gray :		#999999;
-$gray-vl: 	#fefefe;
+$gray-d: #282828;
+$gray-t: #404040;
+$gray-m: #606060;
+$gray: #999;
+$gray-vl: #fefefe;
 
-/* Colours */
+// Colours
 
-body { color: $gray-t; background-color: #fff; }
-aside { color: $gray; }
-
-.box:nth-child(even) { background-color: $gray-vl; }
-
-#sub-nav a { color: $gray-m; }
-
-#main-nav a, .sub-nav a, #meta-nav a { color: white!important; }
-
-.cb aside a { color: $gray; }
-article figure {
-	figcaption  { color: $gray; }
+body {
+  color: $gray-t;
+  background-color: #fff;
 }
 
-.cb:odd { background-color: $gray-l; }
+aside {
+  color: $gray;
+}
 
-.orange { h1, h2, h4, a { color: $orange; } #nav, footer { background-color:$orange; } #sub-nav { background-color: $orange-l; } }
+.box:nth-child(even) {
+  background-color: $gray-vl;
+}
 
-.blue { h1, h2, h3, h4, a { color: $blue; } header, footer { background-color:$blue; } }
+#sub-nav a {
+  color: $gray-m;
+}
 
-.green { h1, h2, h3, h4, a { color: $green; } header, footer { background-color:$green; } }
+#main-nav a,
+.sub-nav a,
+#meta-nav a {
+  color: #fff !important;
+}
 
-.yellow { h1, h2, h3, h4, a { color: $yellow; } header, footer { background-color:$yellow; } }
+.cb aside a {
+  color: $gray;
+}
 
-.gray {	h1, h2, h3, h4, a { color: $gray-vd; } header, footer { background-color:$gray-vd; } }
+article figure {
+  figcaption {
+    color: $gray;
+  }
+}
 
-.lilac { h1, h2, h3, h4, a { color: $lilac; } header, footer { background-color:$lilac; } }
+.cb:odd {
+  background-color: $gray-l;
+}
+
+.orange {
+  h1,
+  h2,
+  h4,
+  a {
+    color: $orange;
+  }
+
+  #nav,
+  footer {
+    background-color: $orange;
+  }
+
+  #sub-nav {
+    background-color: $orange-l;
+  }
+}
+
+.blue {
+  h1,
+  h2,
+  h3,
+  h4,
+  a {
+    color: $blue;
+  }
+
+  header,
+  footer {
+    background-color: $blue;
+  }
+}
+
+.green {
+  h1,
+  h2,
+  h3,
+  h4,
+  a {
+    color: $green;
+  }
+
+  header,
+  footer {
+    background-color: $green;
+  }
+}
+
+.yellow {
+  h1,
+  h2,
+  h3,
+  h4,
+  a {
+    color: $yellow;
+  }
+
+  header,
+  footer {
+    background-color: $yellow;
+  }
+}
+
+.gray {
+  h1,
+  h2,
+  h3,
+  h4,
+  a {
+    color: $gray-vd;
+  }
+
+  header,
+  footer {
+    background-color: $gray-vd;
+  }
+}
+
+.lilac {
+  h1,
+  h2,
+  h3,
+  h4,
+  a {
+    color: $lilac;
+  }
+
+  header,
+  footer {
+    background-color: $lilac;
+  }
+}
+
+

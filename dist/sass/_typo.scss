@@ -1,42 +1,124 @@
-body {font-family: 'Fira Sans', sans-serif; font-weight: 300; font-size: 16px; }
-#sub-nav, #main-nav { text-align: center; }
-#meta-nav { text-align: right; }
-
-#meta-nav, #main-nav { font-size: 1.094em; }
-#sub-nav { font-size: 0.938em; }
-
-#nav, #sub-nav { text-transform: uppercase; }
-
-a { text-decoration: none; }
-a:hover, .active { text-decoration: underline; }
-
-#nav a, #meta-nav li { margin-right: 9px; }
-#sub-nav li { margin-right: 9px; }
-
-#nav a:last-child, #sub-nav li:last-child, #meta-nav li:last-child { margin-right: 0; }
-
-aside { text-align: right; }
-
-.cb.teaser { 
-	p { font-size: 1.7em; line-height: 1.8em; }
-	aside { font-size: 1.2em; line-height: 2.55em; }
- }
-
- .cb { 
-	p { font-size: 1.2em; line-height: 1.8em; }
-	aside { font-size: 1.1em; line-height: 2.65em; }
- }
-
- h1 { font-size: 2.250em; line-height: 2.25em ; font-weight: 500; }
- h2 { font-size: 1.4em; line-height: 2.438em ; font-weight: 500; text-transform: uppercase; }
- h3 { font-size: 1.375em; line-height: 2em; font-weight: 500; }
-
- h6 { font-size: 0.875em; line-height: 1.6em; }
-
- strong { font-weight: 500; }
-
-article figure {
-	figcaption  { font-size: 1.1em; line-height: 1.45em;  }
+body {
+  font-family: 'Fira Sans',
+  sans-serif;
+  font-weight: 300;
+  font-size: 16px;
 }
 
-code { font-family: 'Fira Mono'; font-size: 1.2em; line-height: 1.8em; }
+#sub-nav,
+#main-nav {
+  text-align: center;
+}
+
+#meta-nav {
+  text-align: right;
+}
+
+#meta-nav,
+#main-nav {
+  font-size: 1.094em;
+}
+
+#sub-nav {
+  font-size: .938em;
+}
+
+#nav,
+#sub-nav {
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover,
+.active {
+  text-decoration: underline;
+}
+
+#nav a,
+#meta-nav li {
+  margin-right: 9px;
+}
+
+#sub-nav li {
+  margin-right: 9px;
+}
+
+#nav a:last-child,
+#sub-nav li:last-child,
+#meta-nav li:last-child {
+  margin-right: 0;
+}
+
+aside {
+  text-align: right;
+}
+
+.cb.teaser {
+  p {
+    font-size: 1.7em;
+    line-height: 1.8em;
+  }
+
+  aside {
+    font-size: 1.2em;
+    line-height: 2.55em;
+  }
+}
+
+.cb {
+  p {
+    font-size: 1.2em;
+    line-height: 1.8em;
+  }
+  aside {
+    font-size: 1.1em;
+    line-height: 2.65em;
+  }
+}
+
+h1 {
+  font-size: 2.250em;
+  line-height: 2.25em;
+  font-weight: 500;
+}
+
+h2 {
+  font-size: 1.4em;
+  line-height: 2.438em;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 1.375em;
+  line-height: 2em;
+  font-weight: 500;
+}
+
+h6 {
+  font-size:
+  .875em;
+  line-height: 1.6em;
+}
+
+strong {
+  font-weight: 500;
+}
+
+article figure {
+  figcaption {
+    font-size: 1.1em;
+    line-height: 1.45em;
+  }
+}
+
+code {
+  font-family: 'Fira Mono';
+  font-size: 1.2em;
+  line-height: 1.8em;
+}
+
+
