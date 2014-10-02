@@ -15,6 +15,7 @@
         <link rel="apple-touch-icon-precomposed" href="" />
 -->
         <link rel="stylesheet" href="dist/css/hoodie.css">
+        <link rel="stylesheet" href="dist/prism/prism.css">
         <link href='http://fonts.googleapis.com/css?family=Fira+Sans:300,500|Fira+Mono' rel='stylesheet' type='text/css'>
 
         
@@ -96,19 +97,36 @@
             </div>
 
             <div class="box">
-                <section class="cb personBio">
+                <section class="cb person-bio">
                     <h2>Team</h2>
-                    <aside>
-                        <br />
-                        <br />
-                        <a href="#">krimskrams dingsi</a>
+                    <aside class="bio-link">
+                        <a href="#">Twitter | GitHub</a>
                     </aside>
                     <article>
                         <figure class="grid-3 l">
                             <img src="dist/content_img/lena.png" alt="Lena Reinhard" />
                         </figure>
-                        <p class="grid-6">
-                            Bacon ipsum dolor sit amet shoulder jerky ball tip pork ribeye. Hamburger short ribs doner chuck drumstick tail beef jerky. Kevin frankfurter shank prosciutto, doner spare ribs flank drumstick beef chuck ball tip capicola kielbasa. Short ribs pastrami leberkas, shankle meatloaf spare ribs <strong>t-bone biltong capicola </strong>shoulder sausage ground round chicken meatball. Pancetta rump tail jowl shankle leberkas fatback sausage beef ribs ham hock ground round prosciutto <a href="#">tenderloin</a> turducken short loin. Leberkas chuck short loin ham hock flank capicola chicken short ribs cow sausage. Venison landjaeger rump, filet mignon sirloin pork shankle corned beef boudin tenderloin <strong>spare ribs capicola</strong> tail.
+                        <h6>Developer</h6>
+                        <h3>Sven Lito</h3>
+                        <p>
+                            Amazing writer and photographer, based in Berlin, Germany, with huge background in finances, marketing and project management. 
+                        </p>
+                    </article>
+                    <br class="clear" />
+                </section>
+
+                 <section class="cb person-bio">
+                    <aside class="bio-link">
+                        <a href="#">Twitter | GitHub</a>
+                    </aside>
+                    <article>
+                        <figure class="grid-3 l">
+                            <img src="dist/content_img/lena.png" alt="Lena Reinhard" />
+                        </figure>
+                        <h6>CEO / Writer / Marketing / Photographer</h6>
+                        <h3>Lena Reinhard</h3>
+                        <p>
+                            Amazing writer and photographer, based in Berlin, Germany, with huge background in finances, marketing and project management. Besides very engaged in fixing the world.
                         </p>
                     </article>
                     <br class="clear" />
@@ -131,12 +149,37 @@
                     <br class="clear" />
                 </section>
             </div>
+
+             <div class="box">
+                <section class="cb">
+                    <h2>Team</h2>
+                    <aside>
+                        <br />
+                        <br />
+                        <a href="#">krimskrams dingsi</a>
+                    </aside>
+                    <article>
+                        <p>
+                            Bacon ipsum dolor sit amet shoulder jerky ball tip pork ribeye. Hamburger short ribs doner chuck drumstick tail beef jerky. Kevin frankfurter shank prosciutto, doner spare ribs flank drumstick beef chuck ball tip capicola kielbasa. Short ribs pastrami leberkas, shankle meatloaf spare ribs <strong>t-bone biltong capicola </strong>shoulder sausage ground round chicken meatball.
+                        </p>
+                        <pre>
+                            <code class="language-javascript grid-9">
+                                hoodie.store('todo') <br />
+                                    .find('hrmvby9')
+                                   .done(function(todo) { /* success */ });
+                                   .fail(function(error) { /* error */ });
+                            </code>
+                        </pre>
+                    </article>
+                    <br class="clear" />
+                </section>
+            </div>
         </div>
 
         <footer>
         </footer>
 
 
-        <script src=""></script>
+        <script src="dist/prism/prism.js"></script>
     </body>
 </html>

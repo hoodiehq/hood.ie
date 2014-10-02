@@ -104,6 +104,10 @@ header section li, header section a {
 .teaser h1, .cb h2 {
   padding-left: 230px; }
 
+code {
+  padding-top: 25px;
+  display: block; }
+
 .grid-9 figure img {
   padding-bottom: 10px; }
 .grid-9 figure figcaption {
@@ -153,7 +157,7 @@ article figure figcaption {
 .cb:odd {
   background-color: #b3b3b3; }
 
-.orange h1, .orange h2, .orange h3, .orange h4, .orange a {
+.orange h1, .orange h2, .orange h4, .orange a {
   color: #e94e1b; }
 .orange #nav, .orange footer {
   background-color: #e94e1b; }
@@ -234,7 +238,7 @@ aside {
   font-size: 1.2em;
   line-height: 1.8em; }
 .cb aside {
-  font-size: 1.2em;
+  font-size: 1.1em;
   line-height: 2.65em; }
 
 h1 {
@@ -248,6 +252,15 @@ h2 {
   font-weight: 500;
   text-transform: uppercase; }
 
+h3 {
+  font-size: 1.375em;
+  line-height: 2em;
+  font-weight: 500; }
+
+h6 {
+  font-size: 0.875em;
+  line-height: 1.6em; }
+
 strong {
   font-weight: 500; }
 
@@ -255,7 +268,20 @@ article figure figcaption {
   font-size: 1.1em;
   line-height: 1.45em; }
 
-.personBio .grid-3 {
-  margin: 8px 30px 0 0; }
+code {
+  font-family: 'Fira Mono';
+  font-size: 1.2em;
+  line-height: 1.8em; }
+
+.person-bio .grid-3 {
+  margin: 5px 25px 0 0; }
+.person-bio .bio-link {
+  padding-top: 129px; }
+
+code {
+  white-space: normal  !important;
+  border: 0 none !important;
+  background-color: transparent !important;
+  margin-top: 25px !important; }
 
 /*# sourceMappingURL=hoodie.css.map */
