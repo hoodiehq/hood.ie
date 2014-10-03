@@ -9,14 +9,10 @@ header section a {
   display: inline-block;
 }
 
-#footer {
-	
-}
-
 footer {
-	background: url('../img/logo_cut_negativ.png') no-repeat center 0;
-	padding-top: 90px;
-	margin-top: 85px;
+  background: url('../img/logo_cut_negativ.png') no-repeat center 0;
+  padding-top: 90px;
+  margin-top: 85px;
 }
 
 
@@ -49,10 +45,6 @@ footer {
   width: 230px;
 }
 
-.cb {
-  width: 830px;
-}
-
 // header section { div, nav, ul { float: left; } }
 
 #main-nav,
@@ -71,17 +63,6 @@ footer {
   clear: both;
 }
 
-.cb aside {
-  width: 180px;
-  float: left;
-  margin-right: 50px;
-}
-
-.cb article {
-  width: 600px;
-  float: left;
-}
-
 .hide {
   display: none;
 }
@@ -94,12 +75,24 @@ footer {
   position: absolute;
 }
 
-.cb.teaser {
-  padding: 0 0 60px;
-}
-
 .cb {
+  width: 830px;
   padding: 35px 0 50px;
+
+  &.teaser {
+    padding: 0 0 60px;
+  }
+
+  article {
+    width: 600px;
+    float: left;
+  }
+
+  aside {
+    width: 180px;
+    float: left;
+    margin-right: 50px;
+  }
 }
 
 #content {
@@ -117,7 +110,7 @@ code {
   display: block;
 }
 
-.grid-9 figure {
+.grid-9 figure { // @todo: over think this rulest (better don't style elements)
   img {
     padding-bottom: 10px;
   }

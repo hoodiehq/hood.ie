@@ -9,22 +9,21 @@
 }
 
 .sitemap {
-	
+
 }
 
-.sitemap-item { 
-	width: 260px;
-	margin-right: 25px;
-	text-align: right;
-  	font-size: .938em;
-	line-height: 1.6em;
-	padding-bottom: 25px;
+.sitemap-item {
+  width: 260px;
+  margin-right: 25px;
+  text-align: right;
+  font-size: .938em;
+  line-height: 1.6;
+  padding-bottom: 25px;
+
+  &:last-child {
+    margin-right: 0;
+  }
 }
-
-	.sitemap-item:last-child {
-		margin-right: 0;
-	}
-
 
 // hot fix for prism
 code {
