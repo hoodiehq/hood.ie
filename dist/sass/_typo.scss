@@ -21,6 +21,10 @@ body {
 
 #sub-nav {
   font-size: .938em;
+
+  li {
+    margin-right: 9px;
+  }
 }
 
 #nav,
@@ -42,10 +46,6 @@ a:hover,
   margin-right: 9px;
 }
 
-#sub-nav li {
-  margin-right: 9px;
-}
-
 #nav a:last-child,
 #sub-nav li:last-child,
 #meta-nav li:last-child {
@@ -59,49 +59,50 @@ aside {
 .cb.teaser {
   p {
     font-size: 1.7em;
-    line-height: 1.8em;
+    line-height: 1.8;
   }
 
   aside {
     font-size: 1.2em;
-    line-height: 2.55em;
+    line-height: 2.55;
   }
 }
 
 .cb {
   p {
     font-size: 1.2em;
-    line-height: 1.8em;
+    line-height: 1.8;
   }
+
   aside {
     font-size: 1.1em;
-    line-height: 2.65em;
+    line-height: 2.65;
   }
 }
 
 h1 {
   font-size: 2.250em;
-  line-height: 2.25em;
+  line-height: 2.25;
   font-weight: 500;
 }
 
 h2 {
   font-size: 1.4em;
-  line-height: 2.438em;
+  line-height: 2.438;
   font-weight: 500;
   text-transform: uppercase;
 }
 
 h3 {
   font-size: 1.375em;
-  line-height: 2em;
+  line-height: 2;
   font-weight: 500;
 }
 
 h6 {
   font-size:
   .875em;
-  line-height: 1.6em;
+  line-height: 1.6;
 }
 
 strong {
@@ -111,14 +112,14 @@ strong {
 article figure {
   figcaption {
     font-size: 1.1em;
-    line-height: 1.45em;
+    line-height: 1.45;
   }
 }
 
 code {
   font-family: 'Fira Mono';
   font-size: 1.2em;
-  line-height: 1.8em;
+  line-height: 1.8;
 }
 
 
