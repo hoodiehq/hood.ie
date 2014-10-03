@@ -56,18 +56,6 @@ aside {
   text-align: right;
 }
 
-.cb.teaser {
-  p {
-    font-size: 1.7em;
-    line-height: 1.8;
-  }
-
-  aside {
-    font-size: 1.2em;
-    line-height: 2.55;
-  }
-}
-
 .cb {
   p {
     font-size: 1.2em;
@@ -77,6 +65,18 @@ aside {
   aside {
     font-size: 1.1em;
     line-height: 2.65;
+  }
+
+  &.teaser {
+    p {
+      font-size: 1.7em;
+      line-height: 1.8;
+    }
+
+    aside {
+      font-size: 1.2em;
+      line-height: 2.55;
+    }
   }
 }
 
@@ -100,7 +100,7 @@ h3 {
 }
 
 h6 {
-  font-size: 0.875em;
+  font-size: .875em;
   line-height: 1.6;
 }
 
