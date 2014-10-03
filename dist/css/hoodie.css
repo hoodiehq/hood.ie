@@ -1,4 +1,3 @@
-/* The basic css including the reset stylesheet */
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -36,11 +35,17 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-section, #main-nav, #sub-nav {
+section,
+#main-nav,
+#sub-nav {
   width: 100%; }
 
-header section li, header section a {
+header section li,
+header section a {
   display: inline-block; }
+
+#footer {
+  margin-top: 65px; }
 
 #nav {
   height: 65px; }
@@ -61,16 +66,21 @@ header section li, header section a {
   padding-top: 12px;
   height: 24px; }
 
-#logo, #meta-nav {
+#logo,
+#meta-nav {
   width: 230px; }
 
 .cb {
   width: 830px; }
 
-#main-nav, #meta-nav, #logo {
+#main-nav,
+#meta-nav,
+#logo {
   display: inline-block; }
 
-#sub-nav, .cb, #main-nav {
+#sub-nav,
+.cb,
+#main-nav {
   margin: 0 auto; }
 
 .clear {
@@ -88,7 +98,11 @@ header section li, header section a {
 .hide {
   display: none; }
 
-#nav, #logo, #main-nav, #meta-nav, #sub-nav {
+#nav,
+#logo,
+#main-nav,
+#meta-nav,
+#sub-nav {
   position: absolute; }
 
 .cb.teaser {
@@ -101,7 +115,8 @@ header section li, header section a {
   padding-top: 300px;
   background: url("../img/logo_cut.png") no-repeat center 56px; }
 
-.teaser h1, .cb h2 {
+.teaser h1,
+.cb h2 {
   padding-left: 230px; }
 
 code {
@@ -131,13 +146,12 @@ code {
 .r {
   float: right; }
 
-/* Colours */
 body {
   color: #404040;
   background-color: #fff; }
 
 aside {
-  color: #999999; }
+  color: #999; }
 
 .box:nth-child(even) {
   background-color: #fefefe; }
@@ -145,48 +159,81 @@ aside {
 #sub-nav a {
   color: #606060; }
 
-#main-nav a, .sub-nav a, #meta-nav a {
-  color: white !important; }
+#main-nav a,
+.sub-nav a,
+#meta-nav a {
+  color: #fff !important; }
 
 .cb aside a {
-  color: #999999; }
+  color: #999; }
 
 article figure figcaption {
-  color: #999999; }
+  color: #999; }
 
 .cb:odd {
   background-color: #b3b3b3; }
 
-.orange h1, .orange h2, .orange h4, .orange a {
+.orange h1,
+.orange h2,
+.orange h4,
+.orange a {
   color: #e94e1b; }
-.orange #nav, .orange footer {
+.orange #nav,
+.orange footer {
   background-color: #e94e1b; }
+.orange footer li a {
+  color: #fff !important; }
 .orange #sub-nav {
   background-color: #f9c4b3; }
 
-.blue h1, .blue h2, .blue h3, .blue h4, .blue a {
+.blue h1,
+.blue h2,
+.blue h3,
+.blue h4,
+.blue a {
   color: #312783; }
-.blue header, .blue footer {
+.blue header,
+.blue footer {
   background-color: #312783; }
 
-.green h1, .green h2, .green h3, .green h4, .green a {
+.green h1,
+.green h2,
+.green h3,
+.green h4,
+.green a {
   color: #0b8e36; }
-.green header, .green footer {
+.green header,
+.green footer {
   background-color: #0b8e36; }
 
-.yellow h1, .yellow h2, .yellow h3, .yellow h4, .yellow a {
+.yellow h1,
+.yellow h2,
+.yellow h3,
+.yellow h4,
+.yellow a {
   color: #f9b233; }
-.yellow header, .yellow footer {
+.yellow header,
+.yellow footer {
   background-color: #f9b233; }
 
-.gray h1, .gray h2, .gray h3, .gray h4, .gray a {
+.gray h1,
+.gray h2,
+.gray h3,
+.gray h4,
+.gray a {
   color: #282828; }
-.gray header, .gray footer {
+.gray header,
+.gray footer {
   background-color: #282828; }
 
-.lilac h1, .lilac h2, .lilac h3, .lilac h4, .lilac a {
+.lilac h1,
+.lilac h2,
+.lilac h3,
+.lilac h4,
+.lilac a {
   color: #520644; }
-.lilac header, .lilac footer {
+.lilac header,
+.lilac footer {
   background-color: #520644; }
 
 body {
@@ -194,34 +241,40 @@ body {
   font-weight: 300;
   font-size: 16px; }
 
-#sub-nav, #main-nav {
+#sub-nav,
+#main-nav {
   text-align: center; }
 
 #meta-nav {
   text-align: right; }
 
-#meta-nav, #main-nav {
+#meta-nav,
+#main-nav {
   font-size: 1.094em; }
 
 #sub-nav {
-  font-size: 0.938em; }
+  font-size: .938em; }
+  #sub-nav li {
+    margin-right: 9px; }
 
-#nav, #sub-nav {
+#nav,
+#sub-nav {
   text-transform: uppercase; }
 
 a {
   text-decoration: none; }
 
-a:hover, .active {
+a:hover,
+.active {
   text-decoration: underline; }
 
-#nav a, #meta-nav li {
+#nav a,
+#meta-nav li {
   margin-right: 9px; }
 
-#sub-nav li {
-  margin-right: 9px; }
-
-#nav a:last-child, #sub-nav li:last-child, #meta-nav li:last-child {
+#nav a:last-child,
+#sub-nav li:last-child,
+#meta-nav li:last-child {
   margin-right: 0; }
 
 aside {
@@ -229,57 +282,68 @@ aside {
 
 .cb.teaser p {
   font-size: 1.7em;
-  line-height: 1.8em; }
+  line-height: 1.8; }
 .cb.teaser aside {
   font-size: 1.2em;
-  line-height: 2.55em; }
+  line-height: 2.55; }
 
 .cb p {
   font-size: 1.2em;
-  line-height: 1.8em; }
+  line-height: 1.8; }
 .cb aside {
   font-size: 1.1em;
-  line-height: 2.65em; }
+  line-height: 2.65; }
 
 h1 {
   font-size: 2.250em;
-  line-height: 2.25em;
+  line-height: 2.25;
   font-weight: 500; }
 
 h2 {
   font-size: 1.4em;
-  line-height: 2.438em;
+  line-height: 2.438;
   font-weight: 500;
   text-transform: uppercase; }
 
 h3 {
   font-size: 1.375em;
-  line-height: 2em;
+  line-height: 2;
   font-weight: 500; }
 
 h6 {
   font-size: 0.875em;
-  line-height: 1.6em; }
+  line-height: 1.6; }
 
 strong {
   font-weight: 500; }
 
 article figure figcaption {
   font-size: 1.1em;
-  line-height: 1.45em; }
+  line-height: 1.45; }
 
 code {
   font-family: 'Fira Mono';
   font-size: 1.2em;
-  line-height: 1.8em; }
+  line-height: 1.8; }
 
 .person-bio .grid-3 {
   margin: 5px 25px 0 0; }
 .person-bio .bio-link {
   padding-top: 129px; }
 
+.sitemap-item {
+  width: 260px;
+  margin-right: 25px;
+  text-align: right;
+  font-size: .938em;
+  line-height: 1.6em;
+  padding-bottom: 25px; }
+
+.sitemap-item:last-child {
+  margin-right: 0; }
+
 code {
-  white-space: normal  !important;
+  white-space: normal !important;
   border: 0 none !important;
   background-color: transparent !important;
   margin-top: 25px !important; }
