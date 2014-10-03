@@ -44,8 +44,10 @@ header section li,
 header section a {
   display: inline-block; }
 
-#footer {
-  margin-top: 65px; }
+footer {
+  background: url("../img/logo_cut_negativ.png") no-repeat center 0;
+  padding-top: 90px;
+  margin-top: 85px; }
 
 #nav {
   height: 65px; }
@@ -179,9 +181,9 @@ article figure figcaption {
 .orange a {
   color: #e94e1b; }
 .orange #nav,
-.orange footer {
+.orange #footer {
   background-color: #e94e1b; }
-.orange footer li a {
+.orange #footer li a {
   color: #fff !important; }
 .orange #sub-nav {
   background-color: #f9c4b3; }
