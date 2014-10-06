@@ -1,22 +1,22 @@
 .person-bio {
     .grid-3 {
-        margin: 5px 25px 0 0;
-        max-width: 150px;
+        margin: rem-calc(5 25 0 0);
+        max-width: rem-calc(150);
     }
 
     .bio-link {
-        padding-top: 129px;
+        padding-top: rem-calc(129);
     }
 }
 
 .friends {
 
     .grid-3 {
-        margin-bottom: 80px;
+        margin-bottom: rem-calc(80);
 
         figure {
             text-align: left;
-            height: 175px;
+            height: rem-calc(175);
         }
     }
 }
@@ -26,12 +26,12 @@
 }
 
 .sitemap-item {
-    width: 260px;
-    margin-right: 25px;
+    width: rem-calc(260);
+    margin-right: rem-calc(25);
     text-align: right;
     font-size: .938em;
     line-height: 1.6;
-    padding-bottom: 25px;
+    padding-bottom: rem-calc(25);
 
     &:last-child {
         margin-right: 0;
@@ -43,7 +43,7 @@ code {
     white-space: normal !important;
     border: 0 none !important;
     background-color: transparent !important;
-    margin-top: 25px !important;
+    margin-top: rem-calc(25) !important;
 }
 
 

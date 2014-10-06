@@ -24,7 +24,7 @@ body {
     font-size: .938em;
 
     li {
-        margin-right: 9px;
+        margin-right: rem-calc(9);
     }
 }
 
@@ -44,7 +44,7 @@ a:hover,
 
 #nav a,
 #meta-nav li {
-    margin-right: 9px;
+    margin-right: rem-calc(9);
 }
 
 #nav a:last-child,

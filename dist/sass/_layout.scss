@@ -10,39 +10,38 @@ header section a {
 }
 
 footer {
-    padding-top: 90px;
-    margin-top: 85px;
+    padding-top: rem-calc(90);
+    margin-top: rem-calc(85);
 }
 
-
 #nav {
-    height: 65px;
+    height: rem-calc(65);
 }
 
 #logo {
-    left: 20px;
-    top: 20px;
+    left: rem-calc(20);
+    top: rem-calc(20);
 }
 
 #meta-nav {
-    right: 30px;
-    top: 25px;
+    right: rem-calc(30);
+    top: rem-calc(25);
 }
 
 #main-nav {
-    top: 25px;
+    top: rem-calc(25);
 }
 
 #sub-nav {
-    top: 65px;
-    padding-top: 8px;
-    padding-bottom: 5px;
-    height: 24px;
+    top: rem-calc(65);
+    padding-top: rem-calc(8);
+    padding-bottom: rem-calc(5);
+    height: rem-calc(24);
 }
 
 #logo,
 #meta-nav {
-    width: 230px;
+    width: rem-calc(230);
 }
 
 // header section { div, nav, ul { float: left; } }
@@ -76,64 +75,64 @@ footer {
 }
 
 .cb {
-    width: 830px;
-    padding: 35px 0 50px;
+    width: rem-calc(830);
+    padding: rem-calc(35 0 50);
 
     &.teaser {
-        padding: 0 0 60px;
+        padding: rem-calc(0 0 60);
     }
 
     article {
-        width: 600px;
+        width: rem-calc(600);
         float: left;
     }
 
     aside {
-        width: 180px;
+        width: rem-calc(180);
         float: left;
-        margin-right: 50px;
+        margin-right: rem-calc(50);
     }
 }
 
 #content {
-    padding-top: 300px;
+    padding-top: rem-calc(300);
 }
 
 .teaser h1,
 .cb h2 {
-    padding-left: 230px;
+    padding-left: rem-calc(230);
 }
 
 code {
-    padding-top: 25px;
+    padding-top: rem-calc(25);
     display: block;
 }
 
 .grid-9 figure { // @todo: over think this rulest (better don't style elements)
     img {
-        padding-bottom: 10px;
+        padding-bottom: rem-calc(10);
     }
 
     figcaption {
-        padding-bottom: 30px;
+        padding-bottom: rem-calc(30);
     }
 }
 
 // grids
 .grid-9 {
     width: 100%;
-    max-width: 600px;
+    max-width: rem-calc(600);
 }
 
 .grid-6 {
     width: 65%;
-    max-width: 450px;
+    max-width: rem-calc(450);
 }
 
 .grid-3 {
     width: 32%;
-    max-width: 170px;
-    margin-right: 45px;
+    max-width: rem-calc(170);
+    margin-right: rem-calc(45);
 }
 
 .grid-3:nth-child(3n) {
