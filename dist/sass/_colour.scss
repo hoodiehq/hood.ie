@@ -1,26 +1,26 @@
-$orange: 	#e94e1b;
-$orange-l: 	#f9c4b3;
+$orange: #e94e1b;
+$orange-l: #f9c4b3;
 
-$blue: 		#312783;
-$blue-l: 	#bfbcd8;
+$blue: #312783;
+$blue-l: #bfbcd8;
 
-$green: 	#0b8e36;
-$green-l: 	#a9d6b8;
+$green: #0b8e36;
+$green-l: #a9d6b8;
 
-$yellow: 	#f9b233;
-$yellow-l: 	#fce3b6;
+$yellow: #f9b233;
+$yellow-l: #fce3b6;
 
-$gray-vd: 	#282828;
-$gray-l: 	#b3b3b3;
+$gray-vd: 282828;
+$gray-l: #b3b3b3;
 
-$lilac: 	#520644;
-$lilac-l: 	#c1a7bc;
+$lilac: 520644;
+$lilac-l: #c1a7bc;
 
-$gray-d: 	#282828;
-$gray-t: 	#404040;
-$gray-m: 	#606060;
-$gray: 	 	#999;
-$gray-vl: 	#fefefe;
+$gray-d: #282828;
+$gray-t: #404040;
+$gray-m: #606060;
+$gray: #999;
+$gray-vl: #fefefe;
 
 // Colours
 
@@ -74,8 +74,8 @@ article figure {
     background-color: $orange;
   }
 
-  #footer li a { 
-  	color: #fff !important;
+  #footer li a { // @todo: 4 selector deep rule maybe over think that
+    color: #fff !important;
   }
 
   #sub-nav {
