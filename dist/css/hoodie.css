@@ -45,7 +45,6 @@ header section a {
   display: inline-block; }
 
 footer {
-  background: url("../img/logo_cut_negativ.png") no-repeat center 0;
   padding-top: 90px;
   margin-top: 85px; }
 
@@ -110,8 +109,7 @@ footer {
     margin-right: 50px; }
 
 #content {
-  padding-top: 300px;
-  background: url("../img/logo_cut.png") no-repeat center 56px; }
+  padding-top: 300px; }
 
 .teaser h1,
 .cb h2 {
@@ -175,6 +173,10 @@ article figure figcaption {
 .cb:odd {
   background-color: #b3b3b3; }
 
+.orange #content {
+  background: url("../img/logo_cut.png") no-repeat center 56px; }
+.orange footer {
+  background: url("../img/logo_cut_negativ.png") no-repeat center 0; }
 .orange h1,
 .orange h2,
 .orange h4,
@@ -190,53 +192,68 @@ article figure figcaption {
 
 .blue h1,
 .blue h2,
-.blue h3,
 .blue h4,
 .blue a {
   color: #312783; }
-.blue header,
-.blue footer {
+.blue #nav,
+.blue #footer {
   background-color: #312783; }
+.blue #footer li a {
+  color: #fff !important; }
+.blue #sub-nav {
+  background-color: #bfbcd8; }
 
 .green h1,
 .green h2,
-.green h3,
 .green h4,
 .green a {
   color: #0b8e36; }
-.green header,
-.green footer {
+.green #nav,
+.green #footer {
   background-color: #0b8e36; }
+.green #footer li a {
+  color: #fff !important; }
+.green #sub-nav {
+  background-color: #a9d6b8; }
 
 .yellow h1,
 .yellow h2,
-.yellow h3,
 .yellow h4,
 .yellow a {
   color: #f9b233; }
-.yellow header,
-.yellow footer {
+.yellow #nav,
+.yellow #footer {
   background-color: #f9b233; }
+.yellow #footer li a {
+  color: #fff !important; }
+.yellow #sub-nav {
+  background-color: #fce3b6; }
 
 .gray h1,
 .gray h2,
-.gray h3,
 .gray h4,
 .gray a {
-  color: 282828; }
-.gray header,
-.gray footer {
-  background-color: 282828; }
+  color: #282828; }
+.gray #nav,
+.gray #footer {
+  background-color: #282828; }
+.gray #footer li a {
+  color: #fff !important; }
+.gray #sub-nav {
+  background-color: #b3b3b3; }
 
 .lilac h1,
 .lilac h2,
-.lilac h3,
 .lilac h4,
 .lilac a {
-  color: 520644; }
-.lilac header,
-.lilac footer {
-  background-color: 520644; }
+  color: #520644; }
+.lilac #nav,
+.lilac #footer {
+  background-color: #520644; }
+.lilac #footer li a {
+  color: #fff !important; }
+.lilac #sub-nav {
+  background-color: #c1a7bc; }
 
 body {
   font-family: 'Fira Sans', sans-serif;
