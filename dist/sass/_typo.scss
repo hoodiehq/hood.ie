@@ -3,6 +3,7 @@ body {
   sans-serif;
   font-weight: 300;
   font-size: 16px;
+  line-height: 24px;
 }
 
 #sub-nav,
@@ -97,6 +98,13 @@ h3 {
   font-size: 1.375em;
   line-height: 2;
   font-weight: 500;
+}
+
+h5 {
+  font-size: 1.1em;
+  line-height: 1.8em;
+  font-weight: 400;
+  text-transform: uppercase;
 }
 
 h6 {

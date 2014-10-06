@@ -140,7 +140,12 @@ code {
 
 .grid-3 {
   width: 32%;
-  max-width: 150px;
+  max-width: 170px;
+  margin-right: 45px;
+}
+
+.grid-3:nth-child(3n) {
+	margin-right: 0;
 }
 
 // helper
