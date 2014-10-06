@@ -190,6 +190,10 @@ article figure figcaption {
 .orange #sub-nav {
   background-color: #f9c4b3; }
 
+.blue #content {
+  background: url("../img/logo_cut_blue.png") no-repeat center 56px; }
+.blue footer {
+  background: url("../img/logo_cut_negativ_blue.png") no-repeat center 0; }
 .blue h1,
 .blue h2,
 .blue h4,
@@ -203,6 +207,10 @@ article figure figcaption {
 .blue #sub-nav {
   background-color: #bfbcd8; }
 
+.green #content {
+  background: url("../img/logo_cut_green.png") no-repeat center 56px; }
+.green footer {
+  background: url("../img/logo_cut_negativ_green.png") no-repeat center 0; }
 .green h1,
 .green h2,
 .green h4,
@@ -216,6 +224,10 @@ article figure figcaption {
 .green #sub-nav {
   background-color: #a9d6b8; }
 
+.yellow #content {
+  background: url("../img/logo_cut_yellow.png") no-repeat center 56px; }
+.yellow footer {
+  background: url("../img/logo_cut_negativ_yellow.png") no-repeat center 0; }
 .yellow h1,
 .yellow h2,
 .yellow h4,
@@ -229,6 +241,10 @@ article figure figcaption {
 .yellow #sub-nav {
   background-color: #fce3b6; }
 
+.gray #content {
+  background: url("../img/logo_cut_gray.png") no-repeat center 56px; }
+.gray footer {
+  background: url("../img/logo_cut_negativ_gray.png") no-repeat center 0; }
 .gray h1,
 .gray h2,
 .gray h4,
@@ -242,6 +258,10 @@ article figure figcaption {
 .gray #sub-nav {
   background-color: #b3b3b3; }
 
+.lilac #content {
+  background: url("../img/logo_cut_lilac.png") no-repeat center 56px; }
+.lilac footer {
+  background: url("../img/logo_cut_negativ_lilac.png") no-repeat center 0; }
 .lilac h1,
 .lilac h2,
 .lilac h4,
