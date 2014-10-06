@@ -25,77 +25,77 @@ $gray-vl: #fefefe;
 // Colours
 
 body {
-  color: $gray-t;
-  background-color: #fff;
+    color: $gray-t;
+    background-color: #fff;
 }
 
 aside {
-  color: $gray;
+    color: $gray;
 }
 
 .box:nth-child(even) {
-  background-color: $gray-vl;
+    background-color: $gray-vl;
 }
 
 #sub-nav a {
-  color: $gray-m;
+    color: $gray-m;
 }
 
 #main-nav a,
 .sub-nav a,
 #meta-nav a {
-  color: #fff !important;
+    color: #fff !important;
 }
 
 .cb aside a {
-  color: $gray;
+    color: $gray;
 }
 
 article figure {
-  figcaption {
-    color: $gray;
-  }
+    figcaption {
+        color: $gray;
+    }
 }
 
 .cb:odd {
-  background-color: $gray-l;
+    background-color: $gray-l;
 }
 
 .orange {
-  h1,
-  h2,
-  h4,
-  a {
-    color: $orange;
-  }
+    h1,
+    h2,
+    h4,
+    a {
+        color: $orange;
+    }
 
-  #nav,
-  #footer {
-    background-color: $orange;
-  }
+    #nav,
+    #footer {
+        background-color: $orange;
+    }
 
-  #footer li a { // @todo: 4 selector deep rule maybe over think that
-    color: #fff !important;
-  }
+    #footer li a { // @todo: 4 selector deep rule maybe over think that
+        color: #fff !important;
+    }
 
-  #sub-nav {
-    background-color: $orange-l;
-  }
+    #sub-nav {
+        background-color: $orange-l;
+    }
 }
 
 .blue {
-  h1,
-  h2,
-  h3,
-  h4,
-  a {
-    color: $blue;
-  }
+    h1,
+    h2,
+    h3,
+    h4,
+    a {
+        color: $blue;
+    }
 
-  header,
-  footer {
-    background-color: $blue;
-  }
+    header,
+    footer {
+        background-color: $blue;
+    }
 }
 
 .green {
@@ -129,33 +129,33 @@ article figure {
 }
 
 .gray {
-  h1,
-  h2,
-  h3,
-  h4,
-  a {
-    color: $gray-vd;
-  }
+    h1,
+    h2,
+    h3,
+    h4,
+    a {
+        color: $gray-vd;
+    }
 
-  header,
-  footer {
-    background-color: $gray-vd;
-  }
+    header,
+    footer {
+        background-color: $gray-vd;
+    }
 }
 
 .lilac {
-  h1,
-  h2,
-  h3,
-  h4,
-  a {
-    color: $lilac;
-  }
+    h1,
+    h2,
+    h3,
+    h4,
+    a {
+        color: $lilac;
+    }
 
-  header,
-  footer {
-    background-color: $lilac;
-  }
+    header,
+    footer {
+        background-color: $lilac;
+    }
 }
 
 

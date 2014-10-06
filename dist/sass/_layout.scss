@@ -1,49 +1,49 @@
 section,
 #main-nav,
 #sub-nav {
-  width: 100%;
+    width: 100%;
 }
 
 header section li,
 header section a {
-  display: inline-block;
+    display: inline-block;
 }
 
 footer {
-  background: url('../img/logo_cut_negativ.png') no-repeat center 0;
-  padding-top: 90px;
-  margin-top: 85px;
+    background: url('../img/logo_cut_negativ.png') no-repeat center 0;
+    padding-top: 90px;
+    margin-top: 85px;
 }
 
 
 #nav {
-  height: 65px;
+    height: 65px;
 }
 
 #logo {
-  left: 20px;
-  top: 20px;
+    left: 20px;
+    top: 20px;
 }
 
 #meta-nav {
-  right: 30px;
-  top: 25px;
+    right: 30px;
+    top: 25px;
 }
 
 #main-nav {
-  top: 25px;
+    top: 25px;
 }
 
 #sub-nav {
-  top: 65px;
-  padding-top: 8px;
-  padding-bottom: 5px;
-  height: 24px;
+      top: 65px;
+      padding-top: 8px;
+      padding-bottom: 5px;
+      height: 24px;
 }
 
 #logo,
 #meta-nav {
-  width: 230px;
+    width: 230px;
 }
 
 // header section { div, nav, ul { float: left; } }
@@ -51,21 +51,21 @@ footer {
 #main-nav,
 #meta-nav,
 #logo {
-  display: inline-block;
+    display: inline-block;
 }
 
 #sub-nav,
 .cb,
 #main-nav {
-  margin: 0 auto;
+    margin: 0 auto;
 }
 
 .clear {
-  clear: both;
+    clear: both;
 }
 
 .hide {
-  display: none;
+    display: none;
 }
 
 #nav,
@@ -73,81 +73,81 @@ footer {
 #main-nav,
 #meta-nav,
 #sub-nav {
-  position: absolute;
+    position: absolute;
 }
 
 .cb {
-  width: 830px;
-  padding: 35px 0 50px;
+    width: 830px;
+    padding: 35px 0 50px;
 
-  &.teaser {
-    padding: 0 0 60px;
-  }
+    &.teaser {
+        padding: 0 0 60px;
+    }
 
-  article {
-    width: 600px;
-    float: left;
-  }
+    article {
+        width: 600px;
+        float: left;
+    }
 
-  aside {
-    width: 180px;
-    float: left;
-    margin-right: 50px;
-  }
+    aside {
+        width: 180px;
+        float: left;
+        margin-right: 50px;
+    }
 }
 
 #content {
-  padding-top: 300px;
-  background: url('../img/logo_cut.png') no-repeat center 56px;
+    padding-top: 300px;
+    background: url('../img/logo_cut.png') no-repeat center 56px;
 }
 
 .teaser h1,
 .cb h2 {
-  padding-left: 230px;
+    padding-left: 230px;
 }
 
 code {
-  padding-top: 25px;
-  display: block;
+    padding-top: 25px;
+    display: block;
 }
 
 .grid-9 figure { // @todo: over think this rulest (better don't style elements)
-  img {
-    padding-bottom: 10px;
-  }
+    img {
+        padding-bottom: 10px;
+    }
 
-  figcaption {
-    padding-bottom: 30px;
-  }
+    figcaption {
+        padding-bottom: 30px;
+    }
 }
 
 // grids
 .grid-9 {
-  width: 100%;
-  max-width: 600px;
+    width: 100%;
+    max-width: 600px;
 }
 
 .grid-6 {
-  width: 65%;
-  max-width: 450px;
+    width: 65%;
+    max-width: 450px;
 }
 
 .grid-3 {
-  width: 32%;
-  max-width: 170px;
-  margin-right: 45px;
+    width: 32%;
+    max-width: 170px;
+    margin-right: 45px;
 }
 
 .grid-3:nth-child(3n) {
-	margin-right: 0;
+    margin-right: 0;
 }
 
 // helper
 .l {
-  float: left;
+    float: left;
 }
 
 .r {
-  float: right;
+    float: right;
 }
 
