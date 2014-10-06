@@ -1,24 +1,24 @@
 .person-bio {
-  .grid-3 {
-    margin: 5px 25px 0 0;
-    max-width: 150px;
-  }
+    .grid-3 {
+        margin: 5px 25px 0 0;
+        max-width: 150px;
+    }
 
-  .bio-link {
-    padding-top: 129px;
-  }
+    .bio-link {
+        padding-top: 129px;
+    }
 }
 
 .friends {
 
-  .grid-3 {
-    margin-bottom: 80px;
+    .grid-3 {
+        margin-bottom: 80px;
 
-    figure {
-      text-align: left;
-      height: 175px;
+        figure {
+            text-align: left;
+            height: 175px;
+        }
     }
-  }
 }
 
 .sitemap {
@@ -26,24 +26,24 @@
 }
 
 .sitemap-item {
-  width: 260px;
-  margin-right: 25px;
-  text-align: right;
-  font-size: .938em;
-  line-height: 1.6;
-  padding-bottom: 25px;
+    width: 260px;
+    margin-right: 25px;
+    text-align: right;
+    font-size: .938em;
+    line-height: 1.6;
+    padding-bottom: 25px;
 
-  &:last-child {
-    margin-right: 0;
-  }
+    &:last-child {
+        margin-right: 0;
+    }
 }
 
 // hot fix for prism
 code {
-  white-space: normal !important;
-  border: 0 none !important;
-  background-color: transparent !important;
-  margin-top: 25px !important;
+    white-space: normal !important;
+    border: 0 none !important;
+    background-color: transparent !important;
+    margin-top: 25px !important;
 }
 
 

@@ -25,234 +25,234 @@ $gray-6: #fefefe;
 // Colours
 
 body {
-  color: $gray-2;
-  background-color: #fff;
+    color: $gray-2;
+    background-color: #fff;
 }
 
 aside {
-  color: $gray-4;
+    color: $gray-4;
 }
 
 .box:nth-child(even) {
-  background-color: $gray-6;
+    background-color: $gray-6;
 }
 
 #sub-nav a {
-  color: $gray-3;
+    color: $gray-3;
 }
 
 #main-nav a,
 .sub-nav a,
 #meta-nav a {
-  color: #fff !important;
+    color: #fff !important;
 }
 
 .cb aside a {
-  color: $gray-4;
+    color: $gray-4;
 }
 
 article figure {
-  figcaption {
-    color: $gray-4;
-  }
+    figcaption {
+        color: $gray-4;
+    }
 }
 
 .cb:odd {
-  background-color: $gray-5;
+    background-color: $gray-5;
 }
 
 // orange theme --------------------
 .orange {
 
-  #content {
-	background: url('../img/logo_cut.png') no-repeat center 56px;
-  }
+    #content {
+        background: url('../img/logo_cut.png') no-repeat center 56px;
+    }
 
-  footer {
-  	background: url('../img/logo_cut_negativ.png') no-repeat center 0;
-  }
+    footer {
+        background: url('../img/logo_cut_negativ.png') no-repeat center 0;
+    }
 
-  h1,
-  h2,
-  h4,
-  a {
-    color: $orange;
-  }
+    h1,
+    h2,
+    h4,
+    a {
+        color: $orange;
+    }
 
-  #nav,
-  #footer {
-    background-color: $orange;
-  }
+    #nav,
+    #footer {
+        background-color: $orange;
+    }
 
-  #footer li a { // @todo: 4 selector deep rule maybe over think that
-    color: #fff !important;
-  }
+    #footer li a { // @todo: 4 selector deep rule maybe over think that
+        color: #fff !important;
+    }
 
-  #sub-nav {
-    background-color: $orange-l;
-  }
+    #sub-nav {
+        background-color: $orange-l;
+    }
 }
 
 // blue theme --------------------
 .blue {
 
-  #content {
-	background: url('../img/logo_cut_blue.png') no-repeat center 56px;
-  }
+    #content {
+        background: url('../img/logo_cut_blue.png') no-repeat center 56px;
+    }
 
-  footer {
-  	background: url('../img/logo_cut_negativ_blue.png') no-repeat center 0;
-  }
+    footer {
+        background: url('../img/logo_cut_negativ_blue.png') no-repeat center 0;
+    }
 
-  h1,
-  h2,
-  h4,
-  a {
-    color: $blue;
-  }
+    h1,
+    h2,
+    h4,
+    a {
+        color: $blue;
+    }
 
-  #nav,
-  #footer {
-    background-color: $blue;
-  }
+    #nav,
+    #footer {
+        background-color: $blue;
+    }
 
-  #footer li a { // @todo: 4 selector deep rule maybe over think that
-    color: #fff !important;
-  }
+    #footer li a { // @todo: 4 selector deep rule maybe over think that
+        color: #fff !important;
+    }
 
-  #sub-nav {
-    background-color: $blue-l;
-  }
+    #sub-nav {
+        background-color: $blue-l;
+    }
 }
 
 
 // green theme --------------------
 .green {
-  #content {
-	background: url('../img/logo_cut_green.png') no-repeat center 56px;
-  }
+    #content {
+        background: url('../img/logo_cut_green.png') no-repeat center 56px;
+    }
 
-  footer {
-  	background: url('../img/logo_cut_negativ_green.png') no-repeat center 0;
-  }
+    footer {
+        background: url('../img/logo_cut_negativ_green.png') no-repeat center 0;
+    }
 
-  h1,
-  h2,
-  h4,
-  a {
-    color: $green;
-  }
+    h1,
+    h2,
+    h4,
+    a {
+        color: $green;
+    }
 
-  #nav,
-  #footer {
-    background-color: $green;
-  }
+    #nav,
+    #footer {
+        background-color: $green;
+    }
 
-  #footer li a { // @todo: 4 selector deep rule maybe over think that
-    color: #fff !important;
-  }
+    #footer li a { // @todo: 4 selector deep rule maybe over think that
+        color: #fff !important;
+    }
 
-  #sub-nav {
-    background-color: $green-l;
-  }
+    #sub-nav {
+        background-color: $green-l;
+    }
 }
 
 
 // yellow theme --------------------
 .yellow {
-  #content {
-	background: url('../img/logo_cut_yellow.png') no-repeat center 56px;
-  }
+    #content {
+        background: url('../img/logo_cut_yellow.png') no-repeat center 56px;
+    }
 
-  footer {
-  	background: url('../img/logo_cut_negativ_yellow.png') no-repeat center 0;
-  }
+    footer {
+        background: url('../img/logo_cut_negativ_yellow.png') no-repeat center 0;
+    }
 
-  h1,
-  h2,
-  h4,
-  a {
-    color: $yellow;
-  }
+    h1,
+    h2,
+    h4,
+    a {
+        color: $yellow;
+    }
 
-  #nav,
-  #footer {
-    background-color: $yellow;
-  }
+    #nav,
+    #footer {
+        background-color: $yellow;
+    }
 
-  #footer li a { // @todo: 4 selector deep rule maybe over think that
-    color: #fff !important;
-  }
+    #footer li a { // @todo: 4 selector deep rule maybe over think that
+        color: #fff !important;
+    }
 
-  #sub-nav {
-    background-color: $yellow-l;
-  }
+    #sub-nav {
+        background-color: $yellow-l;
+    }
 }
 
 
 // gray theme --------------------
 .gray {
 
-  #content {
-	background: url('../img/logo_cut_gray.png') no-repeat center 56px;
-  }
+    #content {
+        background: url('../img/logo_cut_gray.png') no-repeat center 56px;
+    }
 
-  footer {
-  	background: url('../img/logo_cut_negativ_gray.png') no-repeat center 0;
-  }
+    footer {
+        background: url('../img/logo_cut_negativ_gray.png') no-repeat center 0;
+    }
 
-  h1,
-  h2,
-  h4,
-  a {
-    color: $gray-1;
-  }
+    h1,
+    h2,
+    h4,
+    a {
+        color: $gray-1;
+    }
 
-  #nav,
-  #footer {
-    background-color: $gray-1;
-  }
+    #nav,
+    #footer {
+        background-color: $gray-1;
+    }
 
-  #footer li a { // @todo: 4 selector deep rule maybe over think that
-    color: #fff !important;
-  }
+    #footer li a { // @todo: 4 selector deep rule maybe over think that
+        color: #fff !important;
+    }
 
-  #sub-nav {
-    background-color: $gray-5;
-  }
+    #sub-nav {
+        background-color: $gray-5;
+    }
 }
 
 
 // lilac theme --------------------
 .lilac {
 
-  #content {
-	background: url('../img/logo_cut_lilac.png') no-repeat center 56px;
-  }
+    #content {
+        background: url('../img/logo_cut_lilac.png') no-repeat center 56px;
+    }
 
-  footer {
-  	background: url('../img/logo_cut_negativ_lilac.png') no-repeat center 0;
-  }
+    footer {
+        background: url('../img/logo_cut_negativ_lilac.png') no-repeat center 0;
+    }
 
-  h1,
-  h2,
-  h4,
-  a {
-    color: $lilac;
-  }
+    h1,
+    h2,
+    h4,
+    a {
+        color: $lilac;
+    }
 
-  #nav,
-  #footer {
-    background-color: $lilac;
-  }
+    #nav,
+    #footer {
+        background-color: $lilac;
+    }
 
-  #footer li a { // @todo: 4 selector deep rule maybe over think that
-    color: #fff !important;
-  }
+    #footer li a { // @todo: 4 selector deep rule maybe over think that
+        color: #fff !important;
+    }
 
-  #sub-nav {
-    background-color: $lilac-l;
-  }
+    #sub-nav {
+        background-color: $lilac-l;
+    }
 }
 
 
