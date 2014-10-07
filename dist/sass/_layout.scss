@@ -1,3 +1,17 @@
+// clearfix
+%cf {
+    &:before,
+    &:after {
+        content: " ";
+        display: table;
+    }
+
+    &:after {
+        clear: both;
+    }
+}
+// clearfix end
+
 section,
 #main-nav,
 #sub-nav {
@@ -58,10 +72,6 @@ footer {
     margin: 0 auto;
 }
 
-.clear {
-    clear: both;
-}
-
 .hide {
     display: none;
 }
@@ -75,6 +85,7 @@ footer {
 }
 
 .cb {
+    @extend %cf;
     width: rem-calc(830);
     padding: rem-calc(35 0 50);
 
