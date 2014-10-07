@@ -29,3 +29,40 @@ Save it as name.sublime-snippet. After you've done that restart Sublime Text. No
 ## gh-pages branch
 
 This branch will be developed parallel to the main brach to set up the page structure and functionality. To start your local Jekyll environment just follow this guide: [https://help.github.com/articles/using-jekyll-with-pages/](https://help.github.com/articles/using-jekyll-with-pages/ title="github pages and jekyll").
+
+
+## How to use
+
+### Colours
+
+##### Orange theme
+$orange: #e94e1b;
+$orange-l: #f9c4b3;
+
+##### Blue theme
+$blue: #312783;
+$blue-l: #bfbcd8;
+
+##### Green theme
+$green: #0b8e36;
+$green-l: #a9d6b8;
+
+##### Yellow theme
+$yellow: #f9b233;
+$yellow-l: #fce3b6;
+
+##### Lilac theme
+$lilac: #520644;
+$lilac-l: #c1a7bc;
+
+##### Gray theme
+$gray-1: #282828;
+$gray-5: #b3b3b3;
+
+##### Font colours
+$gray-2: #404040;
+$gray-3: #606060;
+$gray-4: #999;
+
+##### Background
+$gray-6: #fdfdfd;

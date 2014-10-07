@@ -41,13 +41,14 @@
 
 #api-nav {
 	position: absolute;
-	width: 280px;
+	top: rem-calc(298);
+	width: rem-calc(360);
 	text-align: right;
 	background-color: #fff;
-	padding: 95px 70px 35px 50px;
+	padding: rem-calc(95) rem-calc(70) rem-calc(35) rem-calc(50);
 
 	ul {
-		margin-bottom: 35px;
+		margin-bottom: rem-calc(35);
 	}
 }
 
@@ -64,7 +65,7 @@ code {
 // article
 
 article ul, article ol {
-	margin: 35px 0;
+	margin: rem-calc(45) 0;
 	list-style: inherit;
 }
 
@@ -73,12 +74,12 @@ article ol {
 }
 
 article li {
-	margin-left: 45px;
-	padding-left: 25px;
-	padding-bottom: 4px;
+	margin-left: rem-calc(45);
+	padding-left: rem-calc(25);
+	padding-bottom: rem-calc(4);
 }
 
 article ol li {
-	margin-left: 46px;
+	margin-left: rem-calc(46);
 }
 
