@@ -33,36 +33,43 @@ This branch will be developed parallel to the main brach to set up the page stru
 
 ## How to use
 
-### Colours
+### Themes
+````
+<body class="orange">
+````
+$orange: #e94e1b; $orange-l: #f9c4b3;
 
-###### Orange theme
-$orange: #e94e1b;<br >/
-$orange-l: #f9c4b3;
+````
+<body class="blue">
+````
+$blue: #312783; $blue-l: #bfbcd8;
 
-###### Blue theme
-$blue: #312783;<br >/
-$blue-l: #bfbcd8;
+````
+<body class="green">
+````
+$green: #0b8e36; $green-l: #a9d6b8;
 
-###### Green theme
-$green: #0b8e36;<br >/
-$green-l: #a9d6b8;
+````
+<body class="yellow">
+````
+$yellow: #f9b233; $yellow-l: #fce3b6;
 
-###### Yellow theme
-$yellow: #f9b233;<br >/
-$yellow-l: #fce3b6;
 
-###### Lilac theme
-$lilac: #520644;<br >/
-$lilac-l: #c1a7bc;
+````
+<body class="lilac">
+````
+$lilac: #520644; $lilac-l: #c1a7bc;
 
-###### Gray theme
-$gray-1: #282828;<br >/
-$gray-5: #b3b3b3;
 
-###### Font colours
-$gray-2: #404040;<br >/
-$gray-3: #606060;<br >/
+````
+<body class="gray">
+````
+$gray-1: #282828; $gray-5: #b3b3b3;
+
+**Font colours**<br />
+$gray-2: #404040;<br />
+$gray-3: #606060;<br />
 $gray-4: #999;
 
-###### Background
+**Background**<br />
 $gray-6: #fdfdfd;
