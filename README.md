@@ -38,6 +38,7 @@ This branch will be developed parallel to the main brach to set up the page stru
 <body class="orange">
 ````
 $orange: #e94e1b; $orange-l: #f9c4b3;
+![](readme-files/rectangle.svg?raw=true)
 
 ````
 <body class="blue">
