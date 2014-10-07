@@ -60,17 +60,23 @@ $green: #0b8e36; $green-l: #a9d6b8;
 ````
 $yellow: #f9b233; $yellow-l: #fce3b6;
 
+<img src="http://verpixelt.github.io/readme-files/rectangle-yellow.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-yellow-l.svg" />
+
 
 ````
 <body class="lilac">
 ````
 $lilac: #520644; $lilac-l: #c1a7bc;
 
+<img src="http://verpixelt.github.io/readme-files/rectangle-lilac.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-lilac-l.svg" />
+
 
 ````
 <body class="gray">
 ````
 $gray-1: #282828; $gray-5: #b3b3b3;
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-gray.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-gray-l.svg" />
 
 **Font colours**<br />
 $gray-2: #404040;<br />
