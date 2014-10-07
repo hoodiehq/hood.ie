@@ -41,11 +41,16 @@
 
 #api-nav {
 	position: absolute;
-	top: rem-calc(298);
-	width: rem-calc(360);
-	text-align: right;
+	top: rem-calc(347);
+	width: rem-calc(200);
 	background-color: #fff;
-	padding: rem-calc(95) rem-calc(70) rem-calc(35) rem-calc(50);
+	text-align: right;
+	padding: rem-calc(45) rem-calc(30) rem-calc(35) rem-calc(30);
+	margin-left: rem-calc(220);
+	background-color: $gray-6;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
 
 	ul {
 		margin-bottom: rem-calc(35);
