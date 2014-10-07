@@ -38,7 +38,8 @@ This branch will be developed parallel to the main brach to set up the page stru
 <body class="orange">
 ````
 $orange: #e94e1b; $orange-l: #f9c4b3;
-<img src="http://verpixelt.github.io/readme-files/rectangle-orange.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-orange-l.svg"
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-orange.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-orange-l.svg" />
 
 ````
 <body class="blue">
