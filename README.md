@@ -88,7 +88,6 @@ $gray-3: #606060;
 $gray-4: #999;
 
 <img src="http://verpixelt.github.io/readme-files/rectangle-gray4.svg" /><br />
-
 **Background**<br />
 $gray-6: #fdfdfd;
 
