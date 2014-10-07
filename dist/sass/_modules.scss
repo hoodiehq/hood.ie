@@ -38,6 +38,20 @@
     }
 }
 
+
+#api-nav {
+	position: absolute;
+	width: 280px;
+	text-align: right;
+	background-color: #fff;
+	padding: 95px 70px 35px 50px;
+
+	ul {
+		margin-bottom: 35px;
+	}
+}
+
+
 // hot fix for prism
 code {
     white-space: normal !important;
