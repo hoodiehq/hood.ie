@@ -46,10 +46,14 @@ $orange: #e94e1b; $orange-l: #f9c4b3;
 ````
 $blue: #312783; $blue-l: #bfbcd8;
 
+<img src="http://verpixelt.github.io/readme-files/rectangle-blue.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-blue-l.svg" />
+
 ````
 <body class="green">
 ````
 $green: #0b8e36; $green-l: #a9d6b8;
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-green.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-green-l.svg" />
 
 ````
 <body class="yellow">
