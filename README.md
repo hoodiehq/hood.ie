@@ -80,8 +80,12 @@ $gray-1: #282828; $gray-5: #b3b3b3;
 
 **Font colours**<br />
 $gray-2: #404040;<br />
+<img src="http://verpixelt.github.io/readme-files/rectangle-gray1.svg" />
 $gray-3: #606060;<br />
+<img src="http://verpixelt.github.io/readme-files/rectangle-gray3.svg" />
 $gray-4: #999;
+<img src="http://verpixelt.github.io/readme-files/rectangle-gray4.svg" />
 
 **Background**<br />
-$gray-6: #fdfdfd;
+$gray-6: #fdfdfd;<br />
+<img src="http://verpixelt.github.io/readme-files/rectangle-gray6.svg" />
