@@ -6,4 +6,4 @@ url: "hood.ie"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /blog/:categories/:year/:month/:day/:title.html
