@@ -174,7 +174,7 @@ $gray-6: #fdfdfd;
 </section>
 ````
 
-**article**, sub part of .cb
+**aside**, sub part of .cb
 ````
 <section class="cb">
     <h2></h2>
@@ -216,4 +216,66 @@ $gray-6: #fdfdfd;
 ### helper
 **.hide**   // display:none <br />
 **.l**      // float: left <br />
-**.r**      // float: right <br />
+**.r**      // float: right 
+
+### modules
+**#api-nav** 3rd LVL navigation for API and documentation
+````
+<section id="api-nav">
+    <ul>
+````
+
+**.person-bio** special module for bio's of core contributors
+````
+<section class="cb person-bio">
+    <aside class="bio-link">
+        <a href="#">Twitter | GitHub</a>
+    </aside>
+    <article>
+        <figure class="grid-3 l">
+            <img src="dist/content_img/" alt="add Name" />
+        </figure>
+        <h6>
+            // Job Position
+        </h6>
+        <h3>
+            // Name
+        </h3>
+        <p>
+            // bio text
+        </p>
+    </article>
+</section>
+````
+
+**.bio-link** sets the link in aside at the right position <br />
+**.grid-3 img** please use the same measures than we already use for the image<br />
+**.person-bio p** will float around the image, if the description is too long with nice margin
+<br /><br />
+
+**.friends**, special grid, which uses .grid-3 for all the boxes for contributors and friends, also screencasts and tutorials
+````
+<article class="friends">
+    <div class="grid-3 l">
+        <figure><img src="dist/content_img/LOGO" /></figure>
+        <h5>
+            // Name
+        </h5>
+        // add description or link
+    </div>
+````
+
+
+**#footer ** footer with colour in 100% width including logo
+````
+<footer>
+    <div id="footer">
+````
+
+**.sitemap-item ** item in .sitemap, 33% width, aligned right
+````
+<footer>
+    <div id="footer">
+        <section class="cb sitemap">
+            <ul class="sitemap-item l">
+````    
