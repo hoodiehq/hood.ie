@@ -71,9 +71,6 @@ footer {
     margin: 0 auto;
 }
 
-.hide {
-    display: none;
-}
 
 #nav,
 #logo,
@@ -129,7 +126,7 @@ code {
     }
 }
 
-// grids
+// grids ------------
 .grid-9 {
     width: 100%;
     max-width: rem-calc(600);
@@ -150,7 +147,7 @@ code {
     margin-right: 0;
 }
 
-// helper
+// helper ------------
 .l {
     float: left;
 }
@@ -159,5 +156,8 @@ code {
     float: right;
 }
 
+.hide {
+    display: none;
+}
 
 
