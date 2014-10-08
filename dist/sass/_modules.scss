@@ -21,10 +21,6 @@
     }
 }
 
-.sitemap {
-
-}
-
 .sitemap-item {
     width: rem-calc(260);
     margin-right: rem-calc(25);
@@ -38,6 +34,23 @@
     }
 }
 
+
+#api-nav {
+    position: absolute;
+    top: rem-calc(347);
+    width: rem-calc(200);
+    text-align: right;
+    padding: rem-calc(45 30 35 30);
+    margin-left: rem-calc(220);
+    background-color: $gray-6;
+    border-radius: rem-calc(12);
+
+    ul {
+        margin-bottom: rem-calc(35);
+    }
+}
+
+
 // hot fix for prism
 code {
     white-space: normal !important;
@@ -46,4 +59,25 @@ code {
     margin-top: rem-calc(25) !important;
 }
 
+
+// article
+
+article ul, article ol {
+    margin: rem-calc(45 0);
+    list-style: inherit;
+}
+
+article ol {
+    list-style-type: decimal;
+
+    li {
+        margin-left: rem-calc(46);
+    }
+}
+
+article li {
+    margin-left: rem-calc(45);
+    padding-left: rem-calc(25);
+    padding-bottom: rem-calc(4);
+}
 

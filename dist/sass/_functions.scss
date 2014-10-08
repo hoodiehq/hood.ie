@@ -10,14 +10,6 @@ $rem-base: 16px;
   @return $value;
 }
 
-@function data($attr) {
-  @if $namespace {
-    @return '[data-' + $namespace + '-' + $attr + ']';
-  }
-
-  @return '[data-' + $attr + ']';
-}
-
 @function rem-calc($values, $base-value: $rem-base) {
   $max: length($values);
 

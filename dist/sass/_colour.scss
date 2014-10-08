@@ -14,7 +14,6 @@ $lilac: #520644;
 $lilac-l: #c1a7bc;
 
 
-
 $gray-1: #282828;
 $gray-2: #404040;
 $gray-3: #606060;
@@ -255,4 +254,6 @@ article figure {
     }
 }
 
-
+#api-nav li a {
+    color: $blue;
+}

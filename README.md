@@ -25,3 +25,257 @@ If you're using Sublime Text you can add this handy snippet to your user directo
     </snippet>
 
 Save it as name.sublime-snippet. After you've done that restart Sublime Text. Now you just have to type rem(tab) and you'll get rem-calc(cursor here).
+
+## gh-pages branch
+
+This branch will be developed parallel to the main brach to set up the page structure and functionality. To start your local Jekyll environment just follow this guide: [https://help.github.com/articles/using-jekyll-with-pages/](https://help.github.com/articles/using-jekyll-with-pages/ title="github pages and jekyll").
+
+
+## How to use
+
+### Themes
+````
+<body class="orange">
+````
+$orange: #e94e1b; $orange-l: #f9c4b3;
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-orange.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-orange-l.svg" />
+
+````
+<body class="blue">
+````
+$blue: #312783; $blue-l: #bfbcd8;
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-blue.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-blue-l.svg" />
+
+````
+<body class="green">
+````
+$green: #0b8e36; $green-l: #a9d6b8;
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-green.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-green-l.svg" />
+
+````
+<body class="yellow">
+````
+$yellow: #f9b233; $yellow-l: #fce3b6;
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-yellow.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-yellow-l.svg" />
+
+
+````
+<body class="lilac">
+````
+$lilac: #520644; $lilac-l: #c1a7bc;
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-lilac.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-lilac-l.svg" />
+
+
+````
+<body class="gray">
+````
+$gray-1: #282828; $gray-5: #b3b3b3;
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-gray.svg" /> <img src="http://verpixelt.github.io/readme-files/rectangle-gray-l.svg" />
+
+**Font colours**<br />
+$gray-2: #404040;
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-gray1.svg" /><br />
+$gray-3: #606060;
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-gray3.svg" /><br />
+$gray-4: #999;
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-gray4.svg" /><br />
+**Background**<br />
+$gray-6: #fdfdfd;
+
+<img src="http://verpixelt.github.io/readme-files/rectangle-gray6.svg" />
+
+
+### Layout
+
+**header** with 100% width and colour of theme  
+````
+<header>
+</header>
+````
+
+**#logo** header with logo position / left** 
+````
+<header>
+    <div id="logo"></div>
+</header>
+````
+
+**#main-nav** header with main navigation / middle
+````
+<header>
+    <nav id="main-nav">
+</header>
+````
+
+**#meta-nav** header with meta navigation / right
+````
+<header>
+    <ul id="meta-nav">
+</header>
+````
+
+**#sub-nav**, hidden with .hide helper
+````
+<header>
+    <section class="hide">
+         <ul id="sub-nav">
+</header>
+````
+
+**#content**, content-div, max-width of 840px, centered, adds big logo to content when a theme is selected
+````
+<div id="content">
+````
+
+
+**.box**, alternating highlighting of .cb in 100% width of site
+````
+<div class="box">
+````
+
+**.cb**, contentbox in max-width of 840px, centered, holds all article related designs, this is how a .cb always is structred
+````
+<section class="cb">
+    <h2></h2>
+    <aside>
+    
+    </aside>
+    <article>
+        
+    </article>
+</section>
+````
+
+**.teaser**, teaser for contentbox, fonts are displayed bigger
+````
+<div class="box">
+    <section class="cb teaser">
+````
+
+**article**, main part of .cb
+````
+<section class="cb">
+    <h2></h2>
+    <aside>
+    
+    </aside>
+    <article>
+        // please add grids, paragraphs or figures or other content in here
+    </article>
+</section>
+````
+
+**aside**, sub part of .cb
+````
+<section class="cb">
+    <h2></h2>
+    <aside>
+        // please add links and sidenotes in here
+    </aside>
+    <article>
+        
+    </article>
+</section>
+````
+
+### Grid
+**.grid-3**, 33% of width, combined with .cb (contentbox) it gives you max-width of 175px and margin on the right, except for every 3rd item. Use a float left if you want to add content in this row. No need to add .grid-6 in .cb.
+````
+<article>
+    <section class="grid-3 l">
+</article>
+````
+
+**.grid-6**, 66% of width, combined with .cb (contentbox) it gives you max-width of 450px but no margin. Use a float left if you want to add content in this row. No need to add .grid-3 in .cb.
+
+````
+<article>
+    <section class="grid-6 l">
+</article>
+````
+
+**.grid-9**, 100% of width, combined with .cb (contentbox) it gives you max-width of 600px but no margin. 
+
+````
+<article>
+    <section class="grid-9">
+</article>
+````
+
+
+
+### helper
+**.hide**   // display:none <br />
+**.l**      // float: left <br />
+**.r**      // float: right 
+
+### modules
+**#api-nav** 3rd LVL navigation for API and documentation
+````
+<section id="api-nav">
+    <ul>
+````
+
+**.person-bio** special module for bio's of core contributors
+````
+<section class="cb person-bio">
+    <aside class="bio-link">
+        <a href="#">Twitter | GitHub</a>
+    </aside>
+    <article>
+        <figure class="grid-3 l">
+            <img src="dist/content_img/" alt="add Name" />
+        </figure>
+        <h6>
+            // Job Position
+        </h6>
+        <h3>
+            // Name
+        </h3>
+        <p>
+            // bio text
+        </p>
+    </article>
+</section>
+````
+
+**.bio-link** sets the link in aside at the right position <br />
+**.grid-3 img** please use the same measures than we already use for the image<br />
+**.person-bio p** will float around the image, if the description is too long with nice margin
+<br /><br />
+
+**.friends**, special grid, which uses .grid-3 for all the boxes for contributors and friends, also screencasts and tutorials
+````
+<article class="friends">
+    <div class="grid-3 l">
+        <figure><img src="dist/content_img/LOGO" /></figure>
+        <h5>
+            // Name
+        </h5>
+        // add description or link
+    </div>
+````
+
+
+**#footer ** footer with colour in 100% width including logo
+````
+<footer>
+    <div id="footer">
+````
+
+**.sitemap-item ** item in .sitemap, 33% width, aligned right
+````
+<footer>
+    <div id="footer">
+        <section class="cb sitemap">
+            <ul class="sitemap-item l">
+````    
