@@ -96,13 +96,13 @@ $gray-6: #fdfdfd;
 
 ### Layout
 
-**header** with 100% width and colour of theme  
+**header** with 100% width and colour of theme
 ````
 <header>
 </header>
 ````
 
-**#logo** header with logo position / left** 
+**#logo** header with logo position / left**
 ````
 <header>
     <div id="logo"></div>
@@ -147,10 +147,10 @@ $gray-6: #fdfdfd;
 <section class="cb">
     <h2></h2>
     <aside>
-    
+
     </aside>
     <article>
-        
+
     </article>
 </section>
 ````
@@ -166,7 +166,7 @@ $gray-6: #fdfdfd;
 <section class="cb">
     <h2></h2>
     <aside>
-    
+
     </aside>
     <article>
         // please add grids, paragraphs or figures or other content in here
@@ -182,7 +182,7 @@ $gray-6: #fdfdfd;
         // please add links and sidenotes in here
     </aside>
     <article>
-        
+
     </article>
 </section>
 ````
@@ -203,7 +203,7 @@ $gray-6: #fdfdfd;
 </article>
 ````
 
-**.grid-9**, 100% of width, combined with .cb (contentbox) it gives you max-width of 600px but no margin. 
+**.grid-9**, 100% of width, combined with .cb (contentbox) it gives you max-width of 600px but no margin.
 
 ````
 <article>
@@ -216,7 +216,7 @@ $gray-6: #fdfdfd;
 ### helper
 **.hide**   // display:none <br />
 **.l**      // float: left <br />
-**.r**      // float: right 
+**.r**      // float: right
 
 ### modules
 **#api-nav** 3rd LVL navigation for API and documentation
@@ -278,4 +278,15 @@ $gray-6: #fdfdfd;
     <div id="footer">
         <section class="cb sitemap">
             <ul class="sitemap-item l">
-````    
+````
+
+### How to use Layouts inside of Jekyll
+
+There is a default layout for every theme described above. If you want to create a new page start it with the following lines:
+```
+---
+layout: default-colortheme
+title: title for the page
+---
+```
+Layout names follow the theme naming e.g. default-lilac.
