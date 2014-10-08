@@ -92,3 +92,128 @@ $gray-4: #999;
 $gray-6: #fdfdfd;
 
 <img src="http://verpixelt.github.io/readme-files/rectangle-gray6.svg" />
+
+
+### Layout
+
+**header** with 100% width and colour of theme  
+````
+<header>
+</header>
+````
+
+**#logo** header with logo position / left** 
+````
+<header>
+    <div id="logo"></div>
+</header>
+````
+
+**#main-nav** header with main navigation / middle
+````
+<header>
+    <nav id="main-nav">
+</header>
+````
+
+**#meta-nav** header with meta navigation / right
+````
+<header>
+    <ul id="meta-nav">
+</header>
+````
+
+**#sub-nav**, hidden with .hide helper
+````
+<header>
+    <section class="hide">
+         <ul id="sub-nav">
+</header>
+````
+
+**#content**, content-div, max-width of 840px, centered, adds big logo to content when a theme is selected
+````
+<div id="content">
+````
+
+
+**.box**, alternating highlighting of .cb in 100% width of site
+````
+<div class="box">
+````
+
+**.cb**, contentbox in max-width of 840px, centered, holds all article related designs, this is how a .cb always is structred
+````
+<section class="cb">
+    <h2></h2>
+    <aside>
+    
+    </aside>
+    <article>
+        
+    </article>
+</section>
+````
+
+**.teaser**, teaser for contentbox, fonts are displayed bigger
+````
+<div class="box">
+    <section class="cb teaser">
+````
+
+**article**, main part of .cb
+````
+<section class="cb">
+    <h2></h2>
+    <aside>
+    
+    </aside>
+    <article>
+        // please add grids, paragraphs or figures or other content in here
+    </article>
+</section>
+````
+
+**article**, sub part of .cb
+````
+<section class="cb">
+    <h2></h2>
+    <aside>
+        // please add links and sidenotes in here
+    </aside>
+    <article>
+        
+    </article>
+</section>
+````
+
+### Grid
+**.grid-3**, 33% of width, combined with .cb (contentbox) it gives you max-width of 175px and margin on the right, except for every 3rd item. Use a float left if you want to add content in this row. No need to add .grid-6 in .cb.
+````
+<article>
+    <section class="grid-3 l">
+</article>
+````
+
+**.grid-6**, 66% of width, combined with .cb (contentbox) it gives you max-width of 450px but no margin. Use a float left if you want to add content in this row. No need to add .grid-3 in .cb.
+
+````
+<article>
+    <section class="grid-6 l">
+</article>
+````
+
+**.grid-9**, 100% of width, combined with .cb (contentbox) it gives you max-width of 600px but no margin. 
+
+````
+<article>
+    <section class="grid-9">
+</article>
+````
+
+
+
+### helper
+**.hide**   // display:none <br />
+**.l**      // float: left <br />
+**.r**      // float: right <br />
