@@ -1,9 +1,9 @@
 ---
-layout: default-gray
+layout: blog-post
 title: Hoodie goes Austria Join us for a hoodie workshop during Barcamp Salzburg!
+category: hoddie on tour
+comments: true
 ---
-
-# HOODIE GOES AUSTRIA: JOIN US FOR A HOODIE WORKSHOP DURING BARCAMP SALZBURG!
 
 ![First post image](/blog/images/post1.png)
 
