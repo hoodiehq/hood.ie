@@ -181,6 +181,15 @@ article li {
             }
         }
 
+        &.last div {
+            -webkit-border-bottom-right-radius: 12px;
+            -webkit-border-bottom-left-radius: 12px;
+            -moz-border-radius-bottomright: 12px;
+            -moz-border-radius-bottomleft: 12px;
+            border-bottom-right-radius: 12px;
+            border-bottom-left-radius: 12px;
+        }
+
 
 
 
@@ -201,17 +210,17 @@ article li {
 
         // BG-images
         .merch {
-            background: #fff url('../content_img/index_merch.jpg') 0 0 no-repeat;
+            background: #fff url('../content_img/index/index_merch.jpg') 0 0 no-repeat;
             height: 3*$dh;
         }
 
         .feature {
-            background: #fff url('../content_img/features2.jpg') 0 0 no-repeat;
+            background: #fff url('../content_img/index/features2.jpg') 0 0 no-repeat;
             height: 3*$dh;
         }
 
         .contribute {
-            background: #fff url('../content_img/contribute.jpg') 0 0 no-repeat;
+            background: #fff url('../content_img/index/contribute.jpg') 60% 80% no-repeat;
             height: 3*$dh;
         }
 
@@ -220,7 +229,7 @@ article li {
         }
 
         .placeholder {
-            background: #fff url('../content_img/placeholder.jpg') 50% 50% no-repeat;
+            background: #fff url('../content_img/index/placeholder.jpg') 60% 50% no-repeat;
         }
 
         .orange-box {
