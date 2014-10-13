@@ -135,9 +135,25 @@ article li {
 
         // BG-images
 
+        .img-bg h3, .img-bg p {
+            text-align: right;
+            vertical-align: bottom;
+            color: #fff;
+        }
+
         .merch {
-            background: #fff url('../content_img/index_merch.png') 0 0 no-repeat;
-            height: 8*$dh;
+            background: #fff url('../content_img/index_merch.jpg') 0 0 no-repeat;
+            height: 4*$dh;
+        }
+
+        .feature {
+            background: #fff url('../content_img/features2.jpg') 0 0 no-repeat;
+            height: 4*$dh;
+        }
+
+        .contribute {
+            background: #fff url('../content_img/contribute.jpg') 0 0 no-repeat;
+            height: 4*$dh;
         }
 
         .grid-3 {
