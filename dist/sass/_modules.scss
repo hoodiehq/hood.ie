@@ -91,39 +91,79 @@ article li {
 
 // landing page
 .index #content {
-    background-image: none;
+    //background-image: none;
 
     .row {
         display: flex;
         flex-wrap: wrap;
         margin: 0 .5vw;
         align-items: stretch;
-        margin-bottom: rem-calc(4);
+        margin-bottom: rem-calc(14);
 
+        // first row with special height and background
         &.first div.main{
-            height: 8*$dh;
+            height: 13*$dh;
             margin-top: 0;
             background-color: #e94e1b;
             color: #fff;
+
+
+            h3 {
+                font-size: rem-calc(26);
+                text-align: center;
+                margin-left: -15px;
+                margin-bottom: rem-calc(20);
+            }
+
+            p {
+                font-size: rem-calc(16);
+                line-height: rem-calc(28);
+            }
+
+            a {
+                color: #fff;
+                text-decoration: underline;
+            }
         }
 
         &.first div {
             margin-top: 2.5*$dh;
+            -webkit-border-top-left-radius: 12px;
+            -webkit-border-top-right-radius: 12px;
+            -moz-border-radius-topleft: 12px;
+            -moz-border-radius-topright: 12px;
+            border-top-left-radius: 12px;
+            border-top-right-radius: 12px;
         }
 
+        // white background
         &.white div {
             background-color: #fff;
         }
 
+        // regular styles
         div {
             min-height: $dh;
-            background-color: #fbfbfb ;
-            padding: rem-calc(7) rem-calc(5);
+            background-color: #fcfcfc;
+            padding: rem-calc(9) rem-calc(8);
 
             section {
-                padding: rem-calc(15) rem-calc(5);
+                padding: rem-calc(15) rem-calc(6);
+
+                h3 {
+                    margin-bottom: rem-calc(9);
+                    text-transform: uppercase;
+                }
+
+                p {
+                    padding-right: rem-calc(7);
+                    margin-bottom: rem-calc(15);
+                    font-size: rem-calc(16);
+                }
             }
 
+
+            // Newsletter
             input {
                 border: 0 none;
                 color: #404040;
@@ -133,33 +173,59 @@ article li {
             }
         }
 
-        // BG-images
 
+
+
+        // special font-styles for index
         .img-bg h3, .img-bg p {
             text-align: right;
             vertical-align: bottom;
             color: #fff;
+ //           background: rgba(255, 255, 255, 0.8);
+            display: inline;
         }
 
+        .img-bg h3 {
+            color: #e94e1b;
+            font-weight: 300;
+        }
+
+
+        // BG-images
         .merch {
             background: #fff url('../content_img/index_merch.jpg') 0 0 no-repeat;
-            height: 4*$dh;
+            height: 3*$dh;
         }
 
         .feature {
             background: #fff url('../content_img/features2.jpg') 0 0 no-repeat;
-            height: 4*$dh;
+            height: 3*$dh;
         }
 
         .contribute {
             background: #fff url('../content_img/contribute.jpg') 0 0 no-repeat;
-            height: 4*$dh;
+            height: 3*$dh;
         }
 
+        .newsletter {
+            border: 1px solid #f9f9f9;
+        }
+
+        .placeholder {
+            background: #fff url('../content_img/placeholder.jpg') 50% 50% no-repeat;
+        }
+
+        .orange-box {
+            background-color: #e94e1b !important;
+            color: #fff;
+        }
+
+
+        // special grid for index
         .grid-3 {
             width: 33%;
-            max-width: rem-calc(259);
-            margin-right: rem-calc(4);
+            max-width: rem-calc(250);
+            margin-right: rem-calc(7);
 
             &:nth-child(3n){
                 margin-right: 0;
@@ -171,18 +237,18 @@ article li {
 
         .grid-6 {
             width: 67%;
-            max-width: rem-calc(532);
+            max-width: rem-calc(524);
             margin-right: 0;
         }
 
         .grid-9 {
             width: 100%;
-            max-width: rem-calc(823);
+            max-width: rem-calc(815);
             margin-right: 0;
         }
 
         .m-l {
-            margin-left: rem-calc(4);
+            margin-left: rem-calc(6);
             margin-right: 0;
         }
     }
