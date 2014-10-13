@@ -162,14 +162,22 @@ article li {
                 }
             }
 
+            &.newsletter {
+                padding: rem-calc(0) rem-calc(7);
+            }
+
 
             // Newsletter
             input {
                 border: 0 none;
                 color: #404040;
-                font-size: 1.8em;
+                font-size: 1.6em;
                 width: 66%;
                 height: $dh;
+
+                &:focus {
+                    outline: none;
+                }
             }
         }
 
@@ -208,7 +216,7 @@ article li {
         }
 
         .newsletter {
-            border: 1px solid #f9f9f9;
+            border: 1px solid #ebebeb;
         }
 
         .placeholder {
