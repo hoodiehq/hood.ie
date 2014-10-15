@@ -447,16 +447,16 @@ article li {
   flex-wrap: wrap;
   margin: 0 .5vw;
   align-items: stretch;
-  margin-bottom: 0.875rem; }
+  margin-bottom: 1rem; }
   .index #content .row.first div.main {
-    height: 32.5rem;
+    height: 27.5rem;
     margin-top: 0;
     background-color: #e94e1b;
     color: #fff; }
     .index #content .row.first div.main h3 {
       font-size: 1.625rem;
       text-align: center;
-      margin-left: -15px;
+      margin-left: -18px;
       margin-bottom: 1.25rem; }
     .index #content .row.first div.main p {
       font-size: 1rem;
@@ -505,19 +505,16 @@ article li {
     border-bottom-right-radius: 12px;
     border-bottom-left-radius: 12px; }
   .index #content .row .img-bg h3, .index #content .row .img-bg p {
-    text-align: right;
-    vertical-align: bottom;
-    color: #fff;
-    display: inline; }
+    color: #fff; }
   .index #content .row .img-bg h3 {
-    color: #e94e1b;
-    font-weight: 300; }
+    color: #e94e1b; }
+  .index #content .row .img-bg a {
+    font-weight: 400; }
   .index #content .row .merch {
-    background: #fff url("../content_img/index/index_merch.jpg") 0 0 no-repeat;
+    background: rgba(0, 0, 0, 0.7) url("../content_img/index/index_merch.png") 0 0 no-repeat;
     height: 7.5rem; }
   .index #content .row .feature {
-    background: #fff url("../content_img/index/features2.jpg") 0 0 no-repeat;
-    height: 7.5rem; }
+    background: #fff url("../content_img/index/feature.png") 100% 100% no-repeat; }
   .index #content .row .contribute {
     background: #fff url("../content_img/index/contribute.jpg") 60% 80% no-repeat;
     height: 7.5rem; }
@@ -527,7 +524,16 @@ article li {
     background: #fff url("../content_img/index/placeholder.jpg") 60% 50% no-repeat; }
   .index #content .row .orange-box {
     background-color: #e94e1b !important;
-    color: #fff; }
+    color: #fff;
+    text-align: center; }
+    .index #content .row .orange-box a {
+      color: #fff;
+      margin-left: -15px; }
+    .index #content .row .orange-box img {
+      margin: 14px 0 5px -15px; }
+  .index #content .row .center {
+    text-align: center;
+    margin-left: -14px; }
   .index #content .row .grid-3 {
     width: 33%;
     max-width: 15.625rem;

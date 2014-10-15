@@ -98,11 +98,11 @@ article li {
         flex-wrap: wrap;
         margin: 0 .5vw;
         align-items: stretch;
-        margin-bottom: rem-calc(14);
+        margin-bottom: rem-calc(16);
 
         // first row with special height and background
         &.first div.main{
-            height: 13*$dh;
+            height: 11*$dh;
             margin-top: 0;
             background-color: #e94e1b;
             color: #fff;
@@ -111,7 +111,7 @@ article li {
             h3 {
                 font-size: rem-calc(26);
                 text-align: center;
-                margin-left: -15px;
+                margin-left: -18px;
                 margin-bottom: rem-calc(20);
             }
 
@@ -194,30 +194,27 @@ article li {
 
 
         // special font-styles for index
-        .img-bg h3,
-        .img-bg p {
-            text-align: right;
-            vertical-align: bottom;
+        .img-bg h3, .img-bg p {
             color: #fff;
- //           background: rgba(255, 255, 255, 0.8);
-            display: inline;
         }
 
         .img-bg h3 {
             color: #e94e1b;
-            font-weight: 300;
+        }
+
+        .img-bg a {
+            font-weight: 400;
         }
 
 
         // BG-images
         .merch {
-            background: #fff url('../content_img/index/index_merch.jpg') 0 0 no-repeat;
+            background: rgba(0,0,0,0.7) url('../content_img/index/index_merch.png') 0 0 no-repeat;
             height: 3*$dh;
         }
 
         .feature {
-            background: #fff url('../content_img/index/features2.jpg') 0 0 no-repeat;
-            height: 3*$dh;
+            background: #fff url('../content_img/index/feature.png') 100% 100% no-repeat;
         }
 
         .contribute {
@@ -236,6 +233,20 @@ article li {
         .orange-box {
             background-color: #e94e1b !important;
             color: #fff;
+            text-align: center;
+
+            a {
+                color: #fff;
+                margin-left: -15px;
+            }
+            img {
+                margin: 14px 0 5px -15px;
+            }
+        }
+
+        .center {
+            text-align: center;
+            margin-left: -14px;
         }
 
 
@@ -245,7 +256,7 @@ article li {
             max-width: rem-calc(250);
             margin-right: rem-calc(7);
 
-            &:nth-child(3n) {
+            &:nth-child(3n){
                 margin-right: 0;
             }
 
@@ -278,39 +289,33 @@ article li {
         width: rem-calc(830);
         text-align: center;
 
-        &.animate .letter {
+        &.animate .letter{
           opacity: 1;
-          transform: scale(.0);
+          transform: scale(1.0);
         }
-
         .letter {
           opacity: 0;
-          transform: scale(.1);
+          transform: scale(0.1);
           transform-origin: center center;
-          -webkit-transition: all 500ms cubic-bezier(.175, .885, .320, 1); /* older webkit */
-          -webkit-transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
-             -moz-transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
-               -o-transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
-                  transition: all 500ms cubic-bezier(.175, .885, .320, 1.275); /* easeOutBack */
-
+          -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1); /* older webkit */
+          -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+             -moz-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+               -o-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+                  transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275); /* easeOutBack */
           &:nth-child(2) {
-            transition-delay: .1s;
+            transition-delay: 0.1s;
           }
-
           &:nth-child(3) {
-            transition-delay: .2s;
+            transition-delay: 0.2s;
           }
-
           &:nth-child(4) {
-            transition-delay: .3s;
+            transition-delay: 0.3s;
           }
-
           &:nth-child(5) {
-            transition-delay: .4s;
+            transition-delay: 0.4s;
           }
-
           &:nth-child(6) {
-            transition-delay: .4s;
+            transition-delay: 0.4s;
           }
         }
 
@@ -321,12 +326,11 @@ article li {
 @keyframes kaboom {
   0% {
     opacity: 0;
-    transform: scale(.1);
+    transform: scale(0.1);
   }
-
   100% {
     opacity: 1;
-    transform: scale(1);
+    transform: scale(1.0);
   }
 }
 
