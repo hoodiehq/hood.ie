@@ -6,4 +6,6 @@ url: "hood.ie"
 
 # Build settings
 markdown: kramdown
+kramdown:
+    auto_ids: false
 permalink: /blog/:categories/:year/:month/:day/:title.html
