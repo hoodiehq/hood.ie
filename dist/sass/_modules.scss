@@ -3,6 +3,9 @@ $dh : rem-calc(40);
 
 
 .person-bio {
+    h6 {
+        padding-left: rem-calc(175);
+    }
     .grid-3 {
         margin: rem-calc(5 25 0 0);
         max-width: rem-calc(150);
@@ -14,7 +17,7 @@ $dh : rem-calc(40);
 }
 
 .friends {
-
+    @extend %cf;
     .grid-3 {
         margin-bottom: rem-calc(80);
 
