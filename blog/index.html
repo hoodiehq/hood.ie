@@ -1,10 +1,13 @@
 ---
+
 layout: default-gray
-title: hood.ie blog
+title: 'hood.ie blog'
+
 ---
 
 <div class="blog blog-list grid-9">
     {% for post in site.posts %}
+        <section class="cb">
         <article class="blog-post-excerpt">
             <h1>
                 <a class="blog-post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -13,12 +16,13 @@ title: hood.ie blog
                 <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
                     <span>{{ post.date | date: "%B %d, %Y" }}
                 </time>
-                </span> posted by <span>{{ post.author }}</span>
+                </span> posted by <span>{{ post.author }}</span> in <span>{{ post.categories | join '' }}
             </div>
             <div class="entry">
                 {{ post.content | truncatewords:30}}
             </div>
           <a href="{{ site.baseurl }}{{ post.url }}" class="blog-post-link-more">Read More</a>
         </article>
+        </section>
     {% endfor %}
 </div>

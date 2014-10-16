@@ -8,4 +8,5 @@ url: "hood.ie"
 markdown: kramdown
 kramdown:
     auto_ids: false
-permalink: /blog/:categories/:year/:month/:day/:title.html
+
+permalink: /blog/:categories/:title.html

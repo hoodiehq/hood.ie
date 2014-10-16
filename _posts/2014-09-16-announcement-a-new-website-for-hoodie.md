@@ -6,6 +6,9 @@ title: 'Announcement: A new website for hoodie'
 comments: true
 ---
 
+![Test-gif](/blog/images/gif.gif)
+![Test-external-gif](https://media.giphy.com/media/IodqprBq9KhFK/giphy.gif)
+
 You know what it’s like with clothes you love, right? They’re cozy and make you feel comfortable and safe, and so you wear them any time you can, regardless of the weather and change of seasons. Unfortunately, even the most beautiful clothes tend to get broken from time to time – then you have to add patches or renew seams, and sometimes they also lose their bright colours after some time.
 
 This beloved garment is what Hoodie’s website is to us. Being set up initially on only a few days in spring 2013, it has always been a great companion in the past 1.5 years since we launched it. Hundreds of thousands of people have viewed it, to many of them it was the first thing they saw of this project. Over the time, it slightly changed: we added new pages, we changed a bit of its content, but in total, it always stayed the same. Completely aware that it wasn’t perfect, it was still reliable and always there for us when we needed it. But we always knew it wouldn’t be with us forever.

@@ -3,3 +3,5 @@
 node_modules
 _site
 Gemfile.lock
+dist/css/hoodie.css
+dist/css/hoodie.css.map
