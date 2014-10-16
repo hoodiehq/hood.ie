@@ -1,6 +1,9 @@
+p + p {
+    margin-top: 1em;
+}
+
 body {
-    font-family: 'Fira Sans',
-    sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-weight: 300;
     font-size: 16px;
     line-height: 1.5;
@@ -89,9 +92,12 @@ h1 {
 
 h2 {
     font-size: 1.4em;
-    line-height: 2.438;
+    //line-height: 2.438; has to be readjusted!!!!
     font-weight: 500;
     text-transform: uppercase;
+
+    line-height: 1.4;
+    margin-bottom: 1em;
 }
 
 h3 {
