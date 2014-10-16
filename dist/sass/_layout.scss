@@ -67,7 +67,10 @@ footer {
 
 #sub-nav,
 .cb,
-#main-nav {
+#main-nav,
+.blog-list,
+.blog-post article,
+.blog-post .comments {
     margin: 0 auto;
 }
 
@@ -160,4 +163,8 @@ code {
     display: none;
 }
 
+.centered {
+    text-align: center;
+    display: block;
+}
 

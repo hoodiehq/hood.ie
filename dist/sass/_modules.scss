@@ -1,3 +1,7 @@
+// default height
+$dh : rem-calc(40);
+
+
 .person-bio {
     .grid-3 {
         margin: rem-calc(5 25 0 0);
@@ -19,6 +23,10 @@
             height: rem-calc(175);
         }
     }
+}
+
+.sitemap {
+    padding: rem-calc(35 0 15) !important;
 }
 
 .sitemap-item {
@@ -80,4 +88,257 @@ article li {
     padding-left: rem-calc(25);
     padding-bottom: rem-calc(4);
 }
+
+// landing page
+.index #content {
+    //background-image: none;
+
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 .5vw;
+        align-items: stretch;
+        margin-bottom: rem-calc(16);
+
+        // first row with special height and background
+        &.first div.main {
+            height: 11*$dh;
+            margin-top: 0;
+            background-color: #e94e1b;
+            color: #fff;
+
+
+            h3 {
+                font-size: rem-calc(26);
+                text-align: center;
+                margin-left: rem-calc(-18);
+                margin-bottom: rem-calc(20);
+            }
+
+            p {
+                font-size: rem-calc(16);
+                line-height: rem-calc(28);
+            }
+
+            a {
+                color: #fff;
+                text-decoration: underline;
+            }
+        }
+
+        &.first div {
+            margin-top: 2.5*$dh;
+            -webkit-border-top-left-radius: rem-calc(12);
+            -webkit-border-top-right-radius: rem-calc(12);
+            -moz-border-radius-topleft: rem-calc(12);
+            -moz-border-radius-topright: rem-calc(12);
+            border-top-left-radius: rem-calc(12);
+            border-top-right-radius: rem-calc(12);
+        }
+
+        // white background
+        &.white div {
+            background-color: #fff;
+        }
+
+        // regular styles
+        div {
+            min-height: $dh;
+            background-color: #fcfcfc;
+            padding: rem-calc(9) rem-calc(8);
+
+            section {
+                padding: rem-calc(15) rem-calc(6);
+
+                h3 {
+                    margin-bottom: rem-calc(9);
+                    text-transform: uppercase;
+                }
+
+                p {
+                    padding-right: rem-calc(7);
+                    margin-bottom: rem-calc(15);
+                    font-size: rem-calc(16);
+                }
+            }
+
+            &.newsletter {
+                padding: rem-calc(0) rem-calc(7);
+            }
+
+
+            // Newsletter
+            input {
+                border: 0 none;
+                color: #404040;
+                font-size: 1.6em;
+                width: 66%;
+                height: $dh;
+
+                &:focus {
+                    outline: none;
+                }
+            }
+        }
+
+        &.last div {
+            -webkit-border-bottom-right-radius: rem-calc(12);
+            -webkit-border-bottom-left-radius: rem-calc(12);
+            -moz-border-radius-bottomright: rem-calc(12);
+            -moz-border-radius-bottomleft: rem-calc(12);
+            border-bottom-right-radius: rem-calc(12);
+            border-bottom-left-radius: rem-calc(12);
+        }
+
+
+
+
+        // special font-styles for index
+        .img-bg h3, .img-bg p {
+            color: #fff;
+        }
+
+        .img-bg h3 {
+            color: #e94e1b;
+        }
+
+        .img-bg a {
+            font-weight: 400;
+        }
+
+
+        // BG-images
+        .merch {
+            background: rgba(0, 0, 0, .7) url('../content_img/index/index_merch.png') 0 0 no-repeat;
+            height: 3*$dh;
+        }
+
+        .feature {
+            background: #fff url('../content_img/index/feature.png') 100% 100% no-repeat;
+        }
+
+        .contribute {
+            background: #fff url('../content_img/index/contribute.jpg') 60% 80% no-repeat;
+            height: 3*$dh;
+        }
+
+        .newsletter {
+            border: 1px solid #ebebeb;
+        }
+
+        .placeholder {
+            background: #fff url('../content_img/index/placeholder.jpg') 60% 50% no-repeat;
+        }
+
+        .orange-box {
+            background-color: #e94e1b !important;
+            color: #fff;
+            text-align: center;
+
+            a {
+                color: #fff;
+                margin-left: rem-calc(-15);
+            }
+            img {
+                margin: rem-calc(14 0 5 -15);
+            }
+        }
+
+        .center {
+            text-align: center;
+            margin-left: rem-calc(-14);
+        }
+
+
+        // special grid for index
+        .grid-3 {
+            width: 33%;
+            max-width: rem-calc(250);
+            margin-right: rem-calc(7);
+
+            &:nth-child(3n) {
+                margin-right: 0;
+            }
+
+            section {
+            }
+        }
+
+        .grid-6 {
+            width: 67%;
+            max-width: rem-calc(524);
+            margin-right: 0;
+        }
+
+        .grid-9 {
+            width: 100%;
+            max-width: rem-calc(815);
+            margin-right: 0;
+        }
+
+        .m-l {
+            margin-left: rem-calc(6);
+            margin-right: 0;
+        }
+    }
+
+// animation @todo needs to be fixed (!)
+    #logo-animation {
+        position: absolute;
+        top: rem-calc(140);
+        width: rem-calc(830);
+        text-align: center;
+
+        &.animate .letter {
+          opacity: 1;
+          transform: scale(1);
+        }
+
+        .letter {
+          opacity: 0;
+          transform: scale(.1);
+          transform-origin: center center;
+          -webkit-transition: all 500ms cubic-bezier(.175, .885, .320, 1); /* older webkit */
+          -webkit-transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
+             -moz-transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
+               -o-transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
+                  transition: all 500ms cubic-bezier(.175, .885, .320, 1.275); /* easeOutBack */
+
+          &:nth-child(2) {
+            transition-delay: .1s;
+          }
+
+          &:nth-child(3) {
+            transition-delay: .2s;
+          }
+
+          &:nth-child(4) {
+            transition-delay: .3s;
+          }
+
+          &:nth-child(5) {
+            transition-delay: .4s;
+          }
+          &:nth-child(6) {
+            transition-delay: .4s;
+          }
+        }
+
+    }
+
+}
+
+@keyframes kaboom {
+  0% {
+    opacity: 0;
+    transform: scale(.1);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+
 

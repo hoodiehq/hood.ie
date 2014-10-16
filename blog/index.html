@@ -3,17 +3,22 @@ layout: default-gray
 title: hood.ie blog
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.content | truncatewords:40}}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="blog blog-list grid-9">
+    {% for post in site.posts %}
+        <article class="blog-post-excerpt">
+            <h1>
+                <a class="blog-post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </h1>
+            <div class="blog-meta">
+                <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
+                    <span>{{ post.date | date: "%B %d, %Y" }}
+                </time>
+                </span> posted by <span>{{ post.author }}</span>
+            </div>
+            <div class="entry">
+                {{ post.content | truncatewords:30}}
+            </div>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="blog-post-link-more">Read More</a>
+        </article>
+    {% endfor %}
 </div>
