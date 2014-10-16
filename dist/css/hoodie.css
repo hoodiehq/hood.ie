@@ -56,7 +56,8 @@ footer {
 
 #logo {
   left: 1.25rem;
-  top: 1.25rem; }
+  top: 1.25rem;
+  z-index: 2; }
 
 #meta-nav {
   right: 1.875rem;
