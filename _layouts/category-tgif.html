@@ -1,0 +1,17 @@
+---
+layout: default-green
+---
+
+<section class="cb category">
+    <h1>All pages inside category: TGIF</h1>
+
+    {% unless page.content == '' %}
+      <p>{{ page.content }}</p>
+    {% endunless %}
+
+    {% for post in site.categories.[page.type] %}
+        <ul>
+            <li>Posted on {{ post.date | date: "%B %e, %Y" }} by {{ post.author }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
+        </ul>
+    {% endfor %}
+</section>

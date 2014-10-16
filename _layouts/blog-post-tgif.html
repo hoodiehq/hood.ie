@@ -4,23 +4,26 @@
     <body class="gray">
         {% include header.html %}
         <div id="content" class="blog blog-post">
-            <article class="grid-9">
-                <h1>{{ page.title }}</h1>
-                <div class="blog-meta">
-                    <time>
-                        {{ page.date | date: "%B %e, %Y" }}
-                    </time>
-                    <span>posted by {{ page.author }}</span>
+            <section class="cb">
+                <article>
+                    <h1>{{ page.title }}</h1>
+                    <div class="blog-meta">
+                        <time>
+                            {{ page.date | date: "%B %e, %Y" }}
+                        </time>
+                        <span>posted by {{ page.author }}</span>
+                        <span class=""> in <strong><a href="/blog/tgif/">{{ page.categories | join '' }}</a></strong></span>
+                    </div>
+                    {{ content }}
+                    <hr class="blog-post-end" />
+                    <span class="centered blog-greetings">Have a nice weekend!</span>
+                </article>
+                <div class="comments grid-9">
+                    {% if page.comments %}
+                        {% include disqus.html %}
+                    {% endif %}
                 </div>
-                {{ content }}
-                <hr class="blog-post-end" />
-                <span class="centered blog-greetings">Have a nice weekend!</span>
-            </article>
-            <div class="comments grid-9">
-                {% if page.comments %}
-                    {% include disqus.html %}
-                {% endif %}
-            </div>
+            </section>
         </div>
         {% include footer.html %}
     </body>

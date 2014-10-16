@@ -1,9 +1,11 @@
 ---
+
 layout: blog-post-tgif
 date: 2014-10-10
 author: Julia & Lena
 title: 'Trouble and feminist killjoys: TGIF! (48)'
 comments: true
+categories: 'TGIF WEEKLY READING RECOMMENDATIONS'
 ---
 
 Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and here are our reading recommendations, curated for you by [Julia](http://twitter.com/juschm) and [Lena](http://twitter.com/lrnrd) for your weekend. Enjoy!

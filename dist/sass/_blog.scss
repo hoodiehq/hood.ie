@@ -17,6 +17,7 @@
         line-height: 1.38;
         margin-bottom: rem-calc(16);
         margin-top: rem-calc(40);
+        padding-left: 0;
     }
 
     p {
@@ -72,6 +73,7 @@
 
     article {
         margin-bottom: rem-calc(60);
+        @extend %n;
 
         > p:first-of-type {
             font-style: italic;
@@ -89,10 +91,6 @@
     text-decoration: underline;
     font-weight: 500;
     text-transform: uppercase;
-}
-
-.blog-post-excerpt {
-    margin-bottom: rem-calc(80);
 }
 
 .blog .blog-post-end {

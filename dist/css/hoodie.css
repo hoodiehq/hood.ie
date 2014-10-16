@@ -133,6 +133,9 @@ code {
 .r {
   float: right; }
 
+.blog-post article {
+  float: none; }
+
 .hide {
   display: none; }
 
@@ -561,7 +564,8 @@ article li {
 .blog h2 {
   line-height: 1.38;
   margin-bottom: 1rem;
-  margin-top: 2.5rem; }
+  margin-top: 2.5rem;
+  padding-left: 0; }
 .blog p {
   margin-bottom: 1rem; }
 .blog .entry {
@@ -611,9 +615,6 @@ article li {
   font-weight: 500;
   text-transform: uppercase; }
 
-.blog-post-excerpt {
-  margin-bottom: 5rem; }
-
 .blog .blog-post-end {
   margin-top: 5rem; }
 
@@ -621,6 +622,9 @@ article li {
   font-weight: 500;
   font-size: 1.125em;
   font-style: italic; }
+
+.category h2 {
+  padding-left: 0; }
 
 img {
   max-width: 100%; }

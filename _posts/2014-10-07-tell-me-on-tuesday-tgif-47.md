@@ -1,9 +1,12 @@
 ---
+
 layout: blog-post-tgif
 date: 2014-10-07
-author: Julia & Lena
+author: 'Julia & Lena'
 comments: true
 title: 'Tell me on a Tuesday: TGIF(47)'
+categories:
+- TGIF WEEKLY READING RECOMMENDATIONS
 ---
 
 Thank Grohl, Gauss, Glob, Galileo and Science it’s … well, not Friday this time. But, hey, it’s Tuesday, this is also a good day, and we really hope you’re having a great week so far. To make it even a bit better, here are our reading recommendations, curated for you by [Julia](http://twitter.com/juschm) and [Lena](http://twitter.com/lrnrd), for your <del>weekend or a</del> lazy afternoon. Enjoy!
