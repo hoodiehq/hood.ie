@@ -5,6 +5,7 @@ title: hood.ie blog
 
 <div class="blog blog-list grid-9">
     {% for post in site.posts %}
+        <section class="cb">
         <article class="blog-post-excerpt">
             <h1>
                 <a class="blog-post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -20,5 +21,6 @@ title: hood.ie blog
             </div>
           <a href="{{ site.baseurl }}{{ post.url }}" class="blog-post-link-more">Read More</a>
         </article>
+        </section>
     {% endfor %}
 </div>
