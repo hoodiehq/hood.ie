@@ -216,7 +216,8 @@ $gray-6: #fdfdfd;
 ### helper
 **.hide**   // display:none <br />
 **.l**      // float: left <br />
-**.r**      // float: right
+**.r**      // float: right <br />
+**.n**      // float: none
 
 ### modules
 **#api-nav** 3rd LVL navigation for API and documentation
