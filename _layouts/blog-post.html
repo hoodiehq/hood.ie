@@ -12,6 +12,7 @@
                             {{ page.date | date: "%B %e, %Y" }}
                         </time>
                         <span>posted by {{ page.author }}</span>
+                        <span class=""> in <strong>{{ page.categories | join '' }}</strong></span>
                     </div>
                     {{ content }}
                 </article>
