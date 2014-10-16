@@ -86,7 +86,8 @@ footer {
 
 .cb {
     @extend %cf;
-    width: rem-calc(830);
+    width: 100%;
+    max-width: rem-calc(830);
     padding: rem-calc(35 0 50);
 
     &.teaser {
@@ -94,12 +95,14 @@ footer {
     }
 
     article {
-        width: rem-calc(600);
+        width: 100%;
+        max-width: rem-calc(600);
         float: left;
     }
 
     aside {
-        width: rem-calc(180);
+        width: 100%;
+        max-width: rem-calc(180);
         float: left;
         margin-right: rem-calc(50);
     }
