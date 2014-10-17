@@ -1,0 +1,117 @@
+---
+
+layout: default-yellow
+title: hood.ie IRC
+
+---
+
+<div class="box">
+    <section class="cb teaser">
+        <h1>IRC</h1>
+        <aside>
+            <br />
+        </aside>
+        <article>
+            <p>
+                Welcome to <a href="irc://irc.freenode.net/#hoodie">#hoodie!</a><br />
+                We run a community chat channel on the <a href="http://freenode.net" title="About the Freenode Network">Freenode IRC network</a>. Our channel name is <a href="irc://irc.freenode.net/#hoodie">#hoodie</a>.
+            </p>
+        </article>
+    </section>
+</div>
+
+<div class="box">
+    <section class="cb">
+        <h2>These are the guidelines:</h2>
+        <aside>
+           <br />
+        </aside>
+        <article class="grid-9">
+             <p>
+                 We're a small team and can't always be here, but we still want to make it easy to get in touch with us. We're usually here on weekdays between <strong>14:00 CET</strong> and <strong>18:00 CET</strong>.<span class="offsetMessage"></span>
+             </p>
+             <p>We also have an <a href="http://faq.hood.ie">FAQ</a> for the most common questions. We also have special pages for <a href="/bug">Bug Reports</a> and various resources where you can <a href="/get-help">get help</a>. And, in general, we’re of course on the internet™ – you’ll find all the places where we are on <a href="/contact">our contact page</a>.</p>
+        </article>
+    </section>
+</div>
+<script>
+    (function(window,undefined){
+      var d = new Date();
+
+      var localTime = d.getTime();
+
+      var localOffset = d.getTimezoneOffset() * 60000;
+
+      var utc = localTime + localOffset;
+
+      var offset = 1;
+
+      var calculateWait = function(dst){
+        if (parseInt(dst, 10) === 1) {
+          offset += 1;
+        }
+
+        var absoluteOffset = localOffset/60000/60 + offset;
+        var berlin = utc + (3600000*offset);
+
+        var nd = new Date(berlin);
+        var startTime = 14;
+        var endTime = 18;
+        var message = "";
+        var getHourString = function(hours, prefix){
+          if(!prefix){
+            prefix = "";
+          }
+          if(hours > 1){
+            return hours+prefix+" hours";
+          }
+          if(hours === 1){
+            return hours+prefix+" hour";
+          }
+        };
+        if(absoluteOffset > 0 ){
+          message = " It's "+getHourString(absoluteOffset)+" later here, ";
+        }
+        if(absoluteOffset === 0 ){
+          message = " You're in the same time zone as we are, ";
+        }
+        if(absoluteOffset < 0 ){
+          message = " It's "+getHourString(absoluteOffset*-1)+" earlier here, ";
+        }
+        if(nd.getDay() < 6){
+          if(nd.getHours() < startTime){
+            message += " so we'll be here in about "+getHourString( startTime - nd.getHours())+ ".";
+          }
+
+          if(nd.getHours() >= startTime && nd.getHours() < endTime){
+            message += " so we'll be around for about "+getHourString( endTime - nd.getHours(), " more ")+".";
+          }
+
+          if(nd.getHours() >= endTime){
+            // Sunday to Thursday, there's a one-day wait
+            var daysTilNextWorkdayStartTime = 1;
+            if (nd.getDay() === 5 || nd.getDay() === 6){
+              message = " That means we'll be back after the weekend.";
+            } else {
+              message += " so we should be back in roughly "+getHourString( startTime - nd.getHours() + 24)+ ".";
+            }
+          }
+        } else {
+          message = " It's a weekend though, so we're probably not in right now.";
+        }
+
+        $('.offsetMessage').text(message);
+      }
+
+      $.ajax({
+        url: "http://api.timezonedb.com/?lat=52.499504&lon=13.4191&format=json&key=ARQ25LY95DS0",
+        crossDomain: true,
+        dataType: 'jsonp'
+      })
+      .done(function( data ) {
+        calculateWait(data.dst);
+      });
+    })(window);
+  </script>
+
+
