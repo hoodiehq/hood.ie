@@ -1,0 +1,32 @@
+.sitemap {
+    padding: rem-calc(35 0 15) !important;
+}
+
+.sitemap-item {
+    width: rem-calc(260);
+    margin-right: rem-calc(25);
+    font-size: .938em;
+    line-height: 1.6;
+    padding-bottom: rem-calc(25);
+
+    &:last-child {
+        margin-right: 0;
+    }
+}
+
+.footer-licensing {
+    color: #fff;
+    font-size: rem-calc(14);
+    a {
+        color: #fff;
+        font-style: italic;
+    }
+}
+
+.indented {
+    text-indent: .5em;
+    &:before {
+        content: "- ";
+        color: #fff;
+    }
+}
