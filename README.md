@@ -28,7 +28,7 @@ Save it as name.sublime-snippet. After you've done that restart Sublime Text. No
 
 ## gh-pages branch
 
-This branch will be developed parallel to the main brach to set up the page structure and functionality. To start your local Jekyll environment just follow this guide: [https://help.github.com/articles/using-jekyll-with-pages/](https://help.github.com/articles/using-jekyll-with-pages/ title="github pages and jekyll").
+This branch will be developed parallel to the main branch to set up the page structure and functionality. To start the local Jekyll environment just follow this guide: [http://jekyllrb.com/docs/installation/](http://jekyllrb.com/docs/installation/). Inside the project folder type `jekyll serve --watch`. Afterwards the hood.ie website should be available for you on localhost:4000.
 
 
 ## How to use
