@@ -311,7 +311,7 @@ a {
 
 .sub-nav {
   font-size: 0.938em; }
-  .sub-nav li {
+  .sub-nav .sub-nav-list-item {
     margin-right: 0.5625rem; }
 
 .nav, .sub-nav {
@@ -320,10 +320,10 @@ a {
 a:hover, .active {
   text-decoration: underline; }
 
-.nav a, .meta-nav li {
+.nav a, .meta-nav .meta-nav-list-item {
   margin-right: 0.5625rem; }
 
-.nav a:last-child, .sub-nav li:last-child, .meta-nav li:last-child {
+.nav a:last-child, .sub-nav .sub-nav-list-item:last-child, .meta-nav .meta-nav-list-item:last-child {
   margin-right: 0; }
 
 aside {

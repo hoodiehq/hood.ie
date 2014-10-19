@@ -84,7 +84,7 @@ a {
 .sub-nav {
     font-size: .938em;
 
-    li {
+    .sub-nav-list-item {
         margin-right: rem-calc(9);
     }
 }
@@ -100,13 +100,13 @@ a:hover,
 }
 
 .nav a,
-.meta-nav li {
+.meta-nav .meta-nav-list-item {
     margin-right: rem-calc(9);
 }
 
 .nav a:last-child,
-.sub-nav li:last-child,
-.meta-nav li:last-child {
+.sub-nav .sub-nav-list-item:last-child,
+.meta-nav .meta-nav-list-item:last-child {
     margin-right: 0;
 }
 
