@@ -109,10 +109,10 @@ $gray-6: #fdfdfd;
 </header>
 ````
 
-**#main-nav** header with main navigation / middle
+**.main-nav** header with main navigation / middle
 ````
 <header>
-    <nav id="main-nav">
+    <nav class="main-nav">
 </header>
 ````
 

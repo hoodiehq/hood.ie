@@ -12,7 +12,7 @@
 }
 
 section,
-#main-nav,
+.main-nav,
 .sub-nav {
     width: 100%;
 }
@@ -42,7 +42,7 @@ footer {
     top: rem-calc(25);
 }
 
-#main-nav {
+.main-nav {
     top: rem-calc(25);
 }
 
@@ -60,7 +60,7 @@ footer {
 
 // header section { div, nav, ul { float: left; } }
 
-#main-nav,
+.main-nav,
 #meta-nav,
 #logo {
     display: inline-block;
@@ -68,7 +68,7 @@ footer {
 
 .sub-nav,
 .cb,
-#main-nav,
+.main-nav,
 .blog-list,
 .blog-post article,
 .blog-post .comments {
@@ -78,7 +78,7 @@ footer {
 
 #nav,
 #logo,
-#main-nav,
+.main-nav,
 #meta-nav,
 .sub-nav {
     position: absolute;

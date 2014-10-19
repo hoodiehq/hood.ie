@@ -41,7 +41,7 @@ table {
 .cb:after, .friends:after {
   clear: both; }
 
-section, #main-nav, .sub-nav {
+section, .main-nav, .sub-nav {
   width: 100%; }
 
 header section li, header section a {
@@ -63,7 +63,7 @@ footer {
   right: 1.875rem;
   top: 1.5625rem; }
 
-#main-nav {
+.main-nav {
   top: 1.5625rem; }
 
 .sub-nav {
@@ -75,13 +75,13 @@ footer {
 #logo, #meta-nav {
   width: 14.375rem; }
 
-#main-nav, #meta-nav, #logo {
+.main-nav, #meta-nav, #logo {
   display: inline-block; }
 
-.sub-nav, .cb, #main-nav, .blog-list, .blog-post article, .blog-post .comments {
+.sub-nav, .cb, .main-nav, .blog-list, .blog-post article, .blog-post .comments {
   margin: 0 auto; }
 
-#nav, #logo, #main-nav, #meta-nav, .sub-nav {
+#nav, #logo, .main-nav, #meta-nav, .sub-nav {
   position: absolute; }
 
 .cb {
@@ -160,7 +160,7 @@ aside {
 .sub-nav a {
   color: #606060; }
 
-#main-nav a, .sub-nav a, #meta-nav a {
+.main-nav a, .sub-nav a, #meta-nav a {
   color: #fff !important; }
 
 .cb aside a {
@@ -300,13 +300,13 @@ h6 {
   font-size: 0.875em;
   line-height: 1.6; }
 
-.sub-nav, #main-nav {
+.sub-nav, .main-nav {
   text-align: center; }
 
 #meta-nav {
   text-align: right; }
 
-#meta-nav, #main-nav {
+#meta-nav, .main-nav {
   font-size: 1.094em; }
 
 .sub-nav {
