@@ -8,7 +8,9 @@ body {
 h1,
 .h1 {
     font-size: 2.25em;
-    line-height: 2.25;
+    line-height: 1.363;
+    margin-bottom: rem-calc(20);
+    // line-height: 2.25;
     font-weight: 500;
 }
 
@@ -61,6 +63,10 @@ small {
 
 em {
     font-style: italic;
+}
+
+strong {
+    font-weight: 500;
 }
 
 a {
@@ -136,12 +142,6 @@ aside {
             line-height: 2.55;
         }
     }
-}
-
-
-
-strong {
-    font-weight: 500;
 }
 
 article figure {
