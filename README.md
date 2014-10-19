@@ -102,10 +102,10 @@ $gray-6: #fdfdfd;
 </header>
 ````
 
-**#logo** header with logo position / left**
+**.logo** header with logo position / left**
 ````
 <header>
-    <div id="logo"></div>
+    <div class="logo"></div>
 </header>
 ````
 

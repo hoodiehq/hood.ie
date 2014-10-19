@@ -54,7 +54,7 @@ footer {
 .nav {
   height: 4.0625rem; }
 
-#logo {
+.logo {
   left: 1.25rem;
   top: 1.25rem;
   z-index: 2; }
@@ -72,16 +72,16 @@ footer {
   padding-bottom: 0.3125rem;
   height: 1.5rem; }
 
-#logo, .meta-nav {
+.logo, .meta-nav {
   width: 14.375rem; }
 
-.main-nav, .meta-nav, #logo {
+.main-nav, .meta-nav, .logo {
   display: inline-block; }
 
 .sub-nav, .cb, .main-nav, .blog-list, .blog-post article, .blog-post .comments {
   margin: 0 auto; }
 
-.nav, #logo, .main-nav, .meta-nav, .sub-nav {
+.nav, .logo, .main-nav, .meta-nav, .sub-nav {
   position: absolute; }
 
 .cb {
