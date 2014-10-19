@@ -41,7 +41,7 @@ table {
 .cb:after, .friends:after {
   clear: both; }
 
-section, #main-nav, #sub-nav {
+section, #main-nav, .sub-nav {
   width: 100%; }
 
 header section li, header section a {
@@ -66,7 +66,7 @@ footer {
 #main-nav {
   top: 1.5625rem; }
 
-#sub-nav {
+.sub-nav {
   top: 4.0625rem;
   padding-top: 0.5rem;
   padding-bottom: 0.3125rem;
@@ -78,10 +78,10 @@ footer {
 #main-nav, #meta-nav, #logo {
   display: inline-block; }
 
-#sub-nav, .cb, #main-nav, .blog-list, .blog-post article, .blog-post .comments {
+.sub-nav, .cb, #main-nav, .blog-list, .blog-post article, .blog-post .comments {
   margin: 0 auto; }
 
-#nav, #logo, #main-nav, #meta-nav, #sub-nav {
+#nav, #logo, #main-nav, #meta-nav, .sub-nav {
   position: absolute; }
 
 .cb {
@@ -157,7 +157,7 @@ aside {
 .box:nth-child(even) {
   background-color: #fefefe; }
 
-#sub-nav a {
+.sub-nav a {
   color: #606060; }
 
 #main-nav a, .sub-nav a, #meta-nav a {
@@ -182,7 +182,7 @@ article figure figcaption {
   background-color: #e94e1b; }
 .orange #footer li a {
   color: #fff !important; }
-.orange #sub-nav {
+.orange .sub-nav {
   background-color: #f9c4b3; }
 
 .blue #content {
@@ -195,7 +195,7 @@ article figure figcaption {
   background-color: #312783; }
 .blue #footer li a {
   color: #fff !important; }
-.blue #sub-nav {
+.blue .sub-nav {
   background-color: #bfbcd8; }
 
 .green #content {
@@ -208,7 +208,7 @@ article figure figcaption {
   background-color: #0b8e36; }
 .green #footer li a {
   color: #fff !important; }
-.green #sub-nav {
+.green .sub-nav {
   background-color: #a9d6b8; }
 
 .yellow #content {
@@ -221,7 +221,7 @@ article figure figcaption {
   background-color: #f9b233; }
 .yellow #footer li a {
   color: #fff !important; }
-.yellow #sub-nav {
+.yellow .sub-nav {
   background-color: #fce3b6; }
 
 .gray #content {
@@ -234,7 +234,7 @@ article figure figcaption {
   background-color: #282828; }
 .gray #footer li a {
   color: #fff !important; }
-.gray #sub-nav {
+.gray .sub-nav {
   background-color: #b3b3b3; }
 
 .lilac #content {
@@ -247,7 +247,7 @@ article figure figcaption {
   background-color: #520644; }
 .lilac #footer li a {
   color: #fff !important; }
-.lilac #sub-nav {
+.lilac .sub-nav {
   background-color: #c1a7bc; }
 
 #api-nav li a {
@@ -262,50 +262,16 @@ body {
   font-size: 16px;
   line-height: 1.5; }
 
-#sub-nav, #main-nav {
-  text-align: center; }
+small {
+  font-size: 0.8em;
+  line-height: 1.3;
+  display: inline-block; }
 
-#meta-nav {
-  text-align: right; }
-
-#meta-nav, #main-nav {
-  font-size: 1.094em; }
-
-#sub-nav {
-  font-size: 0.938em; }
-  #sub-nav li {
-    margin-right: 0.5625rem; }
-
-#nav, #sub-nav {
-  text-transform: uppercase; }
+em {
+  font-style: italic; }
 
 a {
   text-decoration: none; }
-
-a:hover, .active {
-  text-decoration: underline; }
-
-#nav a, #meta-nav li {
-  margin-right: 0.5625rem; }
-
-#nav a:last-child, #sub-nav li:last-child, #meta-nav li:last-child {
-  margin-right: 0; }
-
-aside {
-  text-align: right; }
-
-.cb p, .cb article li {
-  font-size: 1.2em;
-  line-height: 1.8; }
-.cb aside {
-  font-size: 1.1em;
-  line-height: 2.65; }
-.cb.teaser p {
-  font-size: 1.7em;
-  line-height: 1.8; }
-.cb.teaser aside {
-  font-size: 1.2em;
-  line-height: 2.55; }
 
 h1 {
   font-size: 2.25em;
@@ -333,6 +299,48 @@ h5 {
 h6 {
   font-size: 0.875em;
   line-height: 1.6; }
+
+.sub-nav, #main-nav {
+  text-align: center; }
+
+#meta-nav {
+  text-align: right; }
+
+#meta-nav, #main-nav {
+  font-size: 1.094em; }
+
+.sub-nav {
+  font-size: 0.938em; }
+  .sub-nav li {
+    margin-right: 0.5625rem; }
+
+#nav, .sub-nav {
+  text-transform: uppercase; }
+
+a:hover, .active {
+  text-decoration: underline; }
+
+#nav a, #meta-nav li {
+  margin-right: 0.5625rem; }
+
+#nav a:last-child, .sub-nav li:last-child, #meta-nav li:last-child {
+  margin-right: 0; }
+
+aside {
+  text-align: right; }
+
+.cb p, .cb article li {
+  font-size: 1.2em;
+  line-height: 1.8; }
+.cb aside {
+  font-size: 1.1em;
+  line-height: 2.65; }
+.cb.teaser p {
+  font-size: 1.7em;
+  line-height: 1.8; }
+.cb.teaser aside {
+  font-size: 1.2em;
+  line-height: 2.55; }
 
 strong {
   font-weight: 500; }
@@ -665,13 +673,5 @@ article li {
 
 img {
   max-width: 100%; }
-
-small {
-  font-size: 0.8em;
-  line-height: 1.3;
-  display: inline-block; }
-
-em {
-  font-style: italic; }
 
 /*# sourceMappingURL=hoodie.css.map */

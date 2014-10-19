@@ -123,11 +123,11 @@ $gray-6: #fdfdfd;
 </header>
 ````
 
-**#sub-nav**, hidden with .hide helper
+**.sub-nav**, hidden with .hide helper
 ````
 <header>
     <section class="hide">
-         <ul id="sub-nav">
+         <ul class="sub-nav">
 </header>
 ````
 

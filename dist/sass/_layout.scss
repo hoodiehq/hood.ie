@@ -13,7 +13,7 @@
 
 section,
 #main-nav,
-#sub-nav {
+.sub-nav {
     width: 100%;
 }
 
@@ -46,7 +46,7 @@ footer {
     top: rem-calc(25);
 }
 
-#sub-nav {
+.sub-nav {
     top: rem-calc(65);
     padding-top: rem-calc(8);
     padding-bottom: rem-calc(5);
@@ -66,7 +66,7 @@ footer {
     display: inline-block;
 }
 
-#sub-nav,
+.sub-nav,
 .cb,
 #main-nav,
 .blog-list,
@@ -80,7 +80,7 @@ footer {
 #logo,
 #main-nav,
 #meta-nav,
-#sub-nav {
+.sub-nav {
     position: absolute;
 }
 
