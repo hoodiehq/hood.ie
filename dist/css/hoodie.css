@@ -41,7 +41,7 @@ table {
 .cb:after, .friends:after {
   clear: both; }
 
-section, #main-nav, #sub-nav {
+section, .main-nav, .sub-nav {
   width: 100%; }
 
 header section li, header section a {
@@ -51,37 +51,37 @@ footer {
   padding-top: 5.625rem;
   margin-top: 5.3125rem; }
 
-#nav {
+.nav {
   height: 4.0625rem; }
 
-#logo {
+.logo {
   left: 1.25rem;
   top: 1.25rem;
   z-index: 2; }
 
-#meta-nav {
+.meta-nav {
   right: 1.875rem;
   top: 1.5625rem; }
 
-#main-nav {
+.main-nav {
   top: 1.5625rem; }
 
-#sub-nav {
+.sub-nav {
   top: 4.0625rem;
   padding-top: 0.5rem;
   padding-bottom: 0.3125rem;
   height: 1.5rem; }
 
-#logo, #meta-nav {
+.logo, .meta-nav {
   width: 14.375rem; }
 
-#main-nav, #meta-nav, #logo {
+.main-nav, .meta-nav, .logo {
   display: inline-block; }
 
-#sub-nav, .cb, #main-nav, .blog-list, .blog-post article, .blog-post .comments {
+.sub-nav, .cb, .main-nav, .blog-list, .blog-post article, .blog-post .comments {
   margin: 0 auto; }
 
-#nav, #logo, #main-nav, #meta-nav, #sub-nav {
+.nav, .logo, .main-nav, .meta-nav, .sub-nav {
   position: absolute; }
 
 .cb {
@@ -157,10 +157,10 @@ aside {
 .box:nth-child(even) {
   background-color: #fefefe; }
 
-#sub-nav a {
+.sub-nav a {
   color: #606060; }
 
-#main-nav a, .sub-nav a, #meta-nav a {
+.main-nav a, .sub-nav a, .meta-nav a {
   color: #fff !important; }
 
 .cb aside a {
@@ -178,11 +178,11 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ.png') no-repeat center 0; }
 .orange h1, .orange h2, .orange h4, .orange a {
   color: #e94e1b; }
-.orange #nav, .orange #footer {
+.orange .nav, .orange #footer {
   background-color: #e94e1b; }
 .orange #footer li a {
   color: #fff !important; }
-.orange #sub-nav {
+.orange .sub-nav {
   background-color: #f9c4b3; }
 
 .blue #content {
@@ -191,11 +191,11 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_blue.png') no-repeat center 0; }
 .blue h1, .blue h2, .blue h4, .blue a {
   color: #312783; }
-.blue #nav, .blue #footer {
+.blue .nav, .blue #footer {
   background-color: #312783; }
 .blue #footer li a {
   color: #fff !important; }
-.blue #sub-nav {
+.blue .sub-nav {
   background-color: #bfbcd8; }
 
 .green #content {
@@ -204,11 +204,11 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_green.png') no-repeat center 0; }
 .green h1, .green h2, .green h4, .green a {
   color: #0b8e36; }
-.green #nav, .green #footer {
+.green .nav, .green #footer {
   background-color: #0b8e36; }
 .green #footer li a {
   color: #fff !important; }
-.green #sub-nav {
+.green .sub-nav {
   background-color: #a9d6b8; }
 
 .yellow #content {
@@ -217,11 +217,11 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_yellow.png') no-repeat center 0; }
 .yellow h1, .yellow h2, .yellow h4, .yellow a {
   color: #f9b233; }
-.yellow #nav, .yellow #footer {
+.yellow .nav, .yellow #footer {
   background-color: #f9b233; }
 .yellow #footer li a {
   color: #fff !important; }
-.yellow #sub-nav {
+.yellow .sub-nav {
   background-color: #fce3b6; }
 
 .gray #content {
@@ -230,11 +230,11 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_gray.png') no-repeat center 0; }
 .gray h1, .gray h2, .gray h4, .gray a {
   color: #282828; }
-.gray #nav, .gray #footer {
+.gray .nav, .gray #footer {
   background-color: #282828; }
 .gray #footer li a {
   color: #fff !important; }
-.gray #sub-nav {
+.gray .sub-nav {
   background-color: #b3b3b3; }
 
 .lilac #content {
@@ -243,14 +243,14 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_lilac.png') no-repeat center 0; }
 .lilac h1, .lilac h2, .lilac h4, .lilac a {
   color: #520644; }
-.lilac #nav, .lilac #footer {
+.lilac .nav, .lilac #footer {
   background-color: #520644; }
 .lilac #footer li a {
   color: #fff !important; }
-.lilac #sub-nav {
+.lilac .sub-nav {
   background-color: #c1a7bc; }
 
-#api-nav li a {
+.api-nav li a {
   color: #312783; }
 
 p + p {
@@ -262,50 +262,16 @@ body {
   font-size: 16px;
   line-height: 1.5; }
 
-#sub-nav, #main-nav {
-  text-align: center; }
+small {
+  font-size: 0.8em;
+  line-height: 1.3;
+  display: inline-block; }
 
-#meta-nav {
-  text-align: right; }
-
-#meta-nav, #main-nav {
-  font-size: 1.094em; }
-
-#sub-nav {
-  font-size: 0.938em; }
-  #sub-nav li {
-    margin-right: 0.5625rem; }
-
-#nav, #sub-nav {
-  text-transform: uppercase; }
+em {
+  font-style: italic; }
 
 a {
   text-decoration: none; }
-
-a:hover, .active {
-  text-decoration: underline; }
-
-#nav a, #meta-nav li {
-  margin-right: 0.5625rem; }
-
-#nav a:last-child, #sub-nav li:last-child, #meta-nav li:last-child {
-  margin-right: 0; }
-
-aside {
-  text-align: right; }
-
-.cb p, .cb article li {
-  font-size: 1.2em;
-  line-height: 1.8; }
-.cb aside {
-  font-size: 1.1em;
-  line-height: 2.65; }
-.cb.teaser p {
-  font-size: 1.7em;
-  line-height: 1.8; }
-.cb.teaser aside {
-  font-size: 1.2em;
-  line-height: 2.55; }
 
 h1 {
   font-size: 2.25em;
@@ -334,6 +300,48 @@ h6 {
   font-size: 0.875em;
   line-height: 1.6; }
 
+.sub-nav, .main-nav {
+  text-align: center; }
+
+.meta-nav {
+  text-align: right; }
+
+.meta-nav, .main-nav {
+  font-size: 1.094em; }
+
+.sub-nav {
+  font-size: 0.938em; }
+  .sub-nav li {
+    margin-right: 0.5625rem; }
+
+.nav, .sub-nav {
+  text-transform: uppercase; }
+
+a:hover, .active {
+  text-decoration: underline; }
+
+.nav a, .meta-nav li {
+  margin-right: 0.5625rem; }
+
+.nav a:last-child, .sub-nav li:last-child, .meta-nav li:last-child {
+  margin-right: 0; }
+
+aside {
+  text-align: right; }
+
+.cb p, .cb article li {
+  font-size: 1.2em;
+  line-height: 1.8; }
+.cb aside {
+  font-size: 1.1em;
+  line-height: 2.65; }
+.cb.teaser p {
+  font-size: 1.7em;
+  line-height: 1.8; }
+.cb.teaser aside {
+  font-size: 1.2em;
+  line-height: 2.55; }
+
 strong {
   font-weight: 500; }
 
@@ -350,7 +358,7 @@ input, textarea {
   font-weight: 300;
   font-family: "Fira Sans"; }
 
-#api-nav {
+.api-nav {
   font-size: 1.1em;
   line-height: 1.8; }
 
@@ -368,7 +376,7 @@ input, textarea {
     text-align: left;
     height: 10.9375rem; }
 
-#api-nav {
+.api-nav {
   position: absolute;
   top: 21.6875rem;
   width: 12.5rem;
@@ -377,7 +385,7 @@ input, textarea {
   margin-left: 13.75rem;
   background-color: #fefefe;
   border-radius: 0.75rem; }
-  #api-nav ul {
+  .api-nav ul {
     margin-bottom: 2.1875rem; }
 
 code {
@@ -665,13 +673,5 @@ article li {
 
 img {
   max-width: 100%; }
-
-small {
-  font-size: 0.8em;
-  line-height: 1.3;
-  display: inline-block; }
-
-em {
-  font-style: italic; }
 
 /*# sourceMappingURL=hoodie.css.map */

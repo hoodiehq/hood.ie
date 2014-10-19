@@ -102,32 +102,32 @@ $gray-6: #fdfdfd;
 </header>
 ````
 
-**#logo** header with logo position / left**
+**.logo** header with logo position / left**
 ````
 <header>
-    <div id="logo"></div>
+    <div class="logo"></div>
 </header>
 ````
 
-**#main-nav** header with main navigation / middle
+**.main-nav** header with main navigation / middle
 ````
 <header>
-    <nav id="main-nav">
+    <nav class="main-nav">
 </header>
 ````
 
-**#meta-nav** header with meta navigation / right
+**.meta-nav** header with meta navigation / right
 ````
 <header>
-    <ul id="meta-nav">
+    <ul class="meta-nav">
 </header>
 ````
 
-**#sub-nav**, hidden with .hide helper
+**.sub-nav**, hidden with .hide helper
 ````
 <header>
     <section class="hide">
-         <ul id="sub-nav">
+         <ul class="sub-nav">
 </header>
 ````
 
@@ -220,9 +220,9 @@ $gray-6: #fdfdfd;
 **.n**      // float: none
 
 ### modules
-**#api-nav** 3rd LVL navigation for API and documentation
+**.api-nav** 3rd LVL navigation for API and documentation
 ````
-<section id="api-nav">
+<section class="api-nav">
     <ul>
 ````
 
