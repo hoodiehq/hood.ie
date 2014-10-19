@@ -51,7 +51,7 @@ footer {
   padding-top: 5.625rem;
   margin-top: 5.3125rem; }
 
-#nav {
+.nav {
   height: 4.0625rem; }
 
 #logo {
@@ -81,7 +81,7 @@ footer {
 .sub-nav, .cb, .main-nav, .blog-list, .blog-post article, .blog-post .comments {
   margin: 0 auto; }
 
-#nav, #logo, .main-nav, .meta-nav, .sub-nav {
+.nav, #logo, .main-nav, .meta-nav, .sub-nav {
   position: absolute; }
 
 .cb {
@@ -178,7 +178,7 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ.png') no-repeat center 0; }
 .orange h1, .orange h2, .orange h4, .orange a {
   color: #e94e1b; }
-.orange #nav, .orange #footer {
+.orange .nav, .orange #footer {
   background-color: #e94e1b; }
 .orange #footer li a {
   color: #fff !important; }
@@ -191,7 +191,7 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_blue.png') no-repeat center 0; }
 .blue h1, .blue h2, .blue h4, .blue a {
   color: #312783; }
-.blue #nav, .blue #footer {
+.blue .nav, .blue #footer {
   background-color: #312783; }
 .blue #footer li a {
   color: #fff !important; }
@@ -204,7 +204,7 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_green.png') no-repeat center 0; }
 .green h1, .green h2, .green h4, .green a {
   color: #0b8e36; }
-.green #nav, .green #footer {
+.green .nav, .green #footer {
   background-color: #0b8e36; }
 .green #footer li a {
   color: #fff !important; }
@@ -217,7 +217,7 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_yellow.png') no-repeat center 0; }
 .yellow h1, .yellow h2, .yellow h4, .yellow a {
   color: #f9b233; }
-.yellow #nav, .yellow #footer {
+.yellow .nav, .yellow #footer {
   background-color: #f9b233; }
 .yellow #footer li a {
   color: #fff !important; }
@@ -230,7 +230,7 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_gray.png') no-repeat center 0; }
 .gray h1, .gray h2, .gray h4, .gray a {
   color: #282828; }
-.gray #nav, .gray #footer {
+.gray .nav, .gray #footer {
   background-color: #282828; }
 .gray #footer li a {
   color: #fff !important; }
@@ -243,7 +243,7 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_lilac.png') no-repeat center 0; }
 .lilac h1, .lilac h2, .lilac h4, .lilac a {
   color: #520644; }
-.lilac #nav, .lilac #footer {
+.lilac .nav, .lilac #footer {
   background-color: #520644; }
 .lilac #footer li a {
   color: #fff !important; }
@@ -314,16 +314,16 @@ h6 {
   .sub-nav li {
     margin-right: 0.5625rem; }
 
-#nav, .sub-nav {
+.nav, .sub-nav {
   text-transform: uppercase; }
 
 a:hover, .active {
   text-decoration: underline; }
 
-#nav a, .meta-nav li {
+.nav a, .meta-nav li {
   margin-right: 0.5625rem; }
 
-#nav a:last-child, .sub-nav li:last-child, .meta-nav li:last-child {
+.nav a:last-child, .sub-nav li:last-child, .meta-nav li:last-child {
   margin-right: 0; }
 
 aside {

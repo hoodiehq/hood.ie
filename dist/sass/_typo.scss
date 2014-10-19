@@ -80,7 +80,7 @@ h6 {
     }
 }
 
-#nav,
+.nav,
 .sub-nav {
     text-transform: uppercase;
 }
@@ -90,12 +90,12 @@ a:hover,
     text-decoration: underline;
 }
 
-#nav a,
+.nav a,
 .meta-nav li {
     margin-right: rem-calc(9);
 }
 
-#nav a:last-child,
+.nav a:last-child,
 .sub-nav li:last-child,
 .meta-nav li:last-child {
     margin-right: 0;
