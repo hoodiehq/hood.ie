@@ -37,7 +37,7 @@ footer {
     z-index: 2;
 }
 
-#meta-nav {
+.meta-nav {
     right: rem-calc(30);
     top: rem-calc(25);
 }
@@ -54,14 +54,14 @@ footer {
 }
 
 #logo,
-#meta-nav {
+.meta-nav {
     width: rem-calc(230);
 }
 
 // header section { div, nav, ul { float: left; } }
 
 .main-nav,
-#meta-nav,
+.meta-nav,
 #logo {
     display: inline-block;
 }
@@ -79,7 +79,7 @@ footer {
 #nav,
 #logo,
 .main-nav,
-#meta-nav,
+.meta-nav,
 .sub-nav {
     position: absolute;
 }

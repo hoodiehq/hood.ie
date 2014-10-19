@@ -116,10 +116,10 @@ $gray-6: #fdfdfd;
 </header>
 ````
 
-**#meta-nav** header with meta navigation / right
+**.meta-nav** header with meta navigation / right
 ````
 <header>
-    <ul id="meta-nav">
+    <ul class="meta-nav">
 </header>
 ````
 

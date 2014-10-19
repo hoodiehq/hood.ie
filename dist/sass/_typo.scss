@@ -63,11 +63,11 @@ h6 {
     text-align: center;
 }
 
-#meta-nav {
+.meta-nav {
     text-align: right;
 }
 
-#meta-nav,
+.meta-nav,
 .main-nav {
     font-size: 1.094em;
 }
@@ -91,13 +91,13 @@ a:hover,
 }
 
 #nav a,
-#meta-nav li {
+.meta-nav li {
     margin-right: rem-calc(9);
 }
 
 #nav a:last-child,
 .sub-nav li:last-child,
-#meta-nav li:last-child {
+.meta-nav li:last-child {
     margin-right: 0;
 }
 

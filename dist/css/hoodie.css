@@ -59,7 +59,7 @@ footer {
   top: 1.25rem;
   z-index: 2; }
 
-#meta-nav {
+.meta-nav {
   right: 1.875rem;
   top: 1.5625rem; }
 
@@ -72,16 +72,16 @@ footer {
   padding-bottom: 0.3125rem;
   height: 1.5rem; }
 
-#logo, #meta-nav {
+#logo, .meta-nav {
   width: 14.375rem; }
 
-.main-nav, #meta-nav, #logo {
+.main-nav, .meta-nav, #logo {
   display: inline-block; }
 
 .sub-nav, .cb, .main-nav, .blog-list, .blog-post article, .blog-post .comments {
   margin: 0 auto; }
 
-#nav, #logo, .main-nav, #meta-nav, .sub-nav {
+#nav, #logo, .main-nav, .meta-nav, .sub-nav {
   position: absolute; }
 
 .cb {
@@ -160,7 +160,7 @@ aside {
 .sub-nav a {
   color: #606060; }
 
-.main-nav a, .sub-nav a, #meta-nav a {
+.main-nav a, .sub-nav a, .meta-nav a {
   color: #fff !important; }
 
 .cb aside a {
@@ -303,10 +303,10 @@ h6 {
 .sub-nav, .main-nav {
   text-align: center; }
 
-#meta-nav {
+.meta-nav {
   text-align: right; }
 
-#meta-nav, .main-nav {
+.meta-nav, .main-nav {
   font-size: 1.094em; }
 
 .sub-nav {
@@ -320,10 +320,10 @@ h6 {
 a:hover, .active {
   text-decoration: underline; }
 
-#nav a, #meta-nav li {
+#nav a, .meta-nav li {
   margin-right: 0.5625rem; }
 
-#nav a:last-child, .sub-nav li:last-child, #meta-nav li:last-child {
+#nav a:last-child, .sub-nav li:last-child, .meta-nav li:last-child {
   margin-right: 0; }
 
 aside {
