@@ -261,7 +261,8 @@ body {
 
 h1, .h1 {
   font-size: 2.25em;
-  line-height: 2.25;
+  line-height: 1.363;
+  margin-bottom: 1.25rem;
   font-weight: 500; }
 
 h2, .h2 {
@@ -296,6 +297,9 @@ small {
 
 em {
   font-style: italic; }
+
+strong {
+  font-weight: 500; }
 
 a {
   text-decoration: none; }
@@ -341,9 +345,6 @@ aside {
 .cb.teaser aside {
   font-size: 1.2em;
   line-height: 2.55; }
-
-strong {
-  font-weight: 500; }
 
 article figure figcaption {
   font-size: 1.1em;

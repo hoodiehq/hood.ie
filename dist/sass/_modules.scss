@@ -1,7 +1,6 @@
 // default height
 $dh : rem-calc(40);
 
-
 .person-bio {
     h6 {
         padding-left: rem-calc(175);
@@ -28,9 +27,6 @@ $dh : rem-calc(40);
     }
 }
 
-
-
-
 .api-nav {
     position: absolute;
     top: rem-calc(347);
@@ -46,7 +42,6 @@ $dh : rem-calc(40);
     }
 }
 
-
 // hot fix for prism
 code {
     white-space: normal !important;
@@ -55,9 +50,7 @@ code {
     margin-top: rem-calc(25) !important;
 }
 
-
 // article
-
 article ul, article ol {
     margin: rem-calc(45 0);
     list-style: inherit;
@@ -154,7 +147,6 @@ article li {
                 padding: rem-calc(0) rem-calc(7);
             }
 
-
             // Newsletter
             input {
                 border: 0 none;
@@ -178,9 +170,6 @@ article li {
             border-bottom-left-radius: rem-calc(12);
         }
 
-
-
-
         // special font-styles for index
         .img-bg h3, .img-bg p {
             color: #fff;
@@ -193,7 +182,6 @@ article li {
         .img-bg a {
             font-weight: 400;
         }
-
 
         // BG-images
         .merch {
@@ -236,7 +224,6 @@ article li {
             text-align: center;
             margin-left: rem-calc(-14);
         }
-
 
         // special grid for index
         .grid-3 {
