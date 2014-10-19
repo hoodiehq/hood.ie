@@ -1,12 +1,56 @@
-p + p {
-    margin-top: 1em;
-}
-
 body {
     font-family: 'Fira Sans', sans-serif;
     font-weight: 300;
     font-size: 16px;
     line-height: 1.5;
+}
+
+h1,
+.h1 {
+    font-size: 2.25em;
+    line-height: 2.25;
+    font-weight: 500;
+}
+
+h2,
+.h2 {
+    font-size: 1.4em;
+    //line-height: 2.438; has to be readjusted!!!!
+    font-weight: 500;
+    text-transform: uppercase;
+
+    line-height: 1.4;
+    margin-bottom: 1em;
+}
+
+h3,
+.h3 {
+    font-size: 1.375em;
+    line-height: 2;
+    font-weight: 500;
+}
+
+h4,
+.h4 {
+
+}
+
+h5,
+.h5 {
+    font-size: 1.1em;
+    line-height: 1.8;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+h6,
+.h6 {
+    font-size: .875em;
+    line-height: 1.6;
+}
+
+p + p {
+    margin-top: 1em;
 }
 
 small {
@@ -21,41 +65,6 @@ em {
 
 a {
     text-decoration: none;
-}
-
-h1 {
-    font-size: 2.25em;
-    line-height: 2.25;
-    font-weight: 500;
-}
-
-h2 {
-    font-size: 1.4em;
-    //line-height: 2.438; has to be readjusted!!!!
-    font-weight: 500;
-    text-transform: uppercase;
-
-    line-height: 1.4;
-    margin-bottom: 1em;
-}
-
-h3 {
-    font-size: 1.375em;
-    line-height: 2;
-    font-weight: 500;
-}
-
-// do we have no h4? If so shouldn't we use the h5 styling for h4 and h6 for h5? Isn't styling so much headlines unnecessary anyway with the HTML5 outline?!
-h5 {
-    font-size: 1.1em;
-    line-height: 1.8;
-    font-weight: 400;
-    text-transform: uppercase;
-}
-
-h6 {
-    font-size: .875em;
-    line-height: 1.6;
 }
 
 .sub-nav,
