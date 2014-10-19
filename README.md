@@ -131,9 +131,9 @@ $gray-6: #fdfdfd;
 </header>
 ````
 
-**#content**, content-div, max-width of 840px, centered, adds big logo to content when a theme is selected
+**.content**, content-div, max-width of 840px, centered, adds big logo to content when a theme is selected
 ````
-<div id="content">
+<div class="content">
 ````
 
 
