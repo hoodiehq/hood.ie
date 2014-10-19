@@ -250,7 +250,7 @@ article figure figcaption {
 .lilac .sub-nav {
   background-color: #c1a7bc; }
 
-#api-nav li a {
+.api-nav li a {
   color: #312783; }
 
 p + p {
@@ -358,7 +358,7 @@ input, textarea {
   font-weight: 300;
   font-family: "Fira Sans"; }
 
-#api-nav {
+.api-nav {
   font-size: 1.1em;
   line-height: 1.8; }
 
@@ -376,7 +376,7 @@ input, textarea {
     text-align: left;
     height: 10.9375rem; }
 
-#api-nav {
+.api-nav {
   position: absolute;
   top: 21.6875rem;
   width: 12.5rem;
@@ -385,7 +385,7 @@ input, textarea {
   margin-left: 13.75rem;
   background-color: #fefefe;
   border-radius: 0.75rem; }
-  #api-nav ul {
+  .api-nav ul {
     margin-bottom: 2.1875rem; }
 
 code {

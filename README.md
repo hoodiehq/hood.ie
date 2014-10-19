@@ -220,9 +220,9 @@ $gray-6: #fdfdfd;
 **.n**      // float: none
 
 ### modules
-**#api-nav** 3rd LVL navigation for API and documentation
+**.api-nav** 3rd LVL navigation for API and documentation
 ````
-<section id="api-nav">
+<section class="api-nav">
     <ul>
 ````
 
