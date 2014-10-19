@@ -267,16 +267,16 @@ $gray-6: #fdfdfd;
 ````
 
 
-**#footer** footer with colour in 100% width including logo
+**.footer** footer with colour in 100% width including logo
 ````
 <footer>
-    <div id="footer">
+    <div class="footer">
 ````
 
 **.sitemap-item** item in .sitemap, 33% width, aligned right
 ````
 <footer>
-    <div id="footer">
+    <div class="footer">
         <section class="cb sitemap">
             <ul class="sitemap-item l">
 ````

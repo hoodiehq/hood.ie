@@ -178,9 +178,9 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ.png') no-repeat center 0; }
 .orange h1, .orange h2, .orange h4, .orange a {
   color: #e94e1b; }
-.orange .nav, .orange #footer {
+.orange .nav, .orange .footer {
   background-color: #e94e1b; }
-.orange #footer li a {
+.orange .footer li a {
   color: #fff !important; }
 .orange .sub-nav {
   background-color: #f9c4b3; }
@@ -191,9 +191,9 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_blue.png') no-repeat center 0; }
 .blue h1, .blue h2, .blue h4, .blue a {
   color: #312783; }
-.blue .nav, .blue #footer {
+.blue .nav, .blue .footer {
   background-color: #312783; }
-.blue #footer li a {
+.blue .footer li a {
   color: #fff !important; }
 .blue .sub-nav {
   background-color: #bfbcd8; }
@@ -204,9 +204,9 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_green.png') no-repeat center 0; }
 .green h1, .green h2, .green h4, .green a {
   color: #0b8e36; }
-.green .nav, .green #footer {
+.green .nav, .green .footer {
   background-color: #0b8e36; }
-.green #footer li a {
+.green .footer li a {
   color: #fff !important; }
 .green .sub-nav {
   background-color: #a9d6b8; }
@@ -217,9 +217,9 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_yellow.png') no-repeat center 0; }
 .yellow h1, .yellow h2, .yellow h4, .yellow a {
   color: #f9b233; }
-.yellow .nav, .yellow #footer {
+.yellow .nav, .yellow .footer {
   background-color: #f9b233; }
-.yellow #footer li a {
+.yellow .footer li a {
   color: #fff !important; }
 .yellow .sub-nav {
   background-color: #fce3b6; }
@@ -230,9 +230,9 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_gray.png') no-repeat center 0; }
 .gray h1, .gray h2, .gray h4, .gray a {
   color: #282828; }
-.gray .nav, .gray #footer {
+.gray .nav, .gray .footer {
   background-color: #282828; }
-.gray #footer li a {
+.gray .footer li a {
   color: #fff !important; }
 .gray .sub-nav {
   background-color: #b3b3b3; }
@@ -243,9 +243,9 @@ article figure figcaption {
   background: url('../img/logo_cut_negativ_lilac.png') no-repeat center 0; }
 .lilac h1, .lilac h2, .lilac h4, .lilac a {
   color: #520644; }
-.lilac .nav, .lilac #footer {
+.lilac .nav, .lilac .footer {
   background-color: #520644; }
-.lilac #footer li a {
+.lilac .footer li a {
   color: #fff !important; }
 .lilac .sub-nav {
   background-color: #c1a7bc; }
