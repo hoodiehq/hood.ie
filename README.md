@@ -165,12 +165,12 @@ $gray-6: #fdfdfd;
 ````
 <section class="cb">
     <h2></h2>
-    <aside>
-
-    </aside>
     <article>
         // please add grids, paragraphs or figures or other content in here
     </article>
+    <aside>
+
+    </aside>
 </section>
 ````
 
@@ -178,12 +178,12 @@ $gray-6: #fdfdfd;
 ````
 <section class="cb">
     <h2></h2>
-    <aside>
-        // please add links and sidenotes in here
-    </aside>
     <article>
 
     </article>
+    <aside>
+        // please add links and sidenotes in here
+    </aside>
 </section>
 ````
 
