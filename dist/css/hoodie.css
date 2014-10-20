@@ -68,8 +68,7 @@ footer {
 
 .sub-nav {
   top: 4.0625rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.3125rem;
+  padding: 0.5rem 0 0.3125rem 0;
   height: 1.5rem; }
 
 .logo, .meta-nav {
@@ -131,7 +130,7 @@ code {
 .l {
   float: left; }
 
-.r {
+.r, .comments {
   float: right; }
 
 .blog-post article {
@@ -278,8 +277,9 @@ h3, .h3 {
 h5, .h5 {
   font-size: 1.1em;
   line-height: 1.8;
-  font-weight: 400;
-  text-transform: uppercase; }
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 0.734rem; }
 
 h6, .h6 {
   font-size: 0.875em;
@@ -427,7 +427,8 @@ ol {
       font-size: 1.625rem;
       text-align: center;
       margin-left: -1.125rem;
-      margin-bottom: 1.25rem; }
+      margin-bottom: 1.25rem;
+      color: #fff; }
     .index .content .row.first div.main p {
       font-size: 1rem;
       line-height: 1.75rem; }
@@ -654,7 +655,7 @@ ol {
   width: 8.4375rem; }
 
 .sitemap {
-  padding: 2.1875rem 0 0.9375rem !important; }
+  padding: 2.1875rem 0 0.9375rem; }
 
 .sitemap-item {
   list-style: none;
@@ -662,8 +663,7 @@ ol {
   width: 16.25rem;
   margin-right: 1.5625rem;
   font-size: 0.938em;
-  line-height: 1.6;
-  padding-bottom: 1.5625rem; }
+  line-height: 1.6; }
   .sitemap-item:last-child {
     margin-right: 0; }
 

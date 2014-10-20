@@ -1,6 +1,5 @@
 .sitemap {
-    padding: rem-calc(35 0 15) !important;
-
+    padding: rem-calc(35 0 15);
 }
 
 .sitemap-item {
@@ -10,7 +9,6 @@
     margin-right: rem-calc(25);
     font-size: .938em;
     line-height: 1.6;
-    padding-bottom: rem-calc(25);
 
     &:last-child {
         margin-right: 0;
