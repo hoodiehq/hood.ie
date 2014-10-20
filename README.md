@@ -137,54 +137,50 @@ $gray-6: #fdfdfd;
 ````
 
 
-**.box**, alternating highlighting of .cb in 100% width of site
+<!-- **.box**, alternating highlighting of .cb in 100% width of site
 ````
 <div class="box">
-````
+```` -->
 
 **.cb**, contentbox in max-width of 840px, centered, holds all article related designs, this is how a .cb always is structred
 ````
-<section class="cb">
-    <h2></h2>
-    <aside>
-
-    </aside>
+<div class="cb">
     <article>
-
+        <h2></h2>
     </article>
-</section>
+    <aside>
+    </aside>
+</div>
 ````
 
 **.teaser**, teaser for contentbox, fonts are displayed bigger
 ````
-<div class="box">
-    <section class="cb teaser">
+    <div class="cb teaser">
 ````
 
 **article**, main part of .cb
 ````
-<section class="cb">
-    <h2></h2>
+<div class="cb">
     <article>
+        <h2></h2>
         // please add grids, paragraphs or figures or other content in here
     </article>
     <aside>
 
     </aside>
-</section>
+</div>
 ````
 
 **aside**, sub part of .cb
 ````
-<section class="cb">
-    <h2></h2>
+<div class="cb">
     <article>
-
+        <h2></h2>
     </article>
     <aside>
         // please add links and sidenotes in here
     </aside>
-</section>
+</div>
 ````
 
 ### Grid
