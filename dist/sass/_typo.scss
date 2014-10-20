@@ -1,28 +1,25 @@
 body {
     font-family: 'Fira Sans', sans-serif;
+    font-size: 100%;
     font-weight: 300;
-    font-size: 16px;
     line-height: 1.5;
 }
 
 h1,
 .h1 {
     font-size: 2.25em;
+    font-weight: 500;
     line-height: 1.363;
     margin-bottom: rem-calc(20);
-    // line-height: 2.25;
-    font-weight: 500;
 }
 
 h2,
 .h2 {
     font-size: 1.4em;
-    //line-height: 2.438; has to be readjusted!!!!
     font-weight: 500;
-    text-transform: uppercase;
-
-    line-height: 1.4;
+    line-height: 1.363;
     margin-bottom: 1em;
+    text-transform: uppercase;
 }
 
 h3,
@@ -49,6 +46,11 @@ h6,
 .h6 {
     font-size: .875em;
     line-height: 1.6;
+}
+
+p {
+    font-size: 1.1875;
+    // calculate lh with modular scale
 }
 
 p + p {
@@ -122,7 +124,7 @@ aside {
 
 .cb {
     p, article li {
-        font-size: 1.2em;
+        font-size: 1.1875em;
         line-height: 1.8;
     }
 
