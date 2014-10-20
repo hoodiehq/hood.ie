@@ -255,22 +255,22 @@ article figure figcaption {
 
 body {
   font-family: 'Fira Sans', sans-serif;
+  font-size: 100%;
   font-weight: 300;
-  font-size: 16px;
   line-height: 1.5; }
 
 h1, .h1 {
   font-size: 2.25em;
+  font-weight: 500;
   line-height: 1.363;
-  margin-bottom: 1.25rem;
-  font-weight: 500; }
+  margin-bottom: 1.25rem; }
 
 h2, .h2 {
   font-size: 1.4em;
   font-weight: 500;
-  text-transform: uppercase;
-  line-height: 1.4;
-  margin-bottom: 1em; }
+  line-height: 1.363;
+  margin-bottom: 1em;
+  text-transform: uppercase; }
 
 h3, .h3 {
   font-size: 1.375em;
@@ -286,6 +286,9 @@ h5, .h5 {
 h6, .h6 {
   font-size: 0.875em;
   line-height: 1.6; }
+
+p {
+  font-size: 1.1875; }
 
 p + p {
   margin-top: 1em; }
@@ -334,7 +337,7 @@ aside {
   text-align: right; }
 
 .cb p, .cb article li {
-  font-size: 1.2em;
+  font-size: 1.1875em;
   line-height: 1.8; }
 .cb aside {
   font-size: 1.1em;
