@@ -51,24 +51,24 @@ code {
 }
 
 // article
-article ul, article ol {
-    margin: rem-calc(45 0);
-    list-style: inherit;
+ul,
+ol {
+    margin-bottom: rem-calc(26);
 }
 
 article ol {
     list-style-type: decimal;
-
-    li {
-        margin-left: rem-calc(46);
-    }
 }
 
-article li {
-    margin-left: rem-calc(45);
-    padding-left: rem-calc(25);
-    padding-bottom: rem-calc(4);
+ul {
+    padding-left: rem-calc(26);
+    list-style: inherit;
 }
+
+ol {
+    padding-left: rem-calc(30);
+}
+
 
 // landing page
 .index .content {
@@ -315,5 +315,10 @@ article li {
   }
 }
 
+.jump-mark {
+    &:hover {
+        text-decoration: none;
+    }
+}
 
 

@@ -87,10 +87,10 @@ footer {
     @extend %cf;
     width: 100%;
     max-width: rem-calc(830);
-    padding: rem-calc(35 0 50);
+    padding-bottom: rem-calc(42);
 
     &.teaser {
-        padding: rem-calc(0 0 60);
+        padding-bottom: rem-calc(57);
     }
 
     article {
@@ -110,11 +110,6 @@ footer {
 .content {
     padding-top: rem-calc(300);
 }
-
-// .teaser h1,
-// .cb h2 {
-//     padding-left: rem-calc(230);
-// }
 
 code {
     padding-top: rem-calc(25);
@@ -149,7 +144,7 @@ code {
     margin-right: rem-calc(45);
 }
 
-.grid-3:nth-child(3n) {
+.grid-3:nth-of-type(3n) {
     margin-right: 0;
 }
 

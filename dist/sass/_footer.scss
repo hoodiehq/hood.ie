@@ -1,8 +1,11 @@
 .sitemap {
     padding: rem-calc(35 0 15) !important;
+
 }
 
 .sitemap-item {
+    list-style: none;
+    padding-left: 0;
     width: rem-calc(260);
     margin-right: rem-calc(25);
     font-size: .938em;

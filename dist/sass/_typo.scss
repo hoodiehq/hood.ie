@@ -2,7 +2,7 @@ body {
     font-family: 'Fira Sans', sans-serif;
     font-size: 100%;
     font-weight: 300;
-    line-height: 1.5;
+    line-height: 1.618;
 }
 
 h1,
@@ -18,15 +18,16 @@ h2,
     font-size: 1.4em;
     font-weight: 500;
     line-height: 1.363;
-    margin-bottom: 1em;
+    margin-bottom: 1.188rem;
     text-transform: uppercase;
 }
 
 h3,
 .h3 {
     font-size: 1.375em;
-    line-height: 2;
+    line-height: 1.361;
     font-weight: 500;
+    margin-bottom: 0.734rem;
 }
 
 h4,
@@ -49,12 +50,14 @@ h6,
 }
 
 p {
-    font-size: 1.1875;
-    // calculate lh with modular scale
+    font-size: 1.1875em;
+    line-height: 1.618;
+    margin-bottom: rem-calc(26);
 }
 
-p + p {
-    margin-top: 1em;
+.teaser p {
+    font-size: 1.7em;
+    line-height: 1.618;
 }
 
 small {
@@ -122,22 +125,22 @@ aside {
     text-align: right;
 }
 
-.cb {
-    p, article li {
-        font-size: 1.1875em;
-        line-height: 1.8;
-    }
+ul,
+ol {
+    font-size: 1.1875em;
+}
 
+.cb li {
+    margin-bottom: rem-calc(12);
+}
+
+.cb {
     aside {
         font-size: 1.1em;
         line-height: 2.65;
     }
 
     &.teaser {
-        p {
-            font-size: 1.7em;
-            line-height: 1.8;
-        }
 
         aside {
             font-size: 1.2em;
