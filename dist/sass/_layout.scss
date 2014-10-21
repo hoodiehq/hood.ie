@@ -15,6 +15,7 @@ section,
 .main-nav,
 .sub-nav {
     width: 100%;
+    @extend %cf;
 }
 
 header section li,
@@ -49,7 +50,7 @@ footer {
 .sub-nav {
     top: rem-calc(65);
     padding: rem-calc(8 0 5 0);
-    height: rem-calc(24);
+    height: rem-calc(36);
 }
 
 .logo,
@@ -100,14 +101,19 @@ footer {
 
     aside {
         width: 100%;
-        max-width: rem-calc(180);
-        float: left;
         margin-right: rem-calc(50);
+        @include breakpoint(mv) {
+            max-width: rem-calc(180);
+            float: left;
+        }
     }
 }
 
 .content {
-    padding-top: rem-calc(300);
+    padding: rem-calc(200 16 0);
+    @include breakpoint(mv) {
+        padding-top: rem-calc(300 0 0)
+    }
 }
 
 code {
@@ -138,14 +144,27 @@ code {
 }
 
 .grid-3 {
-    width: 32%;
-    max-width: rem-calc(170);
-    margin-right: rem-calc(45);
+    width: 100%;
+    @include breakpoint(mv) {
+        width: 48%;
+        margin-right: 4%;
+    }
+    @include breakpoint(lv) {
+        width: 32%;
+        max-width: rem-calc(170);
+        margin-right: rem-calc(45);
+    }
 }
 
-.grid-3:nth-of-type(3n) {
-    margin-right: 0;
+.grid-3:nth-of-type(n+2) {
+    @include breakpoint(mv) {
+        margin-right: 0;
+    }
 }
+
+// .grid-3:nth-of-type(3n) {
+//     margin-right: 0;
+// }
 
 // helper ------------
 .l {

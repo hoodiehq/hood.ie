@@ -35,10 +35,10 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-.cb:before, .friends:before, .cb:after, .friends:after {
+section:before, .main-nav:before, .sub-nav:before, .cb:before, .friends:before, section:after, .main-nav:after, .sub-nav:after, .cb:after, .friends:after {
   content: " ";
   display: table; }
-.cb:after, .friends:after {
+section:after, .main-nav:after, .sub-nav:after, .cb:after, .friends:after {
   clear: both; }
 
 section, .main-nav, .sub-nav {
@@ -69,7 +69,7 @@ footer {
 .sub-nav {
   top: 4.0625rem;
   padding: 0.5rem 0 0.3125rem 0;
-  height: 1.5rem; }
+  height: 2.25rem; }
 
 .logo, .meta-nav {
   width: 14.375rem; }
@@ -95,12 +95,17 @@ footer {
     float: right; }
   .cb aside {
     width: 100%;
-    max-width: 11.25rem;
-    float: left;
     margin-right: 3.125rem; }
+    @media (min-width: 30em) {
+      .cb aside {
+        max-width: 11.25rem;
+        float: left; } }
 
 .content {
-  padding-top: 18.75rem; }
+  padding: 12.5rem 1rem 0; }
+  @media (min-width: 30em) {
+    .content {
+      padding-top: 18.75rem 0 0; } }
 
 code {
   padding-top: 1.5625rem;
@@ -120,12 +125,20 @@ code {
   max-width: 28.125rem; }
 
 .grid-3 {
-  width: 32%;
-  max-width: 10.625rem;
-  margin-right: 2.8125rem; }
+  width: 100%; }
+  @media (min-width: 30em) {
+    .grid-3 {
+      width: 48%;
+      margin-right: 4%; } }
+  @media (min-width: 60em) {
+    .grid-3 {
+      width: 32%;
+      max-width: 10.625rem;
+      margin-right: 2.8125rem; } }
 
-.grid-3:nth-of-type(3n) {
-  margin-right: 0; }
+@media (min-width: 30em) {
+  .grid-3:nth-of-type(n+2) {
+    margin-right: 0; } }
 
 .l {
   float: left; }
@@ -334,8 +347,9 @@ a:hover, .active {
 .nav a:last-child, .sub-nav .sub-nav-list-item:last-child, .meta-nav .meta-nav-list-item:last-child {
   margin-right: 0; }
 
-aside {
-  text-align: right; }
+@media (min-width: 30em) {
+  aside {
+    text-align: right; } }
 
 ul, ol {
   font-size: 1.1875em; }
@@ -345,10 +359,10 @@ ul, ol {
 
 .cb aside {
   font-size: 1.1em;
-  line-height: 2.65; }
+  line-height: 1.618; }
 .cb.teaser aside {
   font-size: 1.2em;
-  line-height: 2.55; }
+  line-height: 1.618; }
 
 article figure figcaption {
   font-size: 1.1em;
@@ -679,6 +693,9 @@ ol {
   .indented:before {
     content: "- ";
     color: #fff; }
+
+* {
+  box-sizing: border-box; }
 
 img {
   max-width: 100%; }
