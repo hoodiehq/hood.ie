@@ -1,5 +1,6 @@
 //The basic css including the reset stylesheet
 
+@import 'breakpoints';
 @import 'reset';
 @import 'functions';
 @import 'layout';
@@ -10,6 +11,10 @@
 @import 'category';
 @import 'contribute';
 @import 'footer';
+
+* {
+    box-sizing: border-box;
+}
 
 img {
     max-width: 100%;
