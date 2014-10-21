@@ -18,15 +18,25 @@ $dh : rem-calc(40);
 .friends {
     @extend %cf;
     .grid-3 {
-        margin-bottom: rem-calc(80);
+        margin-bottom: rem-calc(20);
         text-align: center;
+        @include breakpoint(mv) {
+            margin-bottom: rem-calc(40);
+        }
+        @include breakpoint(lv) {
+            margin-bottom: rem-calc(60);
+        }
+
+
 
         figure {
-            height: rem-calc(175);
+            min-height: rem-calc(150);
+            // height: rem-calc(175);
+            margin-bottom: rem-calc(16);
             .contribute-topic-image {
+
                 width:rem-calc(120);
                 opacity: 0.6;
-                margin-left: rem-calc(7);
             }
         }
     }
