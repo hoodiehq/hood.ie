@@ -102,7 +102,7 @@ footer {
     aside {
         width: 100%;
         margin-right: rem-calc(50);
-        @include breakpoint(mv) {
+        @include breakpoint(lv) {
             max-width: rem-calc(180);
             float: left;
         }
@@ -146,17 +146,6 @@ code {
 .grid-3 {
     min-width: rem-calc(170);
     max-width: rem-calc(170);
-    // width: 32%;
-    // width: 100%;
-    @include breakpoint(mv) {
-        // width: 48%;
-        // margin-right: 4%;
-
-    }
-    @include breakpoint(lv) {
-
-
-    }
 }
 
 .grid-3-container {
@@ -165,16 +154,6 @@ code {
     justify-content: space-around;
     flex-wrap: wrap;
 }
-
-// .grid-3:nth-of-type(n+2) {
-//     @include breakpoint(mv) {
-//         margin-right: 0;
-//     }
-// }
-
-// .grid-3:nth-of-type(3n) {
-//     margin-right: 0;
-// }
 
 // helper ------------
 .l {

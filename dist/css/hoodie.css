@@ -96,7 +96,7 @@ footer {
   .cb aside {
     width: 100%;
     margin-right: 3.125rem; }
-    @media (min-width: 30em) {
+    @media (min-width: 60em) {
       .cb aside {
         max-width: 11.25rem;
         float: left; } }
@@ -127,8 +127,6 @@ code {
 .grid-3 {
   min-width: 10.625rem;
   max-width: 10.625rem; }
-  @media (min-width: 30em) { }
-  @media (min-width: 60em) { }
 
 .grid-3-container {
   display: flex;
@@ -341,8 +339,9 @@ a {
   font-size: 0.938em; }
   .sub-nav .sub-nav-list-item {
     margin-right: 0.5625rem; }
-  .sub-nav.current a {
-    text-decoration: underline; }
+
+.sub-nav-list-item.current a {
+  text-decoration: underline; }
 
 .nav, .sub-nav {
   text-transform: uppercase; }
@@ -356,7 +355,7 @@ a:hover, .active {
 .nav a:last-child, .sub-nav .sub-nav-list-item:last-child, .meta-nav .meta-nav-list-item:last-child {
   margin-right: 0; }
 
-@media (min-width: 30em) {
+@media (min-width: 60em) {
   aside {
     text-align: right; } }
 
