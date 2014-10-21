@@ -19,13 +19,15 @@
     </section>
     <section class="hid">
         <ul class="sub-nav">
-            <li class="sub-nav-list-item"><a href="/contribute#development">Devlopment</a></li>
-            <li class="sub-nav-list-item"><a href="/contribute#design">Design</a></li>
-            <li class="sub-nav-list-item"><a href="/contribute/#writing">Writing</a></li>
-            <li class="sub-nav-list-item"><a href="/contribute#feedback">Feedback</a></li>
-            <li class="sub-nav-list-item"><a href="/contribute#talks">Give Talks</a></li>
-            <li class="sub-nav-list-item"><a href="/contribute#money">Give Money</a></li>
-            <li class="sub-nav-list-item"><a href="/contribute#hire-us">Hire us</a></li>
+            {% for link in site.sub-navigation-contribute %}
+                {% assign current = nil %}
+                {% if page.url contains link.url %}
+                    {% assign current = 'current' %}
+                {% endif %}
+                <li class="sub-nav-list-item {{ current }}">
+                    <a href="{{ link.url }}">{{ link.title }}</a>
+                </li>
+            {% endfor %}
         </ul>
     </section>
 </header>

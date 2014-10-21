@@ -10,3 +10,89 @@ kramdown:
     auto_ids: false
 
 permalink: /blog/:categories/:title.html
+
+sub-navigation:
+- title: What is Hoodie?
+  url: '/intro'
+- title: Get started
+  url: '/intro/#get-started'
+- title: 'Apps & Showcases'
+  url: '/intro/#showcases'
+- title: Initiatives
+  url: '/initiatives'
+- title: Philosophy
+  url: '/about'
+
+sub-navigation-about:
+- title: Community
+  url: '/community#community'
+- title: Contributors
+  url: '/community#contributors'
+- title: Initiatives
+  url: '/initiatives'
+- title: Friends
+  url: '/friends'
+- title: Merchandise
+  url: '/merchandise'
+- title: Code of Conduct
+  url: '/code-of-conduct'
+
+sub-navigation-community:
+- title: Community
+  url: '/community/#community'
+- title: Contributors
+  url: '/community/index.html/#contributors'
+- title: Join us!
+  url: '/contribute'
+- title: Philosophy
+  url: '/about'
+- title: Code of Conduct
+  url: '/code-of-conduct'
+
+sub-navigation-contact:
+- title: Get help
+  url: '/get-help'
+- title: Contribute
+  url: '/contribute'
+- title: Community
+  url: '/community'
+- title: Code of Conduct
+  url: '/code-of-conduct'
+
+sub-navigation-contribute:
+- title: Development
+  url: '/contribute/#development'
+- title: Design
+  url: '/contribute/#design'
+- title: Writing
+  url: '/contribute/#writing'
+- title: Feedback
+  url: '/contribute/#feedback'
+- title: Give Talks
+  url: '/contribute/#talks'
+- title: Give Money
+  url: '/contribute/#money'
+- title: Hire us
+  url: '/contribute/#hire-us'
+
+sub-navigation-get-help:
+- title: Documentation
+  url: 'http://docs.hood.ie'
+- title: FAQ
+  url: 'http://faq.hood.ie'
+- title: Report a Bug
+  url: '/bug'
+- title: Contact
+  url: '/contact'
+
+sub-navigation-intro:
+- title: Get started
+  url: '/intro/#get-started'
+- title: 'Apps & Showcases'
+  url: '/intro/#showcases'
+- title: Initiatives
+  url: '/initiatives'
+- title: Philosophy
+  url: '/about'
+
+

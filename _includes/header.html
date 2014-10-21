@@ -19,11 +19,15 @@
     </section>
     <section class="hid">
         <ul class="sub-nav">
-            <li class="sub-nav-list-item"><a href="/intro">What is Hoodie?</a></li>
-            <li class="sub-nav-list-item"><a href="/intro/#get-started">Get started</a></li>
-            <li class="sub-nav-list-item"><a href="/intro#showcases">Apps & Showcases</a></li>
-            <li class="sub-nav-list-item"><a href="/initiatives">Initiatives</a></li>
-            <li class="sub-nav-list-item"><a href="/about">Philosophy</a></li>
+            {% for link in site.sub-navigation %}
+                {% assign current = nil %}
+                {% if page.url contains link.url %}
+                    {% assign current = 'current' %}
+                {% endif %}
+                <li class="sub-nav-list-item {{ current }}">
+                    <a href="{{ link.url }}">{{ link.title }}</a>
+                </li>
+            {% endfor %}
         </ul>
     </section>
 </header>

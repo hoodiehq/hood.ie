@@ -19,10 +19,15 @@
     </section>
     <section class="hid">
         <ul class="sub-nav">
-            <li class="sub-nav-list-item"><a href="http://docs.hood.ie">Documentation</a></li>
-            <li class="sub-nav-list-item"><a href="http://faq.hood.ie">FAQ</a></li>
-            <li class="sub-nav-list-item"><a href="/bug">Report a Bug</a></li>
-            <li class="sub-nav-list-item"><a href="/contact">Contact</a></li>
+            {% for link in site.sub-navigation-get-help %}
+                {% assign current = nil %}
+                {% if page.url contains link.url %}
+                    {% assign current = 'current' %}
+                {% endif %}
+                <li class="sub-nav-list-item {{ current }}">
+                    <a href="{{ link.url }}">{{ link.title }}</a>
+                </li>
+            {% endfor %}
         </ul>
     </section>
 </header>
