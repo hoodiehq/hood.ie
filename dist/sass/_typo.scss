@@ -34,13 +34,17 @@ h3,
 
 h4,
 .h4 {
-
+    font-size: 1.1em;
+    line-height: 1.363;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: .734rem;
 }
 
 h5,
 .h5 {
     font-size: 1.1em;
-    line-height: 1.8;
+    line-height: 1.363;
     font-weight: 500;
     text-transform: uppercase;
     margin-bottom: .734rem;
@@ -49,6 +53,7 @@ h5,
 h6,
 .h6 {
     font-size: .875em;
+    font-weight: bold;
     line-height: 1.6;
 }
 
@@ -100,6 +105,12 @@ a {
 
     .sub-nav-list-item {
         margin-right: rem-calc(9);
+    }
+    &.current {
+        a {
+            text-decoration: underline;
+        }
+
     }
 }
 
