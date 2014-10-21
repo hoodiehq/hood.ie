@@ -106,12 +106,10 @@ a {
     .sub-nav-list-item {
         margin-right: rem-calc(9);
     }
-    &.current {
-        a {
-            text-decoration: underline;
-        }
+}
 
-    }
+.sub-nav-list-item.current a {
+    text-decoration: underline;
 }
 
 .nav,
@@ -136,8 +134,7 @@ a:hover,
 }
 
 aside {
-
-    @include breakpoint(mv) {
+    @include breakpoint(lv) {
         text-align: right;
     }
 }
