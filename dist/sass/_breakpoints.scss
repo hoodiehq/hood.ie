@@ -1,0 +1,8 @@
+@mixin breakpoint($point) {
+    @if $point == mv {
+        @media (min-width: 30em) { @content; }
+    }
+    @else if $point == lv {
+        @media (min-width: 60em) { @content; }
+    }
+}
