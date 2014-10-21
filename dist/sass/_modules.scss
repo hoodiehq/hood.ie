@@ -19,12 +19,22 @@ $dh : rem-calc(40);
     @extend %cf;
     .grid-3 {
         margin-bottom: rem-calc(80);
+        text-align: center;
 
         figure {
-            text-align: left;
             height: rem-calc(175);
+            .contribute-topic-image {
+                width:rem-calc(120);
+                opacity: 0.6;
+                margin-left: rem-calc(7);
+            }
         }
     }
+}
+
+.contribute-aside-icon {
+    width:rem-calc(100);
+    opacity: 0.6;
 }
 
 .api-nav {
