@@ -36,12 +36,11 @@ aside {
     background-color: $gray-6;
 }
 
-.sub-nav a {
-    color: $gray-3;
+.sub-nav a{
+    color: $gray-2 !important;
 }
 
 .main-nav a,
-.sub-nav a,
 .meta-nav a {
     color: #fff !important;
 }

@@ -39,11 +39,11 @@ footer {
 
 .meta-nav {
     right: rem-calc(30);
-    top: rem-calc(25);
+    top: rem-calc(21);
 }
 
 .main-nav {
-    top: rem-calc(25);
+    top: rem-calc(21);
 }
 
 .sub-nav {
@@ -168,4 +168,6 @@ code {
     text-align: center;
     display: block;
 }
-
+img {
+    max-width: 100%;
+}
