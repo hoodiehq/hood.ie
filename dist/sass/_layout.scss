@@ -190,6 +190,11 @@ code {
     text-align: center;
     display: block;
 }
+
 img {
     max-width: 100%;
+}
+
+* {
+    box-sizing: border-box;
 }

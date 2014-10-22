@@ -1,6 +1,7 @@
-// default height
+// =========== height default var ==============
 $dh : rem-calc(40);
 
+// =========== Bio for a person with 3:6 grid ==============
 .person-bio {
     h6 {
         padding-left: rem-calc(175);
@@ -15,6 +16,7 @@ $dh : rem-calc(40);
     }
 }
 
+// =========== Friends + contribute ==============
 .friends {
     @extend %cf;
     .grid-3 {
@@ -33,20 +35,27 @@ $dh : rem-calc(40);
             min-height: rem-calc(150);
             // height: rem-calc(175);
             margin-bottom: rem-calc(16);
-            .contribute-topic-image {
 
-                width:rem-calc(120);
-                opacity: 0.6;
+            &.contribute-topic-image-wrap {
+                min-height: rem-calc(90);
+            }
+
+            .contribute-topic-image {
+                width:rem-calc(80);
+                opacity: 0.4;
             }
         }
     }
 }
 
 .contribute-aside-icon {
-    width:rem-calc(100);
-    opacity: 0.6;
+    width:rem-calc(80);
+    opacity: 0.3;
+    margin-top: rem-calc(18);
 }
 
+
+// =========== aside navigation for docs ==============
 .api-nav {
     position: absolute;
     top: rem-calc(347);
@@ -62,7 +71,7 @@ $dh : rem-calc(40);
     }
 }
 
-// hot fix for prism
+// =========== hot fix for prism ==============
 code {
     white-space: normal !important;
     border: 0 none !important;
@@ -70,7 +79,7 @@ code {
     margin-top: rem-calc(25) !important;
 }
 
-// article
+// =========== article ==============
 ul,
 ol {
     margin-bottom: rem-calc(26);
@@ -90,7 +99,7 @@ ol {
 }
 
 
-// landing page
+// =========== landing page ==============
 .index .content {
     //background-image: none;
 
@@ -336,6 +345,8 @@ ol {
   }
 }
 
+
+// =========== jump mark ======== @todo describe propperly
 .jump-mark {
     &:hover {
         text-decoration: none;
