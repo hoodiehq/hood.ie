@@ -25,7 +25,10 @@ header section a {
 
 footer {
     padding-top: rem-calc(90);
-    margin-top: rem-calc(85);
+
+    @include breakpoint(mv) {
+        margin-top: rem-calc(85);
+    }
 }
 
 .nav {
@@ -96,15 +99,26 @@ footer {
     article {
         width: 100%;
         max-width: rem-calc(600);
-        float: right;
+        margin: 0 auto;
+        @include breakpoint(lv) {
+            float: right;
+        }
     }
 
     aside {
         width: 100%;
-        margin-right: rem-calc(50);
+        margin: 0 auto;
+        max-width: rem-calc(600);
+        br {
+            display: none;
+            @include breakpoint(lv) {
+                display: inline;
+            }
+        }
         @include breakpoint(lv) {
             max-width: rem-calc(180);
             float: left;
+            margin: rem-calc(0 50 0 0);
         }
     }
 }
@@ -112,7 +126,7 @@ footer {
 .content {
     padding: rem-calc(200 16 0);
     @include breakpoint(mv) {
-        padding-top: rem-calc(300 0 0)
+        padding: rem-calc(300 16 0)
     }
 }
 
