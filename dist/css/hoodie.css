@@ -441,6 +441,9 @@ input, textarea {
   opacity: 0.3;
   margin-top: 1.125rem; }
 
+.friends.apps .grid-3 {
+  text-align: left; }
+
 .api-nav {
   position: absolute;
   top: 21.6875rem;

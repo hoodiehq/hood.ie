@@ -28,9 +28,6 @@ $dh : rem-calc(40);
         @include breakpoint(lv) {
             margin-bottom: rem-calc(60);
         }
-
-
-
         figure {
             min-height: rem-calc(150);
             // height: rem-calc(175);
@@ -42,7 +39,7 @@ $dh : rem-calc(40);
 
             .contribute-topic-image {
                 width:rem-calc(80);
-                opacity: 0.4;
+                opacity: .4;
             }
         }
     }
@@ -50,8 +47,12 @@ $dh : rem-calc(40);
 
 .contribute-aside-icon {
     width:rem-calc(80);
-    opacity: 0.3;
+    opacity: .3;
     margin-top: rem-calc(18);
+}
+
+.friends.apps .grid-3 {
+    text-align: left;
 }
 
 
