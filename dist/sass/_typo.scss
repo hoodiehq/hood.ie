@@ -155,6 +155,10 @@ ol {
     }
 
     &.teaser {
+        font-size: .8em;
+        @include breakpoint(mv) {
+            font-size: 1em;
+        }
         aside {
             font-size: 1.2em;
             line-height: 1.618;
