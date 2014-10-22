@@ -1,3 +1,4 @@
+@import url(../css/skins/flat/orange.css);
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -729,5 +730,125 @@ ol {
   .indented:before {
     content: "- ";
     color: #fff; }
+
+#eventsList ul {
+  list-style: none; }
+#eventsList .hidden {
+  display: none; }
+#eventsList .futureEvents {
+  padding-right: 1rem; }
+  #eventsList .futureEvents .events > li:first-child {
+    background-color: #e94e1b;
+    color: white;
+    padding: 0.5em 0.75em;
+    border-radius: 4px; }
+    #eventsList .futureEvents .events > li:first-child h3 {
+      color: white; }
+    #eventsList .futureEvents .events > li:first-child a {
+      color: #404040; }
+    #eventsList .futureEvents .events > li:first-child .links {
+      margin: 0.75em 0 0.25em 1em; }
+    #eventsList .futureEvents .events > li:first-child:before {
+      content: "Next event";
+      width: 100%;
+      text-align: center;
+      display: block;
+      text-transform: uppercase;
+      font-weight: bold; }
+#eventsList .pastEvents {
+  padding-left: 1rem; }
+#eventsList .futureEvents, #eventsList .pastEvents {
+  width: 50%;
+  float: left;
+  box-sizing: border-box; }
+  #eventsList .futureEvents h1, #eventsList .futureEvents h2, #eventsList .pastEvents h1, #eventsList .pastEvents h2 {
+    padding-left: 0;
+    text-align: center; }
+  #eventsList .futureEvents .events > li, #eventsList .pastEvents .events > li {
+    margin-bottom: 1em;
+    border-bottom: 1px solid #e94e1b;
+    padding-bottom: 1em; }
+    #eventsList .futureEvents .events > li:last-of-type, #eventsList .pastEvents .events > li:last-of-type {
+      border-bottom: none; }
+    #eventsList .futureEvents .events > li p, #eventsList .futureEvents .events > li ul li a, #eventsList .pastEvents .events > li p, #eventsList .pastEvents .events > li ul li a {
+      font-size: 1em;
+      line-height: 1.5; }
+    #eventsList .futureEvents .events > li .description, #eventsList .pastEvents .events > li .description {
+      margin-bottom: 0.75em; }
+    #eventsList .futureEvents .events > li .links, #eventsList .pastEvents .events > li .links {
+      padding-left: 0;
+      margin: 0 0 0 1em; }
+      #eventsList .futureEvents .events > li .links li, #eventsList .pastEvents .events > li .links li {
+        margin-bottom: 0;
+        font-size: 1rem; }
+#eventsList #filters {
+  width: 32em;
+  display: block;
+  margin: 2em auto;
+  font-weight: bold; }
+  #eventsList #filters .icheckbox_flat-orange {
+    margin-top: -1px;
+    margin-right: 0.5em;
+    margin-left: 1em; }
+#eventsList .subline {
+  display: block;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: -0.75em;
+  font-size: 0.75rem;
+  margin-bottom: 0.5em; }
+#eventsList .twitterCTA {
+  background-color: #e94e1b;
+  color: white;
+  padding: 1.5em 0.75em;
+  margin: 0 1em;
+  border-radius: 4px;
+  text-align: center; }
+  #eventsList .twitterCTA a {
+    font-weight: bold;
+    font-size: 1.375em;
+    display: block;
+    color: white; }
+#eventsList .loader {
+  width: 7em;
+  height: 7em;
+  background: #e94e1b;
+  border-radius: 50%;
+  text-align: center;
+  margin: 0 auto;
+  color: #FFF;
+  font-weight: bold;
+  font-size: 1.25rem;
+  padding-top: 2em;
+  text-transform: uppercase; }
+
+@media screen and (max-width: 890px) {
+  #content {
+    padding-left: 2em;
+    padding-right: 2em; }
+    #content .cb {
+      width: 100%; }
+  #eventsList {
+    margin: 2em; }
+    #eventsList .futureEvents, #eventsList .pastEvents {
+      width: 100%;
+      float: none;
+      padding: 0; }
+    #eventsList .pastEvents {
+      margin-top: 3em; } }
+
+@media screen and (max-width: 630px) {
+  #eventsList #filters {
+    width: 10em; }
+    #eventsList #filters label {
+      display: block;
+      margin-bottom: 0.25em; } }
+
+@media screen and (max-width: 400px) {
+  #content {
+    padding-left: 1em;
+    padding-right: 1em; }
+  #eventsList {
+    margin: 0; } }
 
 /*# sourceMappingURL=hoodie.css.map */

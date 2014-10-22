@@ -1,4 +1,7 @@
 #eventsList{
+    ul{
+         list-style: none;
+    }
     .hidden{
         display: none;
     }
@@ -10,6 +13,9 @@
                 color: white;
                 padding: 0.5em 0.75em;
                 border-radius: 4px;
+                h3{
+                    color: white;
+                }
                 a{
                     color: $gray-2;
                 }
@@ -45,12 +51,20 @@
             &:last-of-type{
                 border-bottom: none;
             }
-            p{
+            p, ul li a{
                 font-size: 1em;
                 line-height: 1.5;
             }
+            .description {
+                margin-bottom: 0.75em;
+            }
             .links{
-                margin: 0.75em 0 0 1em;
+                padding-left: 0;
+                margin: 0 0 0 1em;
+                li {
+                    margin-bottom: 0;
+                    font-size: 1rem;
+                }
             }
         }
     }
@@ -89,7 +103,7 @@
     }
     .loader {
         width: 7em;
-        height: 5em;
+        height: 7em;
         background: $orange;
         border-radius: 50%;
         text-align: center;
