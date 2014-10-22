@@ -4,7 +4,7 @@ $dh : rem-calc(40);
 // =========== Bio for a person with 3:6 grid ==============
 .person-bio {
     h6 {
-        padding-left: rem-calc(175);
+        padding-left: rem-calc(195);
     }
     .grid-3 {
         margin: rem-calc(5 25 0 0);
@@ -12,7 +12,33 @@ $dh : rem-calc(40);
     }
 
     .bio-link {
-        padding-top: rem-calc(129);
+        padding-top: rem-calc(155);
+
+        &.first {
+            padding-top: rem-calc(205);
+        }
+    }
+
+    .bio-img {
+        &.bunt {
+            display: none;
+        }
+
+        &.sw {
+            display: inline-block;
+        }
+    }
+
+    &:hover {
+       .bio-img {
+            &.bunt {
+                display: inline-block;
+            }
+
+            &.sw {
+                display: none;
+            }
+        }
     }
 }
 
@@ -353,4 +379,12 @@ ol {
     }
 }
 
+// ========== slider navigation =========
+.slide {
+    position: relative !important;
+    height: 20px;
+    overflow: hidden;
+    z-index: 999 !important;
+    top: 190px !important;
+}
 
