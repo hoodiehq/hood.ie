@@ -2,7 +2,13 @@
     @if $point == mv {
         @media (min-width: 30em) { @content; }
     }
-    @else if $point == lv {
-        @media (min-width: 60em) { @content; }
+    @if $point == mv-lv {
+        @media (min-width: 43.5em) { @content; }
+    }
+    @if $point == lv {
+        @media (min-width: 57.5em) { @content; }
+    }
+    @else if $point == bio {
+        @media (min-width: 920px) { @content; }
     }
 }
