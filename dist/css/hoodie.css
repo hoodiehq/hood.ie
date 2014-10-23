@@ -2,6 +2,12 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+@import url(../css/skins/flat/blue.css);
+@import url(../css/skins/flat/green.css);
+@import url(../css/skins/flat/grey.css);
+@import url(../css/skins/flat/lilac.css);
+@import url(../css/skins/flat/orange.css);
+@import url(../css/skins/flat/yellow.css);
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
@@ -509,12 +515,15 @@ input, textarea {
       min-height: 5.625rem; }
     .friends .grid-3 figure .contribute-topic-image {
       width: 5rem;
-      opacity: 0.4; }
+      opacity: .4; }
 
 .contribute-aside-icon {
   width: 5rem;
-  opacity: 0.3;
+  opacity: .3;
   margin-top: 1.125rem; }
+
+.friends.apps .grid-3 {
+  text-align: left; }
 
 .api-nav {
   position: absolute;
@@ -618,10 +627,10 @@ ol {
   .index .content .row .img-bg a {
     font-weight: 400; }
   .index .content .row .merch {
-    background: rgba(0, 0, 0, 0.7) url("../content_img/index/index_merch.png") 0 0 no-repeat;
+    background: rgba(0, 0, 0, 0.7) url("../content_img/index/index_merch.jpg") 0 0 no-repeat;
     height: 7.5rem; }
   .index .content .row .feature {
-    background: #fff url("../content_img/index/feature.png") 100% 100% no-repeat; }
+    background: #fff url("../content_img/index/feature.jpg") 100% 100% no-repeat; }
   .index .content .row .contribute {
     background: #fff url("../content_img/index/contribute.jpg") 60% 80% no-repeat;
     height: 7.5rem; }
@@ -700,8 +709,8 @@ ol {
 
 .slide {
   position: relative !important;
-  height: 20px !important;
-  overflow: hidden !important;
+  height: 20px;
+  overflow: hidden;
   z-index: 999 !important;
   top: 190px !important; }
 
@@ -811,5 +820,125 @@ ol {
   .indented:before {
     content: "- ";
     color: #fff; }
+
+#eventsList ul {
+  list-style: none; }
+#eventsList .hidden {
+  display: none; }
+#eventsList .futureEvents {
+  padding-right: 1rem; }
+  #eventsList .futureEvents .events > li:first-child {
+    background-color: #e94e1b;
+    color: white;
+    padding: 0.5em 0.75em;
+    border-radius: 4px; }
+    #eventsList .futureEvents .events > li:first-child h3 {
+      color: white; }
+    #eventsList .futureEvents .events > li:first-child a {
+      color: #404040; }
+    #eventsList .futureEvents .events > li:first-child .links {
+      margin: 0.75em 0 0.25em 1em; }
+    #eventsList .futureEvents .events > li:first-child:before {
+      content: "Next event";
+      width: 100%;
+      text-align: center;
+      display: block;
+      text-transform: uppercase;
+      font-weight: bold; }
+#eventsList .pastEvents {
+  padding-left: 1rem; }
+#eventsList .futureEvents, #eventsList .pastEvents {
+  width: 50%;
+  float: left;
+  box-sizing: border-box; }
+  #eventsList .futureEvents h1, #eventsList .futureEvents h2, #eventsList .pastEvents h1, #eventsList .pastEvents h2 {
+    padding-left: 0;
+    text-align: center; }
+  #eventsList .futureEvents .events > li, #eventsList .pastEvents .events > li {
+    margin-bottom: 1em;
+    border-bottom: 1px solid #e94e1b;
+    padding-bottom: 1em; }
+    #eventsList .futureEvents .events > li:last-of-type, #eventsList .pastEvents .events > li:last-of-type {
+      border-bottom: none; }
+    #eventsList .futureEvents .events > li p, #eventsList .futureEvents .events > li ul li a, #eventsList .pastEvents .events > li p, #eventsList .pastEvents .events > li ul li a {
+      font-size: 1em;
+      line-height: 1.5; }
+    #eventsList .futureEvents .events > li .description, #eventsList .pastEvents .events > li .description {
+      margin-bottom: 0.75em; }
+    #eventsList .futureEvents .events > li .links, #eventsList .pastEvents .events > li .links {
+      padding-left: 0;
+      margin: 0 0 0 1em; }
+      #eventsList .futureEvents .events > li .links li, #eventsList .pastEvents .events > li .links li {
+        margin-bottom: 0;
+        font-size: 1rem; }
+#eventsList #filters {
+  width: 32em;
+  display: block;
+  margin: 2em auto;
+  font-weight: bold; }
+  #eventsList #filters .icheckbox_flat-orange {
+    margin-top: -1px;
+    margin-right: 0.5em;
+    margin-left: 1em; }
+#eventsList .subline {
+  display: block;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: -0.75em;
+  font-size: 0.75rem;
+  margin-bottom: 0.5em; }
+#eventsList .twitterCTA {
+  background-color: #e94e1b;
+  color: white;
+  padding: 1.5em 0.75em;
+  margin: 0 1em;
+  border-radius: 4px;
+  text-align: center; }
+  #eventsList .twitterCTA a {
+    font-weight: bold;
+    font-size: 1.375em;
+    display: block;
+    color: white; }
+#eventsList .loader {
+  width: 7em;
+  height: 7em;
+  background: #e94e1b;
+  border-radius: 50%;
+  text-align: center;
+  margin: 0 auto;
+  color: #FFF;
+  font-weight: bold;
+  font-size: 1.25rem;
+  padding-top: 2em;
+  text-transform: uppercase; }
+
+@media screen and (max-width: 890px) {
+  #content {
+    padding-left: 2em;
+    padding-right: 2em; }
+    #content .cb {
+      width: 100%; }
+
+  #eventsList {
+    margin: 2em; }
+    #eventsList .futureEvents, #eventsList .pastEvents {
+      width: 100%;
+      float: none;
+      padding: 0; }
+    #eventsList .pastEvents {
+      margin-top: 3em; } }
+@media screen and (max-width: 630px) {
+  #eventsList #filters {
+    width: 10em; }
+    #eventsList #filters label {
+      display: block;
+      margin-bottom: 0.25em; } }
+@media screen and (max-width: 400px) {
+  #content {
+    padding-left: 1em;
+    padding-right: 1em; }
+
+  #eventsList {
+    margin: 0; } }
 
 /*# sourceMappingURL=hoodie.css.map */

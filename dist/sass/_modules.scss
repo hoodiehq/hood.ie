@@ -54,9 +54,6 @@ $dh : rem-calc(40);
         @include breakpoint(lv) {
             margin-bottom: rem-calc(60);
         }
-
-
-
         figure {
             min-height: rem-calc(150);
             // height: rem-calc(175);
@@ -68,7 +65,7 @@ $dh : rem-calc(40);
 
             .contribute-topic-image {
                 width:rem-calc(80);
-                opacity: 0.4;
+                opacity: .4;
             }
         }
     }
@@ -76,8 +73,12 @@ $dh : rem-calc(40);
 
 .contribute-aside-icon {
     width:rem-calc(80);
-    opacity: 0.3;
+    opacity: .3;
     margin-top: rem-calc(18);
+}
+
+.friends.apps .grid-3 {
+    text-align: left;
 }
 
 
@@ -241,12 +242,12 @@ ol {
 
         // BG-images
         .merch {
-            background: rgba(0, 0, 0, .7) url('../content_img/index/index_merch.png') 0 0 no-repeat;
+            background: rgba(0, 0, 0, .7) url('../content_img/index/index_merch.jpg') 0 0 no-repeat;
             height: 3*$dh;
         }
 
         .feature {
-            background: #fff url('../content_img/index/feature.png') 100% 100% no-repeat;
+            background: #fff url('../content_img/index/feature.jpg') 100% 100% no-repeat;
         }
 
         .contribute {
@@ -379,6 +380,7 @@ ol {
     }
 }
 
+
 // ========== slider navigation =========
 .slide {
     position: relative !important;
@@ -387,4 +389,3 @@ ol {
     z-index: 999 !important;
     top: 190px !important;
 }
-

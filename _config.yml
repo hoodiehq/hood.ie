@@ -34,6 +34,8 @@ sub-navigation-about:
   url: '/friends'
 - title: Merchandise
   url: '/merchandise'
+- title: Events
+  url: '/events'
 - title: Code of Conduct
   url: '/code-of-conduct'
 
@@ -56,6 +58,8 @@ sub-navigation-contact:
   url: '/contribute'
 - title: Community
   url: '/community'
+- title: Meet us!
+  url: '/events'
 - title: Code of Conduct
   url: '/code-of-conduct'
 
@@ -94,5 +98,9 @@ sub-navigation-intro:
   url: '/initiatives'
 - title: Philosophy
   url: '/about'
+- title: Community
+  url: '/community'
+- title: Events
+  url: '/events'
 
 
