@@ -9,7 +9,7 @@ event.preventDefault();
         var topDist = $(".content").position();
 
         if (scroll > (topDist.top + 60)) {
-            header.css({"position":"relative","top": scroll}).animate({'height':'20'}, 800).addClass('close');
+            header.css({"position":"relative","top": scroll}).animate({'height':'20'}, 400).addClass('close');
         } else {
             header.css({"position":"static","top":"auto"}).removeClass('close');
         }
