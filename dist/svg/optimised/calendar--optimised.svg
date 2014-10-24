@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="-289 381 32 32" enable-background="new -289 381 32 32" xml:space="preserve">
-<path fill="#333332" d="M-259.7,384h-4.3v-2c0-0.5-0.5-1-1-1s-1,0.5-1,1v2h-6v-2c0-0.5-0.5-1-1-1s-1,0.5-1,1v2h-6v-2
-	c0-0.5-0.5-1-1-1s-1,0.5-1,1v2h-4.3c-1.5,0-2.7,1.2-2.7,2.7v23.7c0,1.5,1.2,2.7,2.7,2.7h26.7c1.5,0,2.7-1.2,2.7-2.7v-23.7
-	C-257,385.2-258.2,384-259.7,384z M-259,410.3c0,0.4-0.3,0.7-0.7,0.7h-26.7c-0.4,0-0.7-0.3-0.7-0.7v-23.7c0-0.4,0.3-0.7,0.7-0.7h4.3
-	v2c0,0.5,0.5,1,1,1s1-0.5,1-1v-2h6v2c0,0.5,0.5,1,1,1s1-0.5,1-1v-2h6v2c0,0.5,0.5,1,1,1s1-0.5,1-1v-2h4.3c0.4,0,0.7,0.3,0.7,0.7
-	V410.3z M-282,393h4v3h-4V393z M-282,398h4v3h-4V398z M-282,403h4v3h-4V403z M-275,403h4v3h-4V403z M-275,398h4v3h-4V398z M-275,393
-	h4v3h-4V393z M-268,403h4v3h-4V403z M-268,398h4v3h-4V398z M-268,393h4v3h-4V393z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" width="32" height="32" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+  <path fill="#333332" d="M29.33 3H25V1c0-0.55-0.45-1-1-1s-1 0.45-1 1v2h-6V1c0-0.55-0.45-1-1-1s-1 0.45-1 1v2H9V1c0-0.55-0.45-1-1-1S7 0.45 7 1v2H2.67C1.19 3 0 4.19 0 5.67v23.67C0 30.81 1.19 32 2.67 32h26.67C30.81 32 32 30.81 32 29.33V5.67C32 4.19 30.81 3 29.33 3zM30 29.33C30 29.7 29.7 30 29.33 30H2.67C2.3 30 2 29.7 2 29.33V5.67C2 5.3 2.3 5 2.67 5H7v2c0 0.55 0.45 1 1 1s1-0.45 1-1V5h6v2c0 0.55 0.45 1 1 1s1-0.45 1-1V5h6v2c0 0.55 0.45 1 1 1s1-0.45 1-1V5h4.33C29.7 5 30 5.3 30 5.67V29.33z"/>
+  <rect x="7" y="12" fill="#333332" width="4" height="3"/>
+  <rect x="7" y="17" fill="#333332" width="4" height="3"/>
+  <rect x="7" y="22" fill="#333332" width="4" height="3"/>
+  <rect x="14" y="22" fill="#333332" width="4" height="3"/>
+  <rect x="14" y="17" fill="#333332" width="4" height="3"/>
+  <rect x="14" y="12" fill="#333332" width="4" height="3"/>
+  <rect x="21" y="22" fill="#333332" width="4" height="3"/>
+  <rect x="21" y="17" fill="#333332" width="4" height="3"/>
+  <rect x="21" y="12" fill="#333332" width="4" height="3"/>
 </svg>
