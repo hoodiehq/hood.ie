@@ -131,7 +131,6 @@ ol {
     //background-image: none;
 
     .row {
-        display: flex;
         flex-wrap: wrap;
         margin: 0 .5vw;
         align-items: stretch;
@@ -152,12 +151,6 @@ ol {
                 margin-bottom: rem-calc(20);
                 color: #fff;
             }
-
-            p {
-                font-size: rem-calc(16);
-                line-height: rem-calc(28);
-            }
-
             a {
                 color: #fff;
                 text-decoration: underline;
@@ -191,12 +184,6 @@ ol {
                 h3 {
                     margin-bottom: rem-calc(9);
                     text-transform: uppercase;
-                }
-
-                p {
-                    padding-right: rem-calc(7);
-                    margin-bottom: rem-calc(15);
-                    font-size: rem-calc(16);
                 }
             }
 
@@ -284,15 +271,10 @@ ol {
 
         // special grid for index
         .grid-3 {
-            width: 33%;
-            max-width: rem-calc(250);
             margin-right: rem-calc(7);
 
             &:nth-child(3n) {
                 margin-right: 0;
-            }
-
-            section {
             }
         }
 

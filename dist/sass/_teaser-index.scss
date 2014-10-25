@@ -1,0 +1,42 @@
+
+
+.teaser-index {
+    display: flex;
+    .grid-3 {
+        width: 100%;
+        max-width: 100%;
+        height: auto !important;
+
+        @include breakpoint(index) {
+            width: 33%;
+            max-width: 15.625rem;
+        }
+
+        &:first-child {
+            margin-top: 0 !important;
+            margin-right: 0 !important;
+            order: 2;
+            @include breakpoint(index) {
+                order: 1;
+            }
+        }
+        &:last-child {
+            margin-top: 0 !important;
+            order: 3;
+        }
+        p {
+            margin-bottom: rem-calc(15);
+        }
+    }
+    .main {
+        margin-right: 0 !important;
+        order: 1;
+        // @include breakpoint(mv) {
+        //     font-size: 1.7em;
+        //     line-height: 1.618;
+        // }
+        @include breakpoint(index) {
+            order: 2;
+        }
+    }
+}
