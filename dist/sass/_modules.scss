@@ -4,7 +4,7 @@ $dh : rem-calc(40);
 // =========== Bio for a person with 3:6 grid ==============
 .person-bio {
     h6 {
-        padding-left: rem-calc(195);
+        padding-left: rem-calc(175);
     }
     .grid-3 {
         margin: rem-calc(5 25 0 0);
@@ -12,33 +12,7 @@ $dh : rem-calc(40);
     }
 
     .bio-link {
-        padding-top: rem-calc(155);
-
-        &.first {
-            padding-top: rem-calc(205);
-        }
-    }
-
-    .bio-img {
-        &.bunt {
-            display: none;
-        }
-
-        &.sw {
-            display: inline-block;
-        }
-    }
-
-    &:hover {
-       .bio-img {
-            &.bunt {
-                display: inline-block;
-            }
-
-            &.sw {
-                display: none;
-            }
-        }
+        padding-top: rem-calc(129);
     }
 }
 
@@ -54,6 +28,9 @@ $dh : rem-calc(40);
         @include breakpoint(lv) {
             margin-bottom: rem-calc(60);
         }
+
+
+
         figure {
             min-height: rem-calc(150);
             // height: rem-calc(175);
@@ -65,7 +42,7 @@ $dh : rem-calc(40);
 
             .contribute-topic-image {
                 width:rem-calc(80);
-                opacity: .4;
+                opacity: 0.4;
             }
         }
     }
@@ -73,12 +50,8 @@ $dh : rem-calc(40);
 
 .contribute-aside-icon {
     width:rem-calc(80);
-    opacity: .3;
+    opacity: 0.3;
     margin-top: rem-calc(18);
-}
-
-.friends.apps .grid-3 {
-    text-align: left;
 }
 
 
@@ -131,6 +104,7 @@ ol {
     //background-image: none;
 
     .row {
+        display: flex;
         flex-wrap: wrap;
         margin: 0 .5vw;
         align-items: stretch;
@@ -151,6 +125,12 @@ ol {
                 margin-bottom: rem-calc(20);
                 color: #fff;
             }
+
+            p {
+                font-size: rem-calc(16);
+                line-height: rem-calc(28);
+            }
+
             a {
                 color: #fff;
                 text-decoration: underline;
@@ -184,6 +164,12 @@ ol {
                 h3 {
                     margin-bottom: rem-calc(9);
                     text-transform: uppercase;
+                }
+
+                p {
+                    padding-right: rem-calc(7);
+                    margin-bottom: rem-calc(15);
+                    font-size: rem-calc(16);
                 }
             }
 
@@ -271,10 +257,15 @@ ol {
 
         // special grid for index
         .grid-3 {
+            width: 33%;
+            max-width: rem-calc(250);
             margin-right: rem-calc(7);
 
             &:nth-child(3n) {
                 margin-right: 0;
+            }
+
+            section {
             }
         }
 
@@ -360,14 +351,4 @@ ol {
     &:hover {
         text-decoration: none;
     }
-}
-
-
-// ========== slider navigation =========
-.slide {
-    position: relative !important;
-    height: 20px;
-    overflow: hidden;
-    z-index: 999 !important;
-    top: 190px !important;
 }
