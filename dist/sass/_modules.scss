@@ -106,13 +106,13 @@ ol {
     .row {
         display: flex;
         flex-wrap: wrap;
-        margin: 0 .5vw;
+        // margin: 0 .5vw;
         align-items: stretch;
         margin-bottom: rem-calc(16);
 
         // first row with special height and background
         &.first div.main {
-            height: 11*$dh;
+            // height: 11*$dh;
             margin-top: 0;
             background-color: #e94e1b;
             color: #fff;
@@ -139,12 +139,12 @@ ol {
 
         &.first div {
             margin-top: 2.5*$dh;
-            -webkit-border-top-left-radius: rem-calc(12);
-            -webkit-border-top-right-radius: rem-calc(12);
-            -moz-border-radius-topleft: rem-calc(12);
-            -moz-border-radius-topright: rem-calc(12);
-            border-top-left-radius: rem-calc(12);
-            border-top-right-radius: rem-calc(12);
+            // -webkit-border-top-left-radius: rem-calc(12);
+            // -webkit-border-top-right-radius: rem-calc(12);
+            // -moz-border-radius-topleft: rem-calc(12);
+            // -moz-border-radius-topright: rem-calc(12);
+            // border-top-left-radius: rem-calc(12);
+            // border-top-right-radius: rem-calc(12);
         }
 
         // white background
@@ -257,33 +257,38 @@ ol {
 
         // special grid for index
         .grid-3 {
-            width: 33%;
-            max-width: rem-calc(250);
-            margin-right: rem-calc(7);
-
+            max-width: none;
+            width: 100%;
+            @include breakpoint(mv-lv) {
+                width: 32.833333333%;
+                margin-right: .75%;
+            }
             &:nth-child(3n) {
                 margin-right: 0;
-            }
-
-            section {
             }
         }
 
         .grid-6 {
-            width: 67%;
-            max-width: rem-calc(524);
+            max-width: none;
             margin-right: 0;
+            width: 100%;
+            @include breakpoint(mv-lv) {
+                width: 66.416666666%;
+            }
         }
 
         .grid-9 {
             width: 100%;
-            max-width: rem-calc(815);
+            max-width: none;
             margin-right: 0;
         }
 
         .m-l {
-            margin-left: rem-calc(6);
             margin-right: 0;
+            margin-left: 0;
+            @include breakpoint(mv-lv) {
+               margin-left: .75%;
+            }
         }
     }
 
