@@ -859,33 +859,4 @@ ol {
   #eventsList {
     margin: 0; } }
 
-.teaser-index {
-  display: flex; }
-  .teaser-index .grid-3 {
-    width: 100%;
-    max-width: 100%;
-    height: auto !important; }
-    @media (min-width: 50.3125em) {
-      .teaser-index .grid-3 {
-        width: 33%;
-        max-width: 15.625rem; } }
-    .teaser-index .grid-3:first-child {
-      margin-top: 0 !important;
-      margin-right: 0 !important;
-      order: 2; }
-      @media (min-width: 50.3125em) {
-        .teaser-index .grid-3:first-child {
-          order: 1; } }
-    .teaser-index .grid-3:last-child {
-      margin-top: 0 !important;
-      order: 3; }
-    .teaser-index .grid-3 p {
-      margin-bottom: 0.9375rem; }
-  .teaser-index .main {
-    margin-right: 0 !important;
-    order: 1; }
-    @media (min-width: 50.3125em) {
-      .teaser-index .main {
-        order: 2; } }
-
 /*# sourceMappingURL=hoodie.css.map */

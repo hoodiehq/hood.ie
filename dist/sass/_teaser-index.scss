@@ -2,16 +2,17 @@
 
 .teaser-index {
     display: flex;
+    flex-wrap: wrap;
     .grid-3 {
         width: 100%;
         max-width: 100%;
-        height: auto !important;
-
+        background-color: #fcfcfc;
         @include breakpoint(index) {
             width: 33%;
             max-width: 15.625rem;
+            border-top-left-radius: rem-calc(12);
+            border-top-right-radius: rem-calc(12);
         }
-
         &:first-child {
             margin-top: 0 !important;
             margin-right: 0 !important;
@@ -31,6 +32,10 @@
     .main {
         margin-right: 0 !important;
         order: 1;
+        color: #fff;
+        background-color: $orange;
+        border-top-left-radius: rem-calc(12);
+        border-top-right-radius: rem-calc(12);
         // @include breakpoint(mv) {
         //     font-size: 1.7em;
         //     line-height: 1.618;
@@ -38,5 +43,8 @@
         @include breakpoint(index) {
             order: 2;
         }
+    }
+    &-section {
+        padding: rem-calc(15 6);
     }
 }
