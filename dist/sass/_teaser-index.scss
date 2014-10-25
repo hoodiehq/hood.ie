@@ -4,12 +4,12 @@
     display: flex;
     flex-wrap: wrap;
     .grid-3 {
-        width: 100%;
-        max-width: 100%;
+        width: 100% !important;
+        max-width: 100% !important;
         background-color: #fcfcfc;
         @include breakpoint(index) {
-            width: 33%;
-            max-width: 15.625rem;
+            width: 32.833333333% !important;
+            max-width: none !important;
             border-top-left-radius: rem-calc(12);
             border-top-right-radius: rem-calc(12);
         }
@@ -19,6 +19,7 @@
             order: 2;
             @include breakpoint(index) {
                 order: 1;
+                margin-right: .75% !important;
             }
         }
         &:last-child {
@@ -42,6 +43,7 @@
         // }
         @include breakpoint(index) {
             order: 2;
+            margin-right: .75% !important;
         }
     }
     &-section {
