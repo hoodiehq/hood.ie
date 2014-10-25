@@ -19,7 +19,7 @@ module.exports = function(grunt) {
           atBegin: true,
           interrupt: true,
           spawn: true,
-          livereload: true
+          livereload: 35829
         }
       }
     },
