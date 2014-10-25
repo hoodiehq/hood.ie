@@ -8,11 +8,6 @@
     @if $point == index {
         @media (min-width: 50.3125em) { @content; } //805px
     }
-
-    @if $point == index {
-        @media (min-width: 50.3125em) {@content }
-    }
-
     @if $point == lv {
         @media (min-width: 57.5em) { @content; } //920px
     }
