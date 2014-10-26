@@ -50,6 +50,9 @@ section:after, .main-nav:after, .sub-nav:after, .cb:after, .friends:after {
 section, .main-nav, .sub-nav {
   width: 100%; }
 
+header {
+  z-index: 1; }
+
 header section li, header section a {
   display: inline-block; }
 
@@ -418,10 +421,10 @@ input, textarea {
   font-size: 1.1em;
   line-height: 1.8; }
 
-.person-bio h6 {
+.person-bio h3, .person-bio h6, .person-bio article p {
   padding-left: 10.9375rem; }
 .person-bio .grid-3 {
-  margin: 0.3125rem 1.5625rem 0 0;
+  margin: 0.3125rem 0 0 0;
   max-width: 9.375rem;
   position: relative; }
   .person-bio .grid-3 .sw {
@@ -433,6 +436,21 @@ input, textarea {
       opacity: 0; }
 .person-bio .bio-link {
   padding-top: 8.0625rem; }
+
+@media screen and (max-width: 920px) {
+  .person-bio .bio-link {
+    padding-top: 0;
+    width: 100%;
+    max-width: 37.5rem;
+    margin: 0 auto;
+    padding-left: 10.9375rem; } }
+
+@media screen and (max-width: 460px) {
+  .person-bio h3, .person-bio h6, .person-bio article p, .person-bio .bio-link {
+    padding-left: 0; }
+  figure.grid-3.l {
+    float: none;
+    margin: 2em auto; } }
 
 .friends .grid-3 {
   margin-bottom: 1.25rem;
