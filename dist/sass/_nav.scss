@@ -1,6 +1,9 @@
 .nav {
     padding: rem-calc(17 20);
     display: flex;
+    flex-direction: column;
+    height: 100vh;
+    text-align: center;
 }
 
 .logo {
@@ -11,13 +14,26 @@
 .main-nav {
     width: auto;
     padding-top: rem-calc(3);
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    > a {
+        margin-right: 0;
+        display: block;
+    }
 }
 
 .meta-nav {
     padding: 0;
     margin: 0;
+    text-align: center;
 }
 
 .meta-nav-list-item {
     padding-top: rem-calc(3);
+}
+
+.sub-nav {
+    top: auto;
+    bottom: 0;
+    padding: rem-calc(8 10 5 10);
 }

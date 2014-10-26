@@ -926,7 +926,10 @@ svg path, svg rect {
 
 .nav {
   padding: 1.0625rem 1.25rem;
-  display: flex; }
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  text-align: center; }
 
 .logo {
   margin-right: 0 !important;
@@ -934,13 +937,24 @@ svg path, svg rect {
 
 .main-nav {
   width: auto;
-  padding-top: 0.1875rem; }
+  padding-top: 0.1875rem;
+  margin-top: 10vh;
+  margin-bottom: 5vh; }
+  .main-nav > a {
+    margin-right: 0;
+    display: block; }
 
 .meta-nav {
   padding: 0;
-  margin: 0; }
+  margin: 0;
+  text-align: center; }
 
 .meta-nav-list-item {
   padding-top: 0.1875rem; }
+
+.sub-nav {
+  top: auto;
+  bottom: 0;
+  padding: 0.5rem 0.625rem 0.3125rem 0.625rem; }
 
 /*# sourceMappingURL=hoodie.css.map */
