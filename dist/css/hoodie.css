@@ -787,7 +787,8 @@ article img {
       font-size: 1em;
       line-height: 1.5; }
     #eventsList .futureEvents .events > li .description, #eventsList .pastEvents .events > li .description {
-      margin-bottom: 0.75em; }
+      margin-bottom: 0.75em;
+      overflow: hidden; }
     #eventsList .futureEvents .events > li .links, #eventsList .pastEvents .events > li .links {
       padding-left: 0;
       margin: 0 0 0 1em; }
