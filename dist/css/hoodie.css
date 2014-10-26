@@ -929,7 +929,8 @@ svg path, svg rect {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  text-align: center; }
+  text-align: center;
+  font-size: 4vh; }
 
 .logo {
   margin-right: 0 !important;
