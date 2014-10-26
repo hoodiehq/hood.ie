@@ -62,7 +62,7 @@
 .index .img-bg {
     background-size: cover;
     background-position: 0 0;
-    p {
+    p:last-of-type {
         margin-bottom: 0;
     }
 }
@@ -79,6 +79,10 @@
     h3 {
         margin-bottom: 0 !important;
     }
+}
+
+.index section p:last-of-type {
+    margin-bottom: 0;
 }
 
 svg path,
