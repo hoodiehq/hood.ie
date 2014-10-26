@@ -2,6 +2,9 @@
     @if $point == mv {
         @media (min-width: 30em) { @content; } //480px
     }
+    @if $point == footer {
+        @media (min-width: 34.375em) { @content; } //600px;
+    }
     @if $point == mv-lv {
         @media (min-width: 43.5em) { @content; } //696px
     }

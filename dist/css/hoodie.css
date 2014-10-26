@@ -705,19 +705,33 @@ ol {
 
 .footer {
   padding: 0 1rem; }
+  .footer .grid-3 {
+    width: 100%;
+    max-width: none; }
+    @media (min-width: 34.375em) {
+      .footer .grid-3 {
+        width: 33%; } }
 
 .sitemap {
   padding: 2.1875rem 0 0.9375rem; }
 
-.sitemap-item {
+.sitemap-list {
   list-style: none;
   padding-left: 0;
-  width: 16.25rem;
-  margin-right: 1.5625rem;
-  font-size: 0.938em;
+  width: 100%;
+  text-align: center;
+  font-size: 1.1875em;
   line-height: 1.6; }
-  .sitemap-item:last-child {
+  .sitemap-list:last-child {
     margin-right: 0; }
+
+.sitemap-item {
+  font-weight: 500;
+  margin-bottom: 0 !important; }
+
+.sitemap-item.indented {
+  font-weight: 300;
+  font-size: 0.8em; }
 
 .footer-licensing {
   color: #fff;
@@ -725,12 +739,6 @@ ol {
   .footer-licensing a {
     color: #fff;
     font-style: italic; }
-
-.indented {
-  text-indent: 0.5em; }
-  .indented:before {
-    content: "- ";
-    color: #fff; }
 
 #eventsList ul {
   list-style: none; }
