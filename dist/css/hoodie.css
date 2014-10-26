@@ -422,7 +422,15 @@ input, textarea {
   padding-left: 10.9375rem; }
 .person-bio .grid-3 {
   margin: 0.3125rem 1.5625rem 0 0;
-  max-width: 9.375rem; }
+  max-width: 9.375rem;
+  position: relative; }
+  .person-bio .grid-3 .sw {
+    position: absolute;
+    left: 0;
+    opacity: 1;
+    transition: opacity 0.25s; }
+    .person-bio .grid-3 .sw:hover {
+      opacity: 0; }
 .person-bio .bio-link {
   padding-top: 8.0625rem; }
 

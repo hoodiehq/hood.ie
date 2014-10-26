@@ -14,6 +14,16 @@ $dh : rem-calc(40);
     .grid-3 {
         margin: rem-calc(5 25 0 0);
         max-width: rem-calc(150);
+        position: relative;
+        .sw{
+            position: absolute;
+            left: 0;
+            opacity: 1;
+            transition: opacity 0.25s;
+            &:hover{
+                opacity: 0;
+            }
+        }
     }
     .bio-link {
         padding-top: rem-calc(129);
