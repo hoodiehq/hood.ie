@@ -480,6 +480,9 @@ ul {
 ol {
   padding-left: 1.875rem; }
 
+article img {
+  border-radius: 3px; }
+
 .index .content .row {
   display: flex;
   flex-wrap: wrap;
@@ -489,18 +492,15 @@ ol {
     background-color: #e94e1b;
     color: #fff; }
     .index .content .row.first div.main h3 {
-      font-size: 1.625rem;
+      font-size: 2.25rem;
       text-align: center;
-      margin-left: -1.125rem;
-      margin-bottom: 1.25rem;
+      margin-bottom: 0.8125rem;
       color: #fff; }
     .index .content .row.first div.main p {
       line-height: 1.75rem; }
     .index .content .row.first div.main a {
       color: #fff;
       text-decoration: underline; }
-  .index .content .row.first div {
-    margin-top: 6.25rem; }
   .index .content .row.white div {
     background-color: #fff; }
   .index .content .row div {
