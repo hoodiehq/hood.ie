@@ -503,7 +503,6 @@ ol {
       margin-bottom: 1.25rem;
       color: #fff; }
     .index .content .row.first div.main p {
-      font-size: 1rem;
       line-height: 1.75rem; }
     .index .content .row.first div.main a {
       color: #fff;
@@ -549,13 +548,11 @@ ol {
   .index .content .row .img-bg a {
     font-weight: 400; }
   .index .content .row .merch {
-    background: rgba(0, 0, 0, 0.7) url('../content_img/index/index_merch.jpg') 0 0 no-repeat;
-    height: 7.5rem; }
+    background: rgba(0, 0, 0, 0.7) url('../content_img/index/index_merch.jpg') 0 0 no-repeat; }
   .index .content .row .feature {
-    background: #fff url('../content_img/index/feature.jpg') 100% 100% no-repeat; }
+    background: #fff url('../content_img/index/index1.jpg') 100% 100% no-repeat; }
   .index .content .row .contribute {
-    background: #fff url('../content_img/index/contribute.jpg') 60% 80% no-repeat;
-    height: 7.5rem; }
+    background: #fff url('../content_img/index/contribute.jpg') 60% 80% no-repeat; }
   .index .content .row .newsletter {
     border: 1px solid #ebebeb; }
   .index .content .row .placeholder {
@@ -900,10 +897,14 @@ ol {
     background-color: #e94e1b;
     border-top-left-radius: 0.75rem;
     border-top-right-radius: 0.75rem; }
+    @media (min-width: 30em) { }
     @media (min-width: 50.3125em) {
       .teaser-index .main {
         order: 2;
         margin-right: 0.75% !important; } }
+    @media (min-width: 43.5em) {
+      .teaser-index .main {
+        margin-top: -3.125rem !important; } }
   .teaser-index-section {
     padding: 0.9375rem 0.375rem; }
 

@@ -127,7 +127,6 @@ ol {
             }
 
             p {
-                font-size: rem-calc(16);
                 line-height: rem-calc(28);
             }
 
@@ -216,16 +215,15 @@ ol {
         // BG-images
         .merch {
             background: rgba(0, 0, 0, .7) url('../content_img/index/index_merch.jpg') 0 0 no-repeat;
-            height: 3*$dh;
         }
 
         .feature {
-            background: #fff url('../content_img/index/feature.jpg') 100% 100% no-repeat;
+            background: #fff url('../content_img/index/index1.jpg') 100% 100% no-repeat;
         }
 
         .contribute {
             background: #fff url('../content_img/index/contribute.jpg') 60% 80% no-repeat;
-            height: 3*$dh;
+
         }
 
         .newsletter {
