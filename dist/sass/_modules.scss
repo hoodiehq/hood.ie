@@ -166,9 +166,9 @@ ol {
                 }
 
                 p {
-                    padding-right: rem-calc(7);
-                    margin-bottom: rem-calc(15);
-                    font-size: rem-calc(16);
+                    // padding-right: rem-calc(7);
+                    // margin-bottom: rem-calc(15);
+                    // font-size: rem-calc(16);
                 }
             }
 
@@ -214,15 +214,15 @@ ol {
 
         // BG-images
         .merch {
-            background: rgba(0, 0, 0, .7) url('../content_img/index/index_merch.jpg') 0 0 no-repeat;
+            background-image: url('../content_img/index/index_merch.jpg');
         }
 
         .feature {
-            background: #fff url('../content_img/index/index1.jpg') 100% 100% no-repeat;
+            background-image: url('../content_img/index/index1.jpg');
         }
 
         .contribute {
-            background: #fff url('../content_img/index/contribute.jpg') 60% 80% no-repeat;
+            background-image: url('../content_img/index/contribute.jpg');
 
         }
 
