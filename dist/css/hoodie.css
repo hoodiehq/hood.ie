@@ -740,8 +740,12 @@ article img {
     color: #fff;
     font-style: italic; }
 
+.eventsIntro {
+  padding-bottom: 0; }
+
 #eventsList ul {
-  list-style: none; }
+  list-style: none;
+  padding-left: 0; }
 #eventsList .hidden {
   display: none; }
 #eventsList .futureEvents {
@@ -848,17 +852,26 @@ article img {
 
 @media screen and (max-width: 630px) {
   #eventsList #filters {
-    width: 10em; }
+    width: 100%; }
     #eventsList #filters label {
-      display: block;
+      display: inline-block;
+      width: 45%;
       margin-bottom: 0.25em; } }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
   #content {
     padding-left: 1em;
     padding-right: 1em; }
   #eventsList {
     margin: 0; } }
+
+@media screen and (max-width: 380px) {
+  #eventsList #filters {
+    width: 100%; }
+    #eventsList #filters label {
+      display: block;
+      width: 100%;
+      margin-bottom: 0.25em; } }
 
 .teaser-index {
   display: flex;
