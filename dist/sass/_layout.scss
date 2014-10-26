@@ -18,6 +18,10 @@ section,
     @extend %cf;
 }
 
+header{
+    z-index:1;
+}
+
 header section li,
 header section a {
     display: inline-block;

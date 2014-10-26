@@ -1,22 +1,60 @@
+
+
 // =========== height default var ==============
+
 $dh : rem-calc(40);
 
+
 // =========== Bio for a person with 3:6 grid ==============
+
 .person-bio {
-    h6 {
+    h3, h6, article p {
         padding-left: rem-calc(175);
     }
     .grid-3 {
-        margin: rem-calc(5 25 0 0);
+        margin: rem-calc(5 0 0 0);
         max-width: rem-calc(150);
+        position: relative;
+        .sw{
+            position: absolute;
+            left: 0;
+            opacity: 1;
+            transition: opacity 0.25s;
+            &:hover{
+                opacity: 0;
+            }
+        }
     }
-
     .bio-link {
         padding-top: rem-calc(129);
     }
 }
 
+@media screen and (max-width: 920px) {
+    .person-bio .bio-link {
+        padding-top: 0;
+        width: 100%;
+        max-width: 37.5rem;
+        margin: 0 auto;
+        padding-left: rem-calc(175);
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .person-bio {
+        h3, h6, article p, .bio-link {
+            padding-left: 0;
+        }
+    }
+    figure.grid-3.l{
+        float: none;
+        margin: 2em auto;
+    }
+}
+
+
 // =========== Friends + contribute ==============
+
 .friends {
     @extend %cf;
     .grid-3 {
@@ -28,34 +66,29 @@ $dh : rem-calc(40);
         @include breakpoint(lv) {
             margin-bottom: rem-calc(60);
         }
-
-
-
         figure {
             min-height: rem-calc(150);
             // height: rem-calc(175);
             margin-bottom: rem-calc(16);
-
             &.contribute-topic-image-wrap {
                 min-height: rem-calc(90);
             }
-
             .contribute-topic-image {
                 width:rem-calc(80);
-                opacity: 0.4;
+                opacity: .4;
             }
         }
     }
 }
-
 .contribute-aside-icon {
     width:rem-calc(80);
-    opacity: 0.3;
+    opacity: .3;
     margin-top: rem-calc(18);
 }
 
 
 // =========== aside navigation for docs ==============
+
 .api-nav {
     position: absolute;
     top: rem-calc(347);
@@ -65,13 +98,14 @@ $dh : rem-calc(40);
     margin-left: rem-calc(220);
     background-color: $gray-6;
     border-radius: rem-calc(12);
-
     ul {
         margin-bottom: rem-calc(35);
     }
 }
 
+
 // =========== hot fix for prism ==============
+
 code {
     white-space: normal !important;
     border: 0 none !important;
@@ -79,7 +113,9 @@ code {
     margin-top: rem-calc(25) !important;
 }
 
+
 // =========== article ==============
+
 ul,
 ol {
     margin-bottom: rem-calc(26);
@@ -98,52 +134,36 @@ ol {
     padding-left: rem-calc(30);
 }
 
+article img {
+    border-radius: 3px;
+}
+
 
 // =========== landing page ==============
-.index .content {
-    //background-image: none;
 
+.index .content {
     .row {
         display: flex;
         flex-wrap: wrap;
-        // margin: 0 .5vw;
-        // align-items: stretch;
         margin-bottom: rem-calc(16);
-
-        // first row with special height and background
         &.first div.main {
-            // height: 11*$dh;
             margin-top: 0;
             background-color: #e94e1b;
             color: #fff;
-
-
             h3 {
-                font-size: rem-calc(26);
+                font-size: rem-calc(36);
                 text-align: center;
-                margin-left: rem-calc(-18);
-                margin-bottom: rem-calc(20);
+                // margin-left: rem-calc(-18);
+                margin-bottom: rem-calc(13);
                 color: #fff;
             }
-
             p {
                 line-height: rem-calc(28);
             }
-
             a {
                 color: #fff;
                 text-decoration: underline;
             }
-        }
-
-        &.first div {
-            margin-top: 2.5*$dh;
-            // -webkit-border-top-left-radius: rem-calc(12);
-            // -webkit-border-top-right-radius: rem-calc(12);
-            // -moz-border-radius-topleft: rem-calc(12);
-            // -moz-border-radius-topright: rem-calc(12);
-            // border-top-left-radius: rem-calc(12);
-            // border-top-right-radius: rem-calc(12);
         }
 
         // white background
@@ -164,14 +184,7 @@ ol {
                     margin-bottom: rem-calc(9);
                     text-transform: uppercase;
                 }
-
-                p {
-                    // padding-right: rem-calc(7);
-                    // margin-bottom: rem-calc(15);
-                    // font-size: rem-calc(16);
-                }
             }
-
             &.newsletter {
                 padding: rem-calc(0) rem-calc(7);
             }
@@ -350,6 +363,7 @@ ol {
 
 
 // =========== jump mark ======== @todo describe propperly
+
 .jump-mark {
     &:hover {
         text-decoration: none;
