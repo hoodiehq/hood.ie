@@ -62,33 +62,17 @@ footer {
 .nav {
   height: 4.0625rem; }
 
-.logo {
-  left: 1.25rem;
-  top: 1.25rem;
-  z-index: 2; }
-
-.meta-nav {
-  right: 1.875rem;
-  top: 1.3125rem; }
-
-.main-nav {
-  top: 1.3125rem; }
-
 .sub-nav {
   top: 4.0625rem;
-  padding: 0.5rem 0 0.3125rem 0;
-  height: 2.25rem; }
+  padding: 0.5rem 0 0.3125rem 0; }
 
-.logo, .meta-nav {
-  width: 14.375rem; }
-
-.main-nav, .meta-nav, .logo {
+.main-nav, .meta-nav {
   display: inline-block; }
 
 .sub-nav, .cb, .main-nav, .blog-list, .blog-post article, .blog-post .comments {
   margin: 0 auto; }
 
-.nav, .logo, .main-nav, .meta-nav, .sub-nav {
+.nav, .sub-nav {
   position: absolute; }
 
 .cb {
@@ -939,5 +923,24 @@ article img {
 
 svg path, svg rect {
   fill: currentColor; }
+
+.nav {
+  padding: 1.0625rem 1.25rem;
+  display: flex; }
+
+.logo {
+  margin-right: 0 !important;
+  display: block; }
+
+.main-nav {
+  width: auto;
+  padding-top: 0.1875rem; }
+
+.meta-nav {
+  padding: 0;
+  margin: 0; }
+
+.meta-nav-list-item {
+  padding-top: 0.1875rem; }
 
 /*# sourceMappingURL=hoodie.css.map */

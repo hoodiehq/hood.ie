@@ -1,0 +1,23 @@
+.nav {
+    padding: rem-calc(17 20);
+    display: flex;
+}
+
+.logo {
+    margin-right: 0 !important;
+    display: block;
+}
+
+.main-nav {
+    width: auto;
+    padding-top: rem-calc(3);
+}
+
+.meta-nav {
+    padding: 0;
+    margin: 0;
+}
+
+.meta-nav-list-item {
+    padding-top: rem-calc(3);
+}
