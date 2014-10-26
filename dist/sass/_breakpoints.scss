@@ -15,15 +15,3 @@
         @media (min-width: 920px) { @content; }
     }
 }
-
-body {
-    @include breakpoint(mv) {
-        background: lightblue !important;
-    }
-    @include breakpoint(mv-lv) {
-        background: lightgreen !important;
-    }
-    @include breakpoint(lv) {
-        background: lightyellow !important;
-    }
-}
