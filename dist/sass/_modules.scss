@@ -80,11 +80,6 @@ $dh : rem-calc(40);
         }
     }
 }
-.contribute-aside-icon {
-    width:rem-calc(80);
-    opacity: .3;
-    margin-top: rem-calc(18);
-}
 
 
 // =========== aside navigation for docs ==============
@@ -368,4 +363,33 @@ article img {
     &:hover {
         text-decoration: none;
     }
+}
+
+
+.friends,
+.contribute-aside-icon {
+    svg {
+        width: rem-calc(80);
+        height: rem-calc(80);
+        display: block;
+        margin: 0 auto;
+    }
+    use {
+        transform: scale(2.5);
+    }
+}
+
+.contribute-aside-icon {
+    @include breakpoint(lv) {
+        text-align: right;
+    }
+    svg {
+        margin: 0;
+        display: inline-block;
+    }
+}
+
+.friends .grid-svg {
+    margin-bottom: rem-calc(20);
+    color: rgba(0, 0, 0, .3);
 }

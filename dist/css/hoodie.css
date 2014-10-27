@@ -177,6 +177,17 @@ img {
 * {
   box-sizing: border-box; }
 
+.switch-on-break {
+  display: flex;
+  flex-direction: column; }
+  .switch-on-break .contribute-aside-icon {
+    order: 1; }
+  .switch-on-break article {
+    order: 2; }
+  @media (min-width: 57.5em) {
+    .switch-on-break {
+      display: block; } }
+
 body {
   color: #404040;
   background-color: #fff; }
@@ -470,11 +481,6 @@ input, textarea {
       width: 5rem;
       opacity: 0.4; }
 
-.contribute-aside-icon {
-  width: 5rem;
-  opacity: 0.3;
-  margin-top: 1.125rem; }
-
 .api-nav {
   position: absolute;
   top: 21.6875rem;
@@ -651,6 +657,25 @@ article img {
 .jump-mark:hover {
   text-decoration: none; }
 
+.friends svg, .contribute-aside-icon svg {
+  width: 5rem;
+  height: 5rem;
+  display: block;
+  margin: 0 auto; }
+.friends use, .contribute-aside-icon use {
+  transform: scale(2.5); }
+
+@media (min-width: 57.5em) {
+  .contribute-aside-icon {
+    text-align: right; } }
+.contribute-aside-icon svg {
+  margin: 0;
+  display: inline-block; }
+
+.friends .grid-svg {
+  margin-bottom: 1.25rem;
+  color: rgba(0, 0, 0, 0.3); }
+
 .blog hr {
   background-color: #282828;
   border: 0;
@@ -764,7 +789,7 @@ article img {
   font-size: 0.875rem; }
   .footer-licensing a {
     color: #fff;
-    font-style: italic; }
+    text-decoration: underline; }
 
 .eventsIntro {
   padding-bottom: 0; }
@@ -778,11 +803,11 @@ article img {
   padding-right: 1rem; }
   #eventsList .futureEvents .events > li:first-child {
     background-color: #e94e1b;
-    color: white;
+    color: #fff;
     padding: 0.5em 0.75em;
     border-radius: 4px; }
     #eventsList .futureEvents .events > li:first-child h3 {
-      color: white; }
+      color: #fff; }
     #eventsList .futureEvents .events > li:first-child a {
       color: #404040; }
     #eventsList .futureEvents .events > li:first-child .links {
@@ -839,7 +864,7 @@ article img {
   margin-bottom: 0.5em; }
 #eventsList .twitterCTA {
   background-color: #e94e1b;
-  color: white;
+  color: #fff;
   padding: 1.5em 0.75em;
   margin: 0 1em;
   border-radius: 4px;
@@ -848,7 +873,7 @@ article img {
     font-weight: bold;
     font-size: 1.375em;
     display: block;
-    color: white; }
+    color: #fff; }
 #eventsList .loader {
   width: 7em;
   height: 7em;
@@ -856,7 +881,7 @@ article img {
   border-radius: 50%;
   text-align: center;
   margin: 0 auto;
-  color: #FFF;
+  color: #fff;
   font-weight: bold;
   font-size: 1.25rem;
   padding-top: 2em;

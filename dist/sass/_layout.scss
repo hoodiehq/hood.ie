@@ -202,3 +202,17 @@ img {
 * {
     box-sizing: border-box;
 }
+
+.switch-on-break {
+    display: flex;
+    flex-direction: column;
+    .contribute-aside-icon {
+        order: 1;
+    }
+    article {
+        order: 2;
+    }
+    @include breakpoint(lv) {
+        display: block;
+    }
+}
