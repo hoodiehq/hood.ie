@@ -216,3 +216,23 @@ img {
         display: block;
     }
 }
+
+.cb table {
+    width: 100%;
+}
+
+    .cb tr:nth-child(even) {
+        background-color: #e1e1e1;
+    }
+        .cb td {
+            padding: 5px 8px;
+        }
+
+        .cb td:nth-child(1) {
+            width: 60%;
+        }
+
+        #VAT {
+            margin-top: rem-calc(15);
+            font-size: 0.8em;
+        }

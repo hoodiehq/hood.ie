@@ -262,3 +262,12 @@ article figure {
 .api-nav li a {
     color: $blue;
 }
+
+.blue,
+.gray,
+.lilac {
+    .cb p a,
+    .cb li a {
+        text-decoration: underline;
+    }
+}

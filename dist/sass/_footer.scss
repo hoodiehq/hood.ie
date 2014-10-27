@@ -31,11 +31,17 @@
 .sitemap-item {
     font-weight: 500;
     margin-bottom: 0 !important;
+    padding-top: rem-calc(15);
+
+    a {
+        text-decoration: none !important;
+    }
 }
 
 .sitemap-item.indented {
     font-weight: 300;
     font-size: .8em;
+    padding-top: 0;
     // text-indent: .5em;
     // &:before {
     //     content: "- ";
