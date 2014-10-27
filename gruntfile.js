@@ -34,23 +34,47 @@ module.exports = function(grunt) {
         }
       },
       prod: {
-        sourceMap: false,
-        outputStyle: 'compressed'
-      },
-      files: {
-        'dist/css/prod/hoodie.min.css' : 'dist/sass/base.scss'
+        options: {
+            sourceMap: false,
+            outputStyle: 'compressed'
+        },
+        files: {
+            'dist/css/prod/hoodie.min.css' : 'dist/sass/base.scss'
+        }
       }
+    },
+    copy: {
+        main: {
+            src: 'dist/css/prod/hoodie.min.css',
+            dest: 'dist/css/.tmp/hoodie.min.tmp.css'
+        }
+    },
+    autoprefixer: {
+        single_file: {
+            options: {
+                browsers: ['last 2 versions', 'ie 11', 'ie 10', 'ie 9'],
+                cascade: false,
+                annotation: false
+            },
+            src: 'dist/css/.tmp/hoodie.min.tmp.css',
+            dest: 'dist/css/prod/hoodie.min.pref.css'
+
+        }
     }
   });
   grunt.loadNpmTasks('grunt-sass');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-connect');
+  grunt.loadNpmTasks('grunt-contrib-copy');
+  grunt.loadNpmTasks('grunt-autoprefixer');
 
   grunt.registerTask('default', [
       'connect',
       'watch'
     ]);
   grunt.registerTask('build', [
-      'sass:prod'
+      'sass:prod',
+      'copy',
+      'autoprefixer'
     ]);
 };
