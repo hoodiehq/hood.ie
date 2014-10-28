@@ -37,14 +37,6 @@
         background-color: $orange;
         border-top-left-radius: rem-calc(12);
         border-top-right-radius: rem-calc(12);
-        // @include breakpoint(mv) {
-        //     font-size: 1.7em;
-        //     line-height: 1.618;
-        // }
-        @include breakpoint(mv) {
-
-        }
-
         @include breakpoint(index) {
             order: 2;
             margin-right: .75% !important;
