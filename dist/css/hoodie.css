@@ -714,8 +714,6 @@ article img {
   margin-bottom: 1rem; }
 .blog .entry {
   margin-bottom: 1.25rem; }
-.blog img {
-  border-radius: 2px; }
 .blog blockquote {
   position: relative;
   padding: 1rem 1rem 0.6875rem;
@@ -737,6 +735,8 @@ article img {
     text-align: right;
     margin-top: 0.625rem;
     text-indent: 6em; }
+.blog .blog-post-end {
+  margin-top: 5rem; }
 
 .blog-meta {
   display: block;
@@ -758,9 +758,6 @@ article img {
   text-decoration: underline;
   font-weight: 500;
   text-transform: uppercase; }
-
-.blog .blog-post-end {
-  margin-top: 5rem; }
 
 .blog-greetings {
   font-weight: 500;
