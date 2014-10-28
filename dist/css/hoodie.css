@@ -798,6 +798,8 @@ article img {
   .sitemap-list .sitemap-item-bold {
     font-weight: 500;
     padding-top: 0.9375rem; }
+  .sitemap-list .sitemap-link {
+    text-decoration: none !important; }
 
 .footer-licensing {
   color: #fff;
