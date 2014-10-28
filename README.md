@@ -9,6 +9,8 @@ There's also a production task ('grunt build') which at this point just spits ou
 
 ## Editorconfig & coding standards
 
+<img src="http://i.giphy.com/7SEOvVtOdtU2Y.gif" />
+
 Use the .editorsconfig file with your editor of choice to ensure a consistent coding style. Plugins are available at [http://editorconfig.org/#download](http://editorconfig.org/#download title="editorconfig download").
 
 ### Sass
