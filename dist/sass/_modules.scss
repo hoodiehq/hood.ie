@@ -8,47 +8,52 @@ $dh : rem-calc(40);
 // =========== Bio for a person with 3:6 grid ==============
 
 .person-bio {
-    h3, h6, article p {
-        padding-left: rem-calc(175);
+    .h3, .h6, article p, .bio-link {
+        padding-left: 0;
+        @include breakpoint(mv) {
+            padding-left: rem-calc(175);
+        }
     }
     .grid-3 {
-        margin: rem-calc(5 0 0 0);
+        margin-top: rem-calc(5);
         max-width: rem-calc(150);
         position: relative;
-        .sw{
+        .sw {
             position: absolute;
             left: 0;
             opacity: 1;
             transition: opacity 0.25s;
-            &:hover{
+            &:hover {
                 opacity: 0;
             }
         }
     }
     .bio-link {
-        padding-top: rem-calc(129);
-    }
-}
-
-@media screen and (max-width: 920px) {
-    .person-bio .bio-link {
         padding-top: 0;
         width: 100%;
         max-width: 37.5rem;
         margin: 0 auto;
-        padding-left: rem-calc(175);
-    }
-}
 
-@media screen and (max-width: 460px) {
-    .person-bio {
-        h3, h6, article p, .bio-link {
+        @include breakpoint(lv) {
+            max-width: 11.25rem;
             padding-left: 0;
+            padding-top: rem-calc(129);
         }
     }
-    figure.grid-3.l{
+    .h6 {
+        display: block;
+    }
+    figure.grid-3.l {
         float: none;
-        margin: 2em auto;
+        @include breakpoint(mv) {
+            float: left;
+        }
+    }
+    p {
+        margin-bottom: rem-calc(12);
+        @include breakpoint(mv) {
+            margin-bottom: rem-calc(26);
+        }
     }
 }
 
