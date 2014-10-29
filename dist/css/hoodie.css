@@ -1006,10 +1006,12 @@ svg path, svg rect {
   padding: 1.0625rem 1.25rem;
   display: flex; }
   .nav.is-active {
+    position: absolute;
     flex-direction: column;
     height: 100vh;
     text-align: center;
-    font-size: 4vh; }
+    font-size: 4vh;
+    z-index: 100; }
     .nav.is-active .main-nav {
       margin-top: 10vh;
       margin-bottom: 5vh; }
@@ -1021,7 +1023,8 @@ svg path, svg rect {
     .nav.is-active + .hid .sub-nav {
       top: auto;
       bottom: 0;
-      padding: 0.5rem 0.625rem 0.3125rem 0.625rem; }
+      padding: 0.5rem 0.625rem 0.3125rem 0.625rem;
+      z-index: 101; }
 
 .logo {
   margin-right: 0 !important;

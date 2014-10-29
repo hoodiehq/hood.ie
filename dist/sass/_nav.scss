@@ -2,10 +2,12 @@
     padding: rem-calc(17 20);
     display: flex;
     &.is-active {
+        position: absolute;
         flex-direction: column;
         height: 100vh;
         text-align: center;
         font-size: 4vh;
+        z-index: 100;
         .main-nav {
             margin-top: 10vh;
             margin-bottom: 5vh;
@@ -21,6 +23,7 @@
             top: auto;
             bottom: 0;
             padding: rem-calc(8 10 5 10);
+            z-index: 101;
         }
     }
 }
