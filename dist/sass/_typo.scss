@@ -57,6 +57,14 @@ h6,
     line-height: 1.6;
 }
 
+.h-section {
+    max-width: 37.5rem;
+    margin: 0 auto rem-calc(19);
+    @include breakpoint(lv) {
+        margin: 0 auto rem-calc(19 230);
+    }
+}
+
 p {
     font-size: 1.1875em;
     line-height: 1.618;

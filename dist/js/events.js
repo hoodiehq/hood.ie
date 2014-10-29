@@ -49,8 +49,8 @@ $(function() {
     output += '</div>';
     $('#eventsList').append(output);
     $('#filters input').iCheck({
-        checkboxClass: 'icheckbox_flat-orange',
-        radioClass: 'iradio_flat-orange'
+        checkboxClass: 'icheckbox_flat-yellow',
+        radioClass: 'iradio_flat-yellow'
     });
     $('#filters input').on('ifChanged', function(e){
         $('#filters input').each(function(index, element){

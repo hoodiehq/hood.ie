@@ -28,10 +28,6 @@
         margin-bottom: rem-calc(20);
     }
 
-    img {
-        border-radius: 2px;
-    }
-
     blockquote {
         position: relative;
         padding: rem-calc(16 16 11);
@@ -57,6 +53,9 @@
             margin-top: rem-calc(10);
             text-indent: 6em;
         }
+    }
+    .blog-post-end {
+        margin-top: rem-calc(80);
     }
 }
 
@@ -92,11 +91,6 @@
     font-weight: 500;
     text-transform: uppercase;
 }
-
-.blog .blog-post-end {
-    margin-top: rem-calc(80);
-}
-
 
 .blog-greetings {
     font-weight: 500;

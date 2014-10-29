@@ -14,7 +14,7 @@
         padding-right: 1rem;
         .events>li {
             &:first-child {
-                background-color: $orange;
+                background-color: $yellow;
                 color: #fff;
                 padding: .5em .75em;
                 border-radius: 4px;
@@ -51,7 +51,7 @@
         }
         .events > li {
             margin-bottom: 1em;
-            border-bottom: 1px solid $orange;
+            border-bottom: 1px solid $yellow;
             padding-bottom: 1em;
             &:last-of-type {
                 border-bottom: none;
@@ -79,7 +79,7 @@
         display: block;
         margin: 2em auto;
         font-weight: bold;
-        .icheckbox_flat-orange {
+        .icheckbox_flat-yellow {
             margin-top: -1px;
             margin-right: 0.5em;
             margin-left: 1em;
@@ -94,7 +94,7 @@
         margin-bottom: 0.5em;
     }
     .twitterCTA {
-        background-color: $orange;
+        background-color: $yellow;
         color: #fff;
         padding: 1.5em .75em;
         margin: 0 1em;
@@ -110,7 +110,7 @@
     .loader {
         width: 7em;
         height: 7em;
-        background: $orange;
+        background: $yellow;
         border-radius: 50%;
         text-align: center;
         margin: 0 auto;

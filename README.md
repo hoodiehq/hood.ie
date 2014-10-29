@@ -7,9 +7,18 @@ To get started check out the recent version and type npm install.
 The default task (just type 'grunt') will fire up a local server at localhost:1337 with livereload and dev Sass compiling (including sourcemap and nested output).
 There's also a production task ('grunt build') which at this point just spits out a compressed CSS file, without sourcemap in a dedicated folder(css/build).
 
-## Editorconfig
+## Editorconfig & coding standards
 
-Please use the .editorsconfig file with your editor of choice to ensure consistent coding styles. Plugins are available at [http://editorconfig.org/#download](http://editorconfig.org/#download title="editorconfig download").
+<img src="http://i.giphy.com/7SEOvVtOdtU2Y.gif" />
+
+Use the .editorsconfig file with your editor of choice to ensure a consistent coding style. Plugins are available at [http://editorconfig.org/#download](http://editorconfig.org/#download title="editorconfig download").
+
+### Sass
+
+* Use 1 space between your selector and the opnening curly brace.
+* Use breakpoints with `@include breakpoint()` from the `_breakpoints.scss` inside your declaration.
+* Do not add arbitrary new breakpoints.
+* Always set breakpoints in `em`.
 
 ## Rem-calc
 
@@ -287,3 +296,13 @@ title: title for the page
 ---
 ```
 Layout names follow the theme naming e.g. default-lilac.
+
+## Accessibility
+
+### SVG
+
+* Provide a `<title>` directly inside of the `<svg>` tag (direct child).
+* Add a description with the `<desc>` tag.
+* Add `aria-labelledby="title desc"` and  `role="img"` on the `<svg>`.
+
+For example take a look at the calendar icon on the index page,

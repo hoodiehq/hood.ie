@@ -83,8 +83,8 @@ article figure {
         background-color: $orange;
     }
 
-    .footer li a { // @todo: 4 selector deep rule maybe over think that
-        color: #fff !important;
+    .footer .sitemap-link {
+        color: #fff;
     }
 
     .sub-nav {
