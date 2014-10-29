@@ -33,7 +33,6 @@ $dh : rem-calc(40);
         width: 100%;
         max-width: 37.5rem;
         margin: 0 auto;
-
         @include breakpoint(lv) {
             max-width: 11.25rem;
             padding-left: 0;
@@ -73,7 +72,6 @@ $dh : rem-calc(40);
         }
         figure {
             min-height: rem-calc(150);
-            // height: rem-calc(175);
             margin-bottom: rem-calc(16);
             &.contribute-topic-image-wrap {
                 min-height: rem-calc(90);
@@ -153,7 +151,6 @@ article img {
             h3 {
                 font-size: rem-calc(36);
                 text-align: center;
-                // margin-left: rem-calc(-18);
                 margin-bottom: rem-calc(13);
                 color: #fff;
             }
