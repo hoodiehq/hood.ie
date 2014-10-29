@@ -14,57 +14,57 @@ permalink: /2014/05/not-all-fridays-tgif-35/
 
 **Open Source**
 
-<p style="padding-left: 30px;">
+<p>
   <a href="http://twitter.com/misprintedtype">Ola</a>&#8216;s talk from Beyond Tellerand – <a href="https://speakerdeck.com/zoepage/say-hello-to-offline-first">Say hello to Offline First!</a>
 </p>
 
-<p style="padding-left: 30px;">
+<p>
   <a href="http://twitter.com/espylaub">Alex</a>&#8216; talk from Decentralise Camp –<a href="https://speakerdeck.com/espylaub/on-decentralisation"> On Decentralisation</a> (notes taken during the talk can be found <a href="http://etherpad.decentralizecamp.com/p/alex">here</a>)
 </p>
 
-<p style="padding-left: 30px;">
+<p>
   <a href="http://twitter.com/kaalita">Katrin</a>&#8216;s talk from Cocoaheads Meetup – <a href="https://speakerdeck.com/kaalita/building-your-first-ios-app-with-hoodie">Building your first iOS app with Hoodie</a>
 </p>
 
-<p style="padding-left: 30px;">
+<p>
   <em>&#8220;[I]f you want your open source project to have an impact, you need to step out of your coder bubble.&#8221;</em> – <a href="https://hacks.mozilla.org/2014/05/open-source-marketing-with-velocityjs/">Treat Open Source like a Startup</a>
 </p>
 
-<p style="padding-left: 30px;">
+<p>
   <a href="http://juliepagano.com/blog/2014/05/18/javascript-debugging-for-beginners/">JavaScript Debugging for Beginners</a>
 </p>
 
-<p style="padding-left: 30px;">
+<p>
   Putting people first Aiming for open source technology that is gorgeous and provides great UX – <a href="https://www.youtube.com/watch?v=ldhHkVjLe7A">Free is a Lie</a>
 </p>
 
 **Design**
 
-<p style="padding-left: 30px;">
+<p>
   In the age of experience, <a href="https://zapier.com/blog/aral-balkan-design-talk/">great design is your business plan</a>
 </p>
 
 **The Web**
 
-<p style="padding-left: 30px;">
+<p>
   Open Access: NYC&#8217;s Metropolitan Museum of Art has made almost 400,000 high-resolution digital images of its collection available for free download. You can <a href="http://www.metmuseum.org/collection/the-collection-online">find the collection here</a>. <!--more-->
 </p>
 
 **The Tech World and Culture**
 
-<p class="post-field subtitle post-subtitle _RIL_KEEPER_CLASS_" style="padding-left: 30px;">
+<p class="post-field subtitle post-subtitle _RIL_KEEPER_CLASS_">
   <em>&#8220;Intersectionality isn’t just a theory or a thought. It’s the fact that many of us are affected by multiple power structures.&#8221; – </em><a href="http://modelviewculture.com/pieces/not-a-tech-bro-but-not-a-tech-lady">Not a Tech Bro, but not a Tech Lady</a>
 </p>
 
-<p class="post-field subtitle post-subtitle _RIL_KEEPER_CLASS_" style="padding-left: 30px;">
+<p class="post-field subtitle post-subtitle _RIL_KEEPER_CLASS_">
   How high-tech implants are being blamed for killing an entire subculture. – <a href="https://medium.com/matter/22979c8ec9d6">The Silencing of the Deaf</a>
 </p>
 
-<p style="padding-left: 30px;">
+<p>
   <em>&#8220;We spent a lot of time talking to people, thinking about the role we could play and finding out what people wanted. It came down to being about visibility and stories.&#8221; – </em>An <a href="http://modelviewculture.com/pieces/interview-with-leanne-pittsford-of-lesbians-who-tech">Interview with Leanne Pittsford</a>, the founder of <em>Lesbians Who Tech</em>
 </p>
 
-<p class="post-field subtitle post-subtitle _RIL_KEEPER_CLASS_" style="padding-left: 30px;">
+<p class="post-field subtitle post-subtitle _RIL_KEEPER_CLASS_">
   Why &#8220;Not all Men&#8221; <a href="http://www.vox.com/2014/5/15/5720332/heres-why-women-have-turned-the-not-all-men-objection-into-a-meme">has become a meme</a>
 </p>
 
@@ -107,19 +107,19 @@ Eddie Izzard – Death Star Canteen or: Death by Tray –
 
 # Die Links der Woche
 
-<p style="padding-left: 30px;">
+<p>
   <a href="http://daskoenntihrvergessen.tumblr.com/">Das könnt ihr vergessen</a>!
 </p>
 
-<p style="padding-left: 30px;">
+<p>
   Das Urteil des EuGH ist <a href="http://www.freitag.de/autoren/the-guardian/kein-sieg-fuer-die-persoenlichkeitsrechte">kein Sieg für die Persönlichkeitsrechte</a>, sondern eine ernsthafte Bedrohung für die Meinungsfreiheit
 </p>
 
-<p style="padding-left: 30px;">
+<p>
   <em>&#8220;Wir haben den Punkt erreicht wo das Argument etwas sei ja “im analogen Leben auch so” ein Nullargument geworden ist.&#8221; – </em><a href="http://connected.tante.cc/2014/05/19/ein-naturalistischer-fehlschluss/">Ein naturalistischer Fehlschluss</a>
 </p>
 
-<p style="padding-left: 30px;">
+<p>
   Apple-Computer, <a href="http://www.zeit.de/digital/2014-05/fs-genial-einfach-apple-design-arnoldsche-art-publishers">wie sie nie gebaut wurden</a>
 </p>
 
