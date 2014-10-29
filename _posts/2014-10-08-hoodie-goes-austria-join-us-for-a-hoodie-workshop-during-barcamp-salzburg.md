@@ -4,6 +4,7 @@ author: Lena
 layout: blog-post
 permalink: /2014/10/hoodie-goes-austria-join-us-for-a-hoodie-workshop-during-barcamp-salzburg/
 ---
+
 [<img class="alignnone size-full wp-image-1770" src="http://blog.hood.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-30-at-10.00.01.png" alt="Screen Shot 2014-09-30 at 10.00.01" width="1278" height="592" />][1]
 Twice a year, the University of Applied Sciences in Salzburg hosts a Barcamp. A [Barcamp][2] is an un-conference: there&#8217;s no fixed schedule, all sessions and topics are discussed when all attendees are there and everyone has the chance to bring themselves and their ideas in.
 
@@ -23,10 +24,10 @@ See you in Salzburg!
 
 <3
 
- [1]: https://barcamp-sbg.at/
- [2]: http://en.wikipedia.org/wiki/BarCamp
- [3]: https://barcamp-sbg.at/#tickets
- [4]: http://twitter.com/badboy_
- [5]: http://twitter.com/lrnrd
- [6]: https://barcamp-sbg.at/#hoodie
- [7]: https://ti.to/concat/barcamp2014?release_id=flytcjmhntw
+[1]: https://barcamp-sbg.at/
+[2]: http://en.wikipedia.org/wiki/BarCamp
+[3]: https://barcamp-sbg.at/#tickets
+[4]: http://twitter.com/badboy_
+[5]: http://twitter.com/lrnrd
+[6]: https://barcamp-sbg.at/#hoodie
+[7]: https://ti.to/concat/barcamp2014?release_id=flytcjmhntw

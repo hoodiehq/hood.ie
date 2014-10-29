@@ -4,6 +4,7 @@ author: Lena
 layout: blog-post
 permalink: /2014/09/two-pizzas-building-their-own-grumpy-cat-and-writing-letters-to-robots/
 ---
+
 <p>
   <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>
 </p>

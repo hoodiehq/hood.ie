@@ -4,13 +4,8 @@ author: Lena
 layout: blog-post
 permalink: /2014/08/plants-with-personal-opinions-as-background-decoration-tgif-42/
 ---
-<p style="text-align: center;">
-  <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>
-</p>
 
-<p style="text-align: center;">
-  ____________
-</p>
+<em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>
 
 **Open Source**
 

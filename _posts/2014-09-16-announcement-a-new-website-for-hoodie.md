@@ -4,6 +4,7 @@ author: Lena
 layout: blog-post
 permalink: /2014/09/announcement-a-new-website-for-hoodie/
 ---
+
 You know what it&#8217;s like with clothes you love, right? They&#8217;re cozy and make you feel comfortable and safe, and so you wear them any time you can, regardless of the weather and change of seasons. Unfortunately, even the most beautiful clothes tend to get broken from time to time – then you have to add patches or renew seams, and sometimes they also lose their bright colours after some time.
 
 This beloved garment is what Hoodie&#8217;s website is to us. Being set up initially on only a few days in spring 2013, it has always been a great companion in the past 1.5 years since we launched it. Hundreds of thousands of people have viewed it, to many of them it was the first thing they saw of this project. Over the time, it slightly changed: we added new pages, we changed a bit of its content, but in total, it always stayed the same. Completely aware that it wasn&#8217;t perfect, it was still reliable and always there for us when we needed it. But we always knew it wouldn&#8217;t be with us forever.
@@ -11,6 +12,7 @@ This beloved garment is what Hoodie&#8217;s website is to us. Being set up initi
 And now the time has come.
 
 <img class="alignnone size-full wp-image-1667" src="http://blog.hood.ie/wp-content/uploads/2014/08/201407_offsite3_616.jpg" alt="201407_offsite3_616" width="800" height="533" />
+
 ## We&#8217;re very happy to announce that we&#8217;ll be launching a completely new Hood.ie website and documentation soon*.
 
 We have been receiving a lot of feedback from many people about the current website. Our community has also grown enormously, and the project itself has moved further. We have been thinking a lot about

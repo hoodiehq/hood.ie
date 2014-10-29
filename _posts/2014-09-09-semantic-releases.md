@@ -4,20 +4,14 @@ author: Stephan
 layout: blog-post
 permalink: /2014/09/semantic-releases/
 ---
-<center>
-</center>
 
-<div class="repository-description">
-  <p>
-    <em>tl;dr:</em> Don&#8217;t release <img class="emoji" title=":floppy_disk:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4be.png" alt=":floppy_disk:" width="20" height="20" align="absmiddle" /> like a <img class="emoji" title=":monkey:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f412.png" alt=":monkey:" width="20" height="20" align="absmiddle" />, as it causes lots of <img class="emoji" title=":bug:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41b.png" alt=":bug:" width="20" height="20" align="absmiddle" /><img class="emoji" title=":beetle:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41e.png" alt=":beetle:" width="20" height="20" align="absmiddle" />. Do it like a <img class="emoji" title=":princess:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f478.png" alt=":princess:" width="20" height="20" align="absmiddle" /> using <img class="emoji" title=":boar:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f417.png" alt=":boar:" width="20" height="20" align="absmiddle" /><img class="emoji" title=":balloon:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png" alt=":balloon:" width="20" height="20" align="absmiddle" />. Use the <img class="emoji" title=":clock230:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f55d.png" alt=":clock230:" width="20" height="20" align="absmiddle" /> saved and the <img class="emoji" title=":moneybag:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b0.png" alt=":moneybag:" width="20" height="20" align="absmiddle" />made to <img class="emoji" title=":revolving_hearts:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f49e.png" alt=":revolving_hearts:" width="20" height="20" align="absmiddle" />: <a href="https://github.com/boennemann/grunt-semantic-release">grunt-semantic-release</a>.
-  </p>
-</div>
 
-<div id="attachment_1714" style="width: 760px" class="wp-caption alignnone">
-  <a href="http://blog.hood.ie/wp-content/uploads/2014/09/grunt-release-command-screenshot.png" rel="lightbox[1707]" title="Essential Tooling for a Small Modules World: Bringing Back the Excitement of Software Releases with <em>grunt-semantic-release</em>"><img class="wp-image-1714 size-large" src="http://blog.hood.ie/wp-content/uploads/2014/09/grunt-release-command-screenshot-750x245.png" alt="A screenshot of the grunt release command in the terminal" width="750" height="245" /></a><p class="wp-caption-text">
-    This how easy it is to release software now. Yes checkboxes are pre-checked for you.
-  </p>
-</div>
+<em>tl;dr:</em> Don&#8217;t release <img class="emoji" title=":floppy_disk:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4be.png" alt=":floppy_disk:" width="20" height="20" align="absmiddle" /> like a <img class="emoji" title=":monkey:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f412.png" alt=":monkey:" width="20" height="20" align="absmiddle" />, as it causes lots of <img class="emoji" title=":bug:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41b.png" alt=":bug:" width="20" height="20" align="absmiddle" /><img class="emoji" title=":beetle:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41e.png" alt=":beetle:" width="20" height="20" align="absmiddle" />. Do it like a <img class="emoji" title=":princess:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f478.png" alt=":princess:" width="20" height="20" align="absmiddle" /> using <img class="emoji" title=":boar:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f417.png" alt=":boar:" width="20" height="20" align="absmiddle" /><img class="emoji" title=":balloon:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png" alt=":balloon:" width="20" height="20" align="absmiddle" />. Use the <img class="emoji" title=":clock230:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f55d.png" alt=":clock230:" width="20" height="20" align="absmiddle" /> saved and the <img class="emoji" title=":moneybag:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b0.png" alt=":moneybag:" width="20" height="20" align="absmiddle" />made to <img class="emoji" title=":revolving_hearts:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f49e.png" alt=":revolving_hearts:" width="20" height="20" align="absmiddle" />: <a href="https://github.com/boennemann/grunt-semantic-release">grunt-semantic-release</a>.
+
+
+<a href="http://blog.hood.ie/wp-content/uploads/2014/09/grunt-release-command-screenshot.png" rel="lightbox[1707]" title="Essential Tooling for a Small Modules World: Bringing Back the Excitement of Software Releases with <em>grunt-semantic-release</em>"><img class="wp-image-1714 size-large" src="http://blog.hood.ie/wp-content/uploads/2014/09/grunt-release-command-screenshot-750x245.png" alt="A screenshot of the grunt release command in the terminal" width="750" height="245" /></a>
+This how easy it is to release software now. Yes checkboxes are pre-checked for you.
+
 
 Before that at Hoodie&#8217;s: …
 

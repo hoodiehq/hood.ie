@@ -4,12 +4,9 @@ author: Lena
 layout: blog-post
 permalink: /2014/09/ignorant-erlang-colors-of-motion-in-moodboards-tgif-45/
 ---
-<p style="text-align: center;">
-  <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>
-</p>
 
-<p style="text-align: center;">
-  ____________
+<p>
+  <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>
 </p>
 
 **Open Source**
@@ -153,11 +150,6 @@ permalink: /2014/09/ignorant-erlang-colors-of-motion-in-moodboards-tgif-45/
 <p>
   <a href="http://www.makeuseof.com/tag/ultimate-cheat-sheet-becoming-great-public-speaker/">The Ultimate Cheat Sheet to becoming a great Public Speaker</a>
 </p>
-
-<p style="text-align: center;">
-  ____________
-</p>
-
-<p style="text-align: center;">
+<p>
   <em>Have a nice weekend!</em>
 </p>

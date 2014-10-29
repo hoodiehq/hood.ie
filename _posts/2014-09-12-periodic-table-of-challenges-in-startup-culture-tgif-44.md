@@ -4,19 +4,12 @@ author: Lena
 layout: blog-post
 permalink: /2014/09/periodic-table-of-challenges-in-startup-culture-tgif-44/
 ---
-<p style="text-align: center;">
-  <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>
-</p>
 
-<p style="text-align: center;">
-  ____________
-</p>
+<em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>
 
 **Open Source**
 
-<p>
-  <a href="http://vimeo.com/105758337">How Open Source can make your $job a better place</a>.
-</p>
+<a href="http://vimeo.com/105758337">How Open Source can make your $job a better place</a>.
 
 <p>
   If you&#8217;re into Erlang, chances are good, Elixir might be interesting to you (plus it&#8217;s on several &#8220;languages to watch&#8221;-lists right now). Version 1.0 of the language can be found on <a href="https://github.com/elixir-lang/elixir">GitHub</a> since wednesday.

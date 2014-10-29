@@ -4,27 +4,17 @@ author: Lena
 layout: blog-post
 permalink: /2014/09/productive-cooking-of-angularjs-plugins-with-ice-cream-tgif-43/
 ---
-<p style="text-align: center;">
-  <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>
-</p>
 
-<p style="text-align: center;">
-  ____________
-</p>
+<em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>
 
 **Open Source**
 
-<p>
-  On the <a href="http://www.youtube.com/watch?v=TE-JbJ5Ues8">business value of open source</a>: <em>&#8220;If you said 20 years ago, that there would be this huge thing and everybody would work for free and they would give things away for free, you wouldn&#8217;t have believed it.&#8221;</em>
-</p>
+On the <a href="http://www.youtube.com/watch?v=TE-JbJ5Ues8">business value of open source</a>: <em>&#8220;If you said 20 years ago, that there would be this huge thing and everybody would work for free and they would give things away for free, you wouldn&#8217;t have believed it.&#8221;</em>
 
-<p>
-  Sascha Brink is writing an <a href="https://leanpub.com/angularjs-cookbook">AngularJS Cookbook</a> to help you speed up your work process when using the framework. 85 percent are already done and ready to be read and you yourself decide, what you want to pay.
-</p>
+Sascha Brink is writing an <a href="https://leanpub.com/angularjs-cookbook">AngularJS Cookbook</a> to help you speed up your work process when using the framework. 85 percent are already done and ready to be read and you yourself decide, what you want to pay.
 
-<p>
-  Our amazing Hoodie-Community-Member <a href="http://twitter.com/boennemann">Stephan</a> wrote a <a href="https://www.npmjs.org/package/grunt-semantic-release">grunt-semantic-release plugin</a> this week, and you should check it out (you can also find it <a href="https://github.com/boennemann/grunt-semantic-release">on GitHub)</a>.
-</p>
+Our amazing Hoodie-Community-Member <a href="http://twitter.com/boennemann">Stephan</a> wrote a <a href="https://www.npmjs.org/package/grunt-semantic-release">grunt-semantic-release plugin</a> this week, and you should check it out (you can also find it <a href="https://github.com/boennemann/grunt-semantic-release">on GitHub)</a>.
+
 
 <p>
   <a href="http://pouchdb.com/2014/09/04/pouchdb-3.0.4.html">PouchDB 3.0.4: Night of the Living Attachments</a>
@@ -140,10 +130,6 @@ permalink: /2014/09/productive-cooking-of-angularjs-plugins-with-ice-cream-tgif-
   <em>&#8220;writing is a way &#8216;to think through what it means to be in this world. I definitely write to reach other people, but I write for myself first.'&#8221; </em>– <a href="http://www.theguardian.com/world/2014/aug/02/roxane-gay-bad-feminist-sisterhood-fake-orgasm">Roxane Gay: Meet the Bad Feminist</a>
 </p>
 
-<p style="text-align: center;">
-  ____________
-</p>
-
-<p style="text-align: center;">
-  <em>Have a nice Weekend!<br /> </em>
+<p>
+  <em>Have a nice Weekend!</em>
 </p>
