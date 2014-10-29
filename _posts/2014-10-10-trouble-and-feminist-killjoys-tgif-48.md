@@ -1,83 +1,153 @@
 ---
-
-layout: blog-post-tgif
-date: 2014-10-10
-author: Julia & Lena
-title: 'Trouble and feminist killjoys: TGIF! (48)'
-comments: true
-categories: 'TGIF WEEKLY READING RECOMMENDATIONS'
+title: 'Trouble and Feminist Killjoys: TGIF! (48)'
+author: Lena
+layout: blog-post
+permalink: /2014/10/trouble-and-feminist-killjoys-tgif-48/
 ---
+<p style="text-align: center;">
+  <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and here are our reading recommendations, curated for you by <a href="http://twitter.com/juschm">Julia</a> and <a href="http://twitter.com/lrnrd">Lena</a> for your weekend. Enjoy!</em>
+</p>
 
-Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and here are our reading recommendations, curated for you by [Julia](http://twitter.com/juschm) and [Lena](http://twitter.com/lrnrd) for your weekend. Enjoy!
-<hr>
+<p style="text-align: center;">
+  ____________
+</p>
 
-## Open Source
-Maybe worth a try: [Duo – package manager for the front-end](http://duojs.org/)
+**Open Source**
 
-[Hood.ie Offline First applications](http://stwissel.github.io/hoodiepreso/#/) (presentation slides)
+<p style="padding-left: 30px;">
+  Maybe worth a try: <a href="http://duojs.org/">Duo &#8211; package manager for the front-end</a>
+</p>
 
-[Offline First Web Apps](https://speakerdeck.com/espylaub/offline-first-web-apps-fronteers-2014) (presentation slides with notes)
+<p style="padding-left: 30px;">
+  <a href="http://stwissel.github.io/hoodiepreso/#/">Hood.ie Offline First applications</a> (presentation slides)
+</p>
 
-[Frances Hocutt on open and welcoming open source communities](http://geekfeminism.org/2014/10/01/opw-and-growstuff-frances-hocutt-on-open-and-welcoming-open-source-communities/)
+<p style="padding-left: 30px;">
+  <a href="https://speakerdeck.com/espylaub/offline-first-web-apps-fronteers-2014">Offline First Web Apps</a> (presentation slides with notes)
+</p>
 
-[Avoiding Burnout, and other essentials of Open Source Self-Care](http://vimeo.com/106232256) (talk video with slides)
+<p class="entry-title" style="padding-left: 30px;">
+  <a href="http://geekfeminism.org/2014/10/01/opw-and-growstuff-frances-hocutt-on-open-and-welcoming-open-source-communities/">Frances Hocutt on open and welcoming open source communities</a>
+</p>
 
-> we need to keep being the best people we can be, and that includes taking a moment to think about the effects your words and actions might have on the people who are exposed to them. <cite>— [Unintentional destruction](http://helenhousandi.com/2014/09/unintentional-destruction/)</cite>
+<p class="entry-title" style="padding-left: 30px;">
+  <a href="http://vimeo.com/106232256">Avoiding Burnout, and other essentials of Open Source Self-Care</a> (talk video with slides)
+</p>
 
-[Operating systems war story: How feminism helped me solve one of file systems’ oldest conundrums](http://blog.valerieaurora.org/2014/10/03/operating-systems-war-story-how-feminism-helped-me-solve-one-of-file-systems-oldest-conundrums/)
+<p class="entry-title" style="padding-left: 30px;">
+  <em>&#8220;we need to keep being the best people we can be, and that includes taking a moment to think about the effects your words and actions might have on the people who are exposed to them.&#8221; – </em><a href="http://helenhousandi.com/2014/09/unintentional-destruction/">Unintentional destruction</a>
+</p>
 
-Hoodie goes Austria: [join us for a Hoodie Workshop during Barcamp Salzburg!](http://blog.hood.ie/2014/10/hoodie-goes-austria-join-us-for-a-hoodie-workshop-during-barcamp-salzburg/)
+<p class="entry-title" style="padding-left: 30px;">
+  <a href="http://blog.valerieaurora.org/2014/10/03/operating-systems-war-story-how-feminism-helped-me-solve-one-of-file-systems-oldest-conundrums/" rel="bookmark">Operating systems war story: How feminism helped me solve one of file systems’ oldest conundrums</a>
+</p>
 
-## Design
+<p class="entry-title" style="padding-left: 30px;">
+  Hoodie goes Austria: <a href="http://blog.hood.ie/2014/10/hoodie-goes-austria-join-us-for-a-hoodie-workshop-during-barcamp-salzburg/">join us for a Hoodie Workshop during Barcamp Salzburg!</a>
+</p>
 
-Making the best out of design limitations: [how to transform Design Limitations into Design Success](http://www.webdesignerdepot.com/2014/09/how-to-transform-design-limitations-into-design-success/)
+**Design**
 
-[A golden age of design](http://tmagazine.blogs.nytimes.com/2014/09/22/design-golden-age/)
+<p style="padding-left: 30px;">
+  Making the best out of design limitations: <a href="http://www.webdesignerdepot.com/2014/09/how-to-transform-design-limitations-into-design-success/">how to transform Design Limitations into Design Success</a>
+</p>
 
-## The Web and Development
+<p style="padding-left: 30px;">
+  <a href="http://tmagazine.blogs.nytimes.com/2014/09/22/design-golden-age/">A golden age of design</a>
+</p>
 
-[Learning much JavaScript from one line of code](http://arqex.com/939/learning-much-javascript-one-line-code)
+**The Web and Development**
 
-For all you webdesigners and web developers who have to explain it over and over again: [the hidden costs in website projects](http://zoerooney.com/blog/business/top-hidden-costs-website-projects/)
+<p style="padding-left: 30px;">
+  <a href="http://arqex.com/939/learning-much-javascript-one-line-code">Learning much JavaScript from one line of code</a>
+</p>
 
-[Move fast, break nothing](http://zachholman.com/talk/move-fast-break-nothing/)
+<p style="padding-left: 30px;">
+  For all you webdesigners and web developers who have to explain it over and over again: <a href="http://zoerooney.com/blog/business/top-hidden-costs-website-projects/">the hidden costs in website projects</a>
+</p>
 
-[GitHub Student Developer Pack](https://education.github.com/pack)
+<p style="padding-left: 30px;">
+  <a href="http://zachholman.com/talk/move-fast-break-nothing/">Move fast, break nothing</a>
+</p>
 
-## The Tech World and Culture
+<p style="padding-left: 30px;">
+  <a href="https://education.github.com/pack">GitHub Student Developer Pack</a>
+</p>
 
-> We need to stop propagating the troll-driven meme that ‘it’s all just trollin’ and boohoo mean words you should cry more’ and start making the hard, fine-grained distinctions. <cite>— [Trouble at the Koolaid Point](http://seriouspony.com/trouble-at-the-koolaid-point)</cite>
+**The Tech World and Culture**
 
-> This pre-emptive strike against equality comes from a rightwing establishment that needs it pointing out to them that women haven’t won. <cite>— [The backlash against feminism aims to preserve the ‘manosphere'](http://www.theguardian.com/commentisfree/2013/jul/31/backlash-against-feminism-manosphere-women)</cite>
+<p style="padding-left: 30px;">
+  <em>&#8220;We need to stop propagating the troll-driven meme that &#8216;<em>it’s all just trollin’ and boohoo mean words you should cry more&#8217; </em>and start making the hard, fine-grained distinctions.&#8221; – </em><a href="http://seriouspony.com/trouble-at-the-koolaid-point">Trouble at the Koolaid Point</a>
+</p>
 
-[Why women leave tech: it’s the culture](http://fortune.com/2014/10/02/women-leave-tech-culture/)
+<p style="padding-left: 30px;">
+  <em>&#8220;This pre-emptive strike against equality comes from a rightwing establishment that needs it pointing out to them that women haven&#8217;t won&#8221; – </em><a href="http://www.theguardian.com/commentisfree/2013/jul/31/backlash-against-feminism-manosphere-women">The backlash against feminism aims to preserve the &#8216;manosphere&#8217;</a>
+</p>
 
-> Yet for the rest of us, with visibility comes harassment, stalking, threats, loss of career opportunity and mobility, constant public humiliation, emotional and sometimes physical violence. <cite>— [“Internet Famous”: Visibility as violence in Social Media](http://modelviewculture.com/pieces/internet-famous-visibility-as-violence-on-social-media)</cite>
+<p style="padding-left: 30px;">
+  <a href="http://fortune.com/2014/10/02/women-leave-tech-culture/">Why women leave tech: it&#8217;s the culture</a>
+</p>
 
-> I am not leaving tech entirely. I like my job and being able to pay my bills. I am, however, leaving the community. <cite>— [Life and Times of a Tech Feminist Killjoy: You Can’t Go Back & There’s No End in Sight](Life and Times of a Tech Feminist Killjoy: You Can’t Go Back & There’s No End in Sight)</cite>
+<p style="padding-left: 30px;">
+  <em>&#8220;Yet for the rest of us, with visibility comes harassment, stalking, threats, loss of career opportunity and mobility, constant public humiliation, emotional and sometimes physical violence.&#8221; – </em><a href="http://modelviewculture.com/pieces/internet-famous-visibility-as-violence-on-social-media">&#8220;Internet Famous&#8221;: Visibility as violence in Social Media</a>
+</p>
 
-> We should be building platforms to amplify the voices of women in tech, not to cater to the egos of men,” she said. “Men who want to help need to get the hell out of our way, basically. Because we’re coming. And we don’t need their support. <cite>— [White male “allies” have surprisingly little to say about fixing broken tech culture](http://readwrite.com/2014/10/09/technology-sexism-male-allies-grace-hopper-celebration);</cite>
+<p style="padding-left: 30px;">
+  <em>&#8220;I am not leaving tech entirely. I like my job and being able to pay my bills. I am, however, leaving the community.&#8221; – </em><a href="http://juliepagano.com/blog/2014/10/10/life-and-times-of-a-tech-feminist-killjoy-you-cant-go-back-theres-no-end-in-sight/">Life and Times of a Tech Feminist Killjoy: You Can’t Go Back & There’s No End in Sight</a>
+</p>
 
-A related post: [Male Allies and GHC](http://www.catehuston.com/blog/2014/10/01/male-allies-and-ghc/) (Grace Hopper Conference)
+<p style="padding-left: 30px;">
+  <em>&#8220;<span class="ng-scope">“We should be building platforms to amplify the voices of women in tech, not to cater to the egos of men,” she said. “Men who want to help need to get the hell out of our way, basically. Because we&#8217;re coming. And we don&#8217;t need their support.”</span> – </em><a href="http://readwrite.com/2014/10/09/technology-sexism-male-allies-grace-hopper-celebration">White male &#8220;allies&#8221; have surprisingly little to say about fixing broken tech culture</a>; a related post: <a href="http://www.catehuston.com/blog/2014/10/01/male-allies-and-ghc/">Male Allies and GHC</a> (Grace Hopper Conference)
+</p>
 
-> We Will Force Gaming to Be Free <cite>— [On GamerGate & the Licence to Inflict Suffering](http://www.firstpersonscholar.com/we-will-force-gaming-to-be-free/)</cite>
+<div id="slidingMenuDesc" class="slidingMenuDesc">
+  <div style="padding-left: 30px;">
+    <a href="http://www.firstpersonscholar.com/we-will-force-gaming-to-be-free/">‘We Will Force Gaming to Be Free’ On GamerGate & the Licence to Inflict Suffering</a>
+  </div>
 
-[Some Things I’m Tired Of Hearing From Men About Women in Tech](http://www.catehuston.com/blog/2014/07/09/some-things-im-tired-of-hearing-from-men-about-women-in-tech/)
+  <div style="padding-left: 30px;">
+    <p class="entry-title">
+      <a href="http://www.catehuston.com/blog/2014/07/09/some-things-im-tired-of-hearing-from-men-about-women-in-tech/">Some Things I’m Tired Of Hearing From Men About Women in Tech</a>
+    </p>
+  </div>
+</div>
 
-## The Business
+**The Business**
 
-The most important skill for great Leaders: [Trustworthiness](http://99u.com/articles/32883/the-most-important-skill-for-great-leaders-trustworthiness)
+<p style="padding-left: 30px;">
+  The most important skill for great Leaders: <a href="http://99u.com/articles/32883/the-most-important-skill-for-great-leaders-trustworthiness">Trustworthiness</a>
+</p>
 
-[Networking to grow your career](http://shopthebbar.com/blog/networking-to-grow-your-career/)
+<p style="padding-left: 30px;">
+  <a href="http://shopthebbar.com/blog/networking-to-grow-your-career/">Networking to grow your career</a>
+</p>
 
-> At least someone on stage at Thursday morning’s keynote could speak honestly about the issues. Because, as we all know, karma doesn’t pay the bills. <cite>— [This is not good advice](http://readwrite.com/2014/10/09/nadella-women-dont-ask-for-raise)</cite>
+<p style="padding-left: 30px;">
+  <em>&#8220;<span class="ng-scope">At least someone on stage at Thursday morning&#8217;s keynote could speak honestly about the issues. Because, as we all know, karma doesn&#8217;t pay the bills.</span>&#8221; – </em><a href="http://readwrite.com/2014/10/09/nadella-women-dont-ask-for-raise">This is not good advice</a>
+</p>
 
-[High-tech pay gap: Minorities earn less in skilled jobs](http://www.usatoday.com/story/tech/2014/10/09/high-tech-pay-gap-hispanics-asians-african-americans/16606121/?utm_content=buffer65285&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+<p class="asset-headline" style="padding-left: 30px;">
+  <a href="http://www.usatoday.com/story/tech/2014/10/09/high-tech-pay-gap-hispanics-asians-african-americans/16606121/?utm_content=buffer65285&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">High-tech pay gap: Minorities earn less in skilled jobs</a>
+</p>
 
-## We <3
+**We <3**
 
-> If you haven’t time or energy to get yourself to a point that’s respectively ‘well read’ on the topic, then please at least avoid emitting any equivalences at all. Listen to such conversations but do not add your input. <cite>— [False Equivalences](http://graydon2.dreamwidth.org/192881.html)</cite>
+<p style="padding-left: 30px;">
+  <em>&#8220;If you haven&#8217;t time or energy to get yourself to a point that&#8217;s respectively &#8216;well read&#8217; on the topic, then please at least avoid emitting any equivalences at all. Listen to such conversations but do not add your input.&#8221; – </em><a href="http://graydon2.dreamwidth.org/192881.html">False Equivalences</a>
+</p>
 
-Oldie, but Goldie: [This too Shall Pass – Rube Goldberg Machine](https://www.youtube.com/watch?v=qybUFnY7Y8w#t=104)
+<p style="padding-left: 30px;">
+  Oldie, but Goldie: <a href="https://www.youtube.com/watch?v=qybUFnY7Y8w#t=104">This too Shall Pass – Rube Goldberg Machine</a>
+</p>
 
-A wonderful short animation about the inevitability of everything: [The Missing Scarf](http://vimeo.com/107395294)
+<p style="padding-left: 30px;">
+  A wonderful short animation about the inevitability of everything: <a href="http://vimeo.com/107395294">The Missing Scarf</a>
+</p>
+
+<p style="text-align: center;">
+  ____________
+</p>
+
+<p style="text-align: center;">
+  <em>Have a nice weekend!</em>
+</p>
