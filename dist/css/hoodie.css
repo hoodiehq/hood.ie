@@ -926,11 +926,24 @@ svg path, svg rect {
 
 .nav {
   padding: 1.0625rem 1.25rem;
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-  text-align: center;
-  font-size: 4vh; }
+  display: flex; }
+  .nav.is-active {
+    flex-direction: column;
+    height: 100vh;
+    text-align: center;
+    font-size: 4vh; }
+    .nav.is-active .main-nav {
+      margin-top: 10vh;
+      margin-bottom: 5vh; }
+      .nav.is-active .main-nav > a {
+        margin-right: 0;
+        display: block; }
+    .nav.is-active .meta-nav {
+      text-align: center; }
+    .nav.is-active + .hid .sub-nav {
+      top: auto;
+      bottom: 0;
+      padding: 0.5rem 0.625rem 0.3125rem 0.625rem; }
 
 .logo {
   margin-right: 0 !important;
@@ -938,24 +951,13 @@ svg path, svg rect {
 
 .main-nav {
   width: auto;
-  padding-top: 0.1875rem;
-  margin-top: 10vh;
-  margin-bottom: 5vh; }
-  .main-nav > a {
-    margin-right: 0;
-    display: block; }
+  padding-top: 0.1875rem; }
 
 .meta-nav {
   padding: 0;
-  margin: 0;
-  text-align: center; }
+  margin: 0; }
 
 .meta-nav-list-item {
   padding-top: 0.1875rem; }
-
-.sub-nav {
-  top: auto;
-  bottom: 0;
-  padding: 0.5rem 0.625rem 0.3125rem 0.625rem; }
 
 /*# sourceMappingURL=hoodie.css.map */
