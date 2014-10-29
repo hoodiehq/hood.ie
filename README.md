@@ -296,3 +296,13 @@ title: title for the page
 ---
 ```
 Layout names follow the theme naming e.g. default-lilac.
+
+## Accessibility
+
+### SVG
+
+* Provide a `<title>` directly inside of the `<svg>` tag (direct child).
+* Add a description with the `<desc>` tag.
+* Add `aria-labelledby="title desc"` and  `role="img"` on the `<svg>`.
+
+For example take a look at the calendar icon on the index page,
