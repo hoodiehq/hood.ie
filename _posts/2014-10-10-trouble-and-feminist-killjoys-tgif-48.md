@@ -1,11 +1,14 @@
 ---
+
 title: 'Trouble and Feminist Killjoys: TGIF! (48)'
 author: Lena
 layout: blog-post
 permalink: /2014/10/trouble-and-feminist-killjoys-tgif-48/
+comments: true
+
 ---
 
-<em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and here are our reading recommendations, curated for you by <a href="http://twitter.com/juschm">Julia</a> and <a href="http://twitter.com/lrnrd">Lena</a> for your weekend. Enjoy!</em>
+Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and here are our reading recommendations, curated for you by <a href="http://twitter.com/juschm">Julia</a> and <a href="http://twitter.com/lrnrd">Lena</a> for your weekend. Enjoy!
 
 
 ##Open Source

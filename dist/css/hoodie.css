@@ -136,7 +136,7 @@ code {
 .l {
   float: left; }
 
-.r, .comments {
+.r {
   float: right; }
 
 .blog-post article {
