@@ -2,7 +2,7 @@
 title: TGIF! (23) Cherry-Picking, Codes of Conduct and Iroquis cat
 author: Lena
 layout: blog-post
-permalink: /2014/02/tgif-23-cherry-picking-codes-of-conduct-and-iroquis-cat/
+//permalink: /2014/02/tgif-23-cherry-picking-codes-of-conduct-and-iroquis-cat/
 ---
 <p style="text-align: center;">
   <em>Für den Teil auf Deutsch bitte wie immer ein Stück herunterscrollen :)</em>

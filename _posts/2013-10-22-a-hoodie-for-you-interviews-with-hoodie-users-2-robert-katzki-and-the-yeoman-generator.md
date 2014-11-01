@@ -2,7 +2,7 @@
 title: 'A Hoodie for you: Interviews with Hoodie-Users (2) – Robert Katzki and the Yeoman Generator'
 author: Lena
 layout: blog-post
-permalink: /2013/10/a-hoodie-for-you-interviews-with-hoodie-users-2-robert-katzki-and-the-yeoman-generator/
+//permalink: /2013/10/a-hoodie-for-you-interviews-with-hoodie-users-2-robert-katzki-and-the-yeoman-generator/
 ---
 [Robert Katzki][1], a Hamburg-based full time web developer and free time photographer, answered us some questions about the Yeoman Generator for Hoodie ([on GitHub][2]) he implemented and that is being run with one of the loveliest commands we&#8217;ve seen in the last months:
 

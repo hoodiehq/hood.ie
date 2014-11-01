@@ -2,7 +2,7 @@
 title: 'Big things to come: building the Hoodie Plugin Architecture &#038; making Hoodie Plugin-ready'
 author: Lena
 layout: blog-post
-permalink: /2013/07/big-things-to-come-building-the-hoodie-plugin-architecture-making-hoodie-plugin-ready/
+//permalink: /2013/07/big-things-to-come-building-the-hoodie-plugin-architecture-making-hoodie-plugin-ready/
 ---
 Dear Hoodie-Community,
 

@@ -2,7 +2,7 @@
 title: Happy Birthday, Hoodie
 author: Lena
 layout: blog-post
-permalink: /2014/02/happy-birthday-hoodie/
+//permalink: /2014/02/happy-birthday-hoodie/
 ---
 <img class="alignnone size-large wp-image-1237" alt="hoodie-1st-birthday-2" src="http://blog.hood.ie/wp-content/uploads/2014/02/hoodie-1st-birthday-2-750x421.jpg" width="750" height="421" /> <p style="text-align: center;">
   <p style="text-align: center;">

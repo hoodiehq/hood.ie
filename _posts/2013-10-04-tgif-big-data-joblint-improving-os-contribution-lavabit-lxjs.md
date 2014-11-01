@@ -2,7 +2,7 @@
 title: TGIF! (8) Big Data, Joblint, improving OS contribution, Lavabit, LXJS
 author: Lena
 layout: blog-post
-permalink: /2013/10/tgif-big-data-joblint-improving-os-contribution-lavabit-lxjs/
+//permalink: /2013/10/tgif-big-data-joblint-improving-os-contribution-lavabit-lxjs/
 ---
 *Thank [Glob][1] it’s Friday! Team Hoodie presents your weekend reading list.*
 

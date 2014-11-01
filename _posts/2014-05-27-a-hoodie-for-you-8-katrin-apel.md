@@ -2,7 +2,7 @@
 title: 'A Hoodie for you (8): Katrin Apel'
 author: Lena
 layout: blog-post
-permalink: /2014/05/a-hoodie-for-you-8-katrin-apel/
+//permalink: /2014/05/a-hoodie-for-you-8-katrin-apel/
 ---
 Katrin Apel is a Berlin-based iOS developer whose contributions are of high value for Hoodie: she recently implemented the first versions of [Hoodie-iOS (HOOHoodie)][1] that connects to the Hoodie backend API (you&#8217;ll find more about it in [this post][2]).
 

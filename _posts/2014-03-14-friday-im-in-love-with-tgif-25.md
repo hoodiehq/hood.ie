@@ -2,7 +2,7 @@
 title: 'Friday I&#8217;m in love with … TGIF! (25)'
 author: Lena
 layout: blog-post
-permalink: /2014/03/friday-im-in-love-with-tgif-25/
+//permalink: /2014/03/friday-im-in-love-with-tgif-25/
 ---
 <p style="text-align: center;">
   Für den Teil auf Deutsch bitte wie immer ein Stück herunterscrollen :)

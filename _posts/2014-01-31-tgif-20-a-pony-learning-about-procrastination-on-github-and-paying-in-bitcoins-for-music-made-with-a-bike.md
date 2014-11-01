@@ -2,7 +2,7 @@
 title: 'TGIF! (20): a pony learning about procrastination on GitHub and paying in Bitcoins for music made with a bike'
 author: Lena
 layout: blog-post
-permalink: /2014/01/tgif-20-a-pony-learning-about-procrastination-on-github-and-paying-in-bitcoins-for-music-made-with-a-bike/
+//permalink: /2014/01/tgif-20-a-pony-learning-about-procrastination-on-github-and-paying-in-bitcoins-for-music-made-with-a-bike/
 ---
 <p style="text-align: center;">
   Für den Teil auf Deutsch bitte wie immer ein Stück herunterscrollen :)

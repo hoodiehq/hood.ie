@@ -2,7 +2,7 @@
 title: 'TGIF! (14) &#8211; watering facepalms, enjoying science, loving sheep, letting work wait und ab jetzt auch auf Deutsch'
 author: Lena
 layout: blog-post
-permalink: /2013/11/tgif-14-watering-facepalms-enjoying-science-loving-sheep-letting-work-wait-und-ab-jetzt-auch-auf-deutsch/
+//permalink: /2013/11/tgif-14-watering-facepalms-enjoying-science-loving-sheep-letting-work-wait-und-ab-jetzt-auch-auf-deutsch/
 ---
 **Something in advance &#8230; a note from the editor (und eine Anmerkung der Redaktion)**
 

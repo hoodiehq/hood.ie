@@ -2,7 +2,7 @@
 title: 'Meet the Hoodies! Episode 1: Sven'
 author: Lena
 layout: blog-post
-permalink: /2013/08/meet-the-hoodies-episode-1-sven/
+//permalink: /2013/08/meet-the-hoodies-episode-1-sven/
 ---
 Many Hollywood movies spend 90 minutes telling the story of one fateful encounter that changed everything for all parties concerned. Relating the moment when Sven met Hoodie doesn’t take a whole movie but this one tweet:
 

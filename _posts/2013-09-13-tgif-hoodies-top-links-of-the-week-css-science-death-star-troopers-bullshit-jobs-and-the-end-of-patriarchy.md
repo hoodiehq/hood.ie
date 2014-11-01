@@ -2,7 +2,7 @@
 title: 'TGIF! Hoodie&#8217;s top links of the week (5): CSS, science, death star troopers, bullshit jobs and the end of patriarchy'
 author: Lena
 layout: blog-post
-permalink: /2013/09/tgif-hoodies-top-links-of-the-week-css-science-death-star-troopers-bullshit-jobs-and-the-end-of-patriarchy/
+//permalink: /2013/09/tgif-hoodies-top-links-of-the-week-css-science-death-star-troopers-bullshit-jobs-and-the-end-of-patriarchy/
 ---
 *Thank Galileo it’s Friday! One more weekly collection of great things we’ve found on the internet last week.*
 

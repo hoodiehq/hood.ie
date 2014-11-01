@@ -2,7 +2,7 @@
 title: 'Hoodie goes Austria: join us for a Hoodie Workshop during Barcamp Salzburg!'
 author: Lena
 layout: blog-post
-permalink: /2014/10/hoodie-goes-austria-join-us-for-a-hoodie-workshop-during-barcamp-salzburg/
+//permalink: /2014/10/hoodie-goes-austria-join-us-for-a-hoodie-workshop-during-barcamp-salzburg/
 ---
 
 [<img class="alignnone size-full wp-image-1770" src="http://blog.hood.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-30-at-10.00.01.png" alt="Screen Shot 2014-09-30 at 10.00.01" width="1278" height="592" />][1]

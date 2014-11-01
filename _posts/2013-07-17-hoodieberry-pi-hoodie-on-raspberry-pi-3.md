@@ -2,7 +2,7 @@
 title: Hoodieberry PI — Hoodie on Raspberry Pi
 author: Jan
 layout: blog-post
-permalink: /2013/07/hoodieberry-pi-hoodie-on-raspberry-pi-3/
+//permalink: /2013/07/hoodieberry-pi-hoodie-on-raspberry-pi-3/
 ---
 The Raspberry Pi is everyone’s favourite embedded Linux system and we thought it might be fun to try and get Hoodie to run on it. Little did we know how easy that was. Here’s your guide to follow along.
 

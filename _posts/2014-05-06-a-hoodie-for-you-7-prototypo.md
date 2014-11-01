@@ -2,7 +2,7 @@
 title: 'A Hoodie for you (7): Prototypo'
 author: Lena
 layout: blog-post
-permalink: /2014/05/a-hoodie-for-you-7-prototypo/
+//permalink: /2014/05/a-hoodie-for-you-7-prototypo/
 ---
 We read it on Twitter a few weeks ago: *&#8220;Guess what technology we&#8217;re using to build our offline-first crowd-funded open-source font editor&#8221;*, [they said][1]. And so we guessed and finally asked. Louis-Rémi Babé and Yannick Mathey, the two guys behind this tweet, are building [Prototypo][2], an Open-Source online typeface editor that even enables non-designers to start creating fonts. And this is what it looks like:
 

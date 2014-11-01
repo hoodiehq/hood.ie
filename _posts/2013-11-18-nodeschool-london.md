@@ -2,7 +2,7 @@
 title: NodeSchool London
 author: Guest
 layout: blog-post
-permalink: /2013/11/nodeschool-london/
+//permalink: /2013/11/nodeschool-london/
 ---
 *Last week, NodeSchool London invited people of all skill levels &#8211; from JavaScript beginners to experienced node programmers. 100 people and 10 mentors joined, and the morning after, [Max Ogden][1], one of the organisers behind it, took some notes on it. And this is what he experienced at NodeSchool:*
 

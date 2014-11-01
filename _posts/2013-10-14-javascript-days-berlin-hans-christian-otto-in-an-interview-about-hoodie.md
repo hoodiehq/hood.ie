@@ -2,7 +2,7 @@
 title: 'JavaScript-days Berlin: Hans-Christian Otto in an interview about Hoodie'
 author: Lena
 layout: blog-post
-permalink: /2013/10/javascript-days-berlin-hans-christian-otto-in-an-interview-about-hoodie/
+//permalink: /2013/10/javascript-days-berlin-hans-christian-otto-in-an-interview-about-hoodie/
 ---
 At [JavaScript-days Berlin][1], [Hans-Christian Otto][2] gave a workshop about Hoodie (together with [Kore Nordmann][3]) and an amazing [interview to PHPmagazin][4] *(in German)*. He talks about the &#8220;Hoodie-Buzzwords&#8221; (*noBackend*, *Offline First*, *Dreamcode*) and why he thinks Hoodie&#8217;s approach could be &#8220;the next big thing&#8221;.
 

@@ -3,7 +3,7 @@ title: 'Talking &#8217;bout Hoodie: Twitter, May 2013'
 author: Lena
 excerpt: "What do people say about Hoodie? Who's currently using it or will try it soon? See what people say in our monthly issue."
 layout: blog-post
-permalink: /2013/06/talking-bout-hoodie-twitter-may-2013/
+//permalink: /2013/06/talking-bout-hoodie-twitter-may-2013/
 storify_description_added:
   - 1
 ---

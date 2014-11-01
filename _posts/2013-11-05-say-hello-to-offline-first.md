@@ -2,7 +2,7 @@
 title: Say Hello to Offline First
 author: Alex
 layout: blog-post
-permalink: /2013/11/say-hello-to-offline-first/
+//permalink: /2013/11/say-hello-to-offline-first/
 ---
 <small>Prescript: Join the discussion on <a href="http://offlinefirst.org" title="Offline First">offlinefirst.org</a> and help collecting information on the <a href="https://github.com/offlinefirst" title="Offline First on Github">Offline First Github Organisation</a>. And see the two follow up articles <a href="http://blog.hood.ie/2013/11/offline-first-and-the-circle-of-web/" title="Offline First and the Circle of Web">Offline First and the Circle Of Web</a> and <a href="http://blog.hood.ie/2013/12/offline-first-and-the-circle-of-web-part-ii-breaking-the-circle/" title="Offline First and the Circle of Web Part II: Breaking the Circle">Offline First and the Circle of Web Part II: Breaking the Circle</a>.</small>
 

@@ -2,7 +2,7 @@
 title: 'Two Pizzas building their own Grumpy Cat and writing letters to Robots: TGIF! (46)'
 author: Lena
 layout: blog-post
-permalink: /2014/09/two-pizzas-building-their-own-grumpy-cat-and-writing-letters-to-robots/
+//permalink: /2014/09/two-pizzas-building-their-own-grumpy-cat-and-writing-letters-to-robots/
 ---
 
 

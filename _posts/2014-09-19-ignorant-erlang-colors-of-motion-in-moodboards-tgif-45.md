@@ -2,7 +2,7 @@
 title: Ignorant Erlang Colors of motion in moodboards – TGIF! (45)
 author: Lena
 layout: blog-post
-permalink: /2014/09/ignorant-erlang-colors-of-motion-in-moodboards-tgif-45/
+//permalink: /2014/09/ignorant-erlang-colors-of-motion-in-moodboards-tgif-45/
 ---
 
 <p>

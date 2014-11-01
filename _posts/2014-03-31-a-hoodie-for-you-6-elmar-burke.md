@@ -2,7 +2,7 @@
 title: 'A Hoodie for you (6): Elmar Burke'
 author: Lena
 layout: blog-post
-permalink: /2014/03/a-hoodie-for-you-6-elmar-burke/
+//permalink: /2014/03/a-hoodie-for-you-6-elmar-burke/
 ---
 [Elmar Burke][1] who lives close to the border between Germany and the Netherlands, is currently studying E-Government, loves Open Data and all the tech things and volunteers at the fire brigade. After getting in touch with him through his work on an [Angular JS-plugin for Hoodie][2], we finally met him in person at [Open Tech School Dortmund][3] a few weeks ago. We talked to him about the plugin and on his work on Open Source in general, he also translated this interview to [German][4] and [Dutch][5] (also thanks for the Dutch translation help to @[breun][6]!) – and we&#8217;re already looking forward to hearing much more from him.
 

@@ -2,7 +2,7 @@
 title: Taking back Friday – TGIF! (33)
 author: Lena
 layout: blog-post
-permalink: /2014/05/taking-back-friday-tgif-33/
+//permalink: /2014/05/taking-back-friday-tgif-33/
 ---
 <p style="text-align: center;">
    <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Team Hoodie for your weekend or a lazy afternoon. Enjoy!</em>

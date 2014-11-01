@@ -2,7 +2,7 @@
 title: Every day a friday – TGIF! (32)
 author: Lena
 layout: blog-post
-permalink: /2014/05/every-day-a-friday-tgif-32/
+//permalink: /2014/05/every-day-a-friday-tgif-32/
 ---
 <p style="text-align: center;">
   Für den Teil auf Deutsch bitte <a href="#deutsch">hier</a> entlang :)

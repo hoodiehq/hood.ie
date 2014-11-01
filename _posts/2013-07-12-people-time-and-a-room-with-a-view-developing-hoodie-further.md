@@ -2,7 +2,7 @@
 title: 'People, time and a room with a view: developing Hoodie further'
 author: Lena
 layout: blog-post
-permalink: /2013/07/people-time-and-a-room-with-a-view-developing-hoodie-further/
+//permalink: /2013/07/people-time-and-a-room-with-a-view-developing-hoodie-further/
 ---
 The very beginning of Hoodie was about 18 months ago. Since then, many things have changed, and even more have since it&#8217;s been officially presented for the first time [half a year ago][1]. So it was good to take some people, some time, and a room with a view: a house in Brandenburg, one of the least populated German regions. It was a very good place for a Hoodie-week:
 

@@ -2,7 +2,7 @@
 title: Hacker News thread about Hoodie
 author: Lena
 layout: blog-post
-permalink: /2013/06/hacker-news-thread-about-hoodie/
+//permalink: /2013/06/hacker-news-thread-about-hoodie/
 ---
 Some weeks ago, we were very glad Hoodie was discussed on Hacker News (probably the friendliest discussion Hacker News has ever seen) and was even #1 spot there for over 12 hours. You find the whole thread [here][1].
 

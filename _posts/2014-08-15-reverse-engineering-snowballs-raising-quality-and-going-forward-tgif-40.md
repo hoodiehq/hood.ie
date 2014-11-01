@@ -2,7 +2,7 @@
 title: 'Reverse engineering snowballs, raising quality and going forward: TGIF! (40)'
 author: Lena
 layout: blog-post
-permalink: /2014/08/reverse-engineering-snowballs-raising-quality-and-going-forward-tgif-40/
+//permalink: /2014/08/reverse-engineering-snowballs-raising-quality-and-going-forward-tgif-40/
 ---
 <p style="text-align: center;">
   <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>

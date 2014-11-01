@@ -2,7 +2,7 @@
 title: 'TGIF! (12): Think twice before you kickstarter, understand metaphors, beat the janken robot, experience wonders and don&#8217;t feel ashamed'
 author: Lena
 layout: blog-post
-permalink: /2013/11/tgif-12-think-twice-before-you-kickstarter-understand-metaphors-beat-the-janken-robot-experience-wonders-and-dont-feel-ashamed/
+//permalink: /2013/11/tgif-12-think-twice-before-you-kickstarter-understand-metaphors-beat-the-janken-robot-experience-wonders-and-dont-feel-ashamed/
 ---
 <p style="text-align: left;">
   <em>It’s friday again, the week’s (almost) over, and these are some videos and writings Team Hoodie is recommending for your weekend. Enjoy!</em>

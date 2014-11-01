@@ -2,7 +2,7 @@
 title: 'TGIF! (21): Yep! Passionate sloths and moderate water coolers taking lessons in physics'
 author: Lena
 layout: blog-post
-permalink: /2014/02/tgif-21-yep-passionate-sloths-and-moderate-water-coolers-taking-lessons-in-physics/
+//permalink: /2014/02/tgif-21-yep-passionate-sloths-and-moderate-water-coolers-taking-lessons-in-physics/
 ---
 <p style="text-align: center;">
   <em>Für den Teil auf Deutsch bitte wie immer ein Stück herunterscrollen :)</em>

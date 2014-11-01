@@ -2,7 +2,7 @@
 title: Meet Hoodie at CeBit 2014!
 author: Lena
 layout: blog-post
-permalink: /2014/03/meet-hoodie-at-cebit-2014/
+//permalink: /2014/03/meet-hoodie-at-cebit-2014/
 ---
 &#8220;New perspectives in IT Business&#8221; is what CeBIT, the world&#8217;s largest and most international computer expo promises &#8211; and it will take place again: next week in Hanover, Germany.
 

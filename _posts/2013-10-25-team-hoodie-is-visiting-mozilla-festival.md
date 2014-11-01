@@ -2,7 +2,7 @@
 title: Team Hoodie is visiting Mozilla Festival
 author: Jan
 layout: blog-post
-permalink: /2013/10/team-hoodie-is-visiting-mozilla-festival/
+//permalink: /2013/10/team-hoodie-is-visiting-mozilla-festival/
 ---
 <a href="http://blog.hood.ie/wp-content/uploads/2013/10/Screen-Shot-2013-10-24-at-22.57.09-.png" rel="lightbox[560]" title="Team Hoodie is visiting Mozilla Festival"><img class="alignright size-full wp-image-561" alt="Mozilla Fesitval" src="http://blog.hood.ie/wp-content/uploads/2013/10/Screen-Shot-2013-10-24-at-22.57.09-.png" width="390" height="113" /></a>
 Mozilla is running its Festival again this year in London and Alex and Jan of Team Hoodie are going to represent. They will be running a session on [“Designing Offline-First Web Apps”][1]:

@@ -2,7 +2,7 @@
 title: 'Talking about Hoodie: June 2013'
 author: Lena
 layout: blog-post
-permalink: /2013/07/talking-about-hoodie-june-2013/
+//permalink: /2013/07/talking-about-hoodie-june-2013/
 ---
 To us, it is really encouraging to get so much positive feedback and questions from people about Hoodie. Reading and hearing this makes us not only feel proud but also motivates us to continue our work on Hoodie. This ist why we want to say thank you to everyone who’s given us feedback last month, no matter if in RL, via Email or on Twitter.
 

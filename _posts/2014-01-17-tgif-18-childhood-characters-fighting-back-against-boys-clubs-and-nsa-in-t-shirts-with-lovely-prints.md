@@ -2,7 +2,7 @@
 title: 'TGIF! (18): childhood characters fighting back against boys clubs and NSA in T-shirts with lovely prints'
 author: Lena
 layout: blog-post
-permalink: /2014/01/tgif-18-childhood-characters-fighting-back-against-boys-clubs-and-nsa-in-t-shirts-with-lovely-prints/
+//permalink: /2014/01/tgif-18-childhood-characters-fighting-back-against-boys-clubs-and-nsa-in-t-shirts-with-lovely-prints/
 ---
 <p style="text-align: center;">
   P.S.: Für den Teil auf Deutsch bitte wie immer ein Stück herunterscrollen :)

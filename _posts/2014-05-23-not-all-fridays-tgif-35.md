@@ -2,7 +2,7 @@
 title: Not all Fridays – TGIF! (35)
 author: Lena
 layout: blog-post
-permalink: /2014/05/not-all-fridays-tgif-35/
+//permalink: /2014/05/not-all-fridays-tgif-35/
 ---
 <p style="text-align: center;">
   <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Team Hoodie for your weekend or a lazy afternoon. Enjoy!</em>

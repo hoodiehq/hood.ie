@@ -2,7 +2,7 @@
 title: Friday, friday, it was all I hoped it would be – TGIF! (30)
 author: Lena
 layout: blog-post
-permalink: /2014/04/friday-friday-it-was-all-i-hoped-it-would-be-tgif-30/
+//permalink: /2014/04/friday-friday-it-was-all-i-hoped-it-would-be-tgif-30/
 ---
 <p style="text-align: center;">
   Für den Teil auf Deutsch bitte <a href="#deutsch">hier</a> entlang :)

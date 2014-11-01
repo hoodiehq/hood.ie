@@ -2,7 +2,7 @@
 title: 'A Hoodie for you: Interviews with Hoodie-Users (3) – Alan Shaw and plugins.hood.ie'
 author: Lena
 layout: blog-post
-permalink: /2013/12/a-hoodie-for-you-interviews-with-hoodie-users-3-alan-shaw-and-plugins-hood-ie/
+//permalink: /2013/12/a-hoodie-for-you-interviews-with-hoodie-users-3-alan-shaw-and-plugins-hood-ie/
 ---
 *&#8220;When life gives you lemons, don’t make lemonade. Make life take the lemons back!&#8221;* This guy who doesn&#8217;t accept unexpected lemon deliveries &#8211; this is [Alan Shaw][1]. Alan is an excitable web developer who has been working with JavaScript for as long as he can remember (and is now all like &#8220;Node all the things&#8221; all the time). Alan built the [Hoodie-Plugins-Overview][2] where all available Hoodie-plugins are displayed, so we asked him a few questions and we&#8217;re happy to introduce you to him today. Here we go!
 

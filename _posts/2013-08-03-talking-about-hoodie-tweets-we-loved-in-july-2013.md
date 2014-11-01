@@ -2,7 +2,7 @@
 title: 'Talking about Hoodie: Tweets we loved in July 2013'
 author: Lena
 layout: blog-post
-permalink: /2013/08/talking-about-hoodie-tweets-we-loved-in-july-2013/
+//permalink: /2013/08/talking-about-hoodie-tweets-we-loved-in-july-2013/
 ---
 The positive feedback and questions from people about Hoodie are encouraging. This doesn&#8217;t only make us feel proud but also motivates us to continue our work on Hoodie and that&#8217;s why we want to say thank you to everyone who contacted us.
 

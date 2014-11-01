@@ -2,7 +2,7 @@
 title: Oh what a year! – Hoodie says thank you
 author: Lena
 layout: blog-post
-permalink: /2013/12/oh-what-a-year-hoodie-says-thank-you/
+//permalink: /2013/12/oh-what-a-year-hoodie-says-thank-you/
 ---
 It seems like years ago, but it&#8217;s true: Hoodie&#8217;s first presentation to the public was not even a year go at [Apps.Berlin.JS on February 28th][1], After this, many very exciting things happened: there was a [HN-thread about Hoodie][2] (probably the friendliest HN has ever seen) and suddenly this project got a lot of attention. [noBackend][3] was launched in April, A [Hoodie-login with Persona][4] got implemented, we tried out [Hoodieberry Pi][5] and finally shipped [Hoodie-Plugins][6]. Hoodie was being tested by hackers in [Africa][7], [Offline First][8] became a thing and we started thinking about the [Circle of Web][9] and [how to break it][10]. – Just to name a few things that happened in the last 12 months.
 

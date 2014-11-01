@@ -2,7 +2,7 @@
 title: 'Offline First meetup #1 in Berlin'
 author: Lena
 layout: blog-post
-permalink: /2014/02/offline-first-meetup-1-in-berlin/
+//permalink: /2014/02/offline-first-meetup-1-in-berlin/
 ---
 Prescript: [*Offline First*][1] is an initiative which is supported by (Team) Hoodie but not &#8220;a Hoodie project&#8221;. Although we consider it to be very important, it is a discussion and a topic bigger than Hoodie. *Offline First* aims to reach far more people, collect their experiences and ideas and find solutions for the problems caused by lack or loss of internet connection in apps. We invite you to join the discussion and help collect information on the [*Offline First* GitHub organisation][2]. Find more information on the first ideas about this topic [here][3].
 

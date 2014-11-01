@@ -2,7 +2,7 @@
 title: Hoodie Presentation at Glasgow JS
 author: Jan
 layout: blog-post
-permalink: /2013/08/hoodie-presentation-at-glasgow-js/
+//permalink: /2013/08/hoodie-presentation-at-glasgow-js/
 ---
 Jan made his way over from Berlin to Glasgow via Google hangout to talk about Hoodie. You can catch the whole 33 minute live recording here:
 

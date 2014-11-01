@@ -3,7 +3,7 @@
 title: 'All Sea Lions: TGIF! (49)'
 author: Lena
 layout: blog-post-tgif
-permalink: /2014/10/all-sea-lions-tgif-49/
+////permalink: /2014/10/all-sea-lions-tgif-49/
 comments: true
 
 ---

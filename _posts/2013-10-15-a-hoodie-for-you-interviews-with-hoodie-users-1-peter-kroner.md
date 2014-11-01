@@ -2,7 +2,7 @@
 title: 'A Hoodie for you: Interviews with Hoodie-Users (1) – Peter Kröner'
 author: Lena
 layout: blog-post
-permalink: /2013/10/a-hoodie-for-you-interviews-with-hoodie-users-1-peter-kroner/
+//permalink: /2013/10/a-hoodie-for-you-interviews-with-hoodie-users-1-peter-kroner/
 ---
 *In this new series of small interviews, we talk to people who use Hoodie or built something on it about their experiences and collect their feedback to help improving Hoodie and share their impressions. If you want to share yours: [contact us][1]!*
 

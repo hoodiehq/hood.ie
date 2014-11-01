@@ -2,7 +2,7 @@
 title: TGIF! Our top links of the week (4)
 author: Lena
 layout: blog-post
-permalink: /2013/08/tgif-our-top-links-of-the-week-4/
+//permalink: /2013/08/tgif-our-top-links-of-the-week-4/
 ---
 *Thank Gauss it’s Friday! One more weekly collection of great things we’ve found on the internet last week. So this is for you, for a good read on a lazy friday afternoon or for your weekend.*
 

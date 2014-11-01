@@ -2,7 +2,7 @@
 title: Welcome to the Neighbourhoodie
 author: Lena
 layout: blog-post
-permalink: /2014/05/welcome-to-the-neighbourhoodie/
+//permalink: /2014/05/welcome-to-the-neighbourhoodie/
 ---
 <a href="http://photos-c.ak.instagram.com/hphotos-ak-prn/1724887_575489072548066_221239424_n.jpg" rel="lightbox[1363]" title="Welcome to the Neighbourhoodie"><img class="alignnone" src="http://photos-c.ak.instagram.com/hphotos-ak-prn/1724887_575489072548066_221239424_n.jpg" alt="" width="640" height="640" /></a> <p style="text-align: right;">
   <em>Pic: <a href="http://instagram.com/p/k7Ctx2lX_o/">Alex Feyerke</a></em>

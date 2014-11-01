@@ -2,7 +2,7 @@
 title: Productive cooking of AngularJS Plugins with ice cream – TGIF (43)
 author: Lena
 layout: blog-post
-permalink: /2014/09/productive-cooking-of-angularjs-plugins-with-ice-cream-tgif-43/
+//permalink: /2014/09/productive-cooking-of-angularjs-plugins-with-ice-cream-tgif-43/
 ---
 
 <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>

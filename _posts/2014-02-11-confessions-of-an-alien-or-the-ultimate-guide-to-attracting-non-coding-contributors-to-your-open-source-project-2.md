@@ -2,7 +2,7 @@
 title: 'Confessions of an Alien or: The Ultimate Guide to Attracting Non-Coding Contributors to your Open Source Project (2)'
 author: Lena
 layout: blog-post
-permalink: /2014/02/confessions-of-an-alien-or-the-ultimate-guide-to-attracting-non-coding-contributors-to-your-open-source-project-2/
+//permalink: /2014/02/confessions-of-an-alien-or-the-ultimate-guide-to-attracting-non-coding-contributors-to-your-open-source-project-2/
 ---
 This is part two of our tiny &#8220;Confessions of a &#8216;non-coder'&#8221;-series. [Part 1][1] mainly showed why &#8220;non-coders&#8221; is not appropriate term for addressing us, and why we, those people who don&#8217;t code, may be relevant for your Open Source or Free Software project (I’ll use “Open Source” to mean both from now on).
 
