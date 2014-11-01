@@ -2,7 +2,7 @@
 title: Meet the CSS-community at CSSconf.eu
 author: Lena
 layout: blog-post
-permalink: /2013/08/meet-the-css-community-at-cssconf-eu/
+//permalink: /2013/08/meet-the-css-community-at-cssconf-eu/
 ---
 <img class="wp-image-372 alignleft" alt="css-conf-eu" src="http://blog.hood.ie/wp-content/uploads/2013/08/css-conf-eu.png" width="300" height="180" />Dedicated to designers, developers and engineers &#8211; no, we&#8217;re not talking about Hoodie&#8217;s future this time, but about <a href="http://2013.cssconf.eu/" target="_blank">CSSconf.eu</a> which will take part in **Berlin** for the very first time on **Sept. 13th**, 2013.
 

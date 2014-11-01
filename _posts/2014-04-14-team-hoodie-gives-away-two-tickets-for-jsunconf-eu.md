@@ -2,7 +2,7 @@
 title: Team Hoodie gives away two tickets for JSUnconf EU
 author: Lena
 layout: blog-post
-permalink: /2014/04/team-hoodie-gives-away-two-tickets-for-jsunconf-eu/
+//permalink: /2014/04/team-hoodie-gives-away-two-tickets-for-jsunconf-eu/
 ---
 <p style="text-align: right;">
   <img class="alignnone size-full wp-image-1382" alt="IMG_3722" src="http://blog.hood.ie/wp-content/uploads/2014/04/IMG_3722.jpg" width="800" height="533" /><br /> <em>Pic: <a href="http://twitter.com/ffffux">Lena Reinhard</a>, license: <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></em>

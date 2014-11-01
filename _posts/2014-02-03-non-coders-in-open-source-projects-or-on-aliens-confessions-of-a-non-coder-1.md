@@ -2,7 +2,7 @@
 title: '&#8220;Non-coders&#8221; in Open Source projects or: On aliens – Confessions of a &#8220;non-coder&#8221; (1)'
 author: Lena
 layout: blog-post
-permalink: /2014/02/non-coders-in-open-source-projects-or-on-aliens-confessions-of-a-non-coder-1/
+//permalink: /2014/02/non-coders-in-open-source-projects-or-on-aliens-confessions-of-a-non-coder-1/
 ---
 In the last months, I thought about how to attract new committers to Open Source projects, especially how to attract people who are not developers themselves. I talked to people about it, read about it,  and stumbled upon a few posts, mainly addressing &#8220;coders&#8221; and talking about how to attract &#8220;non-coders&#8221;. While reading, I often felt like those &#8220;non-coders&#8221; were either pets, aliens or any other strange species which no one really knows anything about :)
 

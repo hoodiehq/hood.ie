@@ -2,7 +2,7 @@
 title: 'A Hoodie for you (4): Lewis Cowper'
 author: Lena
 layout: blog-post
-permalink: /2014/03/a-hoodie-for-you-4-lewis-cowper/
+//permalink: /2014/03/a-hoodie-for-you-4-lewis-cowper/
 ---
 It all started with a pull request:
 

@@ -2,7 +2,7 @@
 title: 'TGIF! (7) Nerdboat, interviewing developers, diversity, GTA V and a &#8216;Skype Killer&#8217;'
 author: Lena
 layout: blog-post
-permalink: /2013/09/tgif-nerdboat-interviewing-developers-diversity-gta-v-and-a-skype-killer/
+//permalink: /2013/09/tgif-nerdboat-interviewing-developers-diversity-gta-v-and-a-skype-killer/
 ---
 *Thank [Glob][1] it&#8217;s Friday! Team Hoodie presents your weekend reading list.*
 

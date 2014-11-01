@@ -2,7 +2,7 @@
 title: 'Announcement: Hoodie-talks at Hamburg JS and Pott JS'
 author: Lena
 layout: blog-post
-permalink: /2013/06/announcement-hoodie-talks-at-hamburg-js-and-pott-js/
+//permalink: /2013/06/announcement-hoodie-talks-at-hamburg-js-and-pott-js/
 ---
 We&#8217;re very happy we were invited to say something about Hoodie in the next weeks and meet nice people all over Germany:
 

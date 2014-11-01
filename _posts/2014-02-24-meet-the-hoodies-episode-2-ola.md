@@ -2,7 +2,7 @@
 title: 'Meet the Hoodies! Episode 2: Ola'
 author: Lena
 layout: blog-post
-permalink: /2014/02/meet-the-hoodies-episode-2-ola/
+//permalink: /2014/02/meet-the-hoodies-episode-2-ola/
 ---
 **<img class="alignright" alt="Bildschirmfoto 2014-02-17 um 14.13.44" src="http://blog.hood.ie/wp-content/uploads/2014/02/Bildschirmfoto-2014-02-17-um-14.13.44.png" width="320" height="252" />**In June 2013, the (almost) entire Team Hoodie went for a field trip (or* &#8220;Klassenfahrt&#8221;*, as we call it) to Bochum for giving a talk at [PottJS][1]. This is where we met a lively person with lots of questions and interest in Hoodie. – We met [Ola][2].
 

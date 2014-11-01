@@ -2,7 +2,7 @@
 title: 'TGIF! Hoodie&#8217;s top links of the week (1)'
 author: Lena
 layout: blog-post
-permalink: /2013/08/tgif-hoodies-top-links-of-the-week-1/
+//permalink: /2013/08/tgif-hoodies-top-links-of-the-week-1/
 ---
 *Thank Grohl it&#8217;s Friday! As we&#8217;re all finding tons of good stuff on the internet every day, we thought it may be a good idea to collect and share it. So this is for you, for a good read on a lazy friday afternoon (we won&#8217;t tell your boss, we promise) or for enjoying them at the weekend.*
 

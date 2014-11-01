@@ -2,7 +2,7 @@
 title: 'Proof of Concept: Hoodie Login with Persona'
 author: Jan
 layout: blog-post
-permalink: /2013/08/proof-of-concept-hoodie-login-with-persona/
+//permalink: /2013/08/proof-of-concept-hoodie-login-with-persona/
 ---
 The most secure way to store passwords is to not store them at all. Distributed authentication is all the rage on the web and team Hoodie wants to support this as well. We don’t have anything final to announce, but we worked a bit on making a little demo that shows how to sign up for a Hoodie app with Mozilla’s Persona service:
 

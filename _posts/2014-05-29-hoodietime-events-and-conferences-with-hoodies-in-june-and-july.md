@@ -2,7 +2,7 @@
 title: Hoodietime! Events and Conferences with Hoodies in June and July, 2014
 author: Lena
 layout: blog-post
-permalink: /2014/05/hoodietime-events-and-conferences-with-hoodies-in-june-and-july/
+//permalink: /2014/05/hoodietime-events-and-conferences-with-hoodies-in-june-and-july/
 ---
 <img class="alignnone size-large wp-image-1348" src="http://blog.hood.ie/wp-content/uploads/2014/04/201419_2415-705x470.jpg" alt="201419_2415" width="705" height="470" />
 The Hoodies are travelling. – We have already given Hoodie- and Hoodie-related talks at 16 meetups and conferences this year, and some of us are already preparing slides again. By the way: if you&#8217;re interested in Hoodie-stickers, meeting us at conferences is usually a great opportunity ;) If you want to give a Hoodie talk yourself and need slides or support, ping us, we&#8217;re happy to help. There&#8217;s also a [list of all talks][1] (incl. videos, if available) given before.

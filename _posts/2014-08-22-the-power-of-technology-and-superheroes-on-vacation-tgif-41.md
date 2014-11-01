@@ -2,7 +2,7 @@
 title: 'The power of technology and superheroes on vacation: TGIF! (41)'
 author: Lena
 layout: blog-post
-permalink: /2014/08/the-power-of-technology-and-superheroes-on-vacation-tgif-41/
+//permalink: /2014/08/the-power-of-technology-and-superheroes-on-vacation-tgif-41/
 ---
 <p style="text-align: center;">
   <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>

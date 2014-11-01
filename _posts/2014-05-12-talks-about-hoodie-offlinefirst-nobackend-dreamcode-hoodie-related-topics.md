@@ -2,7 +2,7 @@
 title: Talks and Podcasts about Hoodie, OfflineFirst, noBackend, Dreamcode, Hoodie-related topics
 author: Lena
 layout: blog-post
-permalink: /2014/05/talks-about-hoodie-offlinefirst-nobackend-dreamcode-hoodie-related-topics/
+//permalink: /2014/05/talks-about-hoodie-offlinefirst-nobackend-dreamcode-hoodie-related-topics/
 ---
 The Internet™ is a huge place and it&#8217;s sometimes hard to find what you&#8217;re looking for.
 

@@ -2,7 +2,7 @@
 title: 'TGIF! (9): Reponsibility is not a choice, it&#8217;s a job'
 author: Lena
 layout: blog-post
-permalink: /2013/10/tgif-9-reponsibility-is-not-a-choice-its-a-job/
+//permalink: /2013/10/tgif-9-reponsibility-is-not-a-choice-its-a-job/
 ---
 *It&#8217;s friday again, the week&#8217;s (almost) over, and here&#8217;s the lovely things we found on the internet last week and want to share with you – for a lazy friday afternoon, a good read on your way home or a weekend with inspiring videos and writings. Enjoy! *
 

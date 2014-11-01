@@ -2,7 +2,7 @@
 title: Summertime — TGIF! (36)
 author: Jan
 layout: blog-post
-permalink: /2014/06/summertime-tgif-36/
+//permalink: /2014/06/summertime-tgif-36/
 ---
 <p style="text-align: center;">
   <em style="color: #302182;">Thank Grohl, Gauss, Glob, Galileo and Science it’s summertime!</em>

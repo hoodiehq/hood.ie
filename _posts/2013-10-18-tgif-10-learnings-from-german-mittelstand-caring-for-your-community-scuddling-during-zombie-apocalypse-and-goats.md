@@ -2,7 +2,7 @@
 title: 'TGIF (10): Learnings from German &#8220;Mittelstand&#8221;, caring for your community, scuddling during Zombie Apocalypse and Goats'
 author: Lena
 layout: blog-post
-permalink: /2013/10/tgif-10-learnings-from-german-mittelstand-caring-for-your-community-scuddling-during-zombie-apocalypse-and-goats/
+//permalink: /2013/10/tgif-10-learnings-from-german-mittelstand-caring-for-your-community-scuddling-during-zombie-apocalypse-and-goats/
 ---
 *It’s friday again, the week’s (almost) over, and this is our friday-gift for you: inspiring videos and writings for a lazy friday afternoon, a good read on your way home or a weekend on your couch (wearing a Hoodie when reading is nice but not strictly required). Enjoy! *
 

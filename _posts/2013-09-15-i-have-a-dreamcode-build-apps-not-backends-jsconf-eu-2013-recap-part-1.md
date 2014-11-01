@@ -2,7 +2,7 @@
 title: 'I have a dreamcode: build apps, not backends – JSConf EU 2013 recap (part 1)'
 author: Lena
 layout: blog-post
-permalink: /2013/09/i-have-a-dreamcode-build-apps-not-backends-jsconf-eu-2013-recap-part-1/
+//permalink: /2013/09/i-have-a-dreamcode-build-apps-not-backends-jsconf-eu-2013-recap-part-1/
 ---
 We&#8217;re still amazed after all those fantastic conferences taking part in Berlin last week. While JSConf EU is just seeing their last talks, we&#8217;re happy to already show you Alex&#8217; *noBackend-*talk he gave there this afternoon.
 

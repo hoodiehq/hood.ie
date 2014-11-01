@@ -2,7 +2,7 @@
 title: 'A Hoodie for you (5): Ray Daly'
 author: Lena
 layout: blog-post
-permalink: /2014/03/a-hoodie-for-you-5-ray-daly/
+//permalink: /2014/03/a-hoodie-for-you-5-ray-daly/
 ---
 [Ray Daly][1] is a designer and developer. His first JavaScript app was HTMLjive &#8211; an HTML Editor &#8211; released January, 1996, and his CouchDB app was a finalist for the 2011 CouchConf Developer awards. Now, he spends his day at his own company, also known as his &#8220;[app lab][2]&#8220;.
 

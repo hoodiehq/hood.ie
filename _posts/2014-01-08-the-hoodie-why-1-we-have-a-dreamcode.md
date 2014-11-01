@@ -2,7 +2,7 @@
 title: 'The Hoodie Why (1): We have a dreamcode'
 author: Alex
 layout: blog-post
-permalink: /2014/01/the-hoodie-why-1-we-have-a-dreamcode/
+//permalink: /2014/01/the-hoodie-why-1-we-have-a-dreamcode/
 ---
 *This post is about a new paradigm in frontend web development which some are calling &#8220;noBackend&#8221;, and which can include the idea of BaaS, Backend as a Service. It is based on a talk by [Alex][1] at JSConf EU ([video][2] | [slides][3]), but as it explains why we&#8217;re working on Hoodie pretty well, we&#8217;re also using it now as part of our philosophy.*
 

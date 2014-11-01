@@ -2,7 +2,7 @@
 title: 'Every Friday is a good Friday: TGIF! (28)'
 author: Lena
 layout: blog-post
-permalink: /2014/04/every-friday-is-a-good-friday-tgif-28/
+//permalink: /2014/04/every-friday-is-a-good-friday-tgif-28/
 ---
 <p style="text-align: center;">
   Für den Teil auf Deutsch bitte <a href="#deutsch">hier</a> entlang :)

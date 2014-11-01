@@ -2,7 +2,7 @@
 title: 'Hoodies IRL: JSConf EU'
 author: Lena
 layout: blog-post
-permalink: /2013/08/hoodies-irl-jsconf-eu/
+//permalink: /2013/08/hoodies-irl-jsconf-eu/
 ---
 <img class="wp-image-394 alignleft" alt="jsconf-logo" src="http://blog.hood.ie/wp-content/uploads/2013/08/jsconf-logo-300x300.png" width="150" height="150" />
 This year, we won&#8217;t mind the end of summer as autumn promises to be amazing beginning with an entire week in Berlin packed with great community events.

@@ -2,7 +2,7 @@
 title: 'Announcement: Open Source-Funding by NLnet for Hoodie granted'
 author: Lena
 layout: blog-post
-permalink: /2013/08/announcement-open-source-funding-by-nlnet-for-hoodie-granted/
+//permalink: /2013/08/announcement-open-source-funding-by-nlnet-for-hoodie-granted/
 ---
 We&#8217;re glad to announce that one of Hoodie&#8217;s projects, the [implementation of a Plugin Architecture][1], has received half of the required funding by the [NLnet foundation][2].
 

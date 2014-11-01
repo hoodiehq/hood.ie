@@ -2,7 +2,7 @@
 title: 'TGIF! Our top links of the week (3): Data, Olympics, Kids vs. Computers, Learnings from SOPA'
 author: Lena
 layout: blog-post
-permalink: /2013/08/tgif-our-top-links-of-the-week-3-controlling-your-data-olympic-games-lean-in-kids-feat-computers-and-learnings-from-sopa/
+//permalink: /2013/08/tgif-our-top-links-of-the-week-3-controlling-your-data-olympic-games-lean-in-kids-feat-computers-and-learnings-from-sopa/
 ---
 *Thank Science it’s Friday! One more weekly collection of great things we’ve found on the internet last week. So this is for you, for a good read on a lazy friday afternoon or for your weekend.*
 

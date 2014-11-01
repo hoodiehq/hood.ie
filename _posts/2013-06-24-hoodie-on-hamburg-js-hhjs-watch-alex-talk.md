@@ -2,7 +2,7 @@
 title: 'Hoodie on Hamburg JS (@hhjs): watch Alex&#8217; talk!'
 author: Lena
 layout: blog-post
-permalink: /2013/06/hoodie-on-hamburg-js-hhjs-watch-alex-talk/
+//permalink: /2013/06/hoodie-on-hamburg-js-hhjs-watch-alex-talk/
 ---
 [Alex][1] was invited to give a talk about Hoodie on [Hamburg JS][2] and here&#8217;s his talk including notes:
 

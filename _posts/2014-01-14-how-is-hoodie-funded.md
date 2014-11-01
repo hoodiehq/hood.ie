@@ -2,7 +2,7 @@
 title: How is Hoodie funded?
 author: Jan
 layout: blog-post
-permalink: /2014/01/how-is-hoodie-funded/
+//permalink: /2014/01/how-is-hoodie-funded/
 ---
 <p id="magicdomid4">
   Funding Open Source projects is <a href="https://medium.com/open-source-life/d44a1953749c">a topic of much discussion</a>. After talking about <a title="The Why of Hoodie" href="http://blog.hood.ie/2014/01/the-hoodie-why-1-we-have-a-dreamcode/"><strong>why</strong> we are building Hoodie</a>, we thought we&#8217;d <strong>share the story of our experiments</strong> with ensuring Hoodie’s progress.

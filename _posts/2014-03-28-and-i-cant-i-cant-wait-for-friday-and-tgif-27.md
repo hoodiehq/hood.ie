@@ -2,7 +2,7 @@
 title: 'And I can&#8217;t, I can&#8217;t wait for Friday … and TGIF! (27)'
 author: Lena
 layout: blog-post
-permalink: /2014/03/and-i-cant-i-cant-wait-for-friday-and-tgif-27/
+//permalink: /2014/03/and-i-cant-i-cant-wait-for-friday-and-tgif-27/
 ---
 <p style="text-align: center;">
   Für den Teil auf Deutsch bitte <a href="#deutsch">hier</a> entlang :)

@@ -2,7 +2,7 @@
 title: 'Why you shouldn&#8217;t use sudo with npm [update]'
 author: Sven
 layout: blog-post
-permalink: /2014/02/why-you-shouldnt-use-sudo-with-npm/
+//permalink: /2014/02/why-you-shouldnt-use-sudo-with-npm/
 ---
 *Update*: This issue (here [on GitHub][1]) has been fixed now. You&#8217;ll find the [fix for global npm installs here][2], according to npm&#8217;s [Isaac][3] the bug &#8220;didn&#8217;t go out in the recent Node.js release, so you can also click the Big Green Button on <http://nodejs.org> and it should fix it for you&#8221;. *Thanks for fixing it! <3*
 

@@ -3,7 +3,7 @@
 title: 'Trouble and Feminist Killjoys: TGIF! (48)'
 author: Lena
 layout: blog-post
-permalink: /2014/10/trouble-and-feminist-killjoys-tgif-48/
+//permalink: /2014/10/trouble-and-feminist-killjoys-tgif-48/
 comments: true
 
 ---

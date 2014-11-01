@@ -2,7 +2,7 @@
 title: 'Offline First and the Circle of Web, Part II: Breaking the Circle'
 author: Jan
 layout: blog-post
-permalink: /2013/12/offline-first-and-the-circle-of-web-part-ii-breaking-the-circle/
+//permalink: /2013/12/offline-first-and-the-circle-of-web-part-ii-breaking-the-circle/
 ---
 <small>Prescript: Join the discussion on <a href="http://offlinefirst.org" title="Offline First">offlinefirst.org</a> and help collecting information on the <a href="https://github.com/offlinefirst" title="Offline First on Github">Offline First Github Organisation</a>.</small>
 

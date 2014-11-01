@@ -2,7 +2,7 @@
 title: 'TGIF! (11): be offline and transparent, draw animals, reconsider semantics, wear beards, don&#8217;t be a superhero and build a better web'
 author: Lena
 layout: blog-post
-permalink: /2013/11/tgif-11-be-offline-and-transparent-draw-animals-reconsider-semantics-wear-beards-dont-be-a-superhero-and-build-a-better-web/
+//permalink: /2013/11/tgif-11-be-offline-and-transparent-draw-animals-reconsider-semantics-wear-beards-dont-be-a-superhero-and-build-a-better-web/
 ---
 *It’s friday again, the week’s (almost) over, and this is our weekly gift for you: inspiring videos and writings for a lazy friday afternoon, a good read on your way home or a weekend on your couch. Enjoy!*
 

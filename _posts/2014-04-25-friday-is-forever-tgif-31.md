@@ -2,7 +2,7 @@
 title: Friday is forever – TGIF! (31)
 author: Lena
 layout: blog-post
-permalink: /2014/04/friday-is-forever-tgif-31/
+//permalink: /2014/04/friday-is-forever-tgif-31/
 ---
 <p style="text-align: center;">
   Für den Teil auf Deutsch bitte <a href="#deutsch">hier</a> entlang :)

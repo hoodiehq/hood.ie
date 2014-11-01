@@ -2,7 +2,7 @@
 title: 'Here comes the sun, here comes the Hoodies: Hoodie Offsite #2'
 author: Lena
 layout: blog-post
-permalink: /2014/02/here-comes-the-sun-here-comes-the-hoodies-hoodie-offsite-2/
+//permalink: /2014/02/here-comes-the-sun-here-comes-the-hoodies-hoodie-offsite-2/
 ---
 <p style="text-align: center;">
   <em>Note: all pictures in this post (except #4 and #38) were taken by Lena Reinhard and are licensed under <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.</em>

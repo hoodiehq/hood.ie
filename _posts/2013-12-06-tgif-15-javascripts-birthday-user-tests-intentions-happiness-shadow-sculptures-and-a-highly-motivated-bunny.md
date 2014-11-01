@@ -2,7 +2,7 @@
 title: 'TGIF! (15): JavaScript&#8217;s birthday, user tests, intentions, happiness, shadow sculptures and a highly-motivated bunny'
 author: Lena
 layout: blog-post
-permalink: /2013/12/tgif-15-javascripts-birthday-user-tests-intentions-happiness-shadow-sculptures-and-a-highly-motivated-bunny/
+//permalink: /2013/12/tgif-15-javascripts-birthday-user-tests-intentions-happiness-shadow-sculptures-and-a-highly-motivated-bunny/
 ---
 P.S.: Für den Teil auf Deutsch bitte einfach ein Stück herunterscrollen :)
 

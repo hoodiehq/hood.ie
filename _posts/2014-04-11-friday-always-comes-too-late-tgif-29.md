@@ -2,7 +2,7 @@
 title: Friday always comes too late – TGIF! (29)
 author: Lena
 layout: blog-post
-permalink: /2014/04/friday-always-comes-too-late-tgif-29/
+//permalink: /2014/04/friday-always-comes-too-late-tgif-29/
 ---
 <p style="text-align: center;">
   Für den Teil auf Deutsch bitte <a href="#deutsch">hier</a> entlang :)

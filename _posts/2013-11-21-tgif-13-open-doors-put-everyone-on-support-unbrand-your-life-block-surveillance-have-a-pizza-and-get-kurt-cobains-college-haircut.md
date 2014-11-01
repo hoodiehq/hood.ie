@@ -2,7 +2,7 @@
 title: 'TGIF! (13): open doors, put everyone on support, unbrand your life, block surveillance, have a .pizza and get Kurt Cobain&#8217;s college haircut'
 author: Lena
 layout: blog-post
-permalink: /2013/11/tgif-13-open-doors-put-everyone-on-support-unbrand-your-life-block-surveillance-have-a-pizza-and-get-kurt-cobains-college-haircut/
+//permalink: /2013/11/tgif-13-open-doors-put-everyone-on-support-unbrand-your-life-block-surveillance-have-a-pizza-and-get-kurt-cobains-college-haircut/
 ---
 *It’s friday again, the week’s (almost) over, and these are some things to read and watch that Team Hoodie is recommending for your weekend. Enjoy!*
 

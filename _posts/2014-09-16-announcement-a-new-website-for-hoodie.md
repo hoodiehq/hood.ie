@@ -2,7 +2,7 @@
 title: 'Announcement: a new Website for Hoodie'
 author: Lena
 layout: blog-post
-permalink: /2014/09/announcement-a-new-website-for-hoodie/
+//permalink: /2014/09/announcement-a-new-website-for-hoodie/
 ---
 
 You know what it&#8217;s like with clothes you love, right? They&#8217;re cozy and make you feel comfortable and safe, and so you wear them any time you can, regardless of the weather and change of seasons. Unfortunately, even the most beautiful clothes tend to get broken from time to time – then you have to add patches or renew seams, and sometimes they also lose their bright colours after some time.

@@ -2,7 +2,7 @@
 title: TGIF! (6) RubyConf, diversity, Eloquent JavaScript, Dropbox, time in perspective and first JavaScript-week-pictures!
 author: Lena
 layout: blog-post
-permalink: /2013/09/tgif-rubyconf-diversity-eloquent-javascript-dropbox-time-in-perspective-and-first-javascript-week-pictures/
+//permalink: /2013/09/tgif-rubyconf-diversity-eloquent-javascript-dropbox-time-in-perspective-and-first-javascript-week-pictures/
 ---
 *Thank [Goeppert-Meyer][1] it’s Friday! Team Hoodie presents your weekend reading list.*
 

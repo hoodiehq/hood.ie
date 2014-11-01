@@ -2,7 +2,7 @@
 title: 'TGIF! (19): Rants at our future selves, the web, open products and strangers'
 author: Lena
 layout: blog-post
-permalink: /2014/01/tgif-19-rants-at-our-future-selves-the-web-open-products-and-strangers/
+//permalink: /2014/01/tgif-19-rants-at-our-future-selves-the-web-open-products-and-strangers/
 ---
 <p style="text-align: center;">
   Für den Teil auf Deutsch bitte wie immer ein Stück herunterscrollen :)

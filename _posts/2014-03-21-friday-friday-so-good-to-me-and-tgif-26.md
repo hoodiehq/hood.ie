@@ -2,7 +2,7 @@
 title: Friday, Friday, so good to me – and TGIF! (26)
 author: Lena
 layout: blog-post
-permalink: /2014/03/friday-friday-so-good-to-me-and-tgif-26/
+//permalink: /2014/03/friday-friday-so-good-to-me-and-tgif-26/
 ---
 <p style="text-align: center;">
   Für den Teil auf Deutsch bitte wie immer ein Stück herunterscrollen :)

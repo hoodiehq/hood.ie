@@ -2,7 +2,7 @@
 title: 'Offline First: first offline meetup in Berlin'
 author: Lena
 layout: blog-post
-permalink: /2014/01/offline-first-first-offline-meetup-in-berlin/
+//permalink: /2014/01/offline-first-first-offline-meetup-in-berlin/
 ---
 We&#8217;re happy to announce the first [Offline First][1]-meetup of all times in Berlin.
 

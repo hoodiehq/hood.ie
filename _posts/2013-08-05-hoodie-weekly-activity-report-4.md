@@ -2,7 +2,7 @@
 title: 'Hoodie weekly activity report #4'
 author: Lena
 layout: blog-post
-permalink: /2013/08/hoodie-weekly-activity-report-4/
+//permalink: /2013/08/hoodie-weekly-activity-report-4/
 ---
 *We want to keep you updated about the things we work on. And this is what happend last week:*
 

@@ -2,7 +2,7 @@
 title: 'Essential Tooling for a Small Modules World: Bringing Back the Excitement of Software Releases with <em>grunt-semantic-release</em>'
 author: Stephan
 layout: blog-post
-permalink: /2014/09/semantic-releases/
+//permalink: /2014/09/semantic-releases/
 ---
 
 

@@ -2,7 +2,7 @@
 title: 'TGIF! (16): say no to features and yes to accessibility, value creativity, create value, meet Cicada 3301 and a black dog'
 author: Lena
 layout: blog-post
-permalink: /2013/12/tgif-16-say-no-to-features-and-yes-to-accessibility-value-creativity-create-value-meet-cicada-3301-and-a-black-dog/
+//permalink: /2013/12/tgif-16-say-no-to-features-and-yes-to-accessibility-value-creativity-create-value-meet-cicada-3301-and-a-black-dog/
 ---
 P.S.: Für den Teil auf Deutsch bitte einfach ein Stück herunterscrollen :)
 

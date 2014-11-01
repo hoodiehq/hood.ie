@@ -2,7 +2,7 @@
 title: 'TGIF! (22): relaxed bingo-loving, compiled schnitzel secretly running the world'
 author: Lena
 layout: blog-post
-permalink: /2014/02/tgif-22-relaxed-bingo-loving-compiled-schnitzel-secretly-running-the-world/
+//permalink: /2014/02/tgif-22-relaxed-bingo-loving-compiled-schnitzel-secretly-running-the-world/
 ---
 <p style="text-align: center;">
    Für den Teil auf Deutsch bitte wie immer ein Stück herunterscrollen.

@@ -2,7 +2,7 @@
 title: Even Better GitHub Organisations with Ubersicht
 author: Alex
 layout: blog-post
-permalink: /2014/01/even-better-github-organisations-with-ubersicht/
+//permalink: /2014/01/even-better-github-organisations-with-ubersicht/
 ---
 Team Hoodie is excited about [GitHub’s new Organisation’s view][1].
 

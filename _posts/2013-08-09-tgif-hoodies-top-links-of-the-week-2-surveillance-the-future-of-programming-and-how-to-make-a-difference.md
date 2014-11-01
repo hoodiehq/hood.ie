@@ -2,7 +2,7 @@
 title: 'TGIF! Hoodie&#8217;s top links of the week (2): Surveillance, the future of programming and how to make a difference'
 author: Lena
 layout: blog-post
-permalink: /2013/08/tgif-hoodies-top-links-of-the-week-2-surveillance-the-future-of-programming-and-how-to-make-a-difference/
+//permalink: /2013/08/tgif-hoodies-top-links-of-the-week-2-surveillance-the-future-of-programming-and-how-to-make-a-difference/
 ---
 *Thank Grohl it&#8217;s Friday! Time for our weekly collection of things we&#8217;ve found on the internet last week. So this is for you, for a good read on a lazy friday afternoon or for your weekend.*
 

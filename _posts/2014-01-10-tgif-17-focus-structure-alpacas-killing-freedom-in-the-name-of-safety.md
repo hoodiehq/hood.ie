@@ -2,7 +2,7 @@
 title: 'TGIF! (17): Focus, Structure, Alpacas, killing freedom in the name of safety'
 author: Lena
 layout: blog-post
-permalink: /2014/01/tgif-17-focus-structure-alpacas-killing-freedom-in-the-name-of-safety/
+//permalink: /2014/01/tgif-17-focus-structure-alpacas-killing-freedom-in-the-name-of-safety/
 ---
 *Dear reader, we hope you had nice holidays! We spent a lot of time doing nothing and watching our favourite TV series :) Now it&#8217;s the year 2014 and we&#8217;re back with our weekly column (by the way: there&#8217;s also an [RSS-Feed][1]). – It’s friday again, the week’s (almost) over, and these are some things worth read and watching recommended by Team Hoodie for your weekend. Enjoy!*
 
