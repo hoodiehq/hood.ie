@@ -404,6 +404,10 @@ a:hover, .active {
 ul, ol {
   font-size: 1.1875em; }
 
+ul ul, ul ol, ol ol, ol ul {
+  font-size: 1em;
+  margin-top: 0.75rem; }
+
 .cb li {
   margin-bottom: 0.75rem; }
 
@@ -651,7 +655,8 @@ article img {
       padding-top: 0; }
   .sitemap-list .sitemap-item-bold {
     font-weight: 500;
-    padding-top: 0.9375rem; }
+    padding-top: 0.9375rem;
+    opacity: 0.9; }
   .sitemap-list .sitemap-link {
     text-decoration: none !important; }
 

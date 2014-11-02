@@ -156,6 +156,14 @@ ol {
     font-size: 1.1875em;
 }
 
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+    font-size: 1em;
+    margin-top: 0.75rem;
+}
+
 .cb li {
     margin-bottom: rem-calc(12);
 }
