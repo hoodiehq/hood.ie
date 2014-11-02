@@ -39,13 +39,28 @@
 .main-nav {
     width: auto;
     padding-top: rem-calc(3);
+    display: none;
+    @include breakpoint(main-nav) {
+        display: block;
+    }
 }
 
 .meta-nav {
     padding: 0;
     margin: 0;
+    display: none;
+    @include breakpoint(main-nav) {
+        display: inline-block;
+    }
 }
 
 .meta-nav-list-item {
     padding-top: rem-calc(3);
+}
+
+.sub-nav {
+    display: none;
+    @include breakpoint(main-nav) {
+        display: block;
+    }
 }
