@@ -528,8 +528,9 @@ ul {
 ol {
   padding-left: 1.875rem; }
 
-article img {
-  border-radius: 3px; }
+img {
+  border-radius: 3px;
+  border: 1px solid #f1f1f1; }
 
 .jump-mark:hover {
   text-decoration: none; }
@@ -1034,6 +1035,8 @@ svg path, svg rect {
 .logo {
   margin-right: 0 !important;
   display: block; }
+  .logo img {
+    border: 0; }
 
 .main-nav {
   width: auto;
