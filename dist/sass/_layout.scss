@@ -39,40 +39,18 @@ footer {
     height: rem-calc(65);
 }
 
-// .logo {
-//     left: rem-calc(20);
-//     top: rem-calc(20);
-//     z-index: 2;
-// }
-
-// .meta-nav {
-//     right: rem-calc(30);
-//     top: rem-calc(21);
-// }
-
-// .main-nav {
-//     top: rem-calc(21);
-// }
-
 .sub-nav {
     top: rem-calc(65);
     padding: rem-calc(8 0 5 0);
-    // height: rem-calc(36);
 }
 
-// .logo,
-// .meta-nav {
-//     width: rem-calc(230);
+
+// .main-nav,
+// .meta-nav,
+// // .logo
+// {
+//     display: inline-block;
 // }
-
-// header section { div, nav, ul { float: left; } }
-
-.main-nav,
-.meta-nav,
-// .logo
-{
-    display: inline-block;
-}
 
 .sub-nav,
 .cb,
