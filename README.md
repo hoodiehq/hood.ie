@@ -306,3 +306,31 @@ Layout names follow the theme naming e.g. default-lilac.
 * Add `aria-labelledby="title desc"` and  `role="img"` on the `<svg>`.
 
 For example take a look at the calendar icon on the index page,
+
+## Blog
+
+* The blog folder structure is as follows:
+  - Published blog posts are in `/_posts`
+  - Draft blog posts are in `/_drafts`
+  - Post images are in `/blog/YEARMONTH/images` (when adding images, please use tools like [ImageOptim](https://imageoptim.com/) for shrinking file sizes and put them in the current YEARMONTH folder. If there's no folder yet, please create one according to the existing structure.)
+
+* Workflow
+
+### Drafting a Blog post
+
+* Go to `/_drafts`
+* For a "TGIF" post, use file `tgif-sample.md` and duplicate it
+* For another blog post, use file `post-sample.md` and duplicate it
+* When you want to check the draft in your browser,
+    - run `jekyll serve --watch --drafts` in your terminal and wait until it says `server running`
+    - go to `localhost:4000/blog`. All currently available drafts are then just displayed as regular Blog posts. You can now check your draft and edit it in your editor. (Note: Jekyll is sometimes a bit slow, so this may take a little bit.)
+
+### Publishing the drafted Blog post
+
+* Important: rename the file for the post you want to publish to YEAR-MONTH-DAY-your-post-title.md (e.g. 2014-10-17-all-sea-lions-tgif-49.md)
+* Change the author and post title, if you haven't yet
+* If you want comments disabled, set `comments: false`
+* Now go to your finder and move the post from `_drafts` to `_posts`
+* Tadaaaa, it's public. Your post is now online under http://hood.ie/blog/YEAR-MONTH-DAY-your-post-title.html
+
+![Now get some sleep](http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif)
