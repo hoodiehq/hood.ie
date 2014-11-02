@@ -31,6 +31,12 @@
 .logo {
     margin-right: 0 !important;
     display: block;
+    .is-active & {
+        padding-top: 3vh;
+        width: 50%;
+        margin: 0 auto;
+        margin-left: 25%;
+    }
     img {
         border: 0;
     }
@@ -71,5 +77,70 @@
     }
     @include breakpoint(main-nav) {
         display: block;
+    }
+}
+
+.menu-button {
+    display: block;
+    height: rem-calc(35);
+    width: rem-calc(35);
+    text-align: center;
+    z-index: 102;
+    position: relative;
+    margin-left: auto;
+    transition: all .2s;
+    &.is-open {
+        top: rem-calc(5) !important;
+    }
+    .is-active & {
+        display: block;
+        top: -81.4vh;
+    }
+    @include breakpoint(main-nav) {
+        display: none;
+    }
+}
+
+.menu-button-span,
+.menu-button-span:before,
+.menu-button-span:after {
+    width: rem-calc(35);
+    background-color: #fff;
+    height: rem-calc(5);
+    display: inline-block;
+    border-radius: 3px;
+}
+
+.menu-button-span:before,
+.menu-button-span:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    transition: all .2s;
+}
+
+.menu-button-span {
+    top: rem-calc(-5);
+    position: relative;
+    transition: all .2s;
+    &:before {
+        top: rem-calc(20);
+    }
+    &:after {
+        top: rem-calc(10);
+    }
+}
+
+.is-open {
+    .menu-button, .menu-button-span {
+        transform: rotate(45deg);
+        top: -81.4vh;
+    }
+    .menu-button-span:after {
+        opacity: 0;
+    }
+    .menu-button-span:before {
+        transform: rotate(90deg);
+        top: 0;
     }
 }
