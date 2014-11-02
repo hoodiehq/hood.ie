@@ -3,7 +3,6 @@
 title: 'All Sea Lions: TGIF! (49)'
 author: Lena
 layout: blog-post-tgif
-////permalink: /2014/10/all-sea-lions-tgif-49/
 comments: true
 
 ---
@@ -13,7 +12,6 @@ Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and here are our re
 
 
 ##Open Source
-
 <a href="http://angularjs.blogspot.de/2014/10/angularjs-130-superluminal-nudge.html?m=1" target="_blank">AngularJS 1.3</a> is out
 
 While we're at it: The <a href="http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make" target="_blank">Top 10 Mistakes</a> Angular users make
@@ -22,7 +20,6 @@ Nominations for the next <a href="http://www.redhat.com/en/about/women-in-open-s
 
 
 ##Design
-
 <a href="http://sebastien-gabriel.com/designers-guide-to-dpi/" target="_blank">The Designer's Guide to dpi</a>
 
 <a href="https://www.youtube.com/watch?v=HmStJQzclHc" target="_blank">Alex Sexton: Peachpuffs and Lemonchiffons</a> – A talk about CSS colours given at the CSSConfUS
@@ -37,7 +34,6 @@ The Setup: with <a href="http://karolina.szczur.usesthis.com/" target="_blank">K
 
 
 ##The Web and Development
-
 >
 Accessibility and inclusion are broad topics. Think beyond screenreaders and colour blindness (but don't forget them) —
 <cite><a href="http://blog.geekmanager.co.uk/2014/10/10/baking-accessibility-in-fronteers-2014/">Baking in Accessibility</a></cite>
@@ -62,7 +58,6 @@ Human interaction has always fascinated me: social awkwardness, communication st
 
 
 ##The Tech World and Culture
-
 <a href="http://www.theatlantic.com/technology/archive/2014/10/the-unsafety-net-how-social-media-turned-against-women/381261/">The Unsafety Net</a>: How Social Media turned against women
 
 >
@@ -97,7 +92,6 @@ My name is Brianna Wu. I am a software engineer, a popular public speaker and an
 
 
 ##The Business
-
 Some problems can best be solved through talking about it. Short but sweet: On <a href="https://the-pastry-box-project.net/steph-hay/2014-october-11">One-sided problem solving</a>
 
 <a href="http://fractio.nl/2014/10/03/why-do-you-want-to-lead-people/">Why do you want to manage people?</a>
@@ -116,7 +110,6 @@ The following is a set of “everyday” things you can do, starting immediately
 
 
 ##We <3
-
 Kindness is the way to go. Not only does it make the world better, <a href="http://blogs.scientificamerican.com/beautiful-minds/2014/10/09/is-kindness-physically-attractive/">people might also find you more attractive, if you are kind </a> (assuming, this kind of thing matters to you).
 
 You know that large parts of our modern tech are based on the work of women, right? Here's to <a href="http://www.npr.org/blogs/alltechconsidered/2014/10/06/345799830/the-forgotten-female-programmers-who-created-modern-tech?sc=tw">The forgotten female programmers who created modern tech</a>
