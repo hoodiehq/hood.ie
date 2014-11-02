@@ -1,6 +1,6 @@
 ---
 
-title: 'Sample Title'
+title: 'Sample Title TGIF'
 author: Lena
 layout: blog-post-tgif
 comments: true
