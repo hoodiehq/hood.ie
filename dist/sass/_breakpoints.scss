@@ -24,11 +24,6 @@
             @content;
         } //920px
     }
-    // @if $point == bio {
-    //     @media (min-width: 920px) {
-    //         @content;
-    //     }
-    // }
     @else if $point == main-nav {
         @media (min-width: 64em) {
             @content;
