@@ -30,7 +30,7 @@
     //     }
     // }
     @else if $point == main-nav {
-        @media (min-width: 58.125em) {
+        @media (min-width: 64em) {
             @content;
         } //930px
     }
