@@ -77,7 +77,9 @@
         > p:first-of-type {
             font-style: italic;
             font-weight: 500;
-            font-size: 1.125em;
+            font-size: 1.7em;
+            line-height: 1.618;
+            padding-bottom: 3.5625rem;
         }
     }
 }
