@@ -40,6 +40,9 @@
     width: auto;
     padding-top: rem-calc(3);
     display: none;
+    .is-active & {
+        display: block;
+    }
     @include breakpoint(main-nav) {
         display: block;
     }
@@ -49,6 +52,9 @@
     padding: 0;
     margin: 0;
     display: none;
+    .is-active & {
+        display: inline-block;
+    }
     @include breakpoint(main-nav) {
         display: inline-block;
     }
@@ -60,6 +66,9 @@
 
 .sub-nav {
     display: none;
+    .is-active + .hid & {
+        display: block;
+    }
     @include breakpoint(main-nav) {
         display: block;
     }
