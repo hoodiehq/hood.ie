@@ -1037,6 +1037,11 @@ svg path, svg rect {
 .logo {
   margin-right: 0 !important;
   display: block; }
+  .is-active .logo {
+    padding-top: 3vh;
+    width: 50%;
+    margin: 0 auto;
+    margin-left: 25%; }
   .logo img {
     border: 0; }
 
@@ -1070,5 +1075,54 @@ svg path, svg rect {
   @media (min-width: 64em) {
     .sub-nav {
       display: block; } }
+
+.menu-button {
+  display: block;
+  height: 2.1875rem;
+  width: 2.1875rem;
+  text-align: center;
+  z-index: 102;
+  position: relative;
+  margin-left: auto;
+  transition: all 0.2s; }
+  .menu-button.is-open {
+    top: 0.3125rem !important; }
+  .is-active .menu-button {
+    display: block;
+    top: -81.4vh; }
+  @media (min-width: 64em) {
+    .menu-button {
+      display: none; } }
+
+.menu-button-span, .menu-button-span:before, .menu-button-span:after {
+  width: 2.1875rem;
+  background-color: #fff;
+  height: 0.3125rem;
+  display: inline-block;
+  border-radius: 3px; }
+
+.menu-button-span:before, .menu-button-span:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  transition: all 0.2s; }
+
+.menu-button-span {
+  top: -0.3125rem;
+  position: relative;
+  transition: all 0.2s; }
+  .menu-button-span:before {
+    top: 1.25rem; }
+  .menu-button-span:after {
+    top: 0.625rem; }
+
+.is-open .menu-button, .is-open .menu-button-span {
+  transform: rotate(45deg);
+  top: -81.4vh; }
+.is-open .menu-button-span:after {
+  opacity: 0; }
+.is-open .menu-button-span:before {
+  transform: rotate(90deg);
+  top: 0; }
 
 /*# sourceMappingURL=hoodie.css.map */
