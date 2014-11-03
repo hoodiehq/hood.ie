@@ -145,8 +145,9 @@ aside img {
 // =========== jump mark ======== @todo describe propperly
 
 .jump-mark {
+    background-image: none !important;
     &:hover {
-        text-decoration: none;
+        background-image: none;
     }
 }
 
