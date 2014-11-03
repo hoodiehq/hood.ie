@@ -2,7 +2,6 @@
 title: 'A Hoodie for you (8): Katrin Apel'
 author: Lena
 layout: blog-post
-//permalink: /2014/05/a-hoodie-for-you-8-katrin-apel/
 ---
 Katrin Apel is a Berlin-based iOS developer whose contributions are of high value for Hoodie: she recently implemented the first versions of [Hoodie-iOS (HOOHoodie)][1] that connects to the Hoodie backend API (you&#8217;ll find more about it in [this post][2]).
 
@@ -13,6 +12,7 @@ Last week, she gave a talk about [Building your first iOS apps with Hoodie][3], 
 *<!--more-->
 
 <img class="alignnone" src="http://www.sharegif.com/wp-content/uploads/2013/11/adventure-time-gif-31.gif" alt="" width="500" height="281" />
+
 Thus, we wanted to know from here how all of this has become reality and what she thinks about it. There we go:
 
 **Hoodie: Dear Katrin, we were all really amazed when you told us you&#8217;d get started on working on HOOHoodie (Hoodie-iOS). How did you stumble upon Hoodie in the first place?**
@@ -54,7 +54,7 @@ Yes, I really need to say that the Hoodie team is one of the nicest and welcomin
 
 &#8212;
 
-*Team Hoodie says thank you very much for your work and the lovely feedback, Katrin! It&#8217;s a pleasure to work with you and to have you on board! *
+*Team Hoodie says thank you very much for your work and the lovely feedback, Katrin! It&#8217;s a pleasure to work with you and to have you on board!*
 
 <img class="alignnone" src="http://37.media.tumblr.com/tumblr_lk2ho0Mxmi1qfy2kdo1_500.gif" alt="" width="500" height="281" /> <img class="alignnone" src="https://31.media.tumblr.com/804d0c1a2a7e30999ae19504b18a4907/tumblr_inline_mydccvhwB91sohk3w.gif" alt="" width="400" height="255" />
 
