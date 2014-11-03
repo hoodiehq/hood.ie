@@ -84,6 +84,9 @@
     @include breakpoint(main-nav) {
         display: block;
     }
+    a {
+        background-image: none;
+    }
 }
 
 .menu-button {

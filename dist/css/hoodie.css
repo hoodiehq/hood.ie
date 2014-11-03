@@ -638,7 +638,7 @@ aside img {
       background-position: 0 35px; }
 
 .blog-post-link {
-  text-decoration: none; }
+  background-image: none !important; }
 
 .blog-post-link-more {
   text-decoration: underline;
@@ -1105,6 +1105,8 @@ svg path, svg rect {
   @media (min-width: 64em) {
     .sub-nav {
       display: block; } }
+  .sub-nav a {
+    background-image: none; }
 
 .menu-button {
   display: block;
