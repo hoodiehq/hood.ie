@@ -698,7 +698,7 @@ aside img {
   .footer-licensing a {
     color: #fff;
     background-image: linear-gradient(to bottom, #ffffff 75%, rgba(255, 255, 255, 0.6) 75%);
-    background-position: 0 14px; }
+    background-position: 0 1.1em; }
 
 .eventsIntro {
   padding-bottom: 0; }
