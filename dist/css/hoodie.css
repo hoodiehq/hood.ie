@@ -461,7 +461,7 @@ input, textarea {
   font-size: 1.1em;
   line-height: 1.8; }
 
-.no-border {
+.no-border, .bio-link a, .grid-3-container a {
   background-image: none !important;
   border: 0 !important; }
 

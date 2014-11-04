@@ -242,11 +242,11 @@ input, textarea {
 }
 
 .bio-link a {
-    @extend %no-border;
+    @extend .no-border;
 }
 
 .grid-3-container a {
-    @extend %no-border;
+    @extend .no-border;
 }
 
 .friends .grid-3 a {
