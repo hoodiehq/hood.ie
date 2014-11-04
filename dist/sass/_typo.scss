@@ -16,6 +16,10 @@ h1,
     font-weight: 500;
     line-height: 1.363;
     margin-bottom: rem-calc(20);
+    a {
+        background-position: 0 1.15em;
+    }
+
 }
 
 h2,
@@ -51,6 +55,9 @@ h5,
     font-weight: 500;
     text-transform: uppercase;
     margin-bottom: .734rem;
+    a {
+        background-position: 0 1.15em;
+    }
 }
 
 h6,
@@ -241,10 +248,17 @@ input, textarea {
 }
 
 .bio-link a {
-    @extend %no-border;
+    @extend .no-border;
 }
 
 .grid-3-container a {
-    @extend %no-border;
+    @extend .no-border;
 }
 
+.friends .grid-3 a {
+    background-position: 0 7.55em;
+}
+
+.teaser aside a {
+    background-position: 0 1.35em;
+}
