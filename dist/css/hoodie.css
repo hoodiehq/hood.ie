@@ -285,14 +285,29 @@ article figure figcaption {
 .api-nav li a {
   color: #312783; }
 
-.blue .cb p a, .blue .cb li a, .gray .cb p a, .gray .cb li a, .lilac .cb p a, .lilac .cb li a {
-  text-decoration: underline; }
+.blue a {
+  background-image: linear-gradient(to bottom, #312783 75%, rgba(49, 39, 131, 0.8) 75%); }
+
+.lilac a {
+  background-image: linear-gradient(to bottom, #520644 75%, rgba(82, 6, 68, 0.8) 75%); }
+
+.orange a {
+  background-image: linear-gradient(to bottom, #e94e1b 75%, rgba(233, 78, 27, 0.8) 75%); }
+
+.yellow a {
+  background-image: linear-gradient(to bottom, #f9b233 75%, rgba(249, 178, 51, 0.8) 75%); }
+
+.green a {
+  background-image: linear-gradient(to bottom, #0b8e36 75%, rgba(11, 142, 54, 0.8) 75%); }
 
 body {
   font-family: 'Fira Sans', sans-serif;
   font-size: 100%;
   font-weight: 300;
-  line-height: 1.618; }
+  line-height: 1.618;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
 
 h1, .h1 {
   font-size: 2.25em;
@@ -347,6 +362,8 @@ p {
 .teaser p {
   font-size: 1.7em;
   line-height: 1.618; }
+.teaser a {
+  background-position: 0 35px; }
 
 blockquote p {
   font-style: italic; }
@@ -363,7 +380,10 @@ strong {
   font-weight: 500; }
 
 a {
-  text-decoration: none; }
+  text-decoration: none;
+  background-repeat: repeat-x;
+  background-size: 1px 1px;
+  background-position: 0 24px; }
 
 .sub-nav, .main-nav {
   text-align: center; }
@@ -385,9 +405,6 @@ a {
 .nav, .sub-nav {
   text-transform: uppercase; }
 
-a:hover, .active {
-  text-decoration: underline; }
-
 .nav a, .meta-nav .meta-nav-list-item {
   margin-right: 0.5625rem; }
 
@@ -397,6 +414,8 @@ a:hover, .active {
 @media (min-width: 57.5em) {
   aside {
     text-align: right; } }
+aside a {
+  background-image: linear-gradient(to bottom, #999999 75%, rgba(153, 153, 153, 0.8) 75%) !important; }
 
 ul, ol {
   font-size: 1.1875em; }
@@ -436,6 +455,10 @@ input, textarea {
 .api-nav {
   font-size: 1.1em;
   line-height: 1.8; }
+
+.bio-link a, .grid-3-container a {
+  background-image: none !important;
+  border: 0; }
 
 .person-bio .h3, .person-bio .h6, .person-bio article p, .person-bio .bio-link {
   padding-left: 0; }
@@ -532,8 +555,10 @@ img {
 aside img {
   border: 0; }
 
-.jump-mark:hover {
-  text-decoration: none; }
+.jump-mark {
+  background-image: none !important; }
+  .jump-mark:hover {
+    background-image: none; }
 
 .friends svg, .contribute-aside-icon svg {
   width: 5rem;
@@ -601,8 +626,6 @@ aside img {
   display: block;
   margin-bottom: 1.25rem; }
 
-.blog-post a {
-  text-decoration: underline; }
 .blog-post article {
   margin-bottom: 3.75rem; }
   .blog-post article > p:first-of-type {
@@ -611,9 +634,11 @@ aside img {
     font-size: 1.7em;
     line-height: 1.618;
     padding-bottom: 3.5625rem; }
+    .blog-post article > p:first-of-type a {
+      background-position: 0 35px; }
 
 .blog-post-link {
-  text-decoration: none; }
+  background-image: none !important; }
 
 .blog-post-link-more {
   text-decoration: underline;
@@ -668,7 +693,8 @@ aside img {
   font-size: 0.875rem; }
   .footer-licensing a {
     color: #fff;
-    text-decoration: underline; }
+    background-image: linear-gradient(to bottom, #ffffff 75%, rgba(255, 255, 255, 0.6) 75%);
+    background-position: 0 14px; }
 
 .eventsIntro {
   padding-bottom: 0; }
@@ -889,7 +915,7 @@ svg path, svg rect {
       line-height: 1.75rem; }
     .index .content .row.first div.main a {
       color: #fff;
-      text-decoration: underline; }
+      background-image: linear-gradient(to bottom, #ffffff 75%, rgba(255, 255, 255, 0.8) 75%); }
   .index .content .row.white div {
     background-color: #fff; }
   .index .content .row div {
@@ -907,7 +933,7 @@ svg path, svg rect {
       border: 0 none;
       color: #404040;
       font-size: 1.6em;
-      width: 66%;
+      width: 100%;
       height: 2.5rem; }
       .index .content .row div input:focus {
         outline: none; }
@@ -1034,6 +1060,10 @@ svg path, svg rect {
       bottom: 0;
       padding: 0.5rem 0.625rem 0.3125rem 0.625rem;
       z-index: 101; }
+    .nav.is-active .active {
+      background-position: 0 6.1vh; }
+  .nav .active {
+    background-image: linear-gradient(to bottom, #ffffff 75%, rgba(255, 255, 255, 0.8) 75%) !important; }
 
 .logo {
   margin-right: 0 !important;
@@ -1076,6 +1106,8 @@ svg path, svg rect {
   @media (min-width: 64em) {
     .sub-nav {
       display: block; } }
+  .sub-nav a {
+    background-image: none; }
 
 .menu-button {
   display: block;
@@ -1085,7 +1117,8 @@ svg path, svg rect {
   z-index: 102;
   position: relative;
   margin-left: auto;
-  transition: all 0.2s; }
+  transition: all 0.2s;
+  top: -0.25rem; }
   .menu-button.is-open {
     top: 0.3125rem !important; }
   .is-active .menu-button {

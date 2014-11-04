@@ -6,8 +6,8 @@
             <a href="/contribute">Contribute</a>
             <a href="/get-help">Get help</a>
             <a href="/about">about</a>
-            <a href="/community" class="active">community</a>
-            <a href="/animals">Animals</a>
+            <a href="/community">community</a>
+            <a href="/animals" class="active">Animals</a>
             <a href="/contact">contact</a>
         </nav>
         <ul class="meta-nav">
@@ -22,7 +22,7 @@
     </section>
     <section class="hid">
         <ul class="sub-nav">
-            {% for link in site.sub-navigation-community %}
+            {% for link in site.sub-navigation-intro %}
                 {% assign current = nil %}
                 {% if page.url contains link.url %}
                     {% assign current = 'current' %}

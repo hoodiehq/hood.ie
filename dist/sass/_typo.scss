@@ -5,6 +5,9 @@ body {
     font-size: 100%;
     font-weight: 300;
     line-height: 1.618;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 h1,
@@ -71,9 +74,14 @@ p {
     margin-bottom: rem-calc(26);
 }
 
-.teaser p {
-    font-size: 1.7em;
-    line-height: 1.618;
+.teaser {
+    p {
+        font-size: 1.7em;
+        line-height: 1.618;
+    }
+    a {
+        background-position: 0 35px;
+    }
 }
 
 blockquote p {
@@ -96,6 +104,9 @@ strong {
 
 a {
     text-decoration: none;
+    background-repeat: repeat-x;
+    background-size: 1px 1px;
+    background-position: 0 24px;
 }
 
 .sub-nav,
@@ -131,7 +142,11 @@ a {
 
 a:hover,
 .active {
-    text-decoration: underline;
+    // text-decoration: underline;
+    // background-repeat: repeat-x;
+    // background-size: 1px 1px;
+    // background-position: 0 24px;
+    // text-decoration: none;
 }
 
 .nav a,
@@ -148,6 +163,9 @@ a:hover,
 aside {
     @include breakpoint(lv) {
         text-align: right;
+    }
+    a {
+        background-image: linear-gradient(to bottom, rgba(153, 153, 153, 1) 75%, rgba(153, 153, 153, .8) 75%) !important;
     }
 }
 
@@ -209,3 +227,16 @@ input, textarea {
   line-height: 1.8;
 }
 
+%no-border,
+.no-border {
+    background-image: none !important;
+    border: 0;
+}
+
+.bio-link a {
+    @extend %no-border;
+}
+
+.grid-3-container a {
+    @extend %no-border;
+}

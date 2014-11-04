@@ -51,6 +51,7 @@
 
     a {
         color: #fff;
-        text-decoration: underline;
+        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 75%, rgba(255, 255, 255, .6) 75%);
+        background-position: 0 14px;
     }
 }

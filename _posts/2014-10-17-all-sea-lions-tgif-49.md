@@ -48,7 +48,7 @@ Philip Roberts: <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">What the h
 
 >
 Our picture of surveillance needs to factor in not just tech developments, but the cultural standards that have bred surveillance, especially towards black culture, as part and parcel in our world. –
-<cite<a href="http://modelviewculture.com/pieces/everyone-watches-nobody-sees-how-black-women-disrupt-surveillance-theory">Everyone watches, nobody sees: how black women disrupt surveillance theory</a></cite>
+<cite><a href="http://modelviewculture.com/pieces/everyone-watches-nobody-sees-how-black-women-disrupt-surveillance-theory">Everyone watches, nobody sees: how black women disrupt surveillance theory</a></cite>
 
 <a href="http://amberonrails.com/move-fast-dont-break-your-api/">Move fast, don't break your API</a>
 

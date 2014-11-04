@@ -66,10 +66,6 @@
 
 .blog-post {
 
-    a {
-        text-decoration: underline;
-    }
-
     article {
         margin-bottom: rem-calc(60);
         @extend %n;
@@ -80,12 +76,15 @@
             font-size: 1.7em;
             line-height: 1.618;
             padding-bottom: 3.5625rem;
+            a {
+                background-position: 0 35px;
+            }
         }
     }
 }
 
 .blog-post-link {
-    text-decoration: none;
+    background-image: none !important;
 }
 
 .blog-post-link-more {
