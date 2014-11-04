@@ -380,10 +380,11 @@ strong {
   font-weight: 500; }
 
 a {
+  display: inline-block;
   text-decoration: none;
   background-repeat: repeat-x;
   background-size: 1px 1px;
-  background-position: 0 24px; }
+  background-position: 0 1.35em; }
 
 .sub-nav, .main-nav {
   text-align: center; }
@@ -641,7 +642,6 @@ aside img {
   background-image: none !important; }
 
 .blog-post-link-more {
-  text-decoration: underline;
   font-weight: 500;
   text-transform: uppercase; }
 

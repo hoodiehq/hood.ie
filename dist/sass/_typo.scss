@@ -103,10 +103,11 @@ strong {
 }
 
 a {
+    display: inline-block;
     text-decoration: none;
     background-repeat: repeat-x;
     background-size: 1px 1px;
-    background-position: 0 24px;
+    background-position: 0 1.35em;
 }
 
 .sub-nav,
