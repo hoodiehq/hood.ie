@@ -144,3 +144,56 @@
         top: 0;
     }
 }
+
+.animated-logo{
+    text-align: center;
+    margin-top: rem-calc(102);
+    position: absolute;
+    background: #FFFFFF;
+    width: 100%;
+    overflow: hidden;
+    .animation{
+        transition: margin-top 0.5s;
+        margin: 1.25em 0 1em;
+        &.slideUp{
+            margin-top: -8.75em;
+        }
+          &.animate .letter{
+            opacity: 1;
+            transform: scale(1.0);
+          }
+          .letter {
+            opacity: 0;
+            transform: scale(0.1);
+            transform-origin: center center;
+            -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1); /* older webkit */
+            -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+               -moz-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+                 -o-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+                    transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275); /* easeOutBack */
+            &:nth-child(2) {
+              transition-delay: 0.1s;
+            }
+            &:nth-child(3) {
+              transition-delay: 0.2s;
+            }
+            &:nth-child(4) {
+              transition-delay: 0.3s;
+            }
+            &:nth-child(5) {
+              transition-delay: 0.4s;
+            }
+            &:nth-child(6) {
+              transition-delay: 0.4s;
+            }
+          }
+    }
+}
+
+.content{
+    transition: background-position 1s, margin-top 0.5s;
+    &.during-intro{
+        margin-top: 3rem;
+        background-position: center rem-calc(-100);
+    }
+}

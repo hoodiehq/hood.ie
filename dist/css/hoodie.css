@@ -98,10 +98,10 @@ footer {
         margin: 0 3.125rem 0 0; } }
 
 .content {
-  padding: 12.5rem 1rem 0; }
+  padding: 16.875rem 1rem 0; }
   @media (min-width: 30em) {
     .content {
-      padding: 18.75rem 1rem 0; } }
+      padding: 16.875rem 1rem 0; } }
 
 code {
   padding-top: 1.5625rem;
@@ -706,7 +706,8 @@ aside img {
   box-sizing: border-box; }
   #eventsList .futureEvents h1, #eventsList .futureEvents h2, #eventsList .pastEvents h1, #eventsList .pastEvents h2 {
     padding-left: 0;
-    text-align: center; }
+    text-align: center;
+    margin-bottom: 1.5em; }
   #eventsList .futureEvents .events > li, #eventsList .pastEvents .events > li {
     margin-bottom: 1em;
     border-bottom: 1px solid #f9b233;
@@ -728,7 +729,7 @@ aside img {
 #eventsList #filters {
   width: 32em;
   display: block;
-  margin: 2em auto;
+  margin: 2em auto 4em;
   font-weight: bold; }
   #eventsList #filters .icheckbox_flat-yellow {
     margin-top: -1px;
@@ -1124,5 +1125,48 @@ svg path, svg rect {
 .is-open .menu-button-span:before {
   transform: rotate(90deg);
   top: 0; }
+
+.animated-logo {
+  text-align: center;
+  margin-top: 6.375rem;
+  position: absolute;
+  background: #FFFFFF;
+  width: 100%;
+  overflow: hidden; }
+  .animated-logo .animation {
+    transition: margin-top 0.5s;
+    margin: 1.25em 0 1em; }
+    .animated-logo .animation.slideUp {
+      margin-top: -8.75em; }
+    .animated-logo .animation.animate .letter {
+      opacity: 1;
+      transform: scale(1); }
+    .animated-logo .animation .letter {
+      opacity: 0;
+      transform: scale(0.1);
+      transform-origin: center center;
+      -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1);
+      /* older webkit */
+      -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      -moz-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      -o-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      /* easeOutBack */ }
+      .animated-logo .animation .letter:nth-child(2) {
+        transition-delay: 0.1s; }
+      .animated-logo .animation .letter:nth-child(3) {
+        transition-delay: 0.2s; }
+      .animated-logo .animation .letter:nth-child(4) {
+        transition-delay: 0.3s; }
+      .animated-logo .animation .letter:nth-child(5) {
+        transition-delay: 0.4s; }
+      .animated-logo .animation .letter:nth-child(6) {
+        transition-delay: 0.4s; }
+
+.content {
+  transition: background-position 1s, margin-top 0.5s; }
+  .content.during-intro {
+    margin-top: 3rem;
+    background-position: center -6.25rem; }
 
 /*# sourceMappingURL=hoodie.css.map */
