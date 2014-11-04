@@ -1,7 +1,7 @@
 # Site settings
 title: hood.ie
 description: "Hoodie is a project by Jan Lehnardt (@janl), Gregor Martynus (@gr2m), Alex Feyerke (@espylaub), Caolan McMahon (@caolan), Lena Reinhard (@ffffux), Sven Lito (@svenlito) and Ola Gasidlo (@misprintedtype) and a growing community. We are based in Berlin, Zurich, Sheffield and Dortmund and run mostly on Coffee and Cheesecake."
-baseurl: ""
+baseurl: "/"
 url: "hood.ie"
 
 # Build settings
@@ -9,7 +9,13 @@ markdown: kramdown
 kramdown:
     auto_ids: false
 
-permalink: /blog/:categories/:title.html
+
+permalink: "/blog/:categories/:title.html"
+paginate_path: "/blog/page:num"
+paginate: 10
+
+
+
 
 sub-navigation:
 - title: What is Hoodie?

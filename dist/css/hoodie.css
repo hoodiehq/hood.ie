@@ -650,6 +650,10 @@ aside img {
   font-size: 1.125em;
   font-style: italic; }
 
+.pagination {
+  float: right;
+  margin-top: 1.875rem; }
+
 .category h2 {
   padding-left: 0; }
 
