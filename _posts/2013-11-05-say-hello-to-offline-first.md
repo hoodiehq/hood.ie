@@ -15,7 +15,7 @@ The members of [Team Hoodie][7] are currently travelling around quite a bit, org
 
 **Frequently not having any data connection in even the wealthiest and most developed cities of the world has led us to conclude that no, the mobile connectivity/bandwidth issue isn't just going to solve itself on a global level anywhere in the near future.**
 
-[<img src="http://farm2.staticflickr.com/1236/1213670748_6acbf60516_b.jpg" alt="Tube" />][8]
+<a href="http://www.flickr.com/photos/rudlavibizon/1213670748/" class="no-border">![](/blog/images/201311/tube.jpg)</a>
 
 We've generally been rather optimistic about the whole problem, often thinking that coverage and bandwidth are sure to increase continually, but our recent experiences have made this attitude appear increasingly naïve. Capacity problems, varying coverage and zones with **zero reception, unreliable connections** (both wifi and telco) and problems incurred through travelling will likely persist for quite a while.
 
@@ -29,7 +29,7 @@ Mobile networks simply don't provide that same level of quality and consistency,
 
 With [Hoodie][7], we've created an architecture that allows you to build offline apps with relative ease. There are a few issues, but we're quite confident about the technical aspects of our syncing engine and how it handles being offline. But now we've stumbled on a plethora of new, hitherto unknown and unresearched use cases and UX scenarios, all of which are only now easily within the reach of most developers.
 
-[<img src="http://farm1.staticflickr.com/40/93463384_4b26c75713_o.jpg" alt="Hiking up Needle Point" />][12]
+<a href="ttp://www.flickr.com/photos/peterv/93463384/" class="no-border">![](/blog/images/201311/hiking.jpg)</a>
 
 This is quite literally a new frontier, largely unexplored and full of interesting problems and unimagined edge cases. In most other realms of app design we are spoilt with UX/UI patterns we can readily employ, but offline-first is *terra incognita,* there is practically nothing to go on in terms of patterns and metaphors.
 
@@ -57,7 +57,7 @@ There's more, of course, but we have to start somewhere. [Our Mozfest session on
 
 If you are interested in joining the conversation, you can start by leaving comments on this post. We are looking forward about what you have to share! :)
 
-[<img src="http://farm9.staticflickr.com/8186/8385628381_f92afcb85a_b.jpg" alt="sailing boat" />][15]
+<a href="http://www.flickr.com/photos/80471081@N04/8385628381/" class="no-border">![](/blog/images/201311/sailing.jpg)</a>
 
 [1]: http://offlinefirst.org
 [2]: https://github.com/offlinefirst
