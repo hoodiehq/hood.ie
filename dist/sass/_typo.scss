@@ -113,10 +113,16 @@ a {
 .sub-nav,
 .main-nav {
     text-align: center;
+    a {
+        font-weight: 500;
+    }
 }
 
 .meta-nav {
     text-align: right;
+    a {
+        font-weight: 500;
+    }
 }
 
 .meta-nav,
