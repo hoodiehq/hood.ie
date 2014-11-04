@@ -147,8 +147,7 @@ code {
   display: block; }
 
 img {
-  max-width: 100%;
-  width: 100%; }
+  max-width: 100%; }
 
 * {
   box-sizing: border-box; }
@@ -666,6 +665,9 @@ aside img {
 .pagination {
   float: right;
   margin-top: 1.875rem; }
+
+.blog-post-excerpt img {
+  width: 100%; }
 
 .category h2 {
   padding-left: 0; }
