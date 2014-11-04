@@ -109,4 +109,15 @@ sub-navigation-intro:
 - title: Events
   url: '/events'
 
+sub-navigation-initiatives:
+- title: Offline first
+  url: '/initiatives/#offline-first'
+- title: NoBackend
+  url: '/initiatives#nobackend'
+- title: Non-coding People
+  url: '/initiatives/#noncoders'
+- title: Dreamcode
+  url: '/initiatives/#dreamcode'
+- title: Tools
+  url: '/initiatives/#tools'
 
