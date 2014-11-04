@@ -17,7 +17,7 @@ title: 'hood.ie blog'
                 <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
                     <span>{{ post.date | date: "%B %d, %Y" }}
                 </time>
-                </span> posted by <span>{{ post.author }}</span> in <span>{{ post.categories | join '' }}
+                </span> posted by <span>{{ post.author }}</span> <!-- in <span>{{ post.categories | join '' }} -->
             </div>
             <div class="entry">
                 {{ post.content | truncatewords:30}}

@@ -314,6 +314,8 @@ h1, .h1 {
   font-weight: 500;
   line-height: 1.363;
   margin-bottom: 1.25rem; }
+  h1 a, .h1 a {
+    background-position: 0 1.15em; }
 
 h2, .h2 {
   font-size: 1.4em;
@@ -341,6 +343,8 @@ h5, .h5 {
   font-weight: 500;
   text-transform: uppercase;
   margin-bottom: 0.734rem; }
+  h5 a, .h5 a {
+    background-position: 0 1.15em; }
 
 h6, .h6 {
   font-size: 0.875em;
@@ -457,9 +461,15 @@ input, textarea {
   font-size: 1.1em;
   line-height: 1.8; }
 
-.no-border {
+.no-border, .bio-link a, .grid-3-container a {
   background-image: none !important;
   border: 0 !important; }
+
+.friends .grid-3 a {
+  background-position: 0 7.55em; }
+
+.teaser aside a {
+  background-position: 0 1.35em; }
 
 .person-bio .h3, .person-bio .h6, .person-bio article p, .person-bio .bio-link {
   padding-left: 0; }
@@ -637,6 +647,8 @@ aside img {
     padding-bottom: 3.5625rem; }
     .blog-post article > p:first-of-type a {
       background-position: 0 35px; }
+.blog-post a {
+  display: inline; }
 
 .blog-post-link {
   background-image: none !important; }
