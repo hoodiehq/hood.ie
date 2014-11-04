@@ -107,9 +107,9 @@ footer {
 }
 
 .content {
-    padding: rem-calc(200 16 0);
+    padding: rem-calc(270 16 0);
     @include breakpoint(mv) {
-        padding: rem-calc(300 16 0)
+        padding: rem-calc(270 16 0)
     }
 }
 

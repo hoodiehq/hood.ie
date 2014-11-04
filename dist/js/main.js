@@ -1,8 +1,22 @@
 $(function() {
-//    $('#logo-animation').delay(5000).addClass('animate');
+    if(window.localStorage && window.localStorage['hasSeenIntro']){
+        $('.animated-logo').remove()
+    } else {
+        $('.content').addClass('during-intro');
+        setTimeout(function(){
+            $('.animated-logo .animation').addClass('animate')
+            setTimeout(function(){
+                $('.animated-logo .animation').addClass('slideUp')
+            }, 3000);
+            setTimeout(function(){
+                $('.content').removeClass('during-intro');
+            }, 3500);
+            window.localStorage['hasSeenIntro'] = 'true';
+        }, 2500);
+    }
 
-var header = $('header');
-event.preventDefault();
+    var header = $('header');
+    event.preventDefault();
 
     $(document).scroll(function () {
         var scroll = $(this).scrollTop();
