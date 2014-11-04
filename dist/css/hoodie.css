@@ -666,6 +666,9 @@ aside img {
   float: right;
   margin-top: 1.875rem; }
 
+.blog-post-excerpt img {
+  width: 100%; }
+
 .category h2 {
   padding-left: 0; }
 
