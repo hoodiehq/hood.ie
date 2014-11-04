@@ -227,10 +227,10 @@ input, textarea {
   line-height: 1.8;
 }
 
-%no-border,
+
 .no-border {
     background-image: none !important;
-    border: 0;
+    border: 0 !important;
 }
 
 .bio-link a {
@@ -240,3 +240,4 @@ input, textarea {
 .grid-3-container a {
     @extend %no-border;
 }
+
