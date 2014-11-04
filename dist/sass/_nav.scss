@@ -165,6 +165,9 @@
     .animation{
         transition: margin-top 0.5s;
         margin: 1.25em 0 1em;
+        svg{
+            width: 90%;
+        }
         &.slideUp{
             margin-top: -8.75em;
         }

@@ -1169,6 +1169,8 @@ svg path, svg rect {
   .animated-logo .animation {
     transition: margin-top 0.5s;
     margin: 1.25em 0 1em; }
+    .animated-logo .animation svg {
+      width: 90%; }
     .animated-logo .animation.slideUp {
       margin-top: -8.75em; }
     .animated-logo .animation.animate .letter {
