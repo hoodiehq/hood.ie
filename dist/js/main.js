@@ -31,15 +31,40 @@ $(function() {
 // 1024 - x
     });*/
 
-    console.log(window.innerWidth);
 
+/*
+// @desc: shows responsive navigation below 1024px.
+*/
+
+    // caculate width of window on load and on resize
+    // calls fcn to set mobile-class
+    var w = window.innerWidth;
+    checkMobileView(w);
+
+    $(window).on('resize', function(){
+        var w = window.innerWidth;
+        checkMobileView(w);
+    });
+
+    function checkMobileView(w){
+        if (w < 1024 && !$('body').hasClass('mobile')){
+            $('body').addClass('mobile');
+        } else if (w > 1024 && $('body').hasClass('mobile')) {
+            $('body').removeClass('mobile');
+        }
+
+    }
+
+    // bind to navigation of functionality for responsive navigation
+    // just fires when width of page is below 1024.
     $('header').on('click', function(eve){
-        console.log(eve.target);
 
         if (eve.target == 'a') {
-            console.log('LINK!');
         } else {
-            $('header section.nav').toggleClass('is-active');
+            if ($('body').hasClass('mobile')) {
+                $('header section.nav').toggleClass('is-active');
+            }
+
         }
     });
 
