@@ -1188,6 +1188,19 @@ svg path, svg rect {
   transform: rotate(90deg);
   top: 0; }
 
+body.orange .animation.colorise .letter {
+  stroke: #e94e1b; }
+body.blue .animation.colorise .letter {
+  stroke: #312783; }
+body.green .animation.colorise .letter {
+  stroke: #0b8e36; }
+body.yellow .animation.colorise .letter {
+  stroke: #f9b233; }
+body.lilac .animation.colorise .letter {
+  stroke: #520644; }
+body.gray .animation.colorise .letter {
+  stroke: #282828; }
+
 .animated-logo {
   text-align: center;
   margin-top: 6.375rem;
@@ -1196,7 +1209,7 @@ svg path, svg rect {
   width: 100%;
   overflow: hidden; }
   .animated-logo .animation {
-    transition: margin-top 0.5s;
+    transition: margin-top 0.5s, stroke 0.5s;
     margin: 1.25em 0 1em; }
     .animated-logo .animation svg {
       width: 90%; }

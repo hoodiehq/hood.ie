@@ -155,6 +155,27 @@
     }
 }
 
+body{
+    &.orange .animation.colorise .letter{
+        stroke: $orange;
+    }
+    &.blue .animation.colorise .letter{
+        stroke: $blue;
+    }
+    &.green .animation.colorise .letter{
+        stroke: $green;
+    }
+    &.yellow .animation.colorise .letter{
+        stroke: $yellow;
+    }
+    &.lilac .animation.colorise .letter{
+        stroke: $lilac;
+    }
+    &.gray .animation.colorise .letter{
+        stroke: $gray-1;
+    }
+}
+
 .animated-logo{
     text-align: center;
     margin-top: rem-calc(102);
@@ -163,7 +184,7 @@
     width: 100%;
     overflow: hidden;
     .animation{
-        transition: margin-top 0.5s;
+        transition: margin-top 0.5s, stroke 0.5s;
         margin: 1.25em 0 1em;
         svg{
             width: 90%;
@@ -171,11 +192,12 @@
         &.slideUp{
             margin-top: -8.75em;
         }
-          &.animate .letter{
+        &.animate .letter{
             opacity: 1;
             transform: scale(1.0);
-          }
-          .letter {
+        }
+
+        .letter {
             opacity: 0;
             transform: scale(0.1);
             transform-origin: center center;
@@ -199,7 +221,7 @@
             &:nth-child(6) {
               transition-delay: 0.4s;
             }
-          }
+        }
     }
 }
 
