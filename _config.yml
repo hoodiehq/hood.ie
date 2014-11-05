@@ -86,8 +86,6 @@ sub-navigation-contribute:
   url: '/contribute/#hire-us'
 
 sub-navigation-get-help:
-- title: Documentation
-  url: 'http://docs.hood.ie'
 - title: FAQ
   url: 'http://faq.hood.ie'
 - title: Report a Bug
@@ -120,4 +118,3 @@ sub-navigation-initiatives:
   url: '/initiatives/#dreamcode'
 - title: Tools
   url: '/initiatives/#tools'
-
