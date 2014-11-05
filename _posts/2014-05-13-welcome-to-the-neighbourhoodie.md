@@ -7,7 +7,7 @@ layout: blog-post
 ---
 
 
-<a href="http://photos-c.ak.instagram.com/hphotos-ak-prn/1724887_575489072548066_221239424_n.jpg" rel="lightbox[1363]" title="Welcome to the Neighbourhoodie"><img class="alignnone" src="http://photos-c.ak.instagram.com/hphotos-ak-prn/1724887_575489072548066_221239424_n.jpg" alt="" width="640" height="640" /></a><em>Pic: <a href="http://instagram.com/p/k7Ctx2lX_o/">Alex Feyerke</a></em>
+![](/blog/images/201405/neighbourhoodie.jpg)
 
 It’s finally a thing: **we are a company.**
 

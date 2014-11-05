@@ -16,6 +16,10 @@ h1,
     font-weight: 500;
     line-height: 1.363;
     margin-bottom: rem-calc(20);
+    a {
+        background-position: 0 1.15em;
+    }
+
 }
 
 h2,
@@ -51,6 +55,9 @@ h5,
     font-weight: 500;
     text-transform: uppercase;
     margin-bottom: .734rem;
+    a {
+        background-position: 0 1.15em;
+    }
 }
 
 h6,
@@ -103,10 +110,11 @@ strong {
 }
 
 a {
+    display: inline-block;
     text-decoration: none;
     background-repeat: repeat-x;
     background-size: 1px 1px;
-    background-position: 0 24px;
+    background-position: 0 1.35em;
 }
 
 .sub-nav,
@@ -121,6 +129,9 @@ a {
 .meta-nav,
 .main-nav {
     font-size: 1.094em;
+    a {
+        font-weight: 500;
+    }
 }
 
 .sub-nav {
@@ -227,16 +238,28 @@ input, textarea {
   line-height: 1.8;
 }
 
-%no-border,
+
 .no-border {
     background-image: none !important;
-    border: 0;
+    border: 0 !important;
 }
 
 .bio-link a {
-    @extend %no-border;
+    @extend .no-border;
 }
 
 .grid-3-container a {
-    @extend %no-border;
+    @extend .no-border;
+}
+
+.friends .grid-3 a {
+    background-position: 0 7.55em;
+}
+
+.teaser aside a {
+    background-position: 0 1.35em;
+}
+
+.text-transform-reverse {
+    text-transform: initial;
 }

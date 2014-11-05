@@ -57,8 +57,27 @@ module.exports = function(grunt) {
                 annotation: false
             },
             src: 'dist/css/.tmp/hoodie.min.tmp.css',
-            dest: 'dist/css/prod/hoodie.min.pref.css'
+            dest: 'dist/prod/hoodie.min.pref.css'
 
+        }
+    },
+    // concat: {
+    //     options: {
+    //         separator: ';'
+    //     },
+    //     dist: {
+    //         src: ['dist/js/jquery/dist/jquery.min.js', 'dist/js/jquery.sheetrock.min.js', 'dist/js/icheck.js', 'dist/js/events.js', 'dist/js/main.js'],
+    //         dest: 'dist/js/prod/hoodie.js'
+    //     }
+    // },
+    uglify: {
+        options: {
+            mangle: false
+        },
+        files: {
+            files: {
+                'dist/prod/hoodie.min.js' : ['dist/js/jquery/dist/jquery.min.js', 'dist/js/jquery.sheetrock.min.js', 'dist/js/icheck.js', 'dist/js/events.js', 'dist/js/main.js']
+            }
         }
     }
   });
@@ -67,6 +86,8 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-autoprefixer');
+  grunt.loadNpmTasks('grunt-contrib-concat');
+  grunt.loadNpmTasks('grunt-contrib-uglify');
 
   grunt.registerTask('default', [
       'connect',
@@ -75,6 +96,8 @@ module.exports = function(grunt) {
   grunt.registerTask('build', [
       'sass:prod',
       'copy',
-      'autoprefixer'
+      'autoprefixer',
+      // 'concat',
+      'uglify'
     ]);
 };

@@ -3,7 +3,7 @@
         <a href="/" class="logo"><img src="/dist/img/logo.svg" width="135" alt=""></a>
         <nav class="main-nav" aria-role="navigation">
             <a href="/intro">Intro</a>
-            <a href="/contribute" class="active">Contribute</a>
+            <a href="/contribute">Contribute</a>
             <a href="/get-help">Get help</a>
             <a href="/about">about</a>
             <a href="/community">community</a>
@@ -22,7 +22,7 @@
     </section>
     <section class="hid">
         <ul class="sub-nav">
-            {% for link in site.sub-navigation-contribute %}
+            {% for link in site.sub-navigation-initiatives %}
                 {% assign current = nil %}
                 {% if page.url contains link.url %}
                     {% assign current = 'current' %}

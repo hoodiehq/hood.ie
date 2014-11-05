@@ -331,6 +331,6 @@ For example take a look at the calendar icon on the index page,
 * Change the author and post title, if you haven't yet
 * If you want comments disabled, set `comments: false`
 * Now go to your finder and move the post from `_drafts` to `_posts`
-* Tadaaaa, it's public. Your post is now online under http://hood.ie/blog/YEAR-MONTH-DAY-your-post-title.html
+* Tadaaaa, it's public. Your post is now online under http://hood.ie/blog/your-post-title.html (*not* YEAR-MONTH-DAY-your-post-title.md!)
 
 ![Now get some sleep](http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif)

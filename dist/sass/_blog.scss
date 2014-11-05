@@ -81,6 +81,9 @@
             }
         }
     }
+    a {
+        display: inline;
+    }
 }
 
 .blog-post-link {
@@ -88,7 +91,6 @@
 }
 
 .blog-post-link-more {
-    text-decoration: underline;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -97,4 +99,15 @@
     font-weight: 500;
     font-size: 1.125em;
     font-style: italic;
+}
+
+.pagination {
+    float: right;
+    margin-top: rem-calc(30);
+}
+
+.blog-post-excerpt {
+    img {
+        width: 100%;
+    }
 }

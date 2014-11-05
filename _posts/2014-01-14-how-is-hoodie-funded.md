@@ -10,7 +10,7 @@ layout: blog-post
 Funding Open Source projects is [a topic of much discussion][1]. After talking about [**why** we are building Hoodie][2], we thought we'd **share the story of our experiments** with ensuring Hoodie’s progress.
 
 
-[<img class="alignnone" alt="" src="http://farm3.staticflickr.com/2892/11198247984_31ba6d67a4_b.jpg" width="1000" height="625" />][3]
+<a href="http://www.flickr.com/photos/101906241@N07/with/11198247984/" class="no-border"><img src="/blog/images/201401/iceland.jpg" /></a>
 Hoodie is of course an Open Source project, so plenty of peoples' spare time goes into it. Nevertheless, we believe that making funds available for an Open Source project makes for **faster development and happier developers**, who can work on Open Source and get paid for it.
 
 As such, there are **multiple different ways** that Hoodie makes money. They are all based around the fact that the development team does not *have* to make money from Hoodie at a large fixed rate, but can substitute their income with other, freelance work. The only downside then is that Hoodie development slows down, so we are trying to pay everyone regularly.
