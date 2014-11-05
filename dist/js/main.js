@@ -15,7 +15,7 @@ $(function() {
                 $('.content').removeClass('during-intro');
             }, 5500);
             window.localStorage['hasSeenIntro'] = 'true';
-        }, 2500);
+        }, 500);
     }
 /*
     var header = $('header');
