@@ -538,6 +538,9 @@ input, textarea {
 .teaser aside a {
   background-position: 0 1.35em; }
 
+.text-transform-reverse {
+  text-transform: initial; }
+
 .person-bio .h3, .person-bio .h6, .person-bio article p, .person-bio .bio-link {
   padding-left: 0; }
   @media (min-width: 30em) {
@@ -735,6 +738,9 @@ aside img {
 .pagination {
   float: right;
   margin-top: 1.875rem; }
+
+.blog-post-excerpt img {
+  width: 100%; }
 
 .category h2 {
   padding-left: 0; }

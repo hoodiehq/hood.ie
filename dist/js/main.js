@@ -1,12 +1,12 @@
 $(function() {
     if(window.localStorage && window.localStorage['hasSeenIntro']){
-        $('.animated-logo').remove()
+        $('.animated-logo').remove();
     } else {
         $('.content').addClass('during-intro');
         setTimeout(function(){
-            $('.animated-logo .animation').addClass('animate')
+            $('.animated-logo .animation').addClass('animate');
             setTimeout(function(){
-                $('.animated-logo .animation').addClass('slideUp')
+                $('.animated-logo .animation').addClass('slideUp');
             }, 3000);
             setTimeout(function(){
                 $('.content').removeClass('during-intro');
