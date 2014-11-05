@@ -263,3 +263,8 @@ input, textarea {
 .text-transform-reverse {
     text-transform: initial;
 }
+
+// Inline emojis, which are more or less type
+img.emoji {
+    border: none;
+}
