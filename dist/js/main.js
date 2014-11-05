@@ -6,11 +6,14 @@ $(function() {
         setTimeout(function(){
             $('.animated-logo .animation').addClass('animate');
             setTimeout(function(){
-                $('.animated-logo .animation').addClass('slideUp');
+                $('.animated-logo .animation').addClass('colorise');
             }, 3000);
             setTimeout(function(){
+                $('.animated-logo .animation').addClass('slideUp');
+            }, 5000);
+            setTimeout(function(){
                 $('.content').removeClass('during-intro');
-            }, 3500);
+            }, 5500);
             window.localStorage['hasSeenIntro'] = 'true';
         }, 2500);
     }
