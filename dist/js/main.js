@@ -14,7 +14,7 @@ $(function() {
             window.localStorage['hasSeenIntro'] = 'true';
         }, 2500);
     }
-
+/*
     var header = $('header');
     event.preventDefault();
 
@@ -28,12 +28,18 @@ $(function() {
             header.css({"position":"static","top":"auto"}).removeClass('close');
         }
 
+// 1024 - x
+    });*/
 
-    });
+    console.log(window.innerWidth);
 
     $('header').on('click', function(eve){
-        if(header.hasClass('close')) {
-            alert('Hello! Mach mich auf! Gruß, Navigation <3');
+        console.log(eve.target);
+
+        if (eve.target == 'a') {
+            console.log('LINK!');
+        } else {
+            $('header section.nav').toggleClass('is-active');
         }
     });
 
