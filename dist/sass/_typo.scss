@@ -120,21 +120,18 @@ a {
 .sub-nav,
 .main-nav {
     text-align: center;
-    a {
-        font-weight: 500;
-    }
 }
 
 .meta-nav {
     text-align: right;
-    a {
-        font-weight: 500;
-    }
 }
 
 .meta-nav,
 .main-nav {
     font-size: 1.094em;
+    a {
+        font-weight: 500;
+    }
 }
 
 .sub-nav {
