@@ -107,7 +107,10 @@
 }
 
 .blog-post-excerpt {
-    img {
+    img:not(.emoji) {
         width: 100%;
+    }
+    img.emoji{
+        vertical-align: sub;
     }
 }
