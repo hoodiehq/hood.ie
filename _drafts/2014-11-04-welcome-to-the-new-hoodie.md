@@ -4,9 +4,16 @@ author: The Hoodies
 layout: blog-post
 ---
 
-![Hood.ie Website Relaunch](/blog/images/201411/hoodie-screenshot-relaunch.png)
+This is where it all started:
+
+![Palm Trees on Lanzarote](/blog/images/201411/lanzarote-palmtree.jpg)
+
+Under the beautiful palm trees 
 
 ## Yes, we're back
+
+![Hood.ie Website Relaunch](/blog/images/201411/hoodie-screenshot-relaunch.png)
+
 
 […](/blog/announcement-a-new-website-for-hoodie.html)
 
