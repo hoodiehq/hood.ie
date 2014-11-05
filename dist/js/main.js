@@ -65,7 +65,7 @@ $(function() {
         if (eve.target == 'a') {
         } else {
             if ($('body').hasClass('mobile')) {
-                $('header section.nav').toggleClass('is-active');
+                $('header section.nav, .menu-button').toggleClass('is-active');
             }
 
         }

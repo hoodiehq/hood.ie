@@ -1144,11 +1144,9 @@ svg path, svg rect {
   margin-left: auto;
   transition: all 0.2s;
   top: -0.25rem; }
-  .menu-button.is-open {
-    top: 0.3125rem !important; }
   .is-active .menu-button {
     display: block;
-    top: -81.4vh; }
+    top: -82.6vh; }
   @media (min-width: 64em) {
     .menu-button {
       display: none; } }
@@ -1175,12 +1173,12 @@ svg path, svg rect {
   .menu-button-span:after {
     top: 0.625rem; }
 
-.is-open .menu-button, .is-open .menu-button-span {
+.is-active .menu-button {
   transform: rotate(45deg);
   top: -81.4vh; }
-.is-open .menu-button-span:after {
+.is-active .menu-button-span:after {
   opacity: 0; }
-.is-open .menu-button-span:before {
+.is-active .menu-button-span:before {
   transform: rotate(90deg);
   top: 0; }
 
@@ -1241,5 +1239,8 @@ body.gray .animation.colorise .letter {
   .content.during-intro {
     margin-top: 3rem;
     background-position: center -6.25rem; }
+
+.is-active .logo img {
+  width: 180px !important; }
 
 /*# sourceMappingURL=hoodie.css.map */
