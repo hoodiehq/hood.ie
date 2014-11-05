@@ -368,6 +368,8 @@ p {
   line-height: 1.618; }
 .teaser a {
   background-position: 0 35px; }
+.teaser aside a {
+  background-position: 0 1.35em; }
 
 blockquote p {
   font-style: italic; }
@@ -398,8 +400,6 @@ a {
 
 .meta-nav, .main-nav {
   font-size: 1.094em; }
-  .meta-nav a, .main-nav a {
-    font-weight: 500; }
 
 .sub-nav {
   font-size: 0.938em; }
@@ -431,9 +431,6 @@ ul ul, ul ol, ol ol, ol ul {
   font-size: 1em;
   margin-top: 0.75rem; }
 
-.cb li {
-  margin-bottom: 0.75rem; }
-
 .cb aside {
   font-size: 1.1em;
   line-height: 1.618; }
@@ -445,6 +442,8 @@ ul ul, ul ol, ol ol, ol ul {
   .cb.teaser aside {
     font-size: 1.2em;
     line-height: 1.618; }
+.cb li {
+  margin-bottom: 0.75rem; }
 
 article figure figcaption {
   font-size: 1.1em;
@@ -469,9 +468,6 @@ input, textarea {
 
 .friends .grid-3 a {
   background-position: 0 7.55em; }
-
-.teaser aside a {
-  background-position: 0 1.35em; }
 
 .text-transform-reverse {
   text-transform: initial; }
