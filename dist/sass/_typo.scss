@@ -1,3 +1,4 @@
+
 //http://modularscale.com/scale/?px1=19&px2=16&ra1=1.618&ra2=0
 
 body {
@@ -87,9 +88,21 @@ p {
         line-height: 1.618;
     }
     a {
-        background-position: 0 35px;
+        background-position: 0 25px;
+    }
+    aside a {
+        background-position: 0 22px;
+
     }
 }
+
+@-moz-document url-prefix() {
+    .teaser aside a {
+        background-position: 0 19px;
+    }
+
+}
+
 
 blockquote p {
     font-style: italic;
@@ -110,11 +123,30 @@ strong {
 }
 
 a {
-    display: inline-block;
+    // display: inline-block;
     text-decoration: none;
     background-repeat: repeat-x;
     background-size: 1px 1px;
-    background-position: 0 1.35em;
+    background-position: 0 22px;
+    text-shadow: 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+@-moz-document url-prefix() {
+    a {
+        background-position: 0 18px;
+    }
+
+}
+
+.main .teaser-index-section a,
+.orange-box a {
+    text-shadow: 1px 0 0 $orange, -1px 0 0 $orange;
+}
+
+.feature a,
+.contribute a,
+.merch a {
+    text-shadow: none;
 }
 
 .sub-nav,
@@ -129,9 +161,6 @@ a {
 .meta-nav,
 .main-nav {
     font-size: 1.094em;
-    a {
-        font-weight: 500;
-    }
 }
 
 .sub-nav {
@@ -149,15 +178,6 @@ a {
 .nav,
 .sub-nav {
     text-transform: uppercase;
-}
-
-a:hover,
-.active {
-    // text-decoration: underline;
-    // background-repeat: repeat-x;
-    // background-size: 1px 1px;
-    // background-position: 0 24px;
-    // text-decoration: none;
 }
 
 .nav a,
@@ -193,10 +213,6 @@ ol ul {
     margin-top: 0.75rem;
 }
 
-.cb li {
-    margin-bottom: rem-calc(12);
-}
-
 .cb {
     aside {
         font-size: 1.1em;
@@ -212,6 +228,9 @@ ol ul {
             font-size: 1.2em;
             line-height: 1.618;
         }
+    }
+    li {
+        margin-bottom: rem-calc(12);
     }
 }
 
@@ -254,10 +273,6 @@ input, textarea {
 
 .friends .grid-3 a {
     background-position: 0 7.55em;
-}
-
-.teaser aside a {
-    background-position: 0 1.35em;
 }
 
 .text-transform-reverse {

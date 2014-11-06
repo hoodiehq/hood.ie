@@ -15,7 +15,7 @@ $(function() {
                 $('.content').removeClass('during-intro');
             }, 5500);
             window.localStorage['hasSeenIntro'] = 'true';
-        }, 2500);
+        }, 500);
     }
 /*
     var header = $('header');
@@ -65,7 +65,7 @@ $(function() {
         if (eve.target == 'a' || eve.target == 'img') {
         } else {
             if ($('body').hasClass('mobile')) {
-                $('header section.nav').toggleClass('is-active');
+                $('header section.nav, .menu-button').toggleClass('is-active');
             }
 
         }
