@@ -114,11 +114,24 @@ strong {
 }
 
 a {
-    display: inline-block;
+    // display: inline-block;
     text-decoration: none;
     background-repeat: repeat-x;
     background-size: 1px 1px;
-    background-position: 0 1.35em;
+    // background-position: 0 1.35em;
+    background-position: 0 18px;
+    text-shadow: 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+.main .teaser-index-section a,
+.orange-box a {
+    text-shadow: 1px 0 0 $orange, -1px 0 0 $orange;
+}
+
+.feature a,
+.contribute a,
+.merch a {
+    text-shadow: none;
 }
 
 .sub-nav,

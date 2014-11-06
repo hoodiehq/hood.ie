@@ -386,11 +386,17 @@ strong {
   font-weight: 500; }
 
 a {
-  display: inline-block;
   text-decoration: none;
   background-repeat: repeat-x;
   background-size: 1px 1px;
-  background-position: 0 1.35em; }
+  background-position: 0 18px;
+  text-shadow: 1px 0 0 #fff, -1px 0 0 #fff; }
+
+.main .teaser-index-section a, .orange-box a {
+  text-shadow: 1px 0 0 #e94e1b, -1px 0 0 #e94e1b; }
+
+.feature a, .contribute a, .merch a {
+  text-shadow: none; }
 
 .sub-nav, .main-nav {
   text-align: center; }
@@ -1065,6 +1071,9 @@ svg path, svg rect {
   100% {
     opacity: 1;
     transform: scale(1); } }
+
+header a, footer a {
+  text-shadow: none !important; }
 
 .nav {
   padding: 1.0625rem 1.25rem;
