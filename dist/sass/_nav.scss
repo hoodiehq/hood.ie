@@ -1,3 +1,16 @@
+header,
+footer {
+    a {
+        text-shadow: none !important;
+    }
+}
+
+@-moz-document url-prefix() {
+    header a {
+        background-position: 0 23px;
+    }
+}
+
 .nav {
     padding: rem-calc(17 20);
     display: flex;
@@ -99,12 +112,12 @@
     margin-left: auto;
     transition: all .2s;
     top: rem-calc(-4);
-    &.is-open {
-        top: rem-calc(5) !important;
+    &.is-active {
+        // top: rem-calc(5) !important;
     }
     .is-active & {
         display: block;
-        top: -81.4vh;
+        top: -82.6vh;
     }
     @include breakpoint(main-nav) {
         display: none;
@@ -141,8 +154,8 @@
     }
 }
 
-.is-open {
-    .menu-button, .menu-button-span {
+.is-active {
+    .menu-button {
         transform: rotate(45deg);
         top: -81.4vh;
     }
@@ -231,4 +244,9 @@ body{
         margin-top: 3rem;
         background-position: center rem-calc(-100);
     }
+}
+
+
+.is-active .logo img {
+    width: 180px !important;
 }

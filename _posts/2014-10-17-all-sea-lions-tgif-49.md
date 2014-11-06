@@ -7,7 +7,6 @@ comments: true
 
 ---
 
-
 Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and here are our reading recommendations, curated for you by <a href="http://twitter.com/juschm" target="_blank">Julia</a> and <a href="http://twitter.com/lrnrd" target="_blank">Lena</a> for your weekend. Enjoy!
 
 

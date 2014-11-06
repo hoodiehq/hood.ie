@@ -86,6 +86,13 @@
     }
 }
 
+@-moz-document url-prefix() {
+    .blog-post article > p:first-of-type a {
+        background-position: 0 25px;
+    }
+}
+
+
 .blog-post-link {
     background-image: none !important;
 }
@@ -110,7 +117,7 @@
     img:not(.emoji) {
         width: 100%;
     }
-    img.emoji{
+    img.emoji {
         vertical-align: sub;
     }
 }

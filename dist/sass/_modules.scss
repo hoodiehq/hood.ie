@@ -146,6 +146,10 @@ aside img {
 
 .jump-mark {
     background-image: none !important;
+    padding-top: rem-calc(50);
+    margin-top: rem-calc(-50);
+    -webkit-background-clip: content-box;
+    background-clip: content-box;
     &:hover {
         background-image: none;
     }

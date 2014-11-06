@@ -62,10 +62,10 @@ $(function() {
     // just fires when width of page is below 1024.
     $('header').on('click', function(eve){
 
-        if (eve.target == 'a') {
+        if (eve.target == 'a' || eve.target == 'img') {
         } else {
             if ($('body').hasClass('mobile')) {
-                $('header section.nav').toggleClass('is-active');
+                $('header section.nav, .menu-button').toggleClass('is-active');
             }
 
         }
