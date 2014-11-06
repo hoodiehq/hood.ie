@@ -253,6 +253,6 @@ body{
 
 .is-fixed {
     position:fixed !important;
-    height: 100vh;
+    bottom: 0;
     z-index: 400;
 }
