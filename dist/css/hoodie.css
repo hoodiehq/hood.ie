@@ -571,7 +571,11 @@ aside img {
   border: 0; }
 
 .jump-mark {
-  background-image: none !important; }
+  background-image: none !important;
+  padding-top: 3.125rem;
+  margin-top: -3.125rem;
+  -webkit-background-clip: content-box;
+  background-clip: content-box; }
   .jump-mark:hover {
     background-image: none; }
 
