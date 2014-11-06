@@ -5,6 +5,12 @@ footer {
     }
 }
 
+@-moz-document url-prefix() {
+    header a {
+        background-position: 0 23px;
+    }
+}
+
 .nav {
     padding: rem-calc(17 20);
     display: flex;

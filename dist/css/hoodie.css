@@ -369,7 +369,11 @@ p {
 .teaser a {
   background-position: 0 25px; }
 .teaser aside a {
-  background-position: 0 18px; }
+  background-position: 0 22px; }
+
+@-moz-document url-prefix() {
+  .teaser aside a {
+    background-position: 0 19px; } }
 
 blockquote p {
   font-style: italic; }
@@ -389,8 +393,12 @@ a {
   text-decoration: none;
   background-repeat: repeat-x;
   background-size: 1px 1px;
-  background-position: 0 18px;
+  background-position: 0 22px;
   text-shadow: 1px 0 0 #fff, -1px 0 0 #fff; }
+
+@-moz-document url-prefix() {
+  a {
+    background-position: 0 18px; } }
 
 .main .teaser-index-section a, .orange-box a {
   text-shadow: 1px 0 0 #e94e1b, -1px 0 0 #e94e1b; }
@@ -663,6 +671,10 @@ aside img {
       background-position: 0 35px; }
 .blog-post a {
   display: inline; }
+
+@-moz-document url-prefix() {
+  .blog-post article > p:first-of-type a {
+    background-position: 0 25px; } }
 
 .blog-post-link {
   background-image: none !important; }
@@ -1074,6 +1086,10 @@ svg path, svg rect {
 
 header a, footer a {
   text-shadow: none !important; }
+
+@-moz-document url-prefix() {
+  header a {
+    background-position: 0 23px; } }
 
 .nav {
   padding: 1.0625rem 1.25rem;
