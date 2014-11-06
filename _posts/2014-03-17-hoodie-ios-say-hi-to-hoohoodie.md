@@ -2,11 +2,9 @@
 title: 'Hoodie <3 iOS: say hi to HOOHoodie'
 author: Lena
 layout: blog-post
-//permalink: /2014/03/hoodie-ios-say-hi-to-hoohoodie/
+
 ---
-<img class="alignnone size-large wp-image-1288" alt="201419_1981" src="http://blog.hood.ie/wp-content/uploads/2014/03/201419_1981-705x470.jpg" width="705" height="470" /> <p style="text-align: right;">
-  <em>Pic: <a href="http://twitter.com/ffffux">Lena Reinhard</a>, license: <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></em>
-</p>
+<img class="alignnone size-large wp-image-1288" alt="201419_1981" src="http://blog.hood.ie/wp-content/uploads/2014/03/201419_1981-705x470.jpg" width="705" height="470" /> 
 
 **Hoodie goes native mobile! Wooohooo!**
 

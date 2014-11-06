@@ -4,7 +4,7 @@ author: Lena
 layout: blog-post
 //permalink: /2014/02/meet-the-hoodies-episode-2-ola/
 ---
-**<img class="alignright" alt="Bildschirmfoto 2014-02-17 um 14.13.44" src="http://blog.hood.ie/wp-content/uploads/2014/02/Bildschirmfoto-2014-02-17-um-14.13.44.png" width="320" height="252" />**In June 2013, the (almost) entire Team Hoodie went for a field trip (or* &#8220;Klassenfahrt&#8221;*, as we call it) to Bochum for giving a talk at [PottJS][1]. This is where we met a lively person with lots of questions and interest in Hoodie. – We met [Ola][2].
+**<img class="alignright" alt="Bildschirmfoto 2014-02-17 um 14.13.44" src="http://blog.hood.ie/wp-content/uploads/2014/02/Bildschirmfoto-2014-02-17-um-14.13.44.png" />**In June 2013, the (almost) entire Team Hoodie went for a field trip (or* &#8220;Klassenfahrt&#8221;*, as we call it) to Bochum for giving a talk at [PottJS][1]. This is where we met a lively person with lots of questions and interest in Hoodie. – We met [Ola][2].
 
 Thing is: we had already been wishing and working on having more women in our project &#8211; not only because we aim for diversity for reasons™, but also because we think it helps us develop this project further if we get different people, personalities and perspectives on board (and not only the standard &#8220;white-male-bearded&#8221; one). Finally, Ola joined our team by end of december 2013. And one of the greatest things about her is that, from my personal point of view, she has not only become a co-worker, but a good friend to me.
 
