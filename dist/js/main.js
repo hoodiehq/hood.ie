@@ -38,7 +38,7 @@ $(function() {
 /*
 // @desc: shows responsive navigation below 1024px.
 */
-
+//event.preventDefault();
     // caculate width of window on load and on resize
     // calls fcn to set mobile-class
     var w = window.innerWidth;
@@ -62,10 +62,12 @@ $(function() {
     // just fires when width of page is below 1024.
     $('header').on('click', function(eve){
 
-        if (eve.target == 'a' || eve.target == 'img') {
+        if (eve.target == 'a' || $(eve.target).parent().hasClass('logo')) {
+        //    console.log(eve.target);
         } else {
             if ($('body').hasClass('mobile')) {
                 $('header section.nav, .menu-button').toggleClass('is-active');
+                $('header section.hid').toggleClass('is-fixed');
             }
 
         }

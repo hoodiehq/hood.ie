@@ -15,7 +15,7 @@ footer {
     padding: rem-calc(17 20);
     display: flex;
     &.is-active {
-        position: absolute;
+        position: fixed;
         flex-direction: column;
         height: 100vh;
         text-align: center;
@@ -157,7 +157,7 @@ footer {
 .is-active {
     .menu-button {
         transform: rotate(45deg);
-        top: -81.4vh;
+        top: -83vh;
     }
     .menu-button-span:after {
         opacity: 0;
@@ -249,4 +249,10 @@ body{
 
 .is-active .logo img {
     width: 180px !important;
+}
+
+.is-fixed {
+    position:fixed !important;
+    height: 100vh;
+    z-index: 400;
 }
