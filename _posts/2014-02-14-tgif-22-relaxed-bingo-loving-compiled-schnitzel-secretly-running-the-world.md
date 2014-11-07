@@ -85,10 +85,6 @@ When random isn&#8217;t random enough: [Lessons from an Online Poker Exploit][16
   <a href="http://www.boredpanda.com/abandoned-house-animals-kai-fagerstrom/?image_id=abandoned-house-animals-kai-fagerstrom-5.jpg" rel="lightbox[1135]" title="TGIF! (22): relaxed bingo-loving, compiled schnitzel secretly running the world"><img class="alignnone" alt="" src="http://bp3.uuuploads.com/abandoned-house-animals-kai-fagerstrom/abandoned-house-animals-kai-fagerstrom-5.jpg" width="605" height="531" /></a>
 </p>
 
-<p style="text-align: left;">
-  <a href="http://sulia.com/channel/animals/f/9112d691-25cc-4f74-aed9-bcd239e106c7/?action=prop&source=tw&form_factor=desktop"><img class="alignnone" alt="" src="http://media1.sulia.com/static/user_images/35/2014-02-11/864aaec6-2c30-454a-bf2c-3fd1212a85c9.jpeg" width="500" height="666" /></a>
-</p>
-
 <p style="text-align: center;">
   ____________
 </p>

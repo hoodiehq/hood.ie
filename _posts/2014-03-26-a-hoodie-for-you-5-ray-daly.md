@@ -49,7 +49,7 @@ Offline First is a key feature for the apps I&#8217;m working on at myself.
 </p>
 
 <p style="text-align: center;">
-  <em>In this small series, we’re introducing Hoodie-Committers and other Hoodie-People. If you want to join, talk about Hoodie or give us feedback, we’re happy to talk to you! Just ping us on <a href="http://twitter.com/hoodiehq">Twitter</a> or <a href="http://blog.hood.ie/2014/03/a-hoodie-for-you-4-lewis-cowper/irc.freenode.net/#hoodie">IRC</a>.</em>
+  <em>In this small series, we’re introducing Hoodie-Committers and other Hoodie-People. If you want to join, talk about Hoodie or give us feedback, we’re happy to talk to you! Just ping us on <a href="http://twitter.com/hoodiehq">Twitter</a> or <a href="/irc">IRC</a>.</em>
 </p>
 
  [1]: http://twitter.com/raydaly

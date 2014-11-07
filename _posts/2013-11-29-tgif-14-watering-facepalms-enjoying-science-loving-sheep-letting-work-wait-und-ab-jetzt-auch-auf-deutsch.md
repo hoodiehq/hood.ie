@@ -52,8 +52,6 @@ Clearly, in a story as sensational and global and alluring as Snowden’s Secret
 
 Stop making To-do lists. [They don&#8217;t work][15].
 
-*&#8220;It’s a false divide to make a we/them: either able-minded, able-bodied, or disabled. After all, how cultures define, think about, and treat those who currently have marked disabilities is how all its future citizens may well be perceived if and when those who are able-bodied become less abled than they are now.&#8221;* –  [All Technology Is Assistive Technology][16]
-
 *&#8220;With our bodies hemmed in, our minds have only the cloud — and it is the cloud that has become the destination for an extraordinary mental exodus.&#8221;* – How [Software is reorganizing the world][17]
 
 *&#8220;Don’t work every waking hour, sunrise to sunset. Enjoy Life 365.*&#8221; – [Work can wait][18].
@@ -130,7 +128,6 @@ Wie die Gründer einen Milliardenkonzern hochzogen und wie dieser unser Denken v
  [13]: http://www.quora.com/Women-in-Engineering/How-have-you-overcome-the-Impostor-Syndrome-as-a-female-engineer/answer/Anne-K.-Halsall
  [14]: http://thenextweb.com/entrepreneur/2013/11/22/ive-learned-creating-meaningful-work/
  [15]: http://blogs.hbr.org/2012/01/to-do-lists-dont-work/
- [16]: https://medium.com/thoughtful-design/a8b9a581eb62
  [17]: http://www.wired.com/opinion/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations/
  [18]: https://37signals.com/remote/workcanwait
  [19]: http://twitter.com/bitcrowd

@@ -38,8 +38,6 @@ An initialized software patent reform that could have helped subjecting all sof
 
 *“When things get tough, **this is what you should do: Make good art.” – *Or just follow Ai Weiwei&#8217;s tutorial [How to block surveillance cameras][16]*.*
 
-A database showing 338 surveillance vendors in 35 countries around the world that offer a total of 97 surveillance technologies: [Surveillance Industry Index (SII)][17] was published this week. [More about SII][18] in the *Guardian*.
-
 See what happens [when people are being confronted with their public posts][19] in social networks.
 
 **http://hood.town? http://hood.pizza?**
@@ -110,8 +108,6 @@ Yearbook of Rock and Heavy Metal Icons. [Well &#8230; yes][38]:
  [14]: http://om.co/2013/11/20/unbranded/
  [15]: http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/20/software-patent-reform-just-died-in-the-house-thanks-to-ibm-and-microsoft/
  [16]: http://www.brainpickings.org/index.php/2013/07/31/ai-weiwei-cctv-camera-do-it/?utm_content=buffer54c99&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer
- [17]: https://www.privacyinternational.org/sii/
- [18]: http://www.theguardian.com/world/2013/nov/18/private-firms-mass-surveillance-technologies
  [19]: https://www.youtube.com/watch?feature=player_embedded&v=5P_0s1TYpJU
  [20]: https://iwantmyname.com/domains/new-gtld-domain-extensions?utm_source=iWantMyName+Announcements&utm_campaign=63ea7e199b-News_5_years_NZ&utm_medium=email&utm_term=0_bf57e9773b-63ea7e199b-100778186
  [21]: https://events.ccc.de/2013/11/18/tickets-available-for-preorder/
