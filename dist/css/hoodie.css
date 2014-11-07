@@ -1283,7 +1283,7 @@ body.gray .animation.colorise .letter {
 
 .is-fixed {
   position: fixed !important;
-  height: 100vh;
+  bottom: 0;
   z-index: 400; }
 
 /*# sourceMappingURL=hoodie.css.map */

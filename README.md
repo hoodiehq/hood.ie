@@ -1,4 +1,4 @@
-hoodie-website-css
+Hood.ie: the Website for the Hoodie Open Source Project
 ==================
 
 ## Getting started

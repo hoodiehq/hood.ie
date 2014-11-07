@@ -38,7 +38,8 @@ $(function() {
 /*
 // @desc: shows responsive navigation below 1024px.
 */
-//event.preventDefault();
+//    event.preventDefault();
+
     // caculate width of window on load and on resize
     // calls fcn to set mobile-class
     var w = window.innerWidth;

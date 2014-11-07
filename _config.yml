@@ -1,6 +1,6 @@
 # Site settings
 title: hood.ie
-description: "Hoodie is a project by Jan Lehnardt (@janl), Gregor Martynus (@gr2m), Alex Feyerke (@espylaub), Caolan McMahon (@caolan), Lena Reinhard (@ffffux), Sven Lito (@svenlito) and Ola Gasidlo (@misprintedtype) and a growing community. We are based in Berlin, Zurich, Sheffield and Dortmund and run mostly on Coffee and Cheesecake."
+description: "Hoodie is an Open Source Software project initiated, developed, maintained and furthered by the Hoodie Community and its supporters."
 baseurl: ""
 url: "hood.ie"
 
@@ -49,7 +49,7 @@ sub-navigation-community:
 - title: Community
   url: '/community/#community'
 - title: Contributors
-  url: '/community/index.html/#contributors'
+  url: '/community/#contributors'
 - title: Join us!
   url: '/contribute'
 - title: Philosophy
