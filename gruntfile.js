@@ -39,14 +39,14 @@ module.exports = function(grunt) {
             outputStyle: 'compressed'
         },
         files: {
-            'dist/css/prod/hoodie.min.css' : 'dist/sass/base.scss'
+            'dist/prod/hoodie.min.css' : 'dist/sass/base.scss'
         }
       }
     },
     copy: {
         main: {
-            src: 'dist/css/prod/hoodie.min.css',
-            dest: 'dist/css/.tmp/hoodie.min.tmp.css'
+            src: 'dist/prod/hoodie.min.css',
+            dest: 'dist/prod/.tmp/hoodie.min.tmp.css'
         }
     },
     autoprefixer: {
@@ -56,20 +56,11 @@ module.exports = function(grunt) {
                 cascade: false,
                 annotation: false
             },
-            src: 'dist/css/.tmp/hoodie.min.tmp.css',
+            src: 'dist/prod/.tmp/hoodie.min.tmp.css',
             dest: 'dist/prod/hoodie.min.pref.css'
 
         }
     },
-    // concat: {
-    //     options: {
-    //         separator: ';'
-    //     },
-    //     dist: {
-    //         src: ['dist/js/jquery/dist/jquery.min.js', 'dist/js/jquery.sheetrock.min.js', 'dist/js/icheck.js', 'dist/js/events.js', 'dist/js/main.js'],
-    //         dest: 'dist/js/prod/hoodie.js'
-    //     }
-    // },
     uglify: {
         options: {
             mangle: false
@@ -97,7 +88,6 @@ module.exports = function(grunt) {
       'sass:prod',
       'copy',
       'autoprefixer',
-      // 'concat',
       'uglify'
     ]);
 };
