@@ -14,7 +14,7 @@ permalink: "/blog/:categories/:title.html"
 paginate_path: "/blog/page:num"
 paginate: 10
 
-
+# 404
 
 
 sub-navigation:
