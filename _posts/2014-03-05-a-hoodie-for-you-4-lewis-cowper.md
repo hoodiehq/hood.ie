@@ -63,4 +63,4 @@ I mostly want to work on things that I use or want to use, so there are lots of 
  [5]: https://github.com/espy/ubersicht
  [6]: http://greatbritishnodeconf.co.uk/
  [7]: http://twitter.com/hoodiehq
- [8]: irc.freenode.net/#hoodie
+ [8]: /irc

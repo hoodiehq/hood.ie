@@ -29,7 +29,7 @@ Mobile networks simply don't provide that same level of quality and consistency,
 
 With [Hoodie][7], we've created an architecture that allows you to build offline apps with relative ease. There are a few issues, but we're quite confident about the technical aspects of our syncing engine and how it handles being offline. But now we've stumbled on a plethora of new, hitherto unknown and unresearched use cases and UX scenarios, all of which are only now easily within the reach of most developers.
 
-<a href="ttp://www.flickr.com/photos/peterv/93463384/" class="no-border">![](/blog/images/201311/hiking.jpg)</a>
+<a href="http://www.flickr.com/photos/peterv/93463384/" class="no-border">![](/blog/images/201311/hiking.jpg)</a>
 
 This is quite literally a new frontier, largely unexplored and full of interesting problems and unimagined edge cases. In most other realms of app design we are spoilt with UX/UI patterns we can readily employ, but offline-first is *terra incognita,* there is practically nothing to go on in terms of patterns and metaphors.
 

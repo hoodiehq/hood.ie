@@ -38,8 +38,6 @@ How to use GitHub: the [GitHub Guides][5]. For example: How Products are built a
 
 *“… You always feel like you have to prove yourself to get any credibility.”* — Why don’t more women go to hackathons? [Because reasons][8]
 
-What it’s like to be [a woman at a Bitcoin meeting][9]
-
 How to build features: *“The thing is, unless customers use a feature it may as well not exist.”* — So before you ship that next feature, [ask yourself these questions][10]
 
 **The Tech Things

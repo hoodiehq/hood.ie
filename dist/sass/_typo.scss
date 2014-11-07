@@ -88,19 +88,28 @@ p {
         line-height: 1.618;
     }
     a {
-        background-position: 0 25px;
+        background-position: 0 rem-calc(33);
     }
     aside a {
-        background-position: 0 22px;
+        background-position: 0 rem-calc(18);
 
     }
 }
 
-@-moz-document url-prefix() {
-    .teaser aside a {
-        background-position: 0 19px;
-    }
+aside a {
+    background-position: 0 rem-calc(17);
+}
 
+@-moz-document url-prefix() {
+    .teaser a {
+        background-position: 0 rem-calc(25);
+    }
+    .teaser aside a {
+        background-position: 0 rem-calc(19);
+    }
+    aside a {
+        background-position: 0 rem-calc(18);
+    }
 }
 
 
@@ -123,17 +132,16 @@ strong {
 }
 
 a {
-    // display: inline-block;
     text-decoration: none;
     background-repeat: repeat-x;
     background-size: 1px 1px;
-    background-position: 0 22px;
+    background-position: 0 rem-calc(18);
     text-shadow: 1px 0 0 #fff, -1px 0 0 #fff;
 }
 
 @-moz-document url-prefix() {
     a {
-        background-position: 0 18px;
+        background-position: 0 rem-calc(18);
     }
 
 }
