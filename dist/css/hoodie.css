@@ -107,8 +107,6 @@ code {
   padding-top: 1.5625rem;
   display: block; }
 
-.grid-9 figure img {
-  padding-bottom: 0.625rem; }
 .grid-9 figure figcaption {
   padding-bottom: 1.875rem; }
 
@@ -369,10 +367,10 @@ p {
 .teaser a {
   background-position: 0 2.0625rem; }
 .teaser aside a {
-  background-position: 0 1.125rem; }
+  background-position: 0 1.4375rem; }
 
 aside a {
-  background-position: 0 1.0625rem; }
+  background-position: 0 1.3125rem; }
 
 @-moz-document url-prefix() {
   .teaser a {
@@ -382,7 +380,7 @@ aside a {
     background-position: 0 1.1875rem; }
 
   aside a {
-    background-position: 0 1.125rem; } }
+    background-position: 0 1.0625rem; } }
 
 blockquote p {
   font-style: italic; }
@@ -402,7 +400,7 @@ a {
   text-decoration: none;
   background-repeat: repeat-x;
   background-size: 1px 1px;
-  background-position: 0 1.125rem;
+  background-position: 0 1.375rem;
   text-shadow: 1px 0 0 #fff, -1px 0 0 #fff; }
 
 @-moz-document url-prefix() {
@@ -690,7 +688,12 @@ aside img {
 
 .blog-post-link-more {
   font-weight: 500;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  background-position: 0 1.1875rem; }
+
+@-moz-document url-prefix() {
+  .blog-post-link-more {
+    background-position: 0 0.9375rem; } }
 
 .blog-greetings {
   font-weight: 500;
@@ -734,7 +737,8 @@ aside img {
   .sitemap-list .sitemap-item {
     margin-bottom: 0; }
     .sitemap-list .sitemap-item.smaller {
-      font-size: 0.8em; }
+      font-size: 0.8em;
+      -moz-osx-font-smoothing: initial; }
     .sitemap-list .sitemap-item:first-child {
       padding-top: 0; }
   .sitemap-list .sitemap-item-bold {
@@ -749,8 +753,12 @@ aside img {
   font-size: 0.875rem; }
   .footer-licensing a {
     color: #fff;
-    background-image: linear-gradient(to bottom, #ffffff 75%, rgba(255, 255, 255, 0.6) 75%);
-    background-position: 0 1.1em; }
+    background-image: linear-gradient(to bottom, #ffffff 45%, rgba(255, 255, 255, 0.4) 60%);
+    background-position: 0 0.8125rem; }
+
+@-moz-document url-prefix() {
+  .footer-licensing a {
+    background-position: 0 0.625rem; } }
 
 .eventsIntro {
   padding-bottom: 0; }

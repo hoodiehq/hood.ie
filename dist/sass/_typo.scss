@@ -91,13 +91,13 @@ p {
         background-position: 0 rem-calc(33);
     }
     aside a {
-        background-position: 0 rem-calc(18);
+        background-position: 0 rem-calc(23);
 
     }
 }
 
 aside a {
-    background-position: 0 rem-calc(17);
+    background-position: 0 rem-calc(21);
 }
 
 @-moz-document url-prefix() {
@@ -108,7 +108,7 @@ aside a {
         background-position: 0 rem-calc(19);
     }
     aside a {
-        background-position: 0 rem-calc(18);
+        background-position: 0 rem-calc(17);
     }
 }
 
@@ -135,7 +135,7 @@ a {
     text-decoration: none;
     background-repeat: repeat-x;
     background-size: 1px 1px;
-    background-position: 0 rem-calc(18);
+    background-position: 0 rem-calc(22);
     text-shadow: 1px 0 0 #fff, -1px 0 0 #fff;
 }
 

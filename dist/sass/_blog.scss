@@ -100,6 +100,13 @@
 .blog-post-link-more {
     font-weight: 500;
     text-transform: uppercase;
+    background-position: 0 rem-calc(19);
+}
+
+@-moz-document url-prefix() {
+    .blog-post-link-more {
+        background-position: 0 rem-calc(15);
+    }
 }
 
 .blog-greetings {

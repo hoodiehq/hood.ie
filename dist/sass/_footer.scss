@@ -29,6 +29,7 @@
 
         &.smaller {
             font-size: .8em;
+            -moz-osx-font-smoothing: initial;
         }
         &:first-child {
             padding-top: 0;
@@ -51,7 +52,16 @@
 
     a {
         color: #fff;
-        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 75%, rgba(255, 255, 255, .6) 75%);
-        background-position: 0 1.1em;
+        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 45%, rgba(255, 255, 255, .4) 60%);
+        background-position: 0 rem-calc(13);
     }
 }
+
+@-moz-document url-prefix() {
+    .footer-licensing {
+        a {
+            background-position: 0 rem-calc(10);
+        }
+    }
+}
+
