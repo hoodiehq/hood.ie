@@ -113,7 +113,7 @@ Kindness is the way to go. Not only does it make the world better, <a href="http
 
 You know that large parts of our modern tech are based on the work of women, right? Here's to <a href="http://www.npr.org/blogs/alltechconsidered/2014/10/06/345799830/the-forgotten-female-programmers-who-created-modern-tech?sc=tw">The forgotten female programmers who created modern tech</a>
 
-<a href="&quot;http://greaseandglamour.com/2014/10/10-things-you-need-to-learn-to-start-living-the-life-of-your-dreams/">10 Things You Need to Learn to Start Living the Life of Your Dreams</a>
+<a href="http://greaseandglamour.com/2014/10/10-things-you-need-to-learn-to-start-living-the-life-of-your-dreams/">10 Things You Need to Learn to Start Living the Life of Your Dreams</a>
 
 Hacking a Billboard on a Skyscraper: <a href="https://www.youtube.com/watch?v=jJkuCzgg7fo">What's up, Hong Kong?</a>
 
@@ -134,4 +134,3 @@ This week was <a href="http://de.wikipedia.org/wiki/Ada_Lovelace">Ada Lovelace</
 >
 I am convinced that reading the news is worse than not reading anything at all. There is no proof that it makes us wiser, better decision makers, better informed, better citizens; nothing — if anything, entirely the opposite. –
 <cite><a href="https://medium.com/@thehandsomepig/why-i-stopped-reading-hearing-watching-the-news-2e1b62d75c7d">Why I stopped reading / hearing / watching the News</a></cite>
-

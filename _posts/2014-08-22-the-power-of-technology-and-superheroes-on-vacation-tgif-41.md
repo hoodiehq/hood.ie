@@ -39,8 +39,6 @@ Developer Alicia Liu talks at Front-Trends 2014 about <a href="http://vimeo.com/
 
 <a href="https://blog.mozilla.org/apps/2014/08/18/social-media-marketing-for-app-developers/">Social Media Marketing for app developers</a>
 
-<a href="http://www.infoworld.com/print/247917">15 technologies changing how developers work</a>
-
 >
 Decades from now I may actually get too old. In the meantime, I’m going to go around being bad at things. Believe it or not, it’s a lot of fun. –
 <cite><a href="http://www.allenpike.com/2014/being-bad-at-things/">Being bad at things</a></cite>
@@ -95,4 +93,3 @@ Cheesy postcards, <a href="http://www.detailverliebt.de/kitschige-postkarten-in-
 How do you show that someone is sending or receiving an SMS? And what does the internet look like? <a href="http://vimeo.com/103554797">A brief look at texting and the internet in film</a>
 
 <a href="http://news.stanford.edu/news/2014/august/marvel-heroes-alvarado-081214.html">The Science of Marvel's super heroes</a> – explained by a biologist
-

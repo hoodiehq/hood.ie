@@ -167,10 +167,6 @@ layout: blog-post
   Nimmt GPS uns das Denken ab? Baut es unsere Gehirne um? Und <a href="http://www.zeit.de/digital/internet/2014-05/kathrin-passig-gps-navigationssystem/komplettansicht">wird durch das Internet alles schlechter?</a>
 </p>
 
-<p>
-  Pressefreiheit macht die Demokratie <a href="http://m.heute.de/ZDF/zdfportal/xml/object/32999460">so messbar wie das Wetter</a>
-</p>
-
 <p style="text-align: center;">
   –
 </p>

@@ -101,5 +101,5 @@ Allereerst in de documentatie. Maar dat is niet zo eenvoudig in een project waa
  [7]: https://www.flickr.com/photos/kcomandich/13247178865/sizes/c/in/photostream/
  [8]: http://twitter.com/janl
  [9]: http://twitter.com/hoodiehq
- [10]: http://blog.hood.ie/2014/03/a-hoodie-for-you-4-lewis-cowper/irc.freenode.net/#hoodie
+ [10]: /irc
  [11]: http://twitter.com/couchdb

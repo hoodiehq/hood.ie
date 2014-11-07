@@ -86,10 +86,6 @@ When random isn&#8217;t random enough: [Lessons from an Online Poker Exploit][16
 </p>
 
 <p style="text-align: left;">
-  <a href="http://sulia.com/channel/animals/f/9112d691-25cc-4f74-aed9-bcd239e106c7/?action=prop&source=tw&form_factor=desktop">Polar bears</a>:
-</p>
-
-<p style="text-align: left;">
   <a href="http://sulia.com/channel/animals/f/9112d691-25cc-4f74-aed9-bcd239e106c7/?action=prop&source=tw&form_factor=desktop"><img class="alignnone" alt="" src="http://media1.sulia.com/static/user_images/35/2014-02-11/864aaec6-2c30-454a-bf2c-3fd1212a85c9.jpeg" width="500" height="666" /></a>
 </p>
 
@@ -106,8 +102,6 @@ When random isn&#8217;t random enough: [Lessons from an Online Poker Exploit][16
 &#8220;Ich hoffe, [dass Ted Mosby stirbt][18].&#8221;
 
 *&#8220;Ist Ihnen schon mal aufgefallen, wie oft Heterosexualität zur Schau gestellt wird?&#8221;* – Homophob? [Muss nicht sein][19]
-
-*&#8220;Zu wissen, man muss mit 30 gar nicht unbedingt das sein, wovon man geträumt hat seitdem man neun Jahre alt ist. Man kann es auch später sein. Man kann kurz innehalten. Seinen eigenen Rhythmus finden. Man kann, wenn man will, auch jemand ganz anderer sein.&#8221;* – [Vitamin B6][20]
 
  [1]: https://hacks.mozilla.org/2014/02/localforage-offline-storage-improved/
  [2]: http://www.businessinsider.com/women-in-linux-quietly-running-the-world-2014-2?utm_content=buffer93738&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
@@ -128,4 +122,3 @@ When random isn&#8217;t random enough: [Lessons from an Online Poker Exploit][16
  [17]: http://sz-magazin.sueddeutsche.de/texte/anzeigen/41508/1/1
  [18]: http://seite2.wordpress.com/2014/01/21/ich-hoffe-dass-ted-mosby-stirbt/
  [19]: http://www.zeit.de/wissen/2014-02/homophobie-ursachen-folgen-akzeptanz
- [20]: http://www.patsyjones.de/vitamin-b6/

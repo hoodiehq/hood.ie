@@ -59,10 +59,6 @@ layout: blog-post
 **The Tech World and Culture**
 
 <p>
-  Men working with other men against patriarchy in technology: <a href="https://medium.com/tech-culture-briefs/a1e93d985af0">What Can Men Do?</a>
-</p>
-
-<p>
   <em>&#8220;The Github thing isn’t just about one set of facts. It’s about how this reaction makes other women in technology feel.&#8221;</em> – <a href="http://blog.ellenchisa.com/2014/04/22/im-angry-because-im-afraid/">I&#8217;m angry because I&#8217;m afraid</a>
 </p>
 

@@ -23,7 +23,7 @@ layout: blog-post
 </p>
 
 <p>
-  <em>&#8220;Being a committer does not mean you commit code, it means you are committed to the project.”</em> <3 for <a href="forrest.apache.org/committed.html">this</a> to The Apache Forrest Project
+  <em>&#8220;Being a committer does not mean you commit code, it means you are committed to the project.”</em> <3 for <a href="http://forrest.apache.org/committed.html">this</a> to The Apache Forrest Project
 </p>
 
 <p>
@@ -106,10 +106,6 @@ layout: blog-post
 
 <p class="post-field subtitle post-subtitle">
   Why names matter: <a href="http://geekfeminism.org/2014/04/28/the-naming-of-things/">The Naming of Things</a><em><br /> </em>
-</p>
-
-<p class="post-field subtitle post-subtitle">
-  <em>&#8220;I liked it when you just posted red panda photos and programming stuff.&#8221;</em> – Modes of Communication and I: <a href="http://realityhacking.net/post/84116321130/modes-of-communication-and-i-breaking-up-is-hard-to-do">Breaking up is hard</a>
 </p>
 
 <p class="post-field subtitle post-subtitle">
