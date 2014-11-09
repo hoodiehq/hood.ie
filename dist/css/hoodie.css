@@ -98,8 +98,11 @@ footer {
         margin: 0 3.125rem 0 0; } }
 
 .content {
-  padding: 16.875rem 1rem 0; }
+  padding: 10rem 1rem 0; }
   @media (min-width: 30em) {
+    .content {
+      padding: 12.5rem 1rem 0; } }
+  @media (min-width: 57.5em) {
     .content {
       padding: 16.875rem 1rem 0; } }
 
@@ -900,6 +903,10 @@ aside img {
   #eventsList .events a {
     background-position: 0 0.9375rem; } }
 
+@media (min-width: 50.3125em) {
+  .index .content {
+    padding: 16.875rem 1rem 0; } }
+
 .teaser-index {
   display: flex;
   flex-wrap: wrap; }
@@ -937,7 +944,7 @@ aside img {
       .teaser-index .main {
         order: 2;
         margin-right: 0.75% !important; } }
-    @media (min-width: 43.5em) {
+    @media (min-width: 50.3125em) {
       .teaser-index .main {
         margin-top: -3.125rem !important; } }
   .teaser-index-section {
@@ -1124,8 +1131,8 @@ header a, footer a {
     font-size: 4vh;
     z-index: 100; }
     .nav.is-active .main-nav {
-      margin-top: 10vh;
-      margin-bottom: 5vh; }
+      margin-top: 4vmin;
+      margin-bottom: 5vmin; }
       .nav.is-active .main-nav > a {
         margin-right: 0;
         display: block; }
@@ -1226,7 +1233,7 @@ header a, footer a {
 
 .is-active .menu-button {
   transform: rotate(45deg);
-  top: -83vh; }
+  top: -72vh; }
 .is-active .menu-button-span:after {
   opacity: 0; }
 .is-active .menu-button-span:before {

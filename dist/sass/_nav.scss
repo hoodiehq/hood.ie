@@ -19,11 +19,12 @@ footer {
         flex-direction: column;
         height: 100vh;
         text-align: center;
+        // font-size: 6vmin;
         font-size: 4vh;
         z-index: 100;
         .main-nav {
-            margin-top: 10vh;
-            margin-bottom: 5vh;
+            margin-top: 4vmin;
+            margin-bottom: 5vmin;
             > a {
                 margin-right: 0;
                 display: block;
@@ -112,9 +113,7 @@ footer {
     margin-left: auto;
     transition: all .2s;
     top: rem-calc(-4);
-    &.is-active {
-        // top: rem-calc(5) !important;
-    }
+
     .is-active & {
         display: block;
         top: -82.6vh;
@@ -157,7 +156,7 @@ footer {
 .is-active {
     .menu-button {
         transform: rotate(45deg);
-        top: -83vh;
+        top: -72vh;
     }
     .menu-button-span:after {
         opacity: 0;
@@ -168,23 +167,23 @@ footer {
     }
 }
 
-body{
-    &.orange .animation.colorise .letter{
+body {
+    &.orange .animation.colorise .letter {
         stroke: $orange;
     }
-    &.blue .animation.colorise .letter{
+    &.blue .animation.colorise .letter {
         stroke: $blue;
     }
-    &.green .animation.colorise .letter{
+    &.green .animation.colorise .letter {
         stroke: $green;
     }
-    &.yellow .animation.colorise .letter{
+    &.yellow .animation.colorise .letter {
         stroke: $yellow;
     }
-    &.lilac .animation.colorise .letter{
+    &.lilac .animation.colorise .letter {
         stroke: $lilac;
     }
-    &.gray .animation.colorise .letter{
+    &.gray .animation.colorise .letter {
         stroke: $gray-1;
     }
 }

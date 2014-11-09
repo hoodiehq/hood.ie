@@ -1,3 +1,9 @@
+.index .content {
+    @include breakpoint(index) {
+        padding: rem-calc(270 16 0);
+    }
+}
+
 .teaser-index {
     display: flex;
     flex-wrap: wrap;
@@ -39,7 +45,7 @@
             order: 2;
             margin-right: .75% !important;
         }
-        @include breakpoint(mv-lv) {
+        @include breakpoint(index) {
             margin-top: rem-calc(-50) !important;
         }
     }
