@@ -778,9 +778,11 @@ aside img {
     #eventsList .futureEvents .events > li:first-child h3 {
       color: #fff; }
     #eventsList .futureEvents .events > li:first-child a {
-      color: #404040; }
+      color: #404040;
+      background-image: linear-gradient(to bottom, #404040 75%, rgba(64, 64, 64, 0.8) 75%);
+      text-shadow: none; }
     #eventsList .futureEvents .events > li:first-child .links {
-      margin: 0.75em 0 0.25em 1em; }
+      margin: 0.75em 0 0.25em 0; }
     #eventsList .futureEvents .events > li:first-child:before {
       content: "Next event";
       width: 100%;
@@ -811,8 +813,7 @@ aside img {
       margin-bottom: 0.75em;
       overflow: hidden; }
     #eventsList .futureEvents .events > li .links, #eventsList .pastEvents .events > li .links {
-      padding-left: 0;
-      margin: 0 0 0 1em; }
+      padding-left: 0; }
       #eventsList .futureEvents .events > li .links li, #eventsList .pastEvents .events > li .links li {
         margin-bottom: 0;
         font-size: 1rem; }
@@ -836,14 +837,14 @@ aside img {
   background-color: #f9b233;
   color: #fff;
   padding: 1.5em 0.75em;
-  margin: 0 1em;
   border-radius: 4px;
   text-align: center; }
   #eventsList .twitterCTA a {
     font-weight: bold;
     font-size: 1.375em;
     display: block;
-    color: #fff; }
+    color: #fff;
+    text-shadow: none; }
 #eventsList .loader {
   width: 7em;
   height: 7em;
@@ -894,6 +895,10 @@ aside img {
       display: block;
       width: 100%;
       margin-bottom: 0.25em; } }
+
+@-moz-document url-prefix() {
+  #eventsList .events a {
+    background-position: 0 0.9375rem; } }
 
 .teaser-index {
   display: flex;
