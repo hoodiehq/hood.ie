@@ -19,10 +19,10 @@ footer {
         flex-direction: column;
         height: 100vh;
         text-align: center;
-        // font-size: 6vmin;
         font-size: 4vh;
         z-index: 100;
         .main-nav {
+            width: 33%;
             margin-top: 4vmin;
             margin-bottom: 5vmin;
             > a {
