@@ -4,7 +4,7 @@ author: Lena
 layout: blog-post
 //permalink: /2014/07/the-hoodie-tgif-has-to-go-on-a-summer-break-do-you-want-to-contribute/
 ---
-[<img class="alignnone size-full wp-image-1594" src="http://blog.hood.ie/wp-content/uploads/2014/07/201406_gc_0017.jpg" alt="201406_gc_0017" width="1000" height="667" />][1]
+![](/blog/images/201407/palms--optimised.jpg)
 *Update July 26:* We&#8217;re incredibly happy about all emails we received and are really glad we now found someone who&#8217;ll be helping us keep the &#8220;TGIF&#8221; alive. <3 If you still want to help us with e.g. design, writing or anything else you can think of and want to become part of our amazing community: ping us, we&#8217;d love to hear from you!
 
 &#8212;&#8212;&#8211;

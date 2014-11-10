@@ -4,9 +4,7 @@ author: Lena
 layout: blog-post
 //permalink: /2014/08/hoodietime-events-and-conferences-with-hoodies-in-august-and-september-2014/
 ---
-<img class="alignnone size-full wp-image-1633" src="http://blog.hood.ie/wp-content/uploads/2014/07/201407_offsite3_825.jpg" alt="201407_offsite3_825" width="800" height="533" /> <p style="text-align: right;">
-  <em>Pic: <a href="http://twitter.com/ffffux">Lena Reinhard</a>, license: <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></em>
-</p>
+![](/blog/images/201408/offsite--optimised.jpg)
 
 There we go: travelling again! We have already given Hoodie- and Hoodie-related talks at 24 meetups and conferences this year and had a great time there &#8211; it was amazing to meet so many new people and see their interest in Hoodie, and we&#8217;re looking forward to the next events. <3
 
