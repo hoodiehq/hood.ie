@@ -20,7 +20,13 @@ h1,
     a {
         background-position: 0 1.15em;
     }
+}
 
+@-moz-document url-prefix() {
+    h1 a,
+    .h1 a {
+        background-position: 0 .93em;
+    }
 }
 
 h2,
