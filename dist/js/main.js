@@ -72,8 +72,12 @@ $(function() {
                 $('header section.nav, .menu-button').toggleClass('is-active');
                 $('header section.hid').toggleClass('is-fixed');
                 if($('header section.hid').hasClass('is-fixed')){
+                    // iOS Safari
+                    document.ontouchmove = function(e){ e.preventDefault(); }
                     window.setTimeout(function(){$('body').addClass('no_scroll');}, 200); // Firefox hack. Hides scrollbar as soon as menu animation is done
                 } else {
+                    // iOS Safari
+                    document.ontouchmove = function(e){ return true; }
                     window.setTimeout(function(){$('body').removeClass('no_scroll');}, 10); // allow animations to start before removing class (Firefox)
                 }
 

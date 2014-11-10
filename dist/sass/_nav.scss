@@ -30,6 +30,15 @@ footer {
                 margin-right: 0;
                 display: block;
             }
+            @include breakpoint(tiny) {
+                width: 80%;
+                // offset the a padding below
+                padding-right: 1em;
+                a{
+                    display: inline-block;
+                    padding-left: 1em;
+                }
+            }
         }
         .meta-nav {
             text-align: center;
