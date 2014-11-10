@@ -325,25 +325,6 @@ header {
   -webkit-transition: -webkit-transform .4s, height .3s, background .4s;
   -moz-transition: -moz-transform .4s, height .3s, background .4s;
   transition: transform .4s, height .3s, background .4s;
-  -webkit-animation: firstFadeInAndDrop .5s;
-  -moz-animation: firstFadeInAndDrop .5s;
-  animation: firstFadeInAndDrop .5s;
-}
-
-/* on intial load fade in the menu */
-@-webkit-keyframes firstFadeInAndDrop {
-  0%   {-webkit-transform: translate(0,-54px);}
-  100% {-webkit-transform: translate(0,0);}
-}
-
-@-moz-keyframes firstFadeInAndDrop {
-  0%   {-moz-transform: translate(0,-54px);}
-  100% {-moz-transform: translate(0,0);}
-}
-
-@keyframes firstFadeInAndDrop {
-  0%   {transform: translate(0,-54px);}
-  100% {transform: translate(0,0);}
 }
 
 /* when hidden it goes up */
