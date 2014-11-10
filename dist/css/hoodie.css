@@ -1131,6 +1131,7 @@ header a, footer a {
     font-size: 4vh;
     z-index: 100; }
     .nav.is-active .main-nav {
+      width: 50%;
       margin-top: 4vmin;
       margin-bottom: 5vmin; }
       .nav.is-active .main-nav > a {
