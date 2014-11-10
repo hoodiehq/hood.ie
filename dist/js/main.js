@@ -32,8 +32,7 @@ $(function() {
         }
 
 // 1024 - x
-    });*/
-
+});*/
 
 /*
 // @desc: shows responsive navigation below 1024px.
@@ -42,6 +41,7 @@ $(function() {
 
     // caculate width of window on load and on resize
     // calls fcn to set mobile-class
+
     var w = window.innerWidth;
     checkMobileView(w);
 
@@ -54,9 +54,11 @@ $(function() {
         if (w < 1024 && !$('body').hasClass('mobile')){
             $('body').addClass('mobile');
         } else if (w > 1024 && $('body').hasClass('mobile')) {
-            $('body').removeClass('mobile');
+            $('body').removeClass('mobile no_scroll');
+            $('.nav').removeClass('is-active');
+            $('.menu-button').removeClass('is-active');
+            $('.hid').removeClass('is-fixed');
         }
-
     }
 
     // bind to navigation of functionality for responsive navigation
@@ -69,9 +71,57 @@ $(function() {
             if ($('body').hasClass('mobile')) {
                 $('header section.nav, .menu-button').toggleClass('is-active');
                 $('header section.hid').toggleClass('is-fixed');
+                if($('header section.hid').hasClass('is-fixed')){
+                    window.setTimeout(function(){$('body').addClass('no_scroll');}, 200); // Firefox hack. Hides scrollbar as soon as menu animation is done
+                } else {
+                    window.setTimeout(function(){$('body').removeClass('no_scroll');}, 10); // allow animations to start before removing class (Firefox)
+                }
+
             }
 
         }
     });
 
+    var previousScroll = 0, // previous scroll position
+        menuOffset = 54, // height of menu (once scroll passed it, menu is hidden)
+        detachPoint = 650, // point of detach (after scroll passed it, menu is fixed)
+        hideShowOffset = 6; // scrolling value after which triggers hide/show menu
+    // on scroll hide/show menu
+    $(window).scroll(function() {
+        if (!$('header').hasClass('expanded')) {
+            var currentScroll = $(this).scrollTop(), // gets current scroll position
+            scrollDifference = Math.abs(currentScroll - previousScroll); // calculates how fast user is scrolling
+            // if scrolled past menu
+            if (currentScroll > menuOffset) {
+                // if scrolled past detach point add class to fix menu
+                if (currentScroll > detachPoint) {
+                    if (!$('header').hasClass('detached'))
+                        $('header').addClass('detached');
+                }
+                // if scrolling faster than hideShowOffset hide/show menu
+                if (scrollDifference >= hideShowOffset) {
+                    if (currentScroll > previousScroll) {
+                        // scrolling down; hide menu
+                        if (!$('header').hasClass('invisible'))
+                            $('header').addClass('invisible');
+                    } else {
+                        // scrolling up; show menu
+                        if ($('header').hasClass('invisible'))
+                            $('header').removeClass('invisible');
+                    }
+                }
+            } else {
+                // only remove “detached” class if user is at the top of document (menu jump fix)
+                if (currentScroll <= 0){
+                    $('header').removeClass();
+                }
+            }
+            // if user is at the bottom of document show menu
+            if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+                $('header').removeClass('invisible');
+            }
+            // replace previous scroll position with new one
+            previousScroll = currentScroll;
+        }
+    });
 });

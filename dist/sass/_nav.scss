@@ -14,6 +14,7 @@ footer {
 .nav {
     padding: rem-calc(17 20);
     display: flex;
+    transition: height 0.2s;
     &.is-active {
         position: fixed;
         flex-direction: column;
@@ -44,13 +45,15 @@ footer {
         }
     }
     .active {
-        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 75%, rgba(255, 255, 255, .8) 75%) !important;
+        //background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 75%, rgba(255, 255, 255, .8) 75%) !important;
+        font-weight: bold;
     }
 }
 
 .logo {
     margin-right: 0 !important;
     display: block;
+    transition: all 0.2s;
     .is-active & {
         padding-top: 3vh;
         width: 50%;
@@ -156,7 +159,9 @@ footer {
 .is-active {
     .menu-button {
         transform: rotate(45deg);
-        top: -72vh;
+        top: 1rem;
+        position: absolute;
+        right: 1.25rem;
     }
     .menu-button-span:after {
         opacity: 0;
@@ -255,3 +260,126 @@ body {
     bottom: 0;
     z-index: 400;
 }
+
+body.mobile header{
+    height: 100%;
+    a{
+        background-image: none;
+    }
+    .main-nav{
+        opacity: 0;
+        transition: opacity 0.5s;
+    }
+    .is-active{
+        .main-nav{
+            opacity: 1;
+        }
+    }
+}
+
+// HEADER
+
+/* when navigation is shown, don’t allow scrolling of content */
+body.no_scroll {
+  overflow: hidden;
+  height: 100%;
+}
+
+/* Firefox fix for overflow: hidden. Scroll bar is hidden and moves everything to the right */
+@-moz-document url-prefix() {
+  body.no_scroll {
+    /*margin-right: 23px;*/
+  }
+
+  body.no_scroll .expanded {
+    /*padding-right: 7px;*/
+    //background: rgba(255,255,255,.98); /* because FF no blur, reduce bg transparency */
+  }
+}
+
+/* === TOP MENU LAYOUT === */
+/* ======================= */
+
+header {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 102px;
+  right: 0;
+  z-index: 1000;
+  cursor: pointer;
+  overflow: hidden;
+  -webkit-transform: translate(0,0);
+  -moz-transform: translate(0,0);
+  -o-transform: translate(0,0);
+  transform: translate(0,0);
+  -webkit-transition: -webkit-transform .4s, height .3s, background .4s;
+  -moz-transition: -moz-transform .4s, height .3s, background .4s;
+  transition: transform .4s, height .3s, background .4s;
+  -webkit-animation: firstFadeInAndDrop .5s;
+  -moz-animation: firstFadeInAndDrop .5s;
+  animation: firstFadeInAndDrop .5s;
+}
+
+/* on intial load fade in the menu */
+@-webkit-keyframes firstFadeInAndDrop {
+  0%   {-webkit-transform: translate(0,-54px);}
+  100% {-webkit-transform: translate(0,0);}
+}
+
+@-moz-keyframes firstFadeInAndDrop {
+  0%   {-moz-transform: translate(0,-54px);}
+  100% {-moz-transform: translate(0,0);}
+}
+
+@keyframes firstFadeInAndDrop {
+  0%   {transform: translate(0,-54px);}
+  100% {transform: translate(0,0);}
+}
+
+/* when hidden it goes up */
+header.invisible {
+  -webkit-transform: translate(0,-64px);
+  -moz-transform: translate(0,-64px);
+  -o-transform: translate(0,-64px);
+  transform: translate(0,-64px);
+  -webkit-transition: -webkit-transform .2s;
+  -moz-transition: -moz-transform .2s;
+  -o-transition: -o-transform .2s;
+  transition: transform .2s;
+  opacity: 0;
+}
+
+/* when shown & detached position is fixed */
+header.detached {
+  position: fixed;
+  -webkit-transition: -webkit-transform .3s, height .3s, background .4s, opacity .3s;
+  -moz-transition: -moz-transform .3s, height .3s, background .4s, opacity .3s;
+  -o-transition: -o-transform .3s, height .3s, background .4s, opacity .3s;
+  transition: transform .3s, height .3s, background .4s, opacity .3s;
+}
+
+/* === MENU NAVIGATION === */
+/* ======================= */
+
+/* increases menu width & height */
+header.expanded {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  cursor: default;
+}
+
+///* on focus, don’t show outline */
+.menu-button-span:focus {
+  outline: none;
+}
+
+///* changes icon to an “X” */
+.expanded .menu-button-span:before {
+  content: 'x';
+  font-size: 1.4em;
+  line-height: 1.4em;
+  padding-right: .15em;
+}
+
