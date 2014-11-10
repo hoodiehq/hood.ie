@@ -31,7 +31,11 @@ Layout names follow the theme naming e.g. default-lilac.
 * Provide a `<title>` directly inside of the `<svg>` tag (direct child).
 * Add a description with the `<desc>` tag.
 
-For example take a look at the calendar icon on the index page,
+For example take a look at the calendar icon on the index page.
+
+## Deployments
+
+The new hood.ie Website doesn't need to be deployed after making changes. (Only thing you might need to know: when making changes locally on files like `_config.yml` or on blog post drafts (`_drafts`), you may need to restart your local Jekyll so you can also see them locally immediately (abort on Mac with `cmd+c`, restart with `jekyll serve --watch --drafts`(which then also gives you blog drafts).)
 
 ## Blog
 

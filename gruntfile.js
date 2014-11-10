@@ -67,7 +67,7 @@ module.exports = function(grunt) {
         },
         files: {
             files: {
-                'dist/prod/hoodie.min.js' : ['dist/js/jquery/dist/jquery.min.js', 'dist/js/jquery.sheetrock.min.js', 'dist/js/icheck.js', 'dist/js/events.js', 'dist/js/main.js']
+                'dist/prod/hoodie.min.js' : ['dist/js/jquery/dist/jquery.min.js', 'dist/js/icheck.min.js', 'dist/js/main.js']
             }
         }
     }
