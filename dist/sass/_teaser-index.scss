@@ -48,6 +48,9 @@
         @include breakpoint(index) {
             margin-top: rem-calc(-50) !important;
         }
+        .teaser-index-section{
+            font-weight: 500;
+        }
     }
 
     &-section {
@@ -59,6 +62,7 @@
     background-size: cover;
     background-position: 0 0;
     text-shadow: 0 0 50px rgba(0, 0, 0, 1);
+    font-weight: 500;
     p:last-of-type {
         margin-bottom: 0;
     }
