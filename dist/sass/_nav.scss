@@ -274,6 +274,7 @@ body.mobile header{
     height: 100%;
     &.detached{
         height: 102px;
+        height: 260px;
         &.is-active{
             height: 100%;
         }
@@ -288,6 +289,16 @@ body.mobile header{
     .is-active{
         .main-nav{
             opacity: 1;
+        }
+    }
+    .animated-logo{
+        margin-top: 4.375rem;
+        .animation{
+            margin: 0.75em auto 0.25em;
+            width: 80%;
+            &.slideUp{
+                margin-top: -8.75em;
+            }
         }
     }
 }
@@ -320,6 +331,7 @@ header {
   top: 0;
   width: 100%;
   height: 102px;
+  height: 260px;
   right: 0;
   z-index: 1000;
   cursor: pointer;
