@@ -274,6 +274,9 @@ body.mobile header{
     height: 100%;
     &.detached{
         height: 102px;
+        &.is-active{
+            height: 100%;
+        }
     }
     a{
         background-image: none;

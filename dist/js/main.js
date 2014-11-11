@@ -63,26 +63,21 @@ $(function() {
 
     // bind to navigation of functionality for responsive navigation
     // just fires when width of page is below 1024.
-    $('header').on('click', function(eve){
-
-        if (eve.target == 'a' || $(eve.target).parent().hasClass('logo')) {
-        //    console.log(eve.target);
-        } else {
-            if ($('body').hasClass('mobile')) {
-                $('header section.nav, .menu-button').toggleClass('is-active');
-                $('header section.hid').toggleClass('is-fixed');
-                if($('header section.hid').hasClass('is-fixed')){
-                    // iOS Safari
-                    document.ontouchmove = function(e){ e.preventDefault(); }
-                    window.setTimeout(function(){$('body').addClass('no_scroll');}, 200); // Firefox hack. Hides scrollbar as soon as menu animation is done
-                } else {
-                    // iOS Safari
-                    document.ontouchmove = function(e){ return true; }
-                    window.setTimeout(function(){$('body').removeClass('no_scroll');}, 10); // allow animations to start before removing class (Firefox)
-                }
-
+    $('.menu-button').on('click', function(event){
+        event.preventDefault();
+        if ($('body').hasClass('mobile')) {
+            $('header, header section.nav, .menu-button').toggleClass('is-active');
+            $('header section.hid').toggleClass('is-fixed');
+            // Lock scrolling if the mobile fullscreen nav is on
+            if($('header section.hid').hasClass('is-fixed')){
+                // iOS Safari
+                document.ontouchmove = function(e){ e.preventDefault(); }
+                window.setTimeout(function(){$('body').addClass('no_scroll');}, 200); // Firefox hack. Hides scrollbar as soon as menu animation is done
+            } else {
+                // iOS Safari
+                document.ontouchmove = function(e){ return true; }
+                window.setTimeout(function(){$('body').removeClass('no_scroll');}, 10); // allow animations to start before removing class (Firefox)
             }
-
         }
     });
 
