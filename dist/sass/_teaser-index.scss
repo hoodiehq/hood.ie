@@ -204,9 +204,14 @@ svg rect {
             color: #fff;
             text-align: center;
 
+            h3 {
+              color: #fff;
+            }
+
             a {
                 color: #fff;
-                margin-left: rem-calc(-15);
+                display: block;
+                //margin-left: rem-calc(-15);
             }
             img {
                 margin: rem-calc(14 0 5 -15);
@@ -312,4 +317,3 @@ svg rect {
     transform: scale(1);
   }
 }
-
