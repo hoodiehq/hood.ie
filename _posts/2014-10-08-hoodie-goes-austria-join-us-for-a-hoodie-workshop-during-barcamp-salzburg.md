@@ -7,7 +7,7 @@ comments: true
 
 ---
 
-[<img class="alignnone size-full wp-image-1770" src="http://blog.hood.ie/wp-content/uploads/2014/09/Screen-Shot-2014-09-30-at-10.00.01.png" alt="Screen Shot 2014-09-30 at 10.00.01" />][1]
+![](/blog/images/201410/barcamp--optimised.jpg)
 Twice a year, the University of Applied Sciences in Salzburg hosts a Barcamp. A [Barcamp][2] is an un-conference: there's no fixed schedule, all sessions and topics are discussed when all attendees are there and everyone has the chance to bring themselves and their ideas in.
 
 From **October 24-26**, this Barcamp will take place [in Salzburg for the 7th time][1]. The range of topics in the past years covered (almost) everything from JavaScript to Ruby on Rails, Perl and PHP; from test-driven development to usability, from Greenpeace to Firefox OS. The audience included people from various industries, NGOs, as well as the university. [Registration and Tickets][3] for the Barcamp are free (you should only register so the organizers can plan accordingly).
