@@ -2,6 +2,7 @@
 title: 'Welcome to the new Hood.ie Website'
 author: The Hoodies
 layout: blog-post
+comments: true
 ---
 
 It all started under the beautiful palm trees of Lanzarote during the second Hoodie [Offsite](/blog/here-comes-the-sun-here-comes-the-hoodies-hoodie-offsite-2.html).
