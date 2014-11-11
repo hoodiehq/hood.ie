@@ -142,7 +142,7 @@ a {
     background-repeat: repeat-x;
     background-size: 1px 1px;
     background-position: 0 rem-calc(22);
-    text-shadow: 1px 0 0 #fff, -1px 0 0 #fff;
+    //text-shadow: 1px 0 0 #fff, -1px 0 0 #fff;
 }
 
 @-moz-document url-prefix() {
@@ -210,7 +210,7 @@ aside {
         text-align: right;
     }
     a {
-        background-image: linear-gradient(to bottom, rgba(153, 153, 153, 1) 75%, rgba(153, 153, 153, .8) 75%) !important;
+        background-image: linear-gradient(to bottom, rgba($gray-2, 1) 75%, rgba($gray-2, .8) 75%) !important;
     }
 }
 

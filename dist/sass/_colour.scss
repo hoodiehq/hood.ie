@@ -29,7 +29,7 @@ body {
 }
 
 aside {
-    color: $gray-4;
+    color: $gray-2;
 }
 
 .box:nth-child(even) {
@@ -46,7 +46,7 @@ aside {
 }
 
 .cb aside a {
-    color: $gray-4;
+    color: $gray-2;
 }
 
 article figure {
@@ -294,4 +294,3 @@ article figure {
 .gray a {
     background-image: linear-gradient(to bottom, rgba(40, 40, 40, 1) 75%, rgba(40, 40, 40, .8) 75%);
 }
-
