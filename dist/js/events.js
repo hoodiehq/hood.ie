@@ -71,7 +71,7 @@ $(function() {
         output += '<h3>'+item.name+'</h3>';
         output += '<span class="subline">'+item.type+'</span>';
         output += '<time>'+item.date.getDate()+'.'+(item.date.getMonth()+1)+'.'+item.date.getFullYear()+'</time>';
-        output += ' – <span class="location">'+item.location+'</span>';
+        output += ' — <span class="location">'+item.location+'</span>';
         output += '<p class="description">'+item.description+'</p>';
         if(item.video || item.slides || item.link){
             output += '<ul class="links">';
