@@ -13,7 +13,6 @@ There's also a production task ('grunt build') which at this point just spits ou
 
 Use the .editorsconfig file with your editor of choice to ensure a consistent coding style. Plugins are available at [http://editorconfig.org/#download](http://editorconfig.org/#download title="editorconfig download").
 
-
 ### How to use Layouts inside of Jekyll
 
 There is a default layout for every theme described above. If you want to create a new page start it with the following lines:
