@@ -272,6 +272,9 @@ body {
 
 body.mobile header{
     height: 100%;
+    &.detached{
+        height: 102px;
+    }
     a{
         background-image: none;
     }
