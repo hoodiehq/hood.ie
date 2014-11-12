@@ -301,6 +301,9 @@ article figure figcaption {
 .green a {
   background-image: linear-gradient(to bottom, #0b8e36 75%, rgba(11, 142, 54, 0.8) 75%); }
 
+.gray a {
+  background-image: linear-gradient(to bottom, #282828 75%, rgba(40, 40, 40, 0.8) 75%); }
+
 body {
   font-family: 'Fira Sans', sans-serif;
   font-size: 100%;
@@ -317,6 +320,10 @@ h1, .h1 {
   margin-bottom: 1.25rem; }
   h1 a, .h1 a {
     background-position: 0 1.15em; }
+
+@-moz-document url-prefix() {
+  h1 a, .h1 a {
+    background-position: 0 0.93em; } }
 
 h2, .h2 {
   font-size: 1.4em;
@@ -947,13 +954,16 @@ aside img {
     @media (min-width: 50.3125em) {
       .teaser-index .main {
         margin-top: -3.125rem !important; } }
+    .teaser-index .main .teaser-index-section {
+      font-weight: 400; }
   .teaser-index-section {
     padding: 0.9375rem 0.375rem; }
 
 .index .img-bg {
   background-size: cover;
   background-position: 0 0;
-  text-shadow: 0 0 50px black; }
+  text-shadow: 0 0 50px black;
+  font-weight: 400; }
   .index .img-bg p:last-of-type {
     margin-bottom: 0; }
 
@@ -1040,9 +1050,11 @@ svg path, svg rect {
     background-color: #e94e1b !important;
     color: #fff;
     text-align: center; }
+    .index .content .row .orange-box h3 {
+      color: #fff; }
     .index .content .row .orange-box a {
       color: #fff;
-      margin-left: -0.9375rem; }
+      display: block; }
     .index .content .row .orange-box img {
       margin: 0.875rem 0 0.3125rem -0.9375rem; }
   .index .content .row .center {
@@ -1122,7 +1134,8 @@ header a, footer a {
 
 .nav {
   padding: 1.0625rem 1.25rem;
-  display: flex; }
+  display: flex;
+  transition: height 0.2s; }
   .nav.is-active {
     position: fixed;
     flex-direction: column;
@@ -1137,6 +1150,13 @@ header a, footer a {
       .nav.is-active .main-nav > a {
         margin-right: 0;
         display: block; }
+      @media (max-height: 26.667em) {
+        .nav.is-active .main-nav {
+          width: 80%;
+          padding-right: 1em; }
+          .nav.is-active .main-nav a {
+            display: inline-block;
+            padding-left: 1em; } }
     .nav.is-active .meta-nav {
       text-align: center; }
     .nav.is-active + .hid .sub-nav {
@@ -1147,11 +1167,12 @@ header a, footer a {
     .nav.is-active .active {
       background-position: 0 6.1vh; }
   .nav .active {
-    background-image: linear-gradient(to bottom, #ffffff 75%, rgba(255, 255, 255, 0.8) 75%) !important; }
+    font-weight: bold; }
 
 .logo {
   margin-right: 0 !important;
-  display: block; }
+  display: block;
+  transition: all 0.2s; }
   .is-active .logo {
     padding-top: 3vh;
     width: 50%;
@@ -1234,7 +1255,9 @@ header a, footer a {
 
 .is-active .menu-button {
   transform: rotate(45deg);
-  top: -72vh; }
+  top: 1rem;
+  position: absolute;
+  right: 1.25rem; }
 .is-active .menu-button-span:after {
   opacity: 0; }
 .is-active .menu-button-span:before {
@@ -1306,5 +1329,95 @@ body.gray .animation.colorise .letter {
   position: fixed !important;
   bottom: 0;
   z-index: 400; }
+
+body.mobile header {
+  height: 185px; }
+  body.mobile header.detached {
+    height: 185px; }
+    body.mobile header.detached.is-active {
+      height: 100%; }
+  body.mobile header.is-active {
+    height: 100%; }
+  body.mobile header a {
+    background-image: none; }
+  body.mobile header .main-nav {
+    opacity: 0;
+    transition: opacity 0.5s; }
+  body.mobile header .is-active .main-nav {
+    opacity: 1; }
+  body.mobile header .animated-logo {
+    margin-top: 4.375rem; }
+    body.mobile header .animated-logo .animation {
+      margin: 0.75em auto 0.25em;
+      width: 80%; }
+      body.mobile header .animated-logo .animation.slideUp {
+        margin-top: -8.75em; }
+
+/* when navigation is shown, don’t allow scrolling of content */
+body.no_scroll {
+  overflow: hidden;
+  height: 100%; }
+
+/* Firefox fix for overflow: hidden. Scroll bar is hidden and moves everything to the right */
+@-moz-document url-prefix() {
+ }
+
+/* === TOP MENU LAYOUT === */
+/* ======================= */
+header {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 102px;
+  height: 260px;
+  right: 0;
+  z-index: 1000;
+  cursor: pointer;
+  overflow: hidden;
+  -webkit-transform: translate(0, 0);
+  -moz-transform: translate(0, 0);
+  -o-transform: translate(0, 0);
+  transform: translate(0, 0);
+  -webkit-transition: -webkit-transform 0.4s, height 0.3s, background 0.4s;
+  -moz-transition: -moz-transform 0.4s, height 0.3s, background 0.4s;
+  transition: transform 0.4s, height 0.3s, background 0.4s; }
+
+/* when hidden it goes up */
+header.invisible {
+  -webkit-transform: translate(0, -64px);
+  -moz-transform: translate(0, -64px);
+  -o-transform: translate(0, -64px);
+  transform: translate(0, -64px);
+  -webkit-transition: -webkit-transform 0.2s;
+  -moz-transition: -moz-transform 0.2s;
+  -o-transition: -o-transform 0.2s;
+  transition: transform 0.2s;
+  opacity: 0; }
+
+/* when shown & detached position is fixed */
+header.detached {
+  position: fixed;
+  -webkit-transition: -webkit-transform 0.3s, height 0.3s, background 0.4s, opacity 0.3s;
+  -moz-transition: -moz-transform 0.3s, height 0.3s, background 0.4s, opacity 0.3s;
+  -o-transition: -o-transform 0.3s, height 0.3s, background 0.4s, opacity 0.3s;
+  transition: transform 0.3s, height 0.3s, background 0.4s, opacity 0.3s; }
+
+/* === MENU NAVIGATION === */
+/* ======================= */
+/* increases menu width & height */
+header.expanded {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  cursor: default; }
+
+.menu-button-span:focus {
+  outline: none; }
+
+.expanded .menu-button-span:before {
+  content: 'x';
+  font-size: 1.4em;
+  line-height: 1.4em;
+  padding-right: 0.15em; }
 
 /*# sourceMappingURL=hoodie.css.map */

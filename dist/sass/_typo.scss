@@ -145,10 +145,6 @@ a {
     text-shadow: 1px 0 0 #fff, -1px 0 0 #fff;
 }
 
-a.no-line {
-  background-image: none;
-}
-
 @-moz-document url-prefix() {
     a {
         background-position: 0 rem-calc(18);
