@@ -1,16 +1,11 @@
 ---
+
 title: 'Reflections on offline first and blogging about the complexity of fruit salad trees: TGIF! (39)'
 author: Lena
-layout: blog-post
-//permalink: /2014/08/reflecting-and-blogging-about-the-complexity-of-fruit-salad-trees-tgif-39/
----
-<p style="text-align: center;">
-  <em>Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!</em>
-</p>
+layout: blog-post-tgif
 
-<p style="text-align: center;">
-  ____________
-</p>
+---
+Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!
 
 **Open Source**
 
