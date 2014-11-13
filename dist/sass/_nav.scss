@@ -271,11 +271,12 @@ body {
 }
 
 body.mobile header{
-    //height: 100%;
-    height: 185px;
+    height: 65px;
+    &.during-intro{
+        height: 200px;
+    }
     &.detached{
-        //height: 102px;
-        height: 185px;
+        height: 65px;
         &.is-active{
             height: 100%;
         }
@@ -335,7 +336,6 @@ header {
   top: 0;
   width: 100%;
   height: 102px;
-  height: 260px;
   right: 0;
   z-index: 1000;
   cursor: pointer;
@@ -347,6 +347,9 @@ header {
   -webkit-transition: -webkit-transform .4s, height .3s, background .4s;
   -moz-transition: -moz-transform .4s, height .3s, background .4s;
   transition: transform .4s, height .3s, background .4s;
+  &.during-intro{
+    height: 245px;
+  }
 }
 
 /* when hidden it goes up */

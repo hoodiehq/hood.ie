@@ -2,7 +2,7 @@ $(function() {
     if(window.localStorage && window.localStorage['hasSeenIntro']){
         $('.animated-logo').remove();
     } else {
-        $('.content').addClass('during-intro');
+        $('.content, header').addClass('during-intro');
         setTimeout(function(){
             $('.animated-logo .animation').addClass('animate');
             setTimeout(function(){
@@ -12,7 +12,7 @@ $(function() {
                 $('.animated-logo .animation').addClass('slideUp');
             }, 5000);
             setTimeout(function(){
-                $('.content').removeClass('during-intro');
+                $('.content, header').removeClass('during-intro');
             }, 5500);
             window.localStorage['hasSeenIntro'] = 'true';
         }, 500);
