@@ -15,7 +15,8 @@ paginate_path: "/blog/page:num"
 paginate: 10
 
 # 404
-
+gems:
+  - jekyll-redirect-from
 
 sub-navigation:
 - title: What is Hoodie?
