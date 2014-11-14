@@ -128,7 +128,7 @@ Try [Being Bread](http://mashable.com/2014/10/17/bread-simulator-game) for a day
 
 >
 Misconceptions are typical around the world, but they can have a significant impact as politicians aim to focus on voter perceptions, not on the actual data. –
-<cite><a href=http://www.theguardian.com/news/datablog/2014/oct/29/todays-key-fact-you-are-probably-wrong-about-almost-everything">You are probably wrong about almost everything</a>
+<cite><a href="http://www.theguardian.com/news/datablog/2014/oct/29/todays-key-fact-you-are-probably-wrong-about-almost-everything">You are probably wrong about almost everything</a></cite>
 
 Which language stems from which? Check out this [beautiful linguistic family tree](http://mentalfloss.com/article/59665/feast-your-eyes-beautiful-linguistic-family-tree) to find out.
 
