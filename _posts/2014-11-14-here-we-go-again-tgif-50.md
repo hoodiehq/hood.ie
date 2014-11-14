@@ -32,7 +32,7 @@ In the design community, [giving back](http://www.hongkiat.com/blog/design-commu
 >
 The pixel has always been the smallest unit in screen-based design. Because it’s been indivisible, it is the concrete unit of measurement among screen-based designers. –
 <cite><a href="http://alistapart.com/article/a-pixel-identity-crisis">A Pixel Identity Crisis</a></cite>
-&
+
 [5 tips](http://bethevibe.co/home/5-tips-for-the-soon-to-be-self-employed) for the soon to be self-employed
 
 >
@@ -42,6 +42,10 @@ If Paul McCartney were a web developer, and writing ‘Sergeant Pepper’s Lonel
 [Fontface Ninja](http://fontface.ninja/) helps you identify the names of types used on a website and lets you download them when they’re free
 
 ##The Web and Development
+
+Bethany Macri talking about how building a Post Mortem Tool helped her [understanding events better](http://vimeo.com/77206751).
+
+[Net Neutrality for beginners](http://theoatmeal.com/blog/net_neutrality), illustrated
 
 Work with members of the Hoodie [Community](/community) on Ebola-related projects: join the [eHealth Africa Team](https://github.com/eHealthAfrica/jobs) as a [Frontend Developer](https://github.com/eHealthAfrica/jobs/blob/master/senior-frontend-developer.md), [DevOps Engineer](https://github.com/eHealthAfrica/jobs/blob/master/devops-engineer.md) or [Python / Django Developer](https://github.com/eHealthAfrica/jobs/blob/master/python-django-developer.md).
 
@@ -97,7 +101,11 @@ Dad’s masculinity, the messaging implies, automatically ensures his grasp of a
 
 ##The Business
 
+One man's [journey to more productivity](https://medium.com/matter/work-it-harder-make-it-better-do-it-faster-makes-us-stronger-65c137c79aeb).
+
 The secret of [bouncing back stronger](http://www.inc.com/jessica-stillman/the-secret-to-bouncing-back-stronger-after-failure.html) after failure.
+
+Selflessness, empathy and grace under fire make for [a great leader](http://www.inc.com/jill-krasny/simon-sinek-leaders-dna.html?cid=sf01001).
 
 >
 I make sure the people I report to (managers, client, etc), are informed and know that I suffer from depression. From there, I start the conversation about how we can manage it. –
@@ -116,6 +124,8 @@ Employees will know the company expects them to take off at least a certain numb
 ##We <3
 
 [Ten Lessons learned from Organizing Diversity-Focused Events](https://modelviewculture.com/pieces/ten-lessons-learned-from-organizing-diversity-focused-events)
+
+Someone asked their Coworker to watch their plant for 4 Days. [Here's what happened next](http://www.boredpanda.com/guy-babysits-coworkers-plant/).
 
 >
 Who was I? I wasn’t sure anymore. And I was even less sure that I cared, which was actually both the strangest and most terrifying part of the whole ordeal. –
