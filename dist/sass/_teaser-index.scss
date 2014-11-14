@@ -1,22 +1,19 @@
-.index .content {
-    @include breakpoint(index) {
-        padding: rem-calc(270 16 0);
-    }
-}
-
 .teaser-index {
     display: flex;
     flex-wrap: wrap;
+
     .grid-3 {
         width: 100% !important;
         max-width: 100% !important;
         background-color: #fcfcfc;
+
         @include breakpoint(index) {
             width: 32.833333333% !important;
             max-width: none !important;
             border-top-left-radius: rem-calc(12);
             border-top-right-radius: rem-calc(12);
         }
+
         &:first-child {
             margin-top: 0 !important;
             margin-right: 0 !important;
@@ -26,14 +23,17 @@
                 margin-right: .75% !important;
             }
         }
+
         &:last-child {
             margin-top: 0 !important;
             order: 3;
         }
+
         p {
             margin-bottom: rem-calc(15);
         }
     }
+
     .main {
         margin-right: 0 !important;
         order: 1;
@@ -41,16 +41,20 @@
         background-color: $orange;
         border-top-left-radius: rem-calc(12);
         border-top-right-radius: rem-calc(12);
+
         @include breakpoint(index) {
             order: 2;
             margin-right: .75% !important;
         }
+
         @include breakpoint(index) {
             margin-top: rem-calc(-50) !important;
         }
-        .teaser-index-section{
+
+        .teaser-index-section {
             font-weight: 400;
         }
+
     }
 
     &-section {
@@ -63,9 +67,11 @@
     background-position: 0 0;
     text-shadow: 0 0 50px rgba(0, 0, 0, 1);
     font-weight: 400;
+
     p:last-of-type {
         margin-bottom: 0;
     }
+
 }
 
 .index .icon-calendar {
@@ -77,9 +83,11 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+
     h3 {
         margin-bottom: 0 !important;
     }
+
 }
 
 .index section p:last-of-type {
@@ -91,31 +99,38 @@ svg rect {
     fill: currentColor;
 }
 
-// =========== landing page ==============
-
 .index .content {
+
+    @include breakpoint(index) {
+        padding: rem-calc(270 16 0);
+    }
+
     .row {
         display: flex;
         flex-wrap: wrap;
         margin-bottom: rem-calc(16);
-        &.first div.main {
+
+        &.first .main {
             margin-top: 0;
             background-color: #e94e1b;
             color: #fff;
+
             h3 {
                 font-size: rem-calc(36);
                 text-align: center;
-                // margin-left: rem-calc(-18);
                 margin-bottom: rem-calc(13);
                 color: #fff;
             }
+
             p {
                 line-height: rem-calc(28);
             }
+
             a {
                 color: #fff;
                 background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 75%, rgba(255, 255, 255, .8) 75%);
             }
+
         }
 
         // white background
@@ -226,22 +241,27 @@ svg rect {
         .grid-3 {
             max-width: none;
             width: 100%;
+
             @include breakpoint(mv-lv) {
                 width: 32.833333333%;
                 margin-right: .75%;
             }
+
             &:nth-child(3n) {
                 margin-right: 0;
             }
+
         }
 
         .grid-6 {
             max-width: none;
             margin-right: 0;
             width: 100%;
+
             @include breakpoint(mv-lv) {
                 width: 66.416666666%;
             }
+
         }
 
         .grid-9 {
@@ -253,14 +273,17 @@ svg rect {
         .m-l {
             margin-right: 0;
             margin-left: 0;
+
             @include breakpoint(mv-lv) {
                margin-left: .75%;
             }
+
         }
+
     }
 
 // more mailchimp newsletter
-#mc-embedded-subscribe{
+#mc-embedded-subscribe {
     display: none;
 }
 
@@ -311,13 +334,15 @@ svg rect {
 }
 
 @keyframes kaboom {
-  0% {
-    opacity: 0;
-    transform: scale(.1);
-  }
 
-  100% {
-    opacity: 1;
-    transform: scale(1);
-  }
+    0% {
+        opacity: 0;
+        transform: scale(.1);
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
 }
