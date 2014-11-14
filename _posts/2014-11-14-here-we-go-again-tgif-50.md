@@ -1,15 +1,16 @@
 ---
 
-title: ‘Here we go again: TGIF (50)’
+title: 'Here we go again: TGIF! (50)'
 author: Lena
 layout: blog-post-tgif
 comments: true
 
 ---
 
-This is the 50th issue of Hoodie’s weekly “TGIF” series. And for this special occasion, we’re also back with a new look (and now you know why we relaunched that website.) So …
 
-Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and here are our reading recommendations, curated for you by <a href=“http://twitter.com/juschm” target=“_blank”>Julia</a> and <a href=“http://twitter.com/lrnrd” target=“_blank”>Lena</a> for your weekend. Enjoy!
+This is the 50th issue of Hoodie’s weekly "TGIF" series. And for this special occasion, we’re also back with a new look (and now you know why we relaunched that website.) So …
+
+Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and here are our reading recommendations, curated for you by [Julia](http://twitter.com/juschm) and [Lena](http://twitter.com/lrnrd) for your weekend. Enjoy!
 
 
 ##Open Source
@@ -30,13 +31,13 @@ In the design community, [giving back](http://www.hongkiat.com/blog/design-commu
 
 >
 The pixel has always been the smallest unit in screen-based design. Because it’s been indivisible, it is the concrete unit of measurement among screen-based designers. –
-<cite><a href=“http://alistapart.com/article/a-pixel-identity-crisis”>A Pixel Identity Crisis</a></cite>
+<cite><a href="http://alistapart.com/article/a-pixel-identity-crisis">A Pixel Identity Crisis</a></cite>
 
 [5 tips](http://bethevibe.co/home/5-tips-for-the-soon-to-be-self-employed) for the soon to be self-employed
 
 >
 If Paul McCartney were a web developer, and writing ‘Sergeant Pepper’s Lonely Hearts Club Band’ today … –
-<cite><a href=“https://dev.opera.com/articles/css-twenty-years-hakon/“>CSS: It was twenty years ago today — an interview with Håkon Wium Lie</a></cite>
+<cite><a href="https://dev.opera.com/articles/css-twenty-years-hakon/">CSS: It was twenty years ago today — an interview with Håkon Wium Lie</a></cite>
 
 [Fontface Ninja](http://fontface.ninja/) helps you identify the names of types used on a website and lets you download them when they’re free
 
@@ -44,11 +45,11 @@ If Paul McCartney were a web developer, and writing ‘Sergeant Pepper’s Lonel
 
 >
 We sat with mobile phones, scratch-off cards for calling credit, post-it notes, markers, and the accoutrements of the design world and they built a version of U-report that they wanted to use. –
-<cite><a href=“http://unicefstories.org/2014/10/29/wat-bother-u-d-most-abt-ebola-the-design-of-u-report-liberia/“>Wat bother u d most abt Ebola?</a></cite>
+<cite><a href="http://unicefstories.org/2014/10/29/wat-bother-u-d-most-abt-ebola-the-design-of-u-report-liberia/">Wat bother u d most abt Ebola?</a></cite>
 
 >
 Developers continue flocking to a saturated market filled with hipster pet rocks, devices that gather reams of largely superficial information for young people whose health isn’t in question, or at risk. It’s a shame because the people who could most benefit from this technology—the old, the chronically ill, the poor—are being ignored. –
-<cite><a href=“http://www.wired.com/2014/11/where-fitness-trackers-fail/“>Wearables are totally failing the people who need them most</a></cite>
+<cite><a href="http://www.wired.com/2014/11/where-fitness-trackers-fail/">Wearables are totally failing the people who need them most</a></cite>
 
 [A Linux Hobbyist’s Path to a Career in Tech](http://thenewstack.io/a-linux-hobbyists-path-to-a-career-in-tech-with-7-recommendations-for-women-and-minorities/) with 7 recommendations for Women and Minorities
 
@@ -56,41 +57,41 @@ Developers continue flocking to a saturated market filled with hipster pet rocks
 
 >
 Sometimes it’s tough to change course. –
-<cite>The latest issue of <a href=“http://andyet.com”>&yet’s</a> fabulous <a href=“http://createsend.com/t/r-717280AE95FEA0FD2540EF23F30FEDED”>&you</a> is out.</a></cite>
+<cite>The latest issue of <a href="http://andyet.com">&yet’s</a> fabulous <a href="http://createsend.com/t/r-717280AE95FEA0FD2540EF23F30FEDED">&you</a> is out.</a></cite>
 
 >
 Consequently, the person who is most likely to get new ideas is a person of good background in the field of interest and one who is unconventional in his habits. –
-<cite><a href=“http://www.technologyreview.com/view/531911/isaac-asimov-asks-how-do-people-get-new-ideas/“>Isaac Asimov asks, “How do people get new ideas?””</a></cite>
+<cite><a href="http://www.technologyreview.com/view/531911/isaac-asimov-asks-how-do-people-get-new-ideas/">Isaac Asimov asks, "How do people get new ideas?""</a></cite>
 
 ##The Tech World and Culture
 
 >
 My opinions don’t really matter, the only job left for me to do is listen to these amazing people and offer whatever support I can. –
-<cite><a href=“https://medium.com/node-js-javascript/codes-of-conduct-82ab2d88112d”>Codes of Conduct</a></cite>
+<cite><a href="https://medium.com/node-js-javascript/codes-of-conduct-82ab2d88112d">Codes of Conduct</a></cite>
 
 >
 When alcohol is currency, non-alcoholic drinks are considered valueless, and the interests and needs of people who don’t drink alcohol are easily forgotten. –
-<cite><a href=“https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options”>Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options</a></cite>
+<cite><a href="https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options">Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options</a></cite>
 
 >
 We must examine the harmful outcomes that technology events foster: discrimination, aggression, and harassment. The only way to change these outcomes is to change behavior. –
-<cite><a href=“https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces”>Making Tech Spaces safe for Diverse Faces</a></cite>
+<cite><a href="https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces">Making Tech Spaces safe for Diverse Faces</a></cite>
 
 >
 Most people I’ve spoken to agree that attempts to increase diversity are a good thing. Inevitably however, there are some that immediately cry ‘positive discrimination!’. I find myself trying to combat the same old misconceptions time and time again. I’d like to try and dispel some of them here.
-<cite><a href=“https://medium.com/the-microchicks/in-defence-of-diversity-measures-48e4702b1dbd”>In Defence of Diversity Measures</a></cite>
+<cite><a href="https://medium.com/the-microchicks/in-defence-of-diversity-measures-48e4702b1dbd">In Defence of Diversity Measures</a></cite>
 
 >
 From what I know about social psychology, if you want to change peoples’ behavior, it’s not enough to give them an aspiration: you need to give them a concrete first step. –
-<cite><a href=“https://medium.com/@cindyalvarez/what-a-huge-difference-those-little-actions-make-8e8c06db739f”>What a huge difference those little actions make</a></cite>
+<cite><a href="https://medium.com/@cindyalvarez/what-a-huge-difference-those-little-actions-make-8e8c06db739f">What a huge difference those little actions make</a></cite>
 
 >
 Socially progressive men often ask how they can support women, what they can do about issues like impostor syndrome. One thing they might want to consider is the role of men in undermining women’s accomplishments, and, specifically, in taking advantage of and exploiting impostor syndrome. –
-<cite><a href=“http://meloukhia.net/2014/11/exploiting_impostor_syndrome/“>Exploiting Impostor Syndrome</a></cite>
+<cite><a href="http://meloukhia.net/2014/11/exploiting_impostor_syndrome/">Exploiting Impostor Syndrome</a></cite>
 
 >
 Dad’s masculinity, the messaging implies, automatically ensures his grasp of all new products and services out of the gate. While women are belittled for (supposedly) not knowing how to use new tools, men are allowed to remain ignorant about the social context in which those tools are put to use and the fact that some people, and not only women, are prevented from using them. –
-<cite><a href=“http://www.thebaffler.com/salvos/dads-tech”>The Dads of Tech</a></cite>
+<cite><a href="http://www.thebaffler.com/salvos/dads-tech">The Dads of Tech</a></cite>
 
 ##The Business
 
@@ -98,17 +99,17 @@ The secret of [bouncing back stronger](http://www.inc.com/jessica-stillman/the-s
 
 >
 I make sure the people I report to (managers, client, etc), are informed and know that I suffer from depression. From there, I start the conversation about how we can manage it. –
-<cite><a href=“https://medium.com/@miksago/on-working-with-depression-570cb534edc8”>On working with Depression</a></cite>
+<cite><a href="https://medium.com/@miksago/on-working-with-depression-570cb534edc8">On working with Depression</a></cite>
 
 >
 When we think about labor, we usually think about motivation and payment as the same thing, but the reality is that we should probably add all kinds of things to it: meaning, creation, challenges, ownership, identity, pride, etc. –
-<cite><a href=“http://blog.ted.com/2013/04/10/what-motivates-us-at-work-7-fascinating-studies-that-give-insights/“>What motivates us at work</a></cite>
+<cite><a href="http://blog.ted.com/2013/04/10/what-motivates-us-at-work-7-fascinating-studies-that-give-insights/">What motivates us at work</a></cite>
 
 [Keeping talented employees](http://java.dzone.com/articles/keeping-talented-employees).
 
 >
 Employees will know the company expects them to take off at least a certain number of days, and beyond that, time as needed. –
-<cite><a href=“https://medium.com/@cameronmoll/the-minimum-vacation-policy-15f6c3b922f”>The “Minimum Vacation” Policy</a></cite>
+<cite><a href="https://medium.com/@cameronmoll/the-minimum-vacation-policy-15f6c3b922f">The "Minimum Vacation" Policy</a></cite>
 
 ##We <3
 
@@ -116,7 +117,7 @@ Employees will know the company expects them to take off at least a certain numb
 
 >
 Who was I? I wasn’t sure anymore. And I was even less sure that I cared, which was actually both the strangest and most terrifying part of the whole ordeal. –
-<cite><a href=“http://www.elle.com/life-love/society-career/burnout-essay”>
+<cite><a href="http://www.elle.com/life-love/society-career/burnout-essay">
 I Came Undone: one woman’s horrifyingly real experience with Burnout</a></cite>
 
 If you’re interested in Iceland or volcanic activity, you can [visit Bardarbunga via web cam](http://www.livefromiceland.is/webcams/bardarbunga-2) - great sight, if the view is clear.
@@ -127,7 +128,7 @@ Try [Being Bread](http://mashable.com/2014/10/17/bread-simulator-game) for a day
 
 >
 Misconceptions are typical around the world, but they can have a significant impact as politicians aim to focus on voter perceptions, not on the actual data. –
-<cite><a href=http://www.theguardian.com/news/datablog/2014/oct/29/todays-key-fact-you-are-probably-wrong-about-almost-everything”>You are probably wrong about almost everything</a>
+<cite><a href=http://www.theguardian.com/news/datablog/2014/oct/29/todays-key-fact-you-are-probably-wrong-about-almost-everything">You are probably wrong about almost everything</a>
 
 Which language stems from which? Check out this [beautiful linguistic family tree](http://mentalfloss.com/article/59665/feast-your-eyes-beautiful-linguistic-family-tree) to find out.
 
