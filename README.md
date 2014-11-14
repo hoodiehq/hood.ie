@@ -29,7 +29,7 @@ Layout names follow the theme naming e.g. default-lilac.
 ### @include color-scheme
 
 The color-scheme mixin builds all relevant color stylings you need to create a fresh colored page. Just set up the two color variables `$color: rgba()` and `$color-l: rgba()` and provide them inside the mixin.
-`@include color-scheme($color, $color-l, 'put in the color-variable-name-without-$');
+`@include color-scheme($color, $color-l, 'put in the color-variable-name-without-$');`
 
 
 ## Accessibility
