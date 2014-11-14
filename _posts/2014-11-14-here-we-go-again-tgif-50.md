@@ -32,7 +32,7 @@ In the design community, [giving back](http://www.hongkiat.com/blog/design-commu
 >
 The pixel has always been the smallest unit in screen-based design. Because it’s been indivisible, it is the concrete unit of measurement among screen-based designers. –
 <cite><a href="http://alistapart.com/article/a-pixel-identity-crisis">A Pixel Identity Crisis</a></cite>
-
+&
 [5 tips](http://bethevibe.co/home/5-tips-for-the-soon-to-be-self-employed) for the soon to be self-employed
 
 >
@@ -57,7 +57,7 @@ Developers continue flocking to a saturated market filled with hipster pet rocks
 
 >
 Sometimes it’s tough to change course. –
-<cite>The latest issue of <a href="http://andyet.com">&yet’s</a> fabulous <a href="http://createsend.com/t/r-717280AE95FEA0FD2540EF23F30FEDED">&you</a> is out.</a></cite>
+<cite>The latest issue of <a href="http://andyet.com">&yet’s</a> fabulous <a href="http://createsend.com/t/r-717280AE95FEA0FD2540EF23F30FEDED">&you</a> is out.</cite>
 
 >
 Consequently, the person who is most likely to get new ideas is a person of good background in the field of interest and one who is unconventional in his habits. –
