@@ -32,7 +32,7 @@ In the design community, [giving back](http://www.hongkiat.com/blog/design-commu
 >
 The pixel has always been the smallest unit in screen-based design. Because it’s been indivisible, it is the concrete unit of measurement among screen-based designers. –
 <cite><a href="http://alistapart.com/article/a-pixel-identity-crisis">A Pixel Identity Crisis</a></cite>
-
+&
 [5 tips](http://bethevibe.co/home/5-tips-for-the-soon-to-be-self-employed) for the soon to be self-employed
 
 >
@@ -59,7 +59,7 @@ Developers continue flocking to a saturated market filled with hipster pet rocks
 
 >
 Sometimes it’s tough to change course. –
-<cite>The latest issue of <a href="http://andyet.com">&yet’s</a> fabulous <a href="http://createsend.com/t/r-717280AE95FEA0FD2540EF23F30FEDED">&you</a> is out.</a></cite>
+<cite>The latest issue of <a href="http://andyet.com">&yet’s</a> fabulous <a href="http://createsend.com/t/r-717280AE95FEA0FD2540EF23F30FEDED">&you</a> is out.</cite>
 
 >
 Consequently, the person who is most likely to get new ideas is a person of good background in the field of interest and one who is unconventional in his habits. –
@@ -130,7 +130,7 @@ Try [Being Bread](http://mashable.com/2014/10/17/bread-simulator-game) for a day
 
 >
 Misconceptions are typical around the world, but they can have a significant impact as politicians aim to focus on voter perceptions, not on the actual data. –
-<cite><a href=http://www.theguardian.com/news/datablog/2014/oct/29/todays-key-fact-you-are-probably-wrong-about-almost-everything">You are probably wrong about almost everything</a>
+<cite><a href="http://www.theguardian.com/news/datablog/2014/oct/29/todays-key-fact-you-are-probably-wrong-about-almost-everything">You are probably wrong about almost everything</a></cite>
 
 Which language stems from which? Check out this [beautiful linguistic family tree](http://mentalfloss.com/article/59665/feast-your-eyes-beautiful-linguistic-family-tree) to find out.
 
