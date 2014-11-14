@@ -45,21 +45,28 @@ aside {
     color: #fff !important;
 }
 
-.cb aside a {
-    color: $gray-4;
-}
+.cb {
 
-article figure {
-    figcaption {
+    &:odd {
+        background-color: $gray-5;
+    }
+
+    aside a {
         color: $gray-4;
     }
 }
 
-.cb:odd {
-    background-color: $gray-5;
+article figure {
+
+    figcaption {
+        color: $gray-4;
+    }
+
 }
 
+
 // orange theme --------------------
+
 .orange {
 
     .content {
@@ -77,6 +84,11 @@ article figure {
     a {
         color: $orange;
     }
+
+    a {
+        background-image: linear-gradient(to bottom, rgba(233, 78, 27, 1) 75%, rgba(233, 78, 27, .8) 75%);
+    }
+
     .nav,
     .footer {
         background-color: $orange;
@@ -92,6 +104,7 @@ article figure {
 }
 
 // blue theme --------------------
+
 .blue {
 
     .content {
@@ -110,12 +123,16 @@ article figure {
         color: $blue;
     }
 
+    a {
+        background-image: linear-gradient(to bottom, rgba(49, 39, 131, 1) 75%, rgba(49, 39, 131, .8) 75%);
+    }
+
     .nav,
     .footer {
         background-color: $blue;
     }
 
-    .footer li a { // @todo: 4 selector deep rule maybe over think that
+    .footer li a {
         color: #fff !important;
     }
 
@@ -126,6 +143,7 @@ article figure {
 
 
 // green theme --------------------
+
 .green {
     .content {
         background: url('../img/logo_cut_green.png') no-repeat center rem-calc(56);
@@ -143,12 +161,16 @@ article figure {
         color: $green;
     }
 
+    a {
+        background-image: linear-gradient(to bottom, rgba(11, 142, 54, 1) 75%, rgba(11, 142, 54, .8) 75%);
+    }
+
     .nav,
     .footer {
         background-color: $green;
     }
 
-    .footer li a { // @todo: 4 selector deep rule maybe over think that
+    .footer li a {
         color: #fff !important;
     }
 
@@ -159,6 +181,7 @@ article figure {
 
 
 // yellow theme --------------------
+
 .yellow {
     .content {
         background: url('../img/logo_cut_yellow.png') no-repeat center rem-calc(56);
@@ -176,12 +199,16 @@ article figure {
         color: $yellow;
     }
 
+    a {
+        background-image: linear-gradient(to bottom, rgba(249, 178, 51, 1) 75%, rgba(249, 178, 51, .8) 75%);
+    }
+
     .nav,
     .footer {
         background-color: $yellow;
     }
 
-    .footer li a { // @todo: 4 selector deep rule maybe over think that
+    .footer li a {
         color: #fff !important;
     }
 
@@ -192,6 +219,7 @@ article figure {
 
 
 // gray theme --------------------
+
 .gray {
 
     .content {
@@ -210,12 +238,16 @@ article figure {
         color: $gray-1;
     }
 
+    a {
+        background-image: linear-gradient(to bottom, rgba(40, 40, 40, 1) 75%, rgba(40, 40, 40, .8) 75%);
+    }
+
     .nav,
     .footer {
         background-color: $gray-1;
     }
 
-    .footer li a { // @todo: 4 selector deep rule maybe over think that
+    .footer li a {
         color: #fff !important;
     }
 
@@ -226,6 +258,7 @@ article figure {
 
 
 // lilac theme --------------------
+
 .lilac {
 
     .content {
@@ -244,12 +277,16 @@ article figure {
         color: $lilac;
     }
 
+    a {
+        background-image: linear-gradient(to bottom, rgba(82, 6, 68, 1) 75%, rgba(82, 6, 68, .8) 75%);
+    }
+
     .nav,
     .footer {
         background-color: $lilac;
     }
 
-    .footer li a { // @todo: 4 selector deep rule maybe over think that
+    .footer li a {
         color: #fff !important;
     }
 
@@ -260,38 +297,5 @@ article figure {
 
 .api-nav li a {
     color: $blue;
-}
-
-// .blue,
-// .gray,
-// .lilac {
-//     .cb p a,
-//     .cb li a {
-//         text-decoration: underline;
-//     }
-// }
-
-.blue a {
-    background-image: linear-gradient(to bottom, rgba(49, 39, 131, 1) 75%, rgba(49, 39, 131, .8) 75%);
-}
-
-.lilac a {
-    background-image: linear-gradient(to bottom, rgba(82, 6, 68, 1) 75%, rgba(82, 6, 68, .8) 75%);
-}
-
-.orange a {
-    background-image: linear-gradient(to bottom, rgba(233, 78, 27, 1) 75%, rgba(233, 78, 27, .8) 75%);
-}
-
-.yellow a {
-    background-image: linear-gradient(to bottom, rgba(249, 178, 51, 1) 75%, rgba(249, 178, 51, .8) 75%);
-}
-
-.green a {
-    background-image: linear-gradient(to bottom, rgba(11, 142, 54, 1) 75%, rgba(11, 142, 54, .8) 75%);
-}
-
-.gray a {
-    background-image: linear-gradient(to bottom, rgba(40, 40, 40, 1) 75%, rgba(40, 40, 40, .8) 75%);
 }
 
