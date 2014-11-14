@@ -21,3 +21,44 @@ $rem-base: 16px;
   }
   @return $remValues;
 }
+
+@mixin color-scheme($color, $color-l, $color-name) {
+
+    .content {
+        background-image: url('../img/logo_cut_#{$color-name}.png');
+        background-repeat: no-repeat;
+        background-position: center rem-calc(56);
+
+    }
+
+    footer {
+        background-image: url('../img/logo_cut_negativ_#{$color-name}.png');
+        background-repeat: no-repeat;
+        background-position: center 0;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    a {
+        color: $color;
+    }
+
+        a {
+            background-image: linear-gradient(to bottom, rgba($color, 1) 75%, rgba($color, .8) 75%);
+        }
+
+    .nav,
+    .footer {
+        background-color: $color;
+    }
+
+    .footer .sitemap-link {
+        color: #fff;
+    }
+
+    .sub-nav {
+        background-color: $color-l;
+    }
+}
