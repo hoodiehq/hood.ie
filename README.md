@@ -22,6 +22,7 @@ Use the .editorsconfig file with your editor of choice to ensure a consistent co
 * Avoid using IDs if possible
 * Try to fill the `alt-attribute` with meaning full content
 * Try to adhere to the selector intendation
+* Add comments to your code if you think it could be usefull
 
 #### Sass
 
@@ -39,6 +40,8 @@ Use the .editorsconfig file with your editor of choice to ensure a consistent co
 * Use unitless values for `line-height`
 * Leave out the unit values where possible e.g. instead of `0px` use `0`
 * Leave out the `0` on values like `0.3`
+* Use `-` notation for `.classes`
+* Add comments to your code if you think it could be usefull
 
 ### How to use Layouts inside of Jekyll
 
