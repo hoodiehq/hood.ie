@@ -58,6 +58,8 @@ $(function() {
             $('.nav').removeClass('is-active');
             $('.menu-button').removeClass('is-active');
             $('.hid').removeClass('is-fixed');
+        } else if (w > 1024 && $('header').hasClass('is-active')) {
+            $('header').removeClass('is-active');
         }
     }
 
