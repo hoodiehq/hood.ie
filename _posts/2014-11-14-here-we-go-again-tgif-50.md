@@ -43,6 +43,8 @@ If Paul McCartney were a web developer, and writing ‘Sergeant Pepper’s Lonel
 
 ##The Web and Development
 
+Work with members of the Hoodie [Community](/community) on Ebola-related projects: join the [eHealth Africa Team](https://github.com/eHealthAfrica/jobs) as a [Frontend Developer](https://github.com/eHealthAfrica/jobs/blob/master/senior-frontend-developer.md), [DevOps Engineer](https://github.com/eHealthAfrica/jobs/blob/master/devops-engineer.md) or [Python / Django Developer](https://github.com/eHealthAfrica/jobs/blob/master/python-django-developer.md).
+
 >
 We sat with mobile phones, scratch-off cards for calling credit, post-it notes, markers, and the accoutrements of the design world and they built a version of U-report that they wanted to use. –
 <cite><a href="http://unicefstories.org/2014/10/29/wat-bother-u-d-most-abt-ebola-the-design-of-u-report-liberia/">Wat bother u d most abt Ebola?</a></cite>
