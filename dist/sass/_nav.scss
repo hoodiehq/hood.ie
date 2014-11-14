@@ -15,6 +15,7 @@ footer {
     padding: rem-calc(17 20);
     display: flex;
     transition: height 0.2s;
+
     &.is-active {
         position: fixed;
         flex-direction: column;
@@ -26,37 +27,44 @@ footer {
             width: 50%;
             margin-top: 4vmin;
             margin-bottom: 5vmin;
+
             > a {
                 margin-right: 0;
                 display: block;
             }
+
             @include breakpoint(tiny) {
                 width: 80%;
                 // offset the a padding below
                 padding-right: 1em;
-                a{
+
+                a {
                     display: inline-block;
                     padding-left: 1em;
                 }
             }
         }
+
         .meta-nav {
             text-align: center;
         }
+
         & + .hid .sub-nav {
             top: auto;
             bottom: 0;
             padding: rem-calc(8 10 5 10);
             z-index: 101;
         }
+
         .active {
             background-position: 0 6.1vh;
         }
     }
+
     .active {
-        //background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 75%, rgba(255, 255, 255, .8) 75%) !important;
         font-weight: 500;
     }
+
 }
 
 .logo {
@@ -69,9 +77,11 @@ footer {
         margin: 0 auto;
         margin-left: 25%;
     }
+
     img {
         border: 0;
     }
+
 }
 
 .main-nav {
@@ -81,21 +91,26 @@ footer {
     .is-active & {
         display: block;
     }
+
     @include breakpoint(main-nav) {
         display: block;
     }
+
 }
 
 .meta-nav {
     padding: 0;
     margin: 0;
     display: none;
+
     .is-active & {
         display: inline-block;
     }
+
     @include breakpoint(main-nav) {
         display: inline-block;
     }
+
 }
 
 .meta-nav-list-item {
@@ -107,12 +122,15 @@ footer {
     .is-active + .hid & {
         display: block;
     }
+
     @include breakpoint(main-nav) {
         display: block;
     }
+
     a {
         background-image: none;
     }
+
 }
 
 .meta-nav a,
@@ -136,9 +154,11 @@ footer {
         display: block;
         top: -82.6vh;
     }
+
     @include breakpoint(main-nav) {
         display: none;
     }
+
 }
 
 .menu-button-span,
@@ -163,103 +183,123 @@ footer {
     top: rem-calc(-5);
     position: relative;
     transition: all .2s;
+
     &:before {
         top: rem-calc(20);
     }
+
     &:after {
         top: rem-calc(10);
     }
+
 }
 
 .is-active {
+
     .menu-button {
         transform: rotate(45deg);
         top: 1rem;
         position: absolute;
         right: 1.25rem;
     }
+
     .menu-button-span:after {
         opacity: 0;
     }
+
     .menu-button-span:before {
         transform: rotate(90deg);
         top: 0;
     }
+
 }
 
 body {
+
     &.orange .animation.colorise .letter {
         stroke: $orange;
     }
+
     &.blue .animation.colorise .letter {
         stroke: $blue;
     }
+
     &.green .animation.colorise .letter {
         stroke: $green;
     }
+
     &.yellow .animation.colorise .letter {
         stroke: $yellow;
     }
+
     &.lilac .animation.colorise .letter {
         stroke: $lilac;
     }
+
     &.gray .animation.colorise .letter {
         stroke: $gray-1;
     }
+
 }
 
-.animated-logo{
+.animated-logo {
     text-align: center;
     margin-top: rem-calc(102);
     position: absolute;
-    background: #FFFFFF;
+    background: #fff;
     width: 100%;
     overflow: hidden;
-    .animation{
+
+    .animation {
         transition: margin-top 0.5s, stroke 0.5s;
         margin: 1.25em 0 1em;
-        svg{
+
+        svg {
             width: 90%;
         }
-        &.slideUp{
+
+        &.slideUp {
             margin-top: -8.75em;
         }
-        &.animate .letter{
+
+        &.animate .letter {
             opacity: 1;
-            transform: scale(1.0);
+            transform: scale(1);
         }
 
         .letter {
             opacity: 0;
-            transform: scale(0.1);
+            transform: scale(.1);
             transform-origin: center center;
-            -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1); /* older webkit */
-            -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
-               -moz-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
-                 -o-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
-                    transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275); /* easeOutBack */
+                    transition: all 500ms cubic-bezier(.175, .885, .320, 1.275); /* easeOutBack */
+
             &:nth-child(2) {
               transition-delay: 0.1s;
             }
+
             &:nth-child(3) {
               transition-delay: 0.2s;
             }
+
             &:nth-child(4) {
               transition-delay: 0.3s;
             }
+
             &:nth-child(5) {
               transition-delay: 0.4s;
             }
+
             &:nth-child(6) {
               transition-delay: 0.4s;
             }
+
         }
     }
 }
 
-.content{
+.content {
     transition: background-position 1s, margin-top 0.5s;
-    &.during-intro{
+    &.during-intro {
         margin-top: 3rem;
         background-position: center rem-calc(-100);
     }
@@ -276,66 +316,67 @@ body {
     z-index: 400;
 }
 
-body.mobile header{
+.mobile header {
     height: 65px;
-    &.during-intro{
+
+    &.during-intro {
         height: 200px;
     }
-    &.detached{
+
+    &.detached {
         height: 65px;
-        &.is-active{
+
+        &.is-active {
             height: 100%;
         }
+
     }
-    &.is-active{
+
+    &.is-active {
         height: 100%;
     }
-    a{
+
+    a {
         background-image: none;
     }
-    .main-nav{
+
+    .main-nav {
         opacity: 0;
         transition: opacity 0.5s;
     }
-    .is-active{
-        .main-nav{
+
+    .is-active {
+
+        .main-nav {
             opacity: 1;
         }
+
     }
-    .animated-logo{
+
+    .animated-logo {
         margin-top: 4.375rem;
-        .animation{
+
+        .animation {
             margin: 0.75em auto 0.25em;
             width: 80%;
-            &.slideUp{
+
+            &.slideUp {
                 margin-top: -8.75em;
             }
+
         }
     }
 }
 
 // HEADER
 
-/* when navigation is shown, don’t allow scrolling of content */
-body.no_scroll {
+// when navigation is shown, don’t allow scrolling of content
+.no_scroll {
   overflow: hidden;
   height: 100%;
 }
 
-/* Firefox fix for overflow: hidden. Scroll bar is hidden and moves everything to the right */
-@-moz-document url-prefix() {
-  body.no_scroll {
-    /*margin-right: 23px;*/
-  }
-
-  body.no_scroll .expanded {
-    /*padding-right: 7px;*/
-    //background: rgba(255,255,255,.98); /* because FF no blur, reduce bg transparency */
-  }
-}
-
-/* === TOP MENU LAYOUT === */
-/* ======================= */
+// TOP MENU LAYOUT
 
 header {
   position: absolute;
@@ -346,61 +387,45 @@ header {
   z-index: 1000;
   cursor: pointer;
   overflow: hidden;
-  -webkit-transform: translate(0,0);
-  -moz-transform: translate(0,0);
-  -o-transform: translate(0,0);
   transform: translate(0,0);
-  -webkit-transition: -webkit-transform .4s, height .3s, background .4s;
-  -moz-transition: -moz-transform .4s, height .3s, background .4s;
   transition: transform .4s, height .3s, background .4s;
-  &.during-intro{
+
+  &.during-intro {
     height: 245px;
   }
+
 }
 
-/* when hidden it goes up */
-header.invisible {
-  -webkit-transform: translate(0,-64px);
-  -moz-transform: translate(0,-64px);
-  -o-transform: translate(0,-64px);
-  transform: translate(0,-64px);
-  -webkit-transition: -webkit-transform .2s;
-  -moz-transition: -moz-transform .2s;
-  -o-transition: -o-transform .2s;
+// when hidden it goes up
+.invisible {
+  transform: translate(0, -64px);
   transition: transform .2s;
   opacity: 0;
 }
 
-/* when shown & detached position is fixed */
-header.detached {
+// when shown & detached position is fixed
+.detached {
   position: fixed;
-  -webkit-transition: -webkit-transform .3s, height .3s, background .4s, opacity .3s;
-  -moz-transition: -moz-transform .3s, height .3s, background .4s, opacity .3s;
-  -o-transition: -o-transform .3s, height .3s, background .4s, opacity .3s;
   transition: transform .3s, height .3s, background .4s, opacity .3s;
 }
 
-/* === MENU NAVIGATION === */
-/* ======================= */
-
-/* increases menu width & height */
-header.expanded {
+// increases menu width & height
+.expanded {
   width: 100%;
   height: 100%;
   position: fixed;
   cursor: default;
+
+  .menu-button-span:before {
+    content: 'x';
+    font-size: 1.4em;
+    line-height: 1.4em;
+    padding-right: .15em;
+  }
+
 }
 
-///* on focus, don’t show outline */
+// on focus, don’t show outline
 .menu-button-span:focus {
   outline: none;
 }
-
-///* changes icon to an “X” */
-.expanded .menu-button-span:before {
-  content: 'x';
-  font-size: 1.4em;
-  line-height: 1.4em;
-  padding-right: .15em;
-}
-
