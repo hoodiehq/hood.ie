@@ -11,7 +11,19 @@ There's also a production task ('grunt build') which at this point just spits ou
 
 <img src="http://i.giphy.com/7SEOvVtOdtU2Y.gif" />
 
+### Editorsconfig
+
 Use the .editorsconfig file with your editor of choice to ensure a consistent coding style. Plugins are available at [http://editorconfig.org/#download](http://editorconfig.org/#download title="editorconfig download").
+
+### Coding standards
+
+* Avoid using IDs if possible
+* Avoid styling elements directly
+* Never combine element and class selectors like `ul.list`
+* Avoid nesting deeper than 3 levels (Inception rule)
+* Use `$variables` reasonable
+* Leave one empty line before and after a nested selector
+* We use Autoprefixer, so no need to write vendor prefixes
 
 ### How to use Layouts inside of Jekyll
 
