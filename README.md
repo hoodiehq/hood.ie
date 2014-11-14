@@ -17,13 +17,28 @@ Use the .editorsconfig file with your editor of choice to ensure a consistent co
 
 ### Coding standards
 
+#### HTML
+
+* Avoid using IDs if possible
+* Try to fill the `alt-attribute` with meaning full content
+* Try to adhere to the selector intendation
+
+#### Sass
+
 * Avoid using IDs if possible
 * Avoid styling elements directly
 * Never combine element and class selectors like `ul.list`
+* Use nesting thoughtful
 * Avoid nesting deeper than 3 levels (Inception rule)
 * Use `$variables` reasonable
 * Leave one empty line before and after a nested selector
-* We use Autoprefixer, so no need to write vendor prefixes
+* We use [Autoprefixer](https://github.com/nDmitry/grunt-autoprefixer), so no need to write vendor prefixes
+* Use `//` for comments in `.scss` files
+* Leave one space between your `.selector` and the `{`
+* Use the helper classes you find in `._layout.scss`
+* Use unitless values for `line-height`
+* Leave out the unit values where possible e.g. instead of `0px` use `0`
+* Leave out the `0` on values like `0.3`
 
 ### How to use Layouts inside of Jekyll
 
