@@ -1,11 +1,11 @@
 
 
-// =========== height default var ==============
+// HEIGHT DEFAULT VAR
 
 $dh : rem-calc(40);
 
 
-// =========== Bio for a person with 3:6 grid ==============
+// BIO FOR A PERSON WITH 3:6 GRID
 
 .person-bio {
     .h3,
@@ -16,6 +16,19 @@ $dh : rem-calc(40);
 
         @include breakpoint(mv) {
             padding-left: rem-calc(175);
+        }
+
+    }
+
+    .h6 {
+        display: block;
+    }
+
+    p {
+        margin-bottom: rem-calc(12);
+
+        @include breakpoint(mv) {
+            margin-bottom: rem-calc(26);
         }
 
     }
@@ -51,10 +64,6 @@ $dh : rem-calc(40);
         }
     }
 
-    .h6 {
-        display: block;
-    }
-
     figure.grid-3.l {
         float: none;
 
@@ -63,19 +72,10 @@ $dh : rem-calc(40);
         }
 
     }
-
-    p {
-        margin-bottom: rem-calc(12);
-
-        @include breakpoint(mv) {
-            margin-bottom: rem-calc(26);
-        }
-
-    }
 }
 
 
-// =========== Friends + contribute ==============
+// FRIENDS + CONTRIBUTE
 
 .friends {
     @extend %cf;
@@ -116,7 +116,7 @@ $dh : rem-calc(40);
 }
 
 
-// =========== aside navigation for docs ==============
+// ASIDE NAVIGATION FOR DOCS
 
 .api-nav {
     position: absolute;
@@ -135,7 +135,7 @@ $dh : rem-calc(40);
 }
 
 
-// =========== hot fix for prism ==============
+// HOT FIX FOR PRISM
 
 code {
     white-space: normal !important;
@@ -145,7 +145,7 @@ code {
 }
 
 
-// =========== article ==============
+// ARTICLE
 
 ul,
 ol {
@@ -175,13 +175,12 @@ aside img {
 }
 
 
-// =========== jump mark ======== @todo describe propperly
+// JUMP MARK
 
 .jump-mark {
     background-image: none !important;
     padding-top: rem-calc(50);
     margin-top: rem-calc(-50);
-    -webkit-background-clip: content-box;
     background-clip: content-box;
 
     &:hover {
