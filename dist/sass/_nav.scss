@@ -1,8 +1,10 @@
 header,
 footer {
+
     a {
         text-shadow: none !important;
     }
+
 }
 
 @-moz-document url-prefix() {
@@ -35,7 +37,7 @@ footer {
 
             @include breakpoint(tiny) {
                 width: 80%;
-                // offset the a padding below
+                // OFFSET THE ANCHOR PADDING BELOW
                 padding-right: 1em;
 
                 a {
@@ -271,7 +273,7 @@ body {
             opacity: 0;
             transform: scale(.1);
             transform-origin: center center;
-                    transition: all 500ms cubic-bezier(.175, .885, .320, 1.275); /* easeOutBack */
+                    transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
 
             &:nth-child(2) {
               transition-delay: 0.1s;
@@ -370,7 +372,7 @@ body {
 
 // HEADER
 
-// when navigation is shown, don’t allow scrolling of content
+// WHEN NAVIGATION IS VISIBLE DON'T ALLOW TO SCROLL CONTENT
 .no_scroll {
   overflow: hidden;
   height: 100%;
@@ -396,20 +398,20 @@ header {
 
 }
 
-// when hidden it goes up
+// WHEN HIDDEN IT GOES UP
 .invisible {
   transform: translate(0, -64px);
   transition: transform .2s;
   opacity: 0;
 }
 
-// when shown & detached position is fixed
+// WHEN VISIBLE AND DETACHED POSITION IS FIXED
 .detached {
   position: fixed;
   transition: transform .3s, height .3s, background .4s, opacity .3s;
 }
 
-// increases menu width & height
+// INCREASE MENU WIDTH AND HEIGHT
 .expanded {
   width: 100%;
   height: 100%;
@@ -425,7 +427,7 @@ header {
 
 }
 
-// on focus, don’t show outline
+// ON FOCUS DON'T SHOW OUTLINE
 .menu-button-span:focus {
   outline: none;
 }
