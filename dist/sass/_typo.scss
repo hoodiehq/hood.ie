@@ -57,16 +57,20 @@ h1,
     font-weight: 500;
     line-height: 1.363;
     margin-bottom: rem-calc(20);
+
     a {
         background-position: 0 1.15em;
     }
+
 }
 
 @-moz-document url-prefix() {
+
     h1 a,
     .h1 a {
         background-position: 0 .93em;
     }
+
 }
 
 h2,
@@ -117,9 +121,11 @@ h6,
 .h-section {
     max-width: 37.5rem;
     margin: 0 auto rem-calc(19);
+
     @include breakpoint(lv) {
         margin: 0 auto rem-calc(19 230);
     }
+
 }
 
 p {
@@ -129,33 +135,50 @@ p {
 }
 
 .teaser {
+
     p {
         font-size: 1.7em;
         line-height: 1.618;
     }
+
     a {
         background-position: 0 rem-calc(33);
     }
+
     aside a {
         background-position: 0 rem-calc(23);
 
     }
+
 }
 
-aside a {
-    background-position: 0 rem-calc(21);
+aside {
+
+    @include breakpoint(lv) {
+        text-align: right;
+    }
+
+    a {
+        background-image: linear-gradient(to bottom, rgba(153, 153, 153, 1) 75%, rgba(153, 153, 153, .8) 75%) !important;
+        background-position: 0 rem-calc(21);
+   }
+
 }
 
 @-moz-document url-prefix() {
+
     .teaser a {
         background-position: 0 rem-calc(25);
     }
+
     .teaser aside a {
         background-position: 0 rem-calc(19);
     }
+
     aside a {
         background-position: 0 rem-calc(17);
     }
+
 }
 
 
@@ -186,6 +209,7 @@ a {
 }
 
 @-moz-document url-prefix() {
+
     a {
         background-position: 0 rem-calc(18);
     }
@@ -245,15 +269,6 @@ a {
     margin-right: 0;
 }
 
-aside {
-    @include breakpoint(lv) {
-        text-align: right;
-    }
-    a {
-        background-image: linear-gradient(to bottom, rgba(153, 153, 153, 1) 75%, rgba(153, 153, 153, .8) 75%) !important;
-    }
-}
-
 ul,
 ol {
     font-size: 1.1875em;
@@ -268,6 +283,7 @@ ol ul {
 }
 
 .cb {
+
     aside {
         font-size: 1.1em;
         line-height: 1.618;
@@ -275,24 +291,31 @@ ol ul {
 
     &.teaser {
         font-size: .8em;
+
         @include breakpoint(mv) {
             font-size: 1em;
         }
+
         aside {
             font-size: 1.2em;
             line-height: 1.618;
         }
+
     }
+
     li {
         margin-bottom: rem-calc(12);
     }
+
 }
 
 article figure {
+
     figcaption {
         font-size: 1.1em;
         line-height: 1.45;
     }
+
 }
 
 code {
@@ -301,7 +324,8 @@ code {
     line-height: 1.8;
 }
 
-input, textarea {
+input,
+textarea {
     font-family: "FiraSansLight", sans-serif;
 }
 
