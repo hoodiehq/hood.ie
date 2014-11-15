@@ -1,5 +1,17 @@
-// clearfix
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+img {
+    max-width: 100%;
+}
+
+// CLEARFIX
 %cf {
+
     &:before,
     &:after {
         content: " ";
@@ -9,6 +21,7 @@
     &:after {
         clear: both;
     }
+
 }
 
 section,
@@ -72,37 +85,63 @@ footer {
         width: 100%;
         max-width: rem-calc(600);
         margin: 0 auto;
+
         @include breakpoint(lv) {
             float: right;
         }
+
     }
 
     aside {
         width: 100%;
         margin: 0 auto;
         max-width: rem-calc(600);
+
         br {
             display: none;
+
             @include breakpoint(lv) {
                 display: inline;
             }
+
         }
+
         @include breakpoint(lv) {
             max-width: rem-calc(180);
             float: left;
             margin: rem-calc(0 50 0 0);
+        }
+
+    }
+
+    table {
+        width: 100%;
+    }
+
+    tr:nth-child(even) {
+        background-color: #e1e1e1;
+    }
+
+    td {
+        padding: 5px 8px;
+
+        &:nth-child(1) {
+            width: 60%;
         }
     }
 }
 
 .content {
     padding: rem-calc(160 16 0);
+
     @include breakpoint(mv) {
         padding: rem-calc(200 16 0);
     }
+
     @include breakpoint(lv) {
         padding: rem-calc(270 16 0)
     }
+
 }
 
 code {
@@ -111,20 +150,19 @@ code {
 }
 
 
-.grid-9 figure { // @todo: over think this rulest (better don't style elements)
-    img {
-        // padding-bottom: rem-calc(10);
-    }
-
-    figcaption {
-        padding-bottom: rem-calc(30);
-    }
-}
-
-// grids ------------
+// GRIDS
 .grid-9 {
     width: 100%;
     max-width: rem-calc(600);
+
+    figure {
+
+        figcaption {
+            padding-bottom: rem-calc(30);
+        }
+
+    }
+
 }
 
 .grid-6 {
@@ -144,7 +182,7 @@ code {
     flex-wrap: wrap;
 }
 
-// helper ------------
+// HELPER
 .l {
     float: left;
 }
@@ -166,13 +204,6 @@ code {
     display: block;
 }
 
-img {
-    max-width: 100%;
-}
-
-* {
-    box-sizing: border-box;
-}
 
 .switch-on-break {
     display: flex;
@@ -188,22 +219,8 @@ img {
     }
 }
 
-.cb table {
-    width: 100%;
+.vat {
+    display: block;
+    margin-top: rem-calc(15);
+    font-size: .8em;
 }
-
-    .cb tr:nth-child(even) {
-        background-color: #e1e1e1;
-    }
-        .cb td {
-            padding: 5px 8px;
-        }
-
-        .cb td:nth-child(1) {
-            width: 60%;
-        }
-
-        #VAT {
-            margin-top: rem-calc(15);
-            font-size: 0.8em;
-        }

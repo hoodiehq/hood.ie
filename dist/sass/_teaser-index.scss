@@ -133,12 +133,12 @@ svg rect {
 
         }
 
-        // white background
+        // WHITE BG
         &.white div {
             background-color: #fff;
         }
 
-        // regular styles
+        // REGULAR STYLES
         div {
             min-height: $dh;
             background-color: #fcfcfc;
@@ -156,7 +156,7 @@ svg rect {
                 padding: rem-calc(0) rem-calc(7);
             }
 
-            // Newsletter
+            // NEWSLETTER
             input {
                 border: 0 none;
                 color: #404040;
@@ -179,7 +179,7 @@ svg rect {
             border-bottom-left-radius: rem-calc(12);
         }
 
-        // special font-styles for index
+        // SPECIAL FONT STYLES FOR INDEX
         .img-bg h3, .img-bg p {
             color: #fff;
         }
@@ -192,7 +192,7 @@ svg rect {
             font-weight: 400;
         }
 
-        // BG-images
+        // BG IMAGES
         .merch {
             background-image: url('../content_img/index/index_merch.jpg');
         }
@@ -237,7 +237,7 @@ svg rect {
             margin-left: rem-calc(-14);
         }
 
-        // special grid for index
+        // SPECIAL GRID FOR INDEX
         .grid-3 {
             max-width: none;
             width: 100%;
@@ -282,12 +282,12 @@ svg rect {
 
     }
 
-// more mailchimp newsletter
+// MORE MAILCHIMP NEWSLETTER
 #mc-embedded-subscribe {
     display: none;
 }
 
-// animation @todo needs to be fixed (!)
+// ANIMATION
     #logo-animation {
         position: absolute;
         top: rem-calc(140);
@@ -303,7 +303,7 @@ svg rect {
             opacity: 0;
             transform: scale(.1);
             transform-origin: center center;
-            transition: all 500ms cubic-bezier(.175, .885, .320, 1.275); /* easeOutBack */
+            transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
 
             &:nth-child(2) {
                 transition-delay: .1s;
