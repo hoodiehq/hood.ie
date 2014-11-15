@@ -8,51 +8,69 @@ $dh : rem-calc(40);
 // =========== Bio for a person with 3:6 grid ==============
 
 .person-bio {
-    .h3, .h6, article p, .bio-link {
+    .h3,
+    .h6,
+    article p,
+    .bio-link {
         padding-left: 0;
+
         @include breakpoint(mv) {
             padding-left: rem-calc(175);
         }
+
     }
+
     .grid-3 {
         margin-top: rem-calc(5);
         max-width: rem-calc(150);
         position: relative;
+
         .sw {
             position: absolute;
             left: 0;
             opacity: 1;
             transition: opacity 0.25s;
+
             &:hover {
                 opacity: 0;
             }
+
         }
     }
+
     .bio-link {
         padding-top: 0;
         width: 100%;
         max-width: 37.5rem;
         margin: 0 auto;
+
         @include breakpoint(lv) {
             max-width: 11.25rem;
             padding-left: 0;
             padding-top: rem-calc(129);
         }
     }
+
     .h6 {
         display: block;
     }
+
     figure.grid-3.l {
         float: none;
+
         @include breakpoint(mv) {
             float: left;
         }
+
     }
+
     p {
         margin-bottom: rem-calc(12);
+
         @include breakpoint(mv) {
             margin-bottom: rem-calc(26);
         }
+
     }
 }
 
@@ -61,27 +79,40 @@ $dh : rem-calc(40);
 
 .friends {
     @extend %cf;
+
     .grid-3 {
         margin-bottom: rem-calc(20);
         text-align: center;
+
         @include breakpoint(mv) {
             margin-bottom: rem-calc(40);
         }
+
         @include breakpoint(lv) {
             margin-bottom: rem-calc(60);
         }
+
         figure {
             min-height: rem-calc(150);
             margin-bottom: rem-calc(16);
+
             &.contribute-topic-image-wrap {
                 min-height: rem-calc(90);
             }
+
             .contribute-topic-image {
                 width:rem-calc(80);
                 opacity: .4;
             }
+
         }
     }
+
+    .grid-svg {
+        margin-bottom: rem-calc(20);
+        color: rgba(0, 0, 0, .3);
+    }
+
 }
 
 
@@ -96,9 +127,11 @@ $dh : rem-calc(40);
     margin-left: rem-calc(220);
     background-color: $gray-6;
     border-radius: rem-calc(12);
+
     ul {
         margin-bottom: rem-calc(35);
     }
+
 }
 
 
@@ -150,36 +183,41 @@ aside img {
     margin-top: rem-calc(-50);
     -webkit-background-clip: content-box;
     background-clip: content-box;
+
     &:hover {
         background-image: none;
     }
+
 }
 
 
 .friends,
 .contribute-aside-icon {
+
     svg {
         width: rem-calc(80);
         height: rem-calc(80);
         display: block;
         margin: 0 auto;
     }
+
     use {
         transform: scale(2.5);
     }
+
 }
 
 .contribute-aside-icon {
+
     @include breakpoint(lv) {
         text-align: right;
     }
+
     svg {
         margin: 0;
         display: inline-block;
     }
+
 }
 
-.friends .grid-svg {
-    margin-bottom: rem-calc(20);
-    color: rgba(0, 0, 0, .3);
-}
+

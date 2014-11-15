@@ -300,35 +300,31 @@ svg rect {
         }
 
         .letter {
-          opacity: 0;
-          transform: scale(.1);
-          transform-origin: center center;
-          -webkit-transition: all 500ms cubic-bezier(.175, .885, .320, 1); /* older webkit */
-          -webkit-transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
-             -moz-transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
-               -o-transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
-                  transition: all 500ms cubic-bezier(.175, .885, .320, 1.275); /* easeOutBack */
+            opacity: 0;
+            transform: scale(.1);
+            transform-origin: center center;
+            transition: all 500ms cubic-bezier(.175, .885, .320, 1.275); /* easeOutBack */
 
-          &:nth-child(2) {
-            transition-delay: .1s;
-          }
+            &:nth-child(2) {
+                transition-delay: .1s;
+            }
 
-          &:nth-child(3) {
-            transition-delay: .2s;
-          }
+            &:nth-child(3) {
+                transition-delay: .2s;
+            }
 
-          &:nth-child(4) {
-            transition-delay: .3s;
-          }
+            &:nth-child(4) {
+                transition-delay: .3s;
+            }
 
-          &:nth-child(5) {
-            transition-delay: .4s;
-          }
-          &:nth-child(6) {
-            transition-delay: .4s;
-          }
+            &:nth-child(5) {
+                transition-delay: .4s;
+            }
+            &:nth-child(6) {
+                transition-delay: .4s;
+            }
+
         }
-
     }
 
 }
