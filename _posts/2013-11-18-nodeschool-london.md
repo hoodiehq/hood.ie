@@ -37,5 +37,5 @@ Many thanks to [hood.ie][4], [StreetHub][5] and [Kano][6] for making the ev
  [3]: http://nodeschool.io/
  [4]: http://hood.ie/
  [5]: https://www.streethub.com/#!
- [6]: http://teaser.kano.me/
+ [6]: http://kano.me/
  [7]: http://twitter.com/monkchips
