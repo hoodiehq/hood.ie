@@ -1,3 +1,48 @@
+/**
+ * CONTENTS
+ *
+ * BREAKPOINTS
+ * breakpoints.scss..........Defines the different breakpoints throughout the page
+ *
+ * RESET
+ * reset.scss................Gives us a solid base to build on
+ *
+ * FUNCTIONS
+ * functions.scss............Provides us with a few handy functions
+ *
+ * LAYOUT
+ * layout.scss...............Defines the core layout structure
+ *
+ * COLOUR
+ * colour.scss...............Sets up the different colour-schemes for this site
+ *
+ * TYPO
+ * typo.scss.................Holds all the typographical styles
+ *
+ * MODULES
+ * modules.scss..............Is where all the different modules are defnied
+ *
+ * BLOG
+ * blog.scss.................Separate styles for the blog section of the page
+ *
+ * FOOTER
+ * footer.scss...............Provides us with all the styles for the footer element
+ *
+ * EVENTS
+ * events.scss...............Separate styles for the events page
+ *
+ * INDEX
+ * teaser-index..............Styles for the index page
+ *
+ * NAVIGATION
+ * nav.scss..................Includes all styles for the navigation elements
+ */
+/*------------------------------------*\
+    #BREAKPOINTS
+\*------------------------------------*/
+/*------------------------------------*\
+    #RESET
+\*------------------------------------*/
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -34,6 +79,18 @@ q:before, q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0; }
+
+/*------------------------------------*\
+    #FUNCTIONS
+\*------------------------------------*/
+/*------------------------------------*\
+    #LAYOUT
+\*------------------------------------*/
+* {
+  box-sizing: border-box; }
+
+img {
+  max-width: 100%; }
 
 section:before, .main-nav:before, .sub-nav:before, .cb:before, .friends:before, section:after, .main-nav:after, .sub-nav:after, .cb:after, .friends:after {
   content: " ";
@@ -96,6 +153,14 @@ footer {
         max-width: 11.25rem;
         float: left;
         margin: 0 3.125rem 0 0; } }
+  .cb table {
+    width: 100%; }
+  .cb tr:nth-child(even) {
+    background-color: #e1e1e1; }
+  .cb td {
+    padding: 5px 8px; }
+    .cb td:nth-child(1) {
+      width: 60%; }
 
 .content {
   padding: 10rem 1rem 0; }
@@ -110,12 +175,11 @@ code {
   padding-top: 1.5625rem;
   display: block; }
 
-.grid-9 figure figcaption {
-  padding-bottom: 1.875rem; }
-
 .grid-9 {
   width: 100%;
   max-width: 37.5rem; }
+  .grid-9 figure figcaption {
+    padding-bottom: 1.875rem; }
 
 .grid-6 {
   width: 65%;
@@ -147,12 +211,6 @@ code {
   text-align: center;
   display: block; }
 
-img {
-  max-width: 100%; }
-
-* {
-  box-sizing: border-box; }
-
 .switch-on-break {
   display: flex;
   flex-direction: column; }
@@ -164,22 +222,14 @@ img {
     .switch-on-break {
       display: block; } }
 
-.cb table {
-  width: 100%; }
-
-.cb tr:nth-child(even) {
-  background-color: #e1e1e1; }
-
-.cb td {
-  padding: 5px 8px; }
-
-.cb td:nth-child(1) {
-  width: 60%; }
-
-#VAT {
+.vat {
+  display: block;
   margin-top: 0.9375rem;
   font-size: 0.8em; }
 
+/*------------------------------------*\
+    #COLOURS
+\*------------------------------------*/
 body {
   color: #404040;
   background-color: #fff; }
@@ -321,6 +371,9 @@ article figure figcaption {
 .api-nav li a {
   color: #273183; }
 
+/*------------------------------------*\
+    #TYPO
+\*------------------------------------*/
 @font-face {
   font-family: 'FiraSans';
   src: url('../font/FiraSans-Light.eot');
@@ -417,7 +470,11 @@ p {
 .teaser aside a {
   background-position: 0 1.4375rem; }
 
+@media (min-width: 57.5em) {
+  aside {
+    text-align: right; } }
 aside a {
+  background-image: linear-gradient(to bottom, #999999 75%, rgba(153, 153, 153, 0.8) 75%) !important;
   background-position: 0 1.3125rem; }
 
 @-moz-document url-prefix() {
@@ -487,12 +544,6 @@ a {
 .nav a:last-child, .sub-nav .sub-nav-list-item:last-child, .meta-nav .meta-nav-list-item:last-child {
   margin-right: 0; }
 
-@media (min-width: 57.5em) {
-  aside {
-    text-align: right; } }
-aside a {
-  background-image: linear-gradient(to bottom, #999999 75%, rgba(153, 153, 153, 0.8) 75%) !important; }
-
 ul, ol {
   font-size: 1.1875em; }
 
@@ -540,14 +591,27 @@ input, textarea {
 .text-transform-reverse {
   text-transform: initial; }
 
-img.emoji {
+.emoji {
   border: none; }
 
+.contribute-topic-headline {
+  text-align: center; }
+
+/*------------------------------------*\
+    #MODULES
+\*------------------------------------*/
 .person-bio .h3, .person-bio .h6, .person-bio article p, .person-bio .bio-link {
   padding-left: 0; }
   @media (min-width: 30em) {
     .person-bio .h3, .person-bio .h6, .person-bio article p, .person-bio .bio-link {
       padding-left: 10.9375rem; } }
+.person-bio .h6 {
+  display: block; }
+.person-bio p {
+  margin-bottom: 0.75rem; }
+  @media (min-width: 30em) {
+    .person-bio p {
+      margin-bottom: 1.625rem; } }
 .person-bio .grid-3 {
   margin-top: 0.3125rem;
   max-width: 9.375rem;
@@ -569,18 +633,11 @@ img.emoji {
       max-width: 11.25rem;
       padding-left: 0;
       padding-top: 8.0625rem; } }
-.person-bio .h6 {
-  display: block; }
 .person-bio figure.grid-3.l {
   float: none; }
   @media (min-width: 30em) {
     .person-bio figure.grid-3.l {
       float: left; } }
-.person-bio p {
-  margin-bottom: 0.75rem; }
-  @media (min-width: 30em) {
-    .person-bio p {
-      margin-bottom: 1.625rem; } }
 
 .friends .grid-3 {
   margin-bottom: 1.25rem;
@@ -599,6 +656,9 @@ img.emoji {
     .friends .grid-3 figure .contribute-topic-image {
       width: 5rem;
       opacity: 0.4; }
+.friends .grid-svg {
+  margin-bottom: 1.25rem;
+  color: rgba(0, 0, 0, 0.3); }
 
 .api-nav {
   position: absolute;
@@ -642,7 +702,6 @@ aside img {
   background-image: none !important;
   padding-top: 3.125rem;
   margin-top: -3.125rem;
-  -webkit-background-clip: content-box;
   background-clip: content-box; }
   .jump-mark:hover {
     background-image: none; }
@@ -662,10 +721,9 @@ aside img {
   margin: 0;
   display: inline-block; }
 
-.friends .grid-svg {
-  margin-bottom: 1.25rem;
-  color: rgba(0, 0, 0, 0.3); }
-
+/*------------------------------------*\
+    #BLOG
+\*------------------------------------*/
 .blog hr {
   background-color: #282828;
   border: 0;
@@ -752,9 +810,9 @@ aside img {
 .blog-post-excerpt .emoji {
   vertical-align: sub; }
 
-.contribute-topic-headline {
-  text-align: center; }
-
+/*------------------------------------*\
+    #FOOTER
+\*------------------------------------*/
 .footer {
   padding: 0 1rem; }
   .footer .grid-3 {
@@ -800,6 +858,9 @@ aside img {
   .footer-licensing a {
     background-position: 0 0.625rem; } }
 
+/*------------------------------------*\
+    #EVENTS
+\*------------------------------------*/
 .eventsIntro {
   padding-bottom: 0; }
 
@@ -823,7 +884,7 @@ aside img {
       background-image: linear-gradient(to bottom, #404040 75%, rgba(64, 64, 64, 0.8) 75%);
       text-shadow: none; }
     #eventsList .futureEvents .events > li:first-child .links {
-      margin: 0.75em 0 0.25em 0; }
+      margin: 0.75em 0 0.25em; }
     #eventsList .futureEvents .events > li:first-child:before {
       content: "Next event";
       width: 100%;
@@ -942,6 +1003,9 @@ aside img {
   #eventsList .events a {
     background-position: 0 0.9375rem; } }
 
+/*------------------------------------*\
+    #INDEX STYLES
+\*------------------------------------*/
 .teaser-index {
   display: flex;
   flex-wrap: wrap; }
@@ -1131,13 +1195,7 @@ svg path, svg rect {
     opacity: 0;
     transform: scale(0.1);
     transform-origin: center center;
-    -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1);
-    /* older webkit */
-    -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    -moz-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    -o-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    /* easeOutBack */ }
+    transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275); }
     .index .content #logo-animation .letter:nth-child(2) {
       transition-delay: 0.1s; }
     .index .content #logo-animation .letter:nth-child(3) {
@@ -1158,6 +1216,9 @@ svg path, svg rect {
     opacity: 1;
     transform: scale(1); } }
 
+/*------------------------------------*\
+    #NAVIGATION
+\*------------------------------------*/
 header a, footer a {
   text-shadow: none !important; }
 
@@ -1317,7 +1378,7 @@ body.gray .animation.colorise .letter {
   text-align: center;
   margin-top: 6.375rem;
   position: absolute;
-  background: #FFFFFF;
+  background: #fff;
   width: 100%;
   overflow: hidden; }
   .animated-logo .animation {
@@ -1334,13 +1395,7 @@ body.gray .animation.colorise .letter {
       opacity: 0;
       transform: scale(0.1);
       transform-origin: center center;
-      -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1);
-      /* older webkit */
-      -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
-      -moz-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
-      -o-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
-      transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
-      /* easeOutBack */ }
+      transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275); }
       .animated-logo .animation .letter:nth-child(2) {
         transition-delay: 0.1s; }
       .animated-logo .animation .letter:nth-child(3) {
@@ -1366,42 +1421,35 @@ body.gray .animation.colorise .letter {
   bottom: 0;
   z-index: 400; }
 
-body.mobile header {
+.mobile header {
   height: 65px; }
-  body.mobile header.during-intro {
+  .mobile header.during-intro {
     height: 200px; }
-  body.mobile header.detached {
+  .mobile header.detached {
     height: 65px; }
-    body.mobile header.detached.is-active {
+    .mobile header.detached.is-active {
       height: 100%; }
-  body.mobile header.is-active {
+  .mobile header.is-active {
     height: 100%; }
-  body.mobile header a {
+  .mobile header a {
     background-image: none; }
-  body.mobile header .main-nav {
+  .mobile header .main-nav {
     opacity: 0;
     transition: opacity 0.5s; }
-  body.mobile header .is-active .main-nav {
+  .mobile header .is-active .main-nav {
     opacity: 1; }
-  body.mobile header .animated-logo {
+  .mobile header .animated-logo {
     margin-top: 4.375rem; }
-    body.mobile header .animated-logo .animation {
+    .mobile header .animated-logo .animation {
       margin: 0.75em auto 0.25em;
       width: 80%; }
-      body.mobile header .animated-logo .animation.slideUp {
+      .mobile header .animated-logo .animation.slideUp {
         margin-top: -8.75em; }
 
-/* when navigation is shown, don’t allow scrolling of content */
-body.no_scroll {
+.no_scroll {
   overflow: hidden;
   height: 100%; }
 
-/* Firefox fix for overflow: hidden. Scroll bar is hidden and moves everything to the right */
-@-moz-document url-prefix() {
- }
-
-/* === TOP MENU LAYOUT === */
-/* ======================= */
 header {
   position: absolute;
   top: 0;
@@ -1411,52 +1459,32 @@ header {
   z-index: 1000;
   cursor: pointer;
   overflow: hidden;
-  -webkit-transform: translate(0, 0);
-  -moz-transform: translate(0, 0);
-  -o-transform: translate(0, 0);
   transform: translate(0, 0);
-  -webkit-transition: -webkit-transform 0.4s, height 0.3s, background 0.4s;
-  -moz-transition: -moz-transform 0.4s, height 0.3s, background 0.4s;
   transition: transform 0.4s, height 0.3s, background 0.4s; }
   header.during-intro {
     height: 245px; }
 
-/* when hidden it goes up */
-header.invisible {
-  -webkit-transform: translate(0, -64px);
-  -moz-transform: translate(0, -64px);
-  -o-transform: translate(0, -64px);
+.invisible {
   transform: translate(0, -64px);
-  -webkit-transition: -webkit-transform 0.2s;
-  -moz-transition: -moz-transform 0.2s;
-  -o-transition: -o-transform 0.2s;
   transition: transform 0.2s;
   opacity: 0; }
 
-/* when shown & detached position is fixed */
-header.detached {
+.detached {
   position: fixed;
-  -webkit-transition: -webkit-transform 0.3s, height 0.3s, background 0.4s, opacity 0.3s;
-  -moz-transition: -moz-transform 0.3s, height 0.3s, background 0.4s, opacity 0.3s;
-  -o-transition: -o-transform 0.3s, height 0.3s, background 0.4s, opacity 0.3s;
   transition: transform 0.3s, height 0.3s, background 0.4s, opacity 0.3s; }
 
-/* === MENU NAVIGATION === */
-/* ======================= */
-/* increases menu width & height */
-header.expanded {
+.expanded {
   width: 100%;
   height: 100%;
   position: fixed;
   cursor: default; }
+  .expanded .menu-button-span:before {
+    content: 'x';
+    font-size: 1.4em;
+    line-height: 1.4em;
+    padding-right: 0.15em; }
 
 .menu-button-span:focus {
   outline: none; }
-
-.expanded .menu-button-span:before {
-  content: 'x';
-  font-size: 1.4em;
-  line-height: 1.4em;
-  padding-right: 0.15em; }
 
 /*# sourceMappingURL=hoodie.css.map */
