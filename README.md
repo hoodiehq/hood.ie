@@ -17,9 +17,9 @@ Use the .editorsconfig file with your editor of choice to ensure a consistent co
 
 ### Grunt tasks
 
-Dev: Type `grunt` to get a simple watch task which is looking for changes inside your Sass files. Also the command `grunt` replaces the paths for the CSS and JS files(dev version).
+**Dev:** Type `grunt` to get a simple watch task which is looking for changes inside your Sass files. Also the command `grunt` replaces the paths for the CSS and JS files(dev version).
 
-Build: Type `grunt build` which runs concatinate and minify tasks and also swaps the file paths for CSS & JS(build versions).
+**Build:** Type `grunt build` which runs concatinate and minify tasks and also swaps the file paths for CSS & JS(build versions).
 
 ### Coding standards
 
