@@ -724,19 +724,10 @@ aside img {
 /*------------------------------------*\
     #BLOG
 \*------------------------------------*/
-.blog hr {
-  background-color: #282828;
-  border: 0;
-  width: 10rem;
-  height: 1px;
-  margin: 1.25rem auto; }
 .blog h1 {
-  line-height: 1.38;
   text-transform: uppercase; }
 .blog h2 {
-  margin-bottom: 1rem;
-  margin-top: 2.5rem;
-  padding-left: 0; }
+  margin-top: 2.5rem; }
 .blog p {
   margin-bottom: 1rem; }
 .blog .entry {
@@ -763,6 +754,13 @@ aside img {
     text-indent: 6em; }
 .blog .blog-post-end {
   margin-top: 5rem; }
+
+.blog__hr {
+  background-color: #282828;
+  border: 0;
+  width: 10rem;
+  height: 1px;
+  margin: 1.25rem auto; }
 
 .blog-meta {
   display: block;
