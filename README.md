@@ -15,6 +15,11 @@ There's also a production task ('grunt build') which at this point just spits ou
 
 Use the .editorsconfig file with your editor of choice to ensure a consistent coding style. Plugins are available at [http://editorconfig.org/#download](http://editorconfig.org/#download title="editorconfig download").
 
+### Grunt tasks
+
+Type `grunt` to get a simple watch task which is looking for changes inside your Sass files. Also the command `grunt` replaces the paths for the CSS and JS files(dev version).
+Type `grunt build` which runs concatinate and minify tasks and also swaps the file paths for CSS & JS(build versions).
+
 ### Coding standards
 
 #### HTML
