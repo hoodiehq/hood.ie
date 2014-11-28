@@ -6,3 +6,4 @@ Gemfile.lock
 dist/img/.DS_Store
 dist/prod/.tmp
 dist/prod/hoodie.min.css
+npm-debug.log
