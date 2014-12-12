@@ -72,6 +72,7 @@ If I’d broken the glass ceiling, that would mean I would have made it through 
 
 It's hard to be efficient. Here's to [
 How To Be Efficient: Dan Ariely’s 6 New Secrets To Managing Your Time](http://www.bakadesuyo.com/2014/10/how-to-be-efficient).
+
 >
 At [&yet](http://andyet.com/), the web we want applies open web principles to realtime communication. It’s that simple. –
 <cite>[WebRTC and the Web we want](http://blog.andyet.com/2014/12/10/webrtc-and-the-web-we-want)</cite>
