@@ -34,11 +34,17 @@ In 2004, I lost my web career. In a single day, it was gone. I was in too much p
 When it comes to diversity in tech, things are changing. As with almost every other subject, people are ready to “disrupt”… and turn a profit. –
 <cite>[Diversity for Sale](https://modelviewculture.com/pieces/diversity-for-sale)</cite>
 
+[The Pains Of Being Async At Heart](http://pouchdb.com/2014/12/11/the-pains-of-being-async-at-heart.html).
+
 >
 There is a reason that diversity is consistently promoted as being beneficial to everyone, disregarding who benefits most from various arrangements of diversity. As a dominant mode of thought, we must challenge liberalism if we hope to challenge the structures of domination that it both masks and reinforces, through diversity or otherwise. –
 <cite>[How to Uphold White Supremacy by Focusing on Diversity and Inclusion](https://modelviewculture.com/pieces/how-to-uphold-white-supremacy-by-focusing-on-diversity-and-inclusion)</cite>
 
-Stella Young, who has died at the age of 32, was a passionate, provocative and funny activist for disabled people. Here are [17 things she wanted people to know](http://www.abc.net.au/news/2014-12-08/17-things-stella-young-wanted-you-to-know/5950814).
+Stella Young, who has died at the age of 32, was a passionate, provocative and funny activist for disabled people. Here are [17 things she wanted people to know](http://www.abc.net.au/news/2014-12-08/17-things-stella-young-wanted-you-to-know/5950814). In relation with this:
+
+>
+I started calling myself a disabled woman, and a crip. A good thirteen years after seventeen-year-old me started saying crip, it still horrifies people. I do it because it's a word that makes me feel strong and powerful. It's a word other activists have used before me, and I use it to honour them. –
+<cite>[Stella Young's letter to herself at 80 years old](http://www.smh.com.au/lifestyle/celebrity/stella-youngs-letter-to-herself-at-80-years-old-20141122-11llol.html)</cite>
 
 >
 I want the one ring to release every day. Even if there's no user visible changes. Even if there's traffic. Even if it means we break things. –
