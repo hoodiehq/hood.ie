@@ -31,15 +31,14 @@ $rem-base: 16px;
 
     .content {
         background-image: url('../img/logo_cut_#{$color-name}.png');
-        background-repeat: no-repeat;
         background-position: center rem-calc(56);
-
+        background-repeat: no-repeat;
     }
 
     footer {
         background-image: url('../img/logo_cut_negativ_#{$color-name}.png');
-        background-repeat: no-repeat;
         background-position: center 0;
+        background-repeat: no-repeat;
     }
 
     h1,
@@ -50,9 +49,9 @@ $rem-base: 16px;
         color: $color;
     }
 
-        a {
-            background-image: linear-gradient(to bottom, rgba($color, 1) 75%, rgba($color, .8) 75%);
-        }
+    a {
+        background-image: linear-gradient(to bottom, rgba($color, 1) 75%, rgba($color, .8) 75%);
+    }
 
     .nav,
     .footer {

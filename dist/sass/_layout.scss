@@ -1,7 +1,9 @@
 
+
 /*------------------------------------*\
     #LAYOUT
 \*------------------------------------*/
+
 
 * {
     box-sizing: border-box;
@@ -30,8 +32,8 @@ img {
 section,
 .main-nav,
 .sub-nav {
-    width: 100%;
     @extend %cf;
+    width: 100%;
 }
 
 header {
@@ -56,8 +58,8 @@ footer {
 }
 
 .sub-nav {
-    top: rem-calc(65);
     padding: rem-calc(8 0 5 0);
+    top: rem-calc(65);
 }
 
 
@@ -76,29 +78,28 @@ footer {
 
 .cb {
     @extend %cf;
-    width: 100%;
     max-width: rem-calc(830);
     padding-bottom: rem-calc(42);
+    width: 100%;
 
     &.teaser {
         padding-bottom: rem-calc(57);
     }
 
     article {
-        width: 100%;
-        max-width: rem-calc(600);
         margin: 0 auto;
+        max-width: rem-calc(600);
+        width: 100%;
 
         @include breakpoint(lv) {
             float: right;
         }
-
     }
 
     aside {
-        width: 100%;
-        margin: 0 auto;
         max-width: rem-calc(600);
+        margin: 0 auto;
+        width: 100%;
 
         br {
             display: none;
@@ -110,11 +111,10 @@ footer {
         }
 
         @include breakpoint(lv) {
-            max-width: rem-calc(180);
             float: left;
             margin: rem-calc(0 50 0 0);
+            max-width: rem-calc(180);
         }
-
     }
 
     table {
@@ -148,15 +148,15 @@ footer {
 }
 
 code {
-    padding-top: rem-calc(25);
     display: block;
+    padding-top: rem-calc(25);
 }
 
 
 // GRIDS
 .grid-9 {
-    width: 100%;
     max-width: rem-calc(600);
+    width: 100%;
 
     figure {
 
@@ -169,20 +169,20 @@ code {
 }
 
 .grid-6 {
-    width: 65%;
     max-width: rem-calc(450);
+    width: 65%;
 }
 
 .grid-3 {
-    min-width: rem-calc(170);
     max-width: rem-calc(170);
+    min-width: rem-calc(170);
 }
 
 .grid-3-container {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
     flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 // HELPER
@@ -211,12 +211,15 @@ code {
 .switch-on-break {
     display: flex;
     flex-direction: column;
+
     .contribute-aside-icon {
         order: 1;
     }
+
     article {
         order: 2;
     }
+
     @include breakpoint(lv) {
         display: block;
     }
@@ -224,6 +227,7 @@ code {
 
 .vat {
     display: block;
-    margin-top: rem-calc(15);
     font-size: .8em;
+    margin-top: rem-calc(15);
 }
+

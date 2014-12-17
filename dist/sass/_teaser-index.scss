@@ -8,24 +8,25 @@
     flex-wrap: wrap;
 
     .grid-3 {
-        width: 100% !important;
-        max-width: 100% !important;
         background-color: #fcfcfc;
+        max-width: 100% !important;
+        width: 100% !important;
 
         @include breakpoint(index) {
-            width: 32.833333333% !important;
-            max-width: none !important;
             border-top-left-radius: rem-calc(12);
             border-top-right-radius: rem-calc(12);
+            max-width: none !important;
+            width: 32.833333333% !important;
         }
 
         &:first-child {
-            margin-top: 0 !important;
             margin-right: 0 !important;
+            margin-top: 0 !important;
             order: 2;
+
             @include breakpoint(index) {
-                order: 1;
                 margin-right: .75% !important;
+                order: 1;
             }
         }
 
@@ -40,16 +41,16 @@
     }
 
     .main {
-        margin-right: 0 !important;
-        order: 1;
-        color: #fff;
         background-color: $orange;
         border-top-left-radius: rem-calc(12);
         border-top-right-radius: rem-calc(12);
+        color: #fff;
+        margin-right: 0 !important;
+        order: 1;
 
         @include breakpoint(index) {
-            order: 2;
             margin-right: .75% !important;
+            order: 2;
         }
 
         @include breakpoint(index) {
@@ -59,7 +60,6 @@
         .teaser-index-section {
             font-weight: 400;
         }
-
     }
 
     &-section {
@@ -68,20 +68,19 @@
 }
 
 .index .img-bg {
-    background-size: cover;
     background-position: 0 0;
-    text-shadow: 0 0 50px rgba(0, 0, 0, 1);
+    background-size: cover;
     font-weight: 400;
+    text-shadow: 0 0 50px rgba(0, 0, 0, 1);
 
     p:last-of-type {
         margin-bottom: 0;
     }
-
 }
 
 .index .icon-calendar {
-    width: rem-calc(32);
     height: rem-calc(32);
+    width: rem-calc(32);
 }
 
 .index .orange-box {
@@ -92,7 +91,6 @@
     h3 {
         margin-bottom: 0 !important;
     }
-
 }
 
 .index section p:last-of-type {
@@ -116,15 +114,15 @@ svg rect {
         margin-bottom: rem-calc(16);
 
         &.first .main {
-            margin-top: 0;
             background-color: #e94e1b;
             color: #fff;
+            margin-top: 0;
 
             h3 {
-                font-size: rem-calc(36);
-                text-align: center;
-                margin-bottom: rem-calc(13);
                 color: #fff;
+                font-size: rem-calc(36);
+                margin-bottom: rem-calc(13);
+                text-align: center;
             }
 
             p {
@@ -132,10 +130,9 @@ svg rect {
             }
 
             a {
-                color: #fff;
                 background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 75%, rgba(255, 255, 255, .8) 75%);
+                color: #fff;
             }
-
         }
 
         // WHITE BG
@@ -145,8 +142,8 @@ svg rect {
 
         // REGULAR STYLES
         div {
-            min-height: $dh;
             background-color: #fcfcfc;
+            min-height: $dh;
             padding: rem-calc(9) rem-calc(8);
 
             section {
@@ -157,6 +154,7 @@ svg rect {
                     text-transform: uppercase;
                 }
             }
+
             &.newsletter {
                 padding: rem-calc(0) rem-calc(7);
             }
@@ -166,8 +164,8 @@ svg rect {
                 border: 0 none;
                 color: #404040;
                 font-size: 1.6em;
-                width: 100%;
                 height: $dh;
+                width: 100%;
 
                 &:focus {
                     outline: none;
@@ -176,16 +174,12 @@ svg rect {
         }
 
         &.last div {
-            -webkit-border-bottom-right-radius: rem-calc(12);
-            -webkit-border-bottom-left-radius: rem-calc(12);
-            -moz-border-radius-bottomright: rem-calc(12);
-            -moz-border-radius-bottomleft: rem-calc(12);
-            border-bottom-right-radius: rem-calc(12);
             border-bottom-left-radius: rem-calc(12);
+            border-bottom-right-radius: rem-calc(12);
         }
 
         // SPECIAL FONT STYLES FOR INDEX
-        .img-bg h3, .img-bg p {
+        .img-bg p {
             color: #fff;
         }
 
@@ -208,7 +202,6 @@ svg rect {
 
         .contribute {
             background-image: url('../content_img/index/contribute2.jpg');
-
         }
 
         .newsletter {
@@ -238,8 +231,8 @@ svg rect {
         }
 
         .center {
-            text-align: center;
             margin-left: rem-calc(-14);
+            text-align: center;
         }
 
         // SPECIAL GRID FOR INDEX
@@ -248,43 +241,39 @@ svg rect {
             width: 100%;
 
             @include breakpoint(mv-lv) {
-                width: 32.833333333%;
                 margin-right: .75%;
+                width: 32.833333333%;
             }
 
             &:nth-child(3n) {
                 margin-right: 0;
             }
-
         }
 
         .grid-6 {
-            max-width: none;
             margin-right: 0;
+            max-width: none;
             width: 100%;
 
             @include breakpoint(mv-lv) {
                 width: 66.416666666%;
             }
-
         }
 
         .grid-9 {
-            width: 100%;
-            max-width: none;
             margin-right: 0;
+            max-width: none;
+            width: 100%;
         }
 
         .m-l {
-            margin-right: 0;
             margin-left: 0;
+            margin-right: 0;
 
             @include breakpoint(mv-lv) {
                margin-left: .75%;
             }
-
         }
-
     }
 
 // MORE MAILCHIMP NEWSLETTER
@@ -295,9 +284,9 @@ svg rect {
 // ANIMATION
     #logo-animation {
         position: absolute;
+        text-align: center;
         top: rem-calc(140);
         width: rem-calc(830);
-        text-align: center;
 
         &.animate .letter {
           opacity: 1;
@@ -306,9 +295,9 @@ svg rect {
 
         .letter {
             opacity: 0;
+            transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
             transform: scale(.1);
             transform-origin: center center;
-            transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
 
             &:nth-child(2) {
                 transition-delay: .1s;
@@ -328,10 +317,8 @@ svg rect {
             &:nth-child(6) {
                 transition-delay: .4s;
             }
-
         }
     }
-
 }
 
 @keyframes kaboom {
@@ -345,5 +332,4 @@ svg rect {
         opacity: 1;
         transform: scale(1);
     }
-
 }

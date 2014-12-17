@@ -1,7 +1,9 @@
 
+
 /*------------------------------------*\
     #COLOURS
 \*------------------------------------*/
+
 
 $orange: rgba(233, 78, 27, 1);
 $orange-l: rgba(249, 196, 179, 1);
@@ -35,7 +37,14 @@ body {
     background-color: #fff;
 }
 
-// COLOR SCHEMES
+
+
+
+
+/*------------------------------------*\
+    #COLOUR SCHEMES
+\*------------------------------------*/
+
 
 .orange {
     @include color-scheme($orange, $orange-l, 'orange');
@@ -60,6 +69,7 @@ body {
 .gray {
     @include color-scheme($gray, $gray-l, 'gray');
 }
+
 aside {
     color: $gray-4;
 }

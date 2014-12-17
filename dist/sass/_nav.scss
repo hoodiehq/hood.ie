@@ -1,7 +1,9 @@
 
+
 /*------------------------------------*\
     #NAVIGATION
 \*------------------------------------*/
+
 
 header,
 footer {
@@ -9,7 +11,6 @@ footer {
     a {
         text-shadow: none !important;
     }
-
 }
 
 @-moz-document url-prefix() {
@@ -19,31 +20,32 @@ footer {
 }
 
 .nav {
-    padding: rem-calc(17 20);
     display: flex;
+    padding: rem-calc(17 20);
     transition: height 0.2s;
 
     &.is-active {
-        position: fixed;
         flex-direction: column;
-        height: 100vh;
-        text-align: center;
         font-size: 4vh;
+        height: 100vh;
+        position: fixed;
+        text-align: center;
         z-index: 100;
+
         .main-nav {
-            width: 50%;
-            margin-top: 4vmin;
             margin-bottom: 5vmin;
+            margin-top: 4vmin;
+            width: 50%;
 
             > a {
-                margin-right: 0;
                 display: block;
+                margin-right: 0;
             }
 
             @include breakpoint(tiny) {
-                width: 80%;
                 // OFFSET THE ANCHOR PADDING BELOW
                 padding-right: 1em;
+                width: 80%;
 
                 a {
                     display: inline-block;
@@ -57,9 +59,9 @@ footer {
         }
 
         & + .hid .sub-nav {
-            top: auto;
             bottom: 0;
             padding: rem-calc(8 10 5 10);
+            top: auto;
             z-index: 101;
         }
 
@@ -75,26 +77,27 @@ footer {
 }
 
 .logo {
-    margin-right: 0 !important;
     display: block;
+    margin-right: 0 !important;
     transition: all 0.2s;
+
     .is-active & {
         padding-top: 3vh;
         width: 50%;
-        margin: 0 auto;
-        margin-left: 25%;
+        margin: 0 auto; // ???
+        margin-left: 25%; // ???
     }
 
     img {
         border: 0;
     }
-
 }
 
 .main-nav {
-    width: auto;
-    padding-top: rem-calc(3);
     display: none;
+    padding-top: rem-calc(3);
+    width: auto;
+
     .is-active & {
         display: block;
     }
@@ -102,13 +105,12 @@ footer {
     @include breakpoint(main-nav) {
         display: block;
     }
-
 }
 
 .meta-nav {
-    padding: 0;
-    margin: 0;
     display: none;
+    margin: 0;
+    padding: 0;
 
     .is-active & {
         display: inline-block;
@@ -126,6 +128,7 @@ footer {
 
 .sub-nav {
     display: none;
+
     .is-active + .hid & {
         display: block;
     }
@@ -137,7 +140,6 @@ footer {
     a {
         background-image: none;
     }
-
 }
 
 .meta-nav a,
@@ -149,13 +151,13 @@ footer {
 .menu-button {
     display: block;
     height: rem-calc(35);
-    width: rem-calc(35);
-    text-align: center;
-    z-index: 102;
-    position: relative;
     margin-left: auto;
-    transition: all .2s;
+    position: relative;
+    text-align: center;
     top: rem-calc(-4);
+    transition: all .2s;
+    width: rem-calc(35);
+    z-index: 102;
 
     .is-active & {
         display: block;
@@ -165,30 +167,29 @@ footer {
     @include breakpoint(main-nav) {
         display: none;
     }
-
 }
 
 .menu-button-span,
 .menu-button-span:before,
 .menu-button-span:after {
-    width: rem-calc(35);
     background-color: #fff;
-    height: rem-calc(5);
-    display: inline-block;
     border-radius: 3px;
+    display: inline-block;
+    height: rem-calc(5);
+    width: rem-calc(35);
 }
 
 .menu-button-span:before,
 .menu-button-span:after {
     content: "";
-    position: absolute;
     left: 0;
+    position: absolute;
     transition: all .2s;
 }
 
 .menu-button-span {
-    top: rem-calc(-5);
     position: relative;
+    top: rem-calc(-5);
     transition: all .2s;
 
     &:before {
@@ -198,16 +199,15 @@ footer {
     &:after {
         top: rem-calc(10);
     }
-
 }
 
 .is-active {
 
     .menu-button {
-        transform: rotate(45deg);
-        top: 1rem;
         position: absolute;
         right: 1.25rem;
+        top: 1rem;
+        transform: rotate(45deg);
     }
 
     .menu-button-span:after {
@@ -215,10 +215,9 @@ footer {
     }
 
     .menu-button-span:before {
-        transform: rotate(90deg);
         top: 0;
+        transform: rotate(90deg);
     }
-
 }
 
 body {
@@ -250,23 +249,23 @@ body {
 }
 
 .animated-logo {
-    text-align: center;
-    margin-top: rem-calc(102);
-    position: absolute;
     background: #fff;
-    width: 100%;
+    margin-top: rem-calc(102);
     overflow: hidden;
+    position: absolute;
+    text-align: center;
+    width: 100%;
 
     .animation {
+        margin: 1.25em 0 1em; // REM
         transition: margin-top 0.5s, stroke 0.5s;
-        margin: 1.25em 0 1em;
 
         svg {
             width: 90%;
         }
 
         &.slideUp {
-            margin-top: -8.75em;
+            margin-top: -8.75em; // REM
         }
 
         &.animate .letter {
@@ -299,7 +298,6 @@ body {
             &:nth-child(6) {
               transition-delay: 0.4s;
             }
-
         }
     }
 }
@@ -307,8 +305,8 @@ body {
 .content {
     transition: background-position 1s, margin-top 0.5s;
     &.during-intro {
-        margin-top: 3rem;
         background-position: center rem-calc(-100);
+        margin-top: 3rem;
     }
 }
 
@@ -318,8 +316,8 @@ body {
 }
 
 .is-fixed {
-    position:fixed !important;
     bottom: 0;
+    position:fixed !important;
     z-index: 400;
 }
 
@@ -336,7 +334,6 @@ body {
         &.is-active {
             height: 100%;
         }
-
     }
 
     &.is-active {
@@ -357,7 +354,6 @@ body {
         .main-nav {
             opacity: 1;
         }
-
     }
 
     .animated-logo {
@@ -370,69 +366,73 @@ body {
             &.slideUp {
                 margin-top: -8.75em;
             }
-
         }
     }
 }
 
-// HEADER
+
+
+
+
+/*------------------------------------*\
+    #HEADER
+\*------------------------------------*/
+
 
 // WHEN NAVIGATION IS VISIBLE DON'T ALLOW TO SCROLL CONTENT
 .no_scroll {
-  overflow: hidden;
-  height: 100%;
+    height: 100%;
+    overflow: hidden;
 }
 
 // TOP MENU LAYOUT
-
 header {
-  position: absolute;
-  top: 0;
-  width: 100%;
-  height: 102px;
-  right: 0;
-  z-index: 1000;
-  cursor: pointer;
-  overflow: hidden;
-  transform: translate(0,0);
-  transition: transform .4s, height .3s, background .4s;
+    cursor: pointer;
+    height: 102px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transition: transform .4s, height .3s, background .4s;
+    transform: translate(0,0);
+    width: 100%;
+    z-index: 1000;
 
-  &.during-intro {
-    height: 245px;
-  }
-
+    &.during-intro {
+        height: 245px;
+    }
 }
 
 // WHEN HIDDEN IT GOES UP
 .invisible {
-  transform: translate(0, -64px);
-  transition: transform .2s;
-  opacity: 0;
+    opacity: 0;
+    transform: translate(0, -64px);
+    transition: transform .2s;
 }
 
 // WHEN VISIBLE AND DETACHED POSITION IS FIXED
 .detached {
-  position: fixed;
-  transition: transform .3s, height .3s, background .4s, opacity .3s;
+    position: fixed;
+    transition: transform .3s, height .3s, background .4s, opacity .3s;
 }
 
 // INCREASE MENU WIDTH AND HEIGHT
 .expanded {
-  width: 100%;
-  height: 100%;
-  position: fixed;
-  cursor: default;
+    cursor: default;
+    height: 100%;
+    position: fixed;
+    width: 100%;
 
-  .menu-button-span:before {
-    content: 'x';
-    font-size: 1.4em;
-    line-height: 1.4em;
-    padding-right: .15em;
-  }
-
+    .menu-button-span:before {
+        content: 'x';
+        font-size: 1.4em;
+        line-height: 1.4em;
+        padding-right: .15em;
+    }
 }
 
 // ON FOCUS DON'T SHOW OUTLINE
 .menu-button-span:focus {
-  outline: none;
+    outline: none;
 }
+

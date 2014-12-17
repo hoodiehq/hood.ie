@@ -1,15 +1,15 @@
 
+
 /*------------------------------------*\
     #MODULES
 \*------------------------------------*/
 
-// HEIGHT DEFAULT VAR
 
+// HEIGHT DEFAULT VAR
 $dh : rem-calc(40);
 
 
 // BIO FOR A PERSON WITH 3:6 GRID
-
 .person-bio {
     .h3,
     .h6,
@@ -20,7 +20,6 @@ $dh : rem-calc(40);
         @include breakpoint(mv) {
             padding-left: rem-calc(175);
         }
-
     }
 
     .h6 {
@@ -42,23 +41,22 @@ $dh : rem-calc(40);
         position: relative;
 
         .sw {
-            position: absolute;
             left: 0;
             opacity: 1;
+            position: absolute;
             transition: opacity 0.25s;
 
             &:hover {
                 opacity: 0;
             }
-
         }
     }
 
     .bio-link {
+        margin: 0 auto;
+        max-width: 37.5rem;
         padding-top: 0;
         width: 100%;
-        max-width: 37.5rem;
-        margin: 0 auto;
 
         @include breakpoint(lv) {
             max-width: 11.25rem;
@@ -73,7 +71,6 @@ $dh : rem-calc(40);
         @include breakpoint(mv) {
             float: left;
         }
-
     }
 }
 
@@ -96,24 +93,24 @@ $dh : rem-calc(40);
         }
 
         figure {
-            min-height: rem-calc(150);
             margin-bottom: rem-calc(16);
+            min-height: rem-calc(150);
 
             &.contribute-topic-image-wrap {
                 min-height: rem-calc(90);
             }
 
             .contribute-topic-image {
-                width:rem-calc(80);
                 opacity: .4;
+                width:rem-calc(80);
             }
 
         }
     }
 
     .grid-svg {
-        margin-bottom: rem-calc(20);
         color: rgba(0, 0, 0, .3);
+        margin-bottom: rem-calc(20);
     }
 
 }
@@ -122,14 +119,14 @@ $dh : rem-calc(40);
 // ASIDE NAVIGATION FOR DOCS
 
 .api-nav {
-    position: absolute;
-    top: rem-calc(347);
-    width: rem-calc(200);
-    text-align: right;
-    padding: rem-calc(45 30 35 30);
-    margin-left: rem-calc(220);
     background-color: $gray-6;
     border-radius: rem-calc(12);
+    margin-left: rem-calc(220);
+    padding: rem-calc(45 30 35 30);
+    position: absolute;
+    text-align: right;
+    top: rem-calc(347);
+    width: rem-calc(200);
 
     ul {
         margin-bottom: rem-calc(35);
@@ -139,17 +136,15 @@ $dh : rem-calc(40);
 
 
 // HOT FIX FOR PRISM
-
 code {
-    white-space: normal !important;
-    border: 0 none !important;
     background-color: transparent !important;
+    border: 0 none !important;
     margin-top: rem-calc(25) !important;
+    white-space: normal !important;
 }
 
 
 // ARTICLE
-
 ul,
 ol {
     margin-bottom: rem-calc(26);
@@ -160,8 +155,8 @@ article ol {
 }
 
 ul {
-    padding-left: rem-calc(26);
     list-style: inherit;
+    padding-left: rem-calc(26);
 }
 
 ol {
@@ -169,27 +164,24 @@ ol {
 }
 
 img {
-    border-radius: 3px;
     border: 1px solid #f1f1f1;
+    border-radius: 3px;
 }
 
 aside img {
     border: 0;
 }
 
-
 // JUMP MARK
-
 .jump-mark {
-    background-image: none !important;
-    padding-top: rem-calc(50);
-    margin-top: rem-calc(-50);
     background-clip: content-box;
+    background-image: none !important;
+    margin-top: rem-calc(-50);
+    padding-top: rem-calc(50);
 
     &:hover {
         background-image: none;
     }
-
 }
 
 
@@ -197,10 +189,10 @@ aside img {
 .contribute-aside-icon {
 
     svg {
-        width: rem-calc(80);
-        height: rem-calc(80);
         display: block;
+        height: rem-calc(80);
         margin: 0 auto;
+        width: rem-calc(80);
     }
 
     use {
@@ -216,10 +208,8 @@ aside img {
     }
 
     svg {
-        margin: 0;
         display: inline-block;
+        margin: 0;
     }
-
 }
-
 

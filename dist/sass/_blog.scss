@@ -22,46 +22,44 @@
     }
 
     blockquote {
-        position: relative;
-        padding: rem-calc(16 16 11);
-        margin-bottom: rem-calc(20);
         border-left: 3px solid #b3b3b3;
+        margin-bottom: rem-calc(20);
+        padding: rem-calc(16 16 11);
+        position: relative;
 
         &:before {
-            position: absolute;
-            content: '\201C';
-            top: rem-calc(-16);
-            font-size: 4.5em;
             color: $gray-5;
+            content: '\201C';
+            font-size: 4.5em;
+            position: absolute;
+            top: rem-calc(-16);
         }
 
         p {
-            text-indent: 2em;
             margin-bottom: 0;
+            text-indent: 2em;
         }
 
         cite {
-            font-style: normal;
             display: block;
-            text-align: right;
+            font-style: normal;
             margin-top: rem-calc(10);
+            text-align: right;
             text-indent: 6em;
         }
-
     }
 
     .blog-post-end {
         margin-top: rem-calc(80);
     }
-
 }
 
 .blog__hr {
     background-color: $gray-1;
     border: 0;
-    width: rem-calc(160);
     height: 1px;
     margin: rem-calc(20) auto;
+    width: rem-calc(160);
 }
 
 .blog-meta {
@@ -76,9 +74,9 @@
         @extend %n;
 
         > p:first-of-type {
+            font-size: 1.7em;
             font-style: italic;
             font-weight: 500;
-            font-size: 1.7em;
             padding-bottom: 3.5625rem;
 
             a {
@@ -90,7 +88,6 @@
     a {
         display: inline;
     }
-
 }
 
 @-moz-document url-prefix() {
@@ -98,7 +95,6 @@
     .blog-post article > p:first-of-type a {
         background-position: 0 25px;
     }
-
 }
 
 .blog-post-link {
@@ -106,9 +102,9 @@
 }
 
 .blog-post-link-more {
+    background-position: 0 rem-calc(19);
     font-weight: 500;
     text-transform: uppercase;
-    background-position: 0 rem-calc(19);
 }
 
 @-moz-document url-prefix() {
@@ -116,13 +112,12 @@
     .blog-post-link-more {
         background-position: 0 rem-calc(15);
     }
-
 }
 
 .blog-greetings {
-    font-weight: 500;
     font-size: 1.125em;
     font-style: italic;
+    font-weight: 500;
 }
 
 .pagination {
@@ -139,5 +134,4 @@
     .emoji {
         vertical-align: sub;
     }
-
 }
