@@ -75,6 +75,7 @@ module.exports = function(grunt) {
         dev: {
             files: {
                     '_includes/head.html':'_includes/head.html',
+                    '_includes/head-icheck.html':'_includes/head-icheck.html',
                     '_includes/footer.html':'_includes/footer.html'
                 },
             options: {
@@ -93,6 +94,7 @@ module.exports = function(grunt) {
         build: {
             files: {
                 '_includes/head.html':'_includes/head.html',
+                '_includes/head-icheck.html':'_includes/head-icheck.html',
                 '_includes/footer.html':'_includes/footer.html'
             },
             options: {
@@ -122,9 +124,13 @@ module.exports = function(grunt) {
 
   grunt.registerTask('default', [
       // 'connect',
-      'string-replace:dev',
       'watch'
     ]);
+
+  grunt.registerTask('dev', [
+    'string-replace:dev'
+  ]);
+
   grunt.registerTask('build', [
       'sass:prod',
       'copy',
