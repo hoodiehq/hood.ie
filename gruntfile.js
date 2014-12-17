@@ -124,12 +124,9 @@ module.exports = function(grunt) {
 
   grunt.registerTask('default', [
       // 'connect',
+      'string-replace:dev',
       'watch'
     ]);
-
-  grunt.registerTask('dev', [
-    'string-replace:dev'
-  ]);
 
   grunt.registerTask('build', [
       'sass:prod',
