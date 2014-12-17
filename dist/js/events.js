@@ -41,7 +41,7 @@ $(function() {
   var renderFilters = function (types) {
     var output = '<div id="filters">';
     types.forEach(function(type){
-        output += '<label for="'+type+'">';
+        output += '<label class="filter-label" for="'+type+'">';
         output += '<input type="checkbox" name="type" value="'+type+'" id="'+type+'" checked>';
         output += type.charAt(0).toUpperCase() + type.slice(1);
         output += '</label> ';
@@ -67,7 +67,7 @@ $(function() {
   var getEventItemHTMLString = function(item){
     var output = '';
     if(item.date){
-        output += '<li data-type="'+item.type+'">';
+        output += '<li class="events-list-item" data-type="'+item.type+'">';
         output += '<h3>'+item.name+'</h3>';
         output += '<span class="subline">'+item.type+'</span>';
         output += '<time>'+item.date.getDate()+'.'+(item.date.getMonth()+1)+'.'+item.date.getFullYear()+'</time>';
@@ -75,9 +75,9 @@ $(function() {
         output += '<p class="description">'+item.description+'</p>';
         if(item.video || item.slides || item.link){
             output += '<ul class="links">';
-            output += item.video ? '<li><a href="'+item.video+'">Video</a></li>' : '';
-            output += item.slides ? '<li><a href="'+item.slides+'">Slides</a></li>' : '';
-            output += item.link ? '<li><a href="'+item.link+'">More information</a></li>' : '';
+            output += item.video ? '<li class="links-list-item"><a class="links-list-link" href="'+item.video+'">Video</a></li>' : '';
+            output += item.slides ? '<li class="links-list-item"><a class="links-list-link" href="'+item.slides+'">Slides</a></li>' : '';
+            output += item.link ? '<li class="links-list-item"><a class="links-list-link" href="'+item.link+'">More information</a></li>' : '';
             output += '</ul>';
         }
         output += '</li>';
@@ -100,7 +100,7 @@ $(function() {
         });
         output += '</ul>';
     }
-    output += '<div class="twitterCTA"><a href="https://twitter.com/hoodiehq">Follow Hoodie on Twitter</a> to get notified of upcoming events!</div>';
+    output += '<div class="twitterCTA"><a class="twitterCTA-link" href="https://twitter.com/hoodiehq">Follow Hoodie on Twitter</a> to get notified of upcoming events!</div>';
     output += '</div>';
     $('#eventsList').append(output);
   };
