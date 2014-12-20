@@ -46,66 +46,35 @@ body {
 \*------------------------------------*/
 
 
-.orange {
-    @include color-scheme($orange, $orange-l, 'orange');
-}
+.orange { @include color-scheme($orange, $orange-l, 'orange'); }
 
-.blue {
-    @include color-scheme($blue, $blue-l, 'blue');
-}
+.blue { @include color-scheme($blue, $blue-l, 'blue'); }
 
-.green {
-    @include color-scheme($green, $green-l, 'green');
-}
+.green { @include color-scheme($green, $green-l, 'green'); }
 
-.yellow {
-    @include color-scheme($yellow, $yellow-l, 'yellow');
-}
+.yellow { @include color-scheme($yellow, $yellow-l, 'yellow'); }
 
-.lilac {
-    @include color-scheme($lilac, $lilac-l, 'lilac');
-}
+.lilac { @include color-scheme($lilac, $lilac-l, 'lilac'); }
 
-.gray {
-    @include color-scheme($gray, $gray-l, 'gray');
-}
+.gray { @include color-scheme($gray, $gray-l, 'gray'); }
 
-aside {
-    color: $gray-4;
-}
+aside { color: $gray-4; }
 
-.box:nth-child(even) {
-    background-color: $gray-6;
-}
+.box:nth-child(even) { background-color: $gray-6; }
 
-.sub-nav a {
-    color: $gray-2 !important;
-}
+.sub-nav a { color: $gray-2 !important; }
 
 .main-nav a,
-.meta-nav a {
-    color: #fff !important;
-}
+.meta-nav a { color: #fff !important; }
 
 .cb {
 
-    &:odd {
-        background-color: $gray-5;
-    }
+    &:odd { background-color: $gray-5; }
 
-    aside a {
-        color: $gray-4;
-    }
+    aside a { color: $gray-4; }
 }
 
-article figure {
+figcaption { color: $gray-4; }
 
-    figcaption {
-        color: $gray-4;
-    }
 
-}
-
-.api-nav li a {
-    color: $blue;
-}
+.api-nav li a { color: $blue; }

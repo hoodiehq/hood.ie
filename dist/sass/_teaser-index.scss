@@ -35,9 +35,7 @@
             order: 3;
         }
 
-        p {
-            margin-bottom: rem-calc(15);
-        }
+        p { margin-bottom: rem-calc(15); }
     }
 
     .main {
@@ -53,18 +51,12 @@
             order: 2;
         }
 
-        @include breakpoint(index) {
-            margin-top: rem-calc(-50) !important;
-        }
+        @include breakpoint(index) { margin-top: rem-calc(-50) !important; }
 
-        .teaser-index-section {
-            font-weight: 400;
-        }
+        .teaser-index-section { font-weight: 400; }
     }
 
-    &-section {
-        padding: rem-calc(15 6);
-    }
+    &-section { padding: rem-calc(15 6); }
 }
 
 .index .img-bg {
@@ -73,9 +65,7 @@
     font-weight: 400;
     text-shadow: 0 0 50px rgba(0, 0, 0, 1);
 
-    p:last-of-type {
-        margin-bottom: 0;
-    }
+    p:last-of-type { margin-bottom: 0; }
 }
 
 .index .icon-calendar {
@@ -88,25 +78,17 @@
     flex-direction: column;
     justify-content: center;
 
-    h3 {
-        margin-bottom: 0 !important;
-    }
+    h3 { margin-bottom: 0 !important; }
 }
 
-.index section p:last-of-type {
-    margin-bottom: 0;
-}
+.index section p:last-of-type { margin-bottom: 0; }
 
 svg path,
-svg rect {
-    fill: currentColor;
-}
+svg rect { fill: currentColor; }
 
 .index .content {
 
-    @include breakpoint(index) {
-        padding: rem-calc(270 16 0);
-    }
+    @include breakpoint(index) { padding: rem-calc(270 16 0); }
 
     .row {
         display: flex;
@@ -114,7 +96,7 @@ svg rect {
         margin-bottom: rem-calc(16);
 
         &.first .main {
-            background-color: #e94e1b;
+            background-color: $orange;
             color: #fff;
             margin-top: 0;
 
@@ -125,9 +107,7 @@ svg rect {
                 text-align: center;
             }
 
-            p {
-                line-height: rem-calc(28);
-            }
+            p { line-height: rem-calc(28); }
 
             a {
                 background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 75%, rgba(255, 255, 255, .8) 75%);
@@ -136,9 +116,7 @@ svg rect {
         }
 
         // WHITE BG
-        &.white div {
-            background-color: #fff;
-        }
+        &.white div { background-color: #fff; }
 
         // REGULAR STYLES
         div {
@@ -146,8 +124,7 @@ svg rect {
             min-height: $dh;
             padding: rem-calc(9) rem-calc(8);
 
-            section {
-                padding: rem-calc(15) rem-calc(6);
+            section { padding: rem-calc(15) rem-calc(6);
 
                 h3 {
                     margin-bottom: rem-calc(9);
@@ -155,9 +132,7 @@ svg rect {
                 }
             }
 
-            &.newsletter {
-                padding: rem-calc(0) rem-calc(7);
-            }
+            &.newsletter { padding: rem-calc(0) rem-calc(7); }
 
             // NEWSLETTER
             input {
@@ -167,9 +142,7 @@ svg rect {
                 height: $dh;
                 width: 100%;
 
-                &:focus {
-                    outline: none;
-                }
+                &:focus { outline: none; }
             }
         }
 
@@ -179,55 +152,36 @@ svg rect {
         }
 
         // SPECIAL FONT STYLES FOR INDEX
-        .img-bg p {
-            color: #fff;
-        }
+        .img-bg p { color: #fff; }
 
-        .img-bg h3 {
-            color: #e94e1b;
-        }
+        .img-bg h3 { color: $orange; }
 
-        .img-bg a {
-            font-weight: 400;
-        }
+        .img-bg a { font-weight: 400; }
 
         // BG IMAGES
-        .merch {
-            background-image: url('../content_img/index/index_merch.jpg');
-        }
+        .merch { background-image: url('../content_img/index/index_merch.jpg'); }
 
-        .feature {
-            background-image: url('../content_img/index/index1.jpg');
-        }
+        .feature { background-image: url('../content_img/index/index1.jpg'); }
 
-        .contribute {
-            background-image: url('../content_img/index/contribute2.jpg');
-        }
+        .contribute { background-image: url('../content_img/index/contribute2.jpg'); }
 
-        .newsletter {
-            border: 1px solid #ebebeb;
-        }
+        .newsletter { border: 1px solid #ebebeb; }
 
-        .placeholder {
-            background: #fff url('../content_img/index/placeholder.jpg') 60% 50% no-repeat;
-        }
+        .placeholder { background: #fff url('../content_img/index/placeholder.jpg') 60% 50% no-repeat; }
 
         .orange-box {
             background-color: #e94e1b !important;
             color: #fff;
             text-align: center;
 
-            h3 {
-              color: #fff;
-            }
+            h3 { color: #fff; }
 
             a {
                 color: #fff;
                 display: block;
             }
-            img {
-                margin: rem-calc(14 0 5 -15);
-            }
+
+            img { margin: rem-calc(14 0 5 -15); }
         }
 
         .center {
@@ -245,9 +199,7 @@ svg rect {
                 width: 32.833333333%;
             }
 
-            &:nth-child(3n) {
-                margin-right: 0;
-            }
+            &:nth-child(3n) { margin-right: 0; }
         }
 
         .grid-6 {
@@ -255,9 +207,7 @@ svg rect {
             max-width: none;
             width: 100%;
 
-            @include breakpoint(mv-lv) {
-                width: 66.416666666%;
-            }
+            @include breakpoint(mv-lv) { width: 66.416666666%; }
         }
 
         .grid-9 {
@@ -270,16 +220,12 @@ svg rect {
             margin-left: 0;
             margin-right: 0;
 
-            @include breakpoint(mv-lv) {
-               margin-left: .75%;
-            }
+            @include breakpoint(mv-lv) { margin-left: .75%; }
         }
     }
 
-// MORE MAILCHIMP NEWSLETTER
-#mc-embedded-subscribe {
-    display: none;
-}
+    // MORE MAILCHIMP NEWSLETTER
+    #mc-embedded-subscribe { display: none; }
 
 // ANIMATION
     #logo-animation {
@@ -299,24 +245,15 @@ svg rect {
             transform: scale(.1);
             transform-origin: center center;
 
-            &:nth-child(2) {
-                transition-delay: .1s;
-            }
+            &:nth-child(2) { transition-delay: .1s; }
 
-            &:nth-child(3) {
-                transition-delay: .2s;
-            }
+            &:nth-child(3) { transition-delay: .2s; }
 
-            &:nth-child(4) {
-                transition-delay: .3s;
-            }
+            &:nth-child(4) { transition-delay: .3s; }
 
-            &:nth-child(5) {
-                transition-delay: .4s;
-            }
-            &:nth-child(6) {
-                transition-delay: .4s;
-            }
+            &:nth-child(5) { transition-delay: .4s; }
+
+            &:nth-child(6) { transition-delay: .4s; }
         }
     }
 }

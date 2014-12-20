@@ -8,15 +8,12 @@
 header,
 footer {
 
-    a {
-        text-shadow: none !important;
-    }
+    a { text-shadow: none !important; }
 }
 
 @-moz-document url-prefix() {
-    header a {
-        background-position: 0 23px;
-    }
+
+    header a { background-position: 0 23px; }
 }
 
 .nav {
@@ -54,9 +51,7 @@ footer {
             }
         }
 
-        .meta-nav {
-            text-align: center;
-        }
+        .meta-nav { text-align: center; }
 
         & + .hid .sub-nav {
             bottom: 0;
@@ -65,15 +60,10 @@ footer {
             z-index: 101;
         }
 
-        .active {
-            background-position: 0 6.1vh;
-        }
+        .active { background-position: 0 6.1vh; }
     }
 
-    .active {
-        font-weight: 500;
-    }
-
+    .active { font-weight: 500; }
 }
 
 .logo {
@@ -88,9 +78,7 @@ footer {
         margin-left: 25%; // ???
     }
 
-    img {
-        border: 0;
-    }
+    img { border: 0; }
 }
 
 .main-nav {
@@ -98,13 +86,9 @@ footer {
     padding-top: rem-calc(3);
     width: auto;
 
-    .is-active & {
-        display: block;
-    }
+    .is-active & { display: block; }
 
-    @include breakpoint(main-nav) {
-        display: block;
-    }
+    @include breakpoint(main-nav) { display: block; }
 }
 
 .meta-nav {
@@ -112,34 +96,21 @@ footer {
     margin: 0;
     padding: 0;
 
-    .is-active & {
-        display: inline-block;
-    }
+    .is-active & { display: inline-block; }
 
-    @include breakpoint(main-nav) {
-        display: inline-block;
-    }
-
+    @include breakpoint(main-nav) { display: inline-block; }
 }
 
-.meta-nav-list-item {
-    padding-top: rem-calc(3);
-}
+.meta-nav-list-item { padding-top: rem-calc(3); }
 
 .sub-nav {
     display: none;
 
-    .is-active + .hid & {
-        display: block;
-    }
+    .is-active + .hid & { display: block; }
 
-    @include breakpoint(main-nav) {
-        display: block;
-    }
+    @include breakpoint(main-nav) { display: block; }
 
-    a {
-        background-image: none;
-    }
+    a { background-image: none; }
 }
 
 .meta-nav a,
@@ -164,9 +135,7 @@ footer {
         top: -82.6vh;
     }
 
-    @include breakpoint(main-nav) {
-        display: none;
-    }
+    @include breakpoint(main-nav) { display: none; }
 }
 
 .menu-button-span,
@@ -192,13 +161,9 @@ footer {
     top: rem-calc(-5);
     transition: all .2s;
 
-    &:before {
-        top: rem-calc(20);
-    }
+    &:before { top: rem-calc(20); }
 
-    &:after {
-        top: rem-calc(10);
-    }
+    &:after { top: rem-calc(10); }
 }
 
 .is-active {
@@ -210,9 +175,7 @@ footer {
         transform: rotate(45deg);
     }
 
-    .menu-button-span:after {
-        opacity: 0;
-    }
+    .menu-button-span:after { opacity: 0; }
 
     .menu-button-span:before {
         top: 0;
@@ -222,30 +185,17 @@ footer {
 
 body {
 
-    &.orange .animation.colorise .letter {
-        stroke: $orange;
-    }
+    &.orange .animation.colorise .letter { stroke: $orange; }
 
-    &.blue .animation.colorise .letter {
-        stroke: $blue;
-    }
+    &.blue .animation.colorise .letter { stroke: $blue; }
 
-    &.green .animation.colorise .letter {
-        stroke: $green;
-    }
+    &.green .animation.colorise .letter { stroke: $green; }
 
-    &.yellow .animation.colorise .letter {
-        stroke: $yellow;
-    }
+    &.yellow .animation.colorise .letter { stroke: $yellow; }
 
-    &.lilac .animation.colorise .letter {
-        stroke: $lilac;
-    }
+    &.lilac .animation.colorise .letter { stroke: $lilac; }
 
-    &.gray .animation.colorise .letter {
-        stroke: $gray-1;
-    }
-
+    &.gray .animation.colorise .letter { stroke: $gray-1; }
 }
 
 .animated-logo {
@@ -260,13 +210,9 @@ body {
         margin: 1.25em 0 1em; // REM
         transition: margin-top 0.5s, stroke 0.5s;
 
-        svg {
-            width: 90%;
-        }
+        svg { width: 90%; }
 
-        &.slideUp {
-            margin-top: -8.75em; // REM
-        }
+        &.slideUp { margin-top: -8.75em; } // REM
 
         &.animate .letter {
             opacity: 1;
@@ -279,25 +225,15 @@ body {
             transform-origin: center center;
                     transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
 
-            &:nth-child(2) {
-              transition-delay: 0.1s;
-            }
+            &:nth-child(2) { transition-delay: 0.1s; }
 
-            &:nth-child(3) {
-              transition-delay: 0.2s;
-            }
+            &:nth-child(3) { transition-delay: 0.2s; }
 
-            &:nth-child(4) {
-              transition-delay: 0.3s;
-            }
+            &:nth-child(4) { transition-delay: 0.3s; }
 
-            &:nth-child(5) {
-              transition-delay: 0.4s;
-            }
+            &:nth-child(5) { transition-delay: 0.4s; }
 
-            &:nth-child(6) {
-              transition-delay: 0.4s;
-            }
+            &:nth-child(6) { transition-delay: 0.4s; }
         }
     }
 }
@@ -311,9 +247,7 @@ body {
 }
 
 
-.is-active .logo img {
-    width: 180px !important;
-}
+.is-active .logo img { width: 180px !important; }
 
 .is-fixed {
     bottom: 0;
@@ -324,37 +258,24 @@ body {
 .mobile header {
     height: 65px;
 
-    &.during-intro {
-        height: 200px;
-    }
+    &.during-intro { height: 200px; }
 
     &.detached {
         height: 65px;
 
-        &.is-active {
-            height: 100%;
-        }
+        &.is-active { height: 100%; }
     }
 
-    &.is-active {
-        height: 100%;
-    }
+    &.is-active { height: 100%; }
 
-    a {
-        background-image: none;
-    }
+    a { background-image: none; }
 
     .main-nav {
         opacity: 0;
         transition: opacity 0.5s;
     }
 
-    .is-active {
-
-        .main-nav {
-            opacity: 1;
-        }
-    }
+    .is-active .main-nav { opacity: 1; }
 
     .animated-logo {
         margin-top: 4.375rem;
@@ -363,9 +284,7 @@ body {
             margin: 0.75em auto 0.25em;
             width: 80%;
 
-            &.slideUp {
-                margin-top: -8.75em;
-            }
+            &.slideUp { margin-top: -8.75em; } //REM
         }
     }
 }
@@ -398,9 +317,7 @@ header {
     width: 100%;
     z-index: 1000;
 
-    &.during-intro {
-        height: 245px;
-    }
+    &.during-intro { height: 245px; }
 }
 
 // WHEN HIDDEN IT GOES UP
@@ -432,7 +349,4 @@ header {
 }
 
 // ON FOCUS DON'T SHOW OUTLINE
-.menu-button-span:focus {
-    outline: none;
-}
-
+.menu-button-span:focus { outline: none; }

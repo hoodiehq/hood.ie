@@ -8,13 +8,9 @@
 #eventsList {
     margin: 0;
 
-    @include breakpoint(mv) {
-        margin: 2em;
-    }
+    @include breakpoint(mv) { margin: 2em; }
 
-    .hidden {
-        display: none;
-    }
+    .hidden { display: none; }
 
     .loader {
         background: $yellow;
@@ -39,9 +35,7 @@
 
 .events {
 
-    .links-list-item {
-        margin-bottom: 0;
-    }
+    .links-list-item { margin-bottom: 0; }
 
     #filters {
         display: block;
@@ -49,9 +43,7 @@
         margin: rem-calc(32) auto rem-calc(64);
         width: 100%;
 
-        @include breakpoint(mv-lv) {
-            width: 32em;
-        }
+        @include breakpoint(mv-lv) { width: 32em; }
 
         .icheckbox_flat-yellow {
             margin-left: rem-calc(16);
@@ -87,9 +79,7 @@
         width: 50%;
     }
 
-    h2 {
-        text-align: center;
-    }
+    h2 { text-align: center; }
 
     .description {
         font-size: 1em;
@@ -112,9 +102,7 @@
     margin-bottom: rem-calc(19);
     padding-bottom: rem-calc(19);
 
-    &:last-of-type {
-        border-bottom: none;
-    }
+    &:last-of-type { border-bottom: none; }
 }
 
 .twitterCTA { // CLASS USED IN EVENTS:JS
@@ -136,9 +124,7 @@
 
 @-moz-document url-prefix() {
 
-    .links-list-link {
-        background-position: 0 rem-calc(18);
-    }
+    .links-list-link { background-position: 0 rem-calc(18); }
 }
 
 
@@ -152,9 +138,7 @@
 
 .futureEvents { // CLASS USED IN EVENTS.JS
 
-    @include breakpoint(index) {
-        padding-right: 1rem;
-    }
+    @include breakpoint(index) { padding-right: 1rem; }
 
     .events-list-item {
 
@@ -165,9 +149,7 @@
             font-weight: 400;
             padding: rem-calc(10 14);
 
-            h3 {
-                color: #fff;
-            }
+            h3 { color: #fff; }
 
             .links-list-link {
                 background-image: linear-gradient(to bottom, #fff 75%, rgba(255, 255, 255, .8) 75%);
@@ -175,9 +157,7 @@
                 text-shadow: none;
             }
 
-            .links {
-                margin-bottom: rem-calc(5);
-            }
+            .links { margin-bottom: rem-calc(5); }
 
             &:before {
                 content: "Next event";

@@ -5,14 +5,9 @@
 \*------------------------------------*/
 
 
-* {
-    box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
-
-img {
-    max-width: 100%;
-}
+img { max-width: 100%; }
 
 // CLEARFIX
 %cf {
@@ -23,9 +18,7 @@ img {
         display: table;
     }
 
-    &:after {
-        clear: both;
-    }
+    &:after { clear: both; }
 
 }
 
@@ -36,9 +29,7 @@ section,
     width: 100%;
 }
 
-header {
-    z-index:1;
-}
+header { z-index:1; }
 
 header section li,
 header section a {
@@ -48,20 +39,15 @@ header section a {
 footer {
     padding-top: rem-calc(90);
 
-    @include breakpoint(mv) {
-        margin-top: rem-calc(85);
-    }
+    @include breakpoint(mv) { margin-top: rem-calc(85); }
 }
 
-.nav {
-    height: rem-calc(65);
-}
+.nav { height: rem-calc(65); }
 
 .sub-nav {
     padding: rem-calc(8 0 5 0);
     top: rem-calc(65);
 }
-
 
 .sub-nav,
 .cb,
@@ -72,9 +58,7 @@ footer {
 }
 
 .nav,
-.sub-nav {
-    position: absolute;
-}
+.sub-nav { position: absolute; }
 
 .cb {
     @extend %cf;
@@ -82,18 +66,14 @@ footer {
     padding-bottom: rem-calc(42);
     width: 100%;
 
-    &.teaser {
-        padding-bottom: rem-calc(57);
-    }
+    &.teaser { padding-bottom: rem-calc(57); }
 
     article {
         margin: 0 auto;
         max-width: rem-calc(600);
         width: 100%;
 
-        @include breakpoint(lv) {
-            float: right;
-        }
+        @include breakpoint(lv) { float: right; }
     }
 
     aside {
@@ -104,9 +84,7 @@ footer {
         br {
             display: none;
 
-            @include breakpoint(lv) {
-                display: inline;
-            }
+            @include breakpoint(lv) { display: inline; }
 
         }
 
@@ -117,33 +95,23 @@ footer {
         }
     }
 
-    table {
-        width: 100%;
-    }
+    table { width: 100%; }
 
-    tr:nth-child(even) {
-        background-color: #e1e1e1;
-    }
+    tr:nth-child(even) { background-color: #e1e1e1; }
 
     td {
         padding: 5px 8px;
 
-        &:nth-child(1) {
-            width: 60%;
-        }
+        &:nth-child(1) { width: 60%; }
     }
 }
 
 .content {
     padding: rem-calc(160 16 0);
 
-    @include breakpoint(mv) {
-        padding: rem-calc(200 16 0);
-    }
+    @include breakpoint(mv) { padding: rem-calc(200 16 0); }
 
-    @include breakpoint(lv) {
-        padding: rem-calc(270 16 0)
-    }
+    @include breakpoint(lv) { padding: rem-calc(270 16 0); }
 
 }
 
@@ -158,13 +126,7 @@ code {
     max-width: rem-calc(600);
     width: 100%;
 
-    figure {
-
-        figcaption {
-            padding-bottom: rem-calc(30);
-        }
-
-    }
+    figcaption { padding-bottom: rem-calc(30); }
 
 }
 
@@ -186,21 +148,13 @@ code {
 }
 
 // HELPER
-.l {
-    float: left;
-}
+.l { float: left; }
 
-.r {
-    float: right;
-}
+.r { float: right; }
 
-%n {
-    float: none;
-}
+%n { float: none; }
 
-.hide {
-    display: none;
-}
+.hide { display: none; }
 
 .centered {
     text-align: center;
@@ -212,17 +166,11 @@ code {
     display: flex;
     flex-direction: column;
 
-    .contribute-aside-icon {
-        order: 1;
-    }
+    .contribute-aside-icon { order: 1; }
 
-    article {
-        order: 2;
-    }
+    article { order: 2; }
 
-    @include breakpoint(lv) {
-        display: block;
-    }
+    @include breakpoint(lv) { display: block; }
 }
 
 .vat {
