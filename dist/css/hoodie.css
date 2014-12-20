@@ -178,7 +178,7 @@ code {
 .grid-9 {
   max-width: 37.5rem;
   width: 100%; }
-  .grid-9 figure figcaption {
+  .grid-9 figcaption {
     padding-bottom: 1.875rem; }
 
 .grid-6 {
@@ -368,7 +368,7 @@ aside {
 .cb aside a {
   color: #999; }
 
-article figure figcaption {
+figcaption {
   color: #999; }
 
 .api-nav li a {
