@@ -9,7 +9,7 @@ comments: true
 
 ![](http://day.couchdb.org/images/couchdb_day_hamburg.png)
 
-We are giving a way **four** travel stipends to [CouchDB Day Hamburg](http://day.couchdb.org "CouchDB Day 2015 in Hamburg") that takes place on February 7th, 2015.
+We are giving away **four** travel stipends to [CouchDB Day Hamburg](http://day.couchdb.org "CouchDB Day 2015 in Hamburg") that takes place on February 7th, 2015.
 
 Just like with [the ticket giveaway for JSUnconf EU last year](http://hood.ie/blog/team-hoodie-gives-away-two-tickets-for-jsunconf-eu.html), we are trying to **enable people who could not otherwise attend**. CouchDB Day ticket are free (thanks to their generous sponsors), travel to and accommodation in Hamburg still costs money and that’s where we want to help.
 
