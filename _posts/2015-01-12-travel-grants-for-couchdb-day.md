@@ -1,6 +1,6 @@
 ---
 
-title: 'Win One of Four Travel Grants for CouchDB Day Hamburg'
+title: 'Win One of Four Travel Grants to CouchDB Day Hamburg'
 author: Jan
 layout: blog-post
 comments: true
