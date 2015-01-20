@@ -21,6 +21,6 @@ Just like with [the ticket giveaway for JSUnconf EU last year](http://hood.ie/bl
 - *What do you do?*
 - *Why should you win a travel grant?*
 
-We will announce the four winners by Monday, January 19th.
+We will announce the four winners by Monday, Friday 23rd.
 
 Looking forward to hearing from you! And, by the way: going to CouchDB Day is also your chance to meet <a href="https://twitter.com/janl">Jan</a> who will also attend :)
