@@ -36,7 +36,7 @@ Most [common mistakes Node developers make](https://www.airpair.com/node.js/post
 Judgments about language use, despite being far from “objective” or “technical,” set up a hierarchy among programmers that systematically privileges certain groups. –
 <cite>[C is Manly, Python is for “n00bs”: How False Stereotypes Turn Into Technical “Truths”](https://modelviewculture.com/pieces/c-is-manly-python-is-for-n00bs-how-false-stereotypes-turn-into-technical-truths)</cite>
 
-[The art of promised based architecture](http://rangle.io/blog/the-art-of-promise-based-architecture/).
+[The art of promise based architecture](http://rangle.io/blog/the-art-of-promise-based-architecture/).
 
 [8 Ways For A Programmer To Stay Sane](http://www.devbattles.com/en/sand/post-656-8+Ways+For+A+Programmer+To+Stay+Sane).
 
