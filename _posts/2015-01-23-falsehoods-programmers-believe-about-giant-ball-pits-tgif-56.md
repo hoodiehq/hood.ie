@@ -16,6 +16,8 @@ Oh, and by the way: <b>our blog's RSS feed is back</b> – subscribe now on hoo
 
 [WebVR lands in Firefox Nightly](http://mozvr.com/posts/webvr-lands-in-nightly/).
 
+Today is the last day to apply for a travel grant to visit [CouchDB Day in Hamburg, Germany](http://day.couchdb.org/), on February 07. Find out how to apply [here](http://hood.ie/blog/travel-grants-for-couchdb-day.html).
+
 ##Design
 
 The 80% Rule: [When to show your work](http://blog.creativelive.com/when-to-show-your-work/).
