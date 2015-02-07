@@ -32,7 +32,9 @@ section,
 header { z-index:1; }
 
 header section li,
-header section a { display: inline-block; }
+header section a {
+    display: inline-block;
+}
 
 footer {
     padding-top: rem-calc(90);
@@ -51,7 +53,9 @@ footer {
 .cb,
 .main-nav,
 .blog-list,
-.blog-post .comments { margin: 0 auto; }
+.blog-post .comments {
+    margin: 0 auto;
+}
 
 .nav,
 .sub-nav { position: absolute; }
@@ -95,7 +99,8 @@ footer {
 
     tr:nth-child(even) { background-color: #e1e1e1; }
 
-    td { padding: 5px 8px;
+    td {
+        padding: 5px 8px;
 
         &:nth-child(1) { width: 60%; }
     }
@@ -114,6 +119,7 @@ code {
     display: block;
     padding-top: rem-calc(25);
 }
+
 
 // GRIDS
 .grid-9 {
@@ -154,6 +160,7 @@ code {
     text-align: center;
     display: block;
 }
+
 
 .switch-on-break {
     display: flex;

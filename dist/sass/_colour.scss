@@ -67,10 +67,14 @@ aside { color: $gray-4; }
 .main-nav a,
 .meta-nav a { color: #fff !important; }
 
-.cb:odd { background-color: $gray-5; }
+.cb {
 
-.cb aside a { color: $gray-4; }
+    &:odd { background-color: $gray-5; }
+
+    aside a { color: $gray-4; }
+}
 
 figcaption { color: $gray-4; }
+
 
 .api-nav li a { color: $blue; }

@@ -96,9 +96,12 @@ $dh : rem-calc(40);
         color: rgba(0, 0, 0, .3);
         margin-bottom: rem-calc(20);
     }
+
 }
 
+
 // ASIDE NAVIGATION FOR DOCS
+
 .api-nav {
     background-color: $gray-6;
     border-radius: rem-calc(12);
@@ -113,6 +116,7 @@ $dh : rem-calc(40);
 
 }
 
+
 // HOT FIX FOR PRISM
 code {
     background-color: transparent !important;
@@ -120,6 +124,7 @@ code {
     margin-top: rem-calc(25) !important;
     white-space: normal !important;
 }
+
 
 // ARTICLE
 ul,
@@ -151,6 +156,7 @@ aside img { border: 0; }
     &:hover { background-image: none; }
 }
 
+
 .friends,
 .contribute-aside-icon {
 
@@ -162,6 +168,7 @@ aside img { border: 0; }
     }
 
     use { transform: scale(2.5); }
+
 }
 
 .contribute-aside-icon {
