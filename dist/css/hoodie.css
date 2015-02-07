@@ -849,7 +849,7 @@ aside img {
 
 .footer-licensing {
   color: #fff;
-  font-size: 0.875rem; }
+  font-size: 0.875em; }
   .footer-licensing a {
     background-image: linear-gradient(to bottom, #ffffff 45%, rgba(255, 255, 255, 0.4) 60%);
     background-position: 0 0.8125rem;
