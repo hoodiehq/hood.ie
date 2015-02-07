@@ -40,8 +40,6 @@
             text-indent: 6em;
         }
     }
-
-    .blog-post-end { margin-top: rem-calc(80); }
 }
 
 .blog__hr {
@@ -88,6 +86,8 @@
     font-weight: 500;
     text-transform: uppercase;
 }
+
+.blog-post-end { margin-top: rem-calc(80); }
 
 @-moz-document url-prefix() {
 

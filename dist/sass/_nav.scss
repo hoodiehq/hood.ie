@@ -5,11 +5,8 @@
 \*------------------------------------*/
 
 
-header,
-footer {
-
-    a { text-shadow: none !important; }
-}
+header a,
+footer a { text-shadow: none !important; }
 
 @-moz-document url-prefix() {
 
@@ -103,8 +100,7 @@ footer {
 
 .meta-nav-list-item { padding-top: rem-calc(3); }
 
-.sub-nav {
-    display: none;
+.sub-nav { display: none;
 
     .is-active + .hid & { display: block; }
 
@@ -115,9 +111,7 @@ footer {
 
 .meta-nav a,
 .main-nav a,
-.sub-nav a {
-    font-weight: 300;
-}
+.sub-nav a { font-weight: 300; }
 
 .menu-button {
     display: block;
@@ -130,12 +124,12 @@ footer {
     width: rem-calc(35);
     z-index: 102;
 
+    @include breakpoint(main-nav) { display: none; }
+
     .is-active & {
         display: block;
         top: -82.6vh;
     }
-
-    @include breakpoint(main-nav) { display: none; }
 }
 
 .menu-button-span,
@@ -238,8 +232,8 @@ body {
     }
 }
 
-.content {
-    transition: background-position 1s, margin-top 0.5s;
+.content { transition: background-position 1s, margin-top 0.5s;
+
     &.during-intro {
         background-position: center rem-calc(-100);
         margin-top: 3rem;
@@ -255,13 +249,11 @@ body {
     z-index: 400;
 }
 
-.mobile header {
-    height: 65px;
+.mobile header { height: 65px;
 
     &.during-intro { height: 200px; }
 
-    &.detached {
-        height: 65px;
+    &.detached { height: 65px;
 
         &.is-active { height: 100%; }
     }
@@ -277,8 +269,7 @@ body {
 
     .is-active .main-nav { opacity: 1; }
 
-    .animated-logo {
-        margin-top: 4.375rem;
+    .animated-logo { margin-top: 4.375rem;
 
         .animation {
             margin: 0.75em auto 0.25em;
