@@ -12,5 +12,11 @@
     "grunt-sass": "^0.14.2",
     "grunt-string-replace": "^1.0.0",
     "time-grunt": "^1.0.0"
+  },
+
+  "frontend": {
+    "name": "Hood.ie Sass/JS",
+    "stylesheets": "dist/sass",
+    "javascripts": "dist/js"
   }
 }
