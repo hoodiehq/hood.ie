@@ -14,7 +14,7 @@ Oh, and by the way: <b>our blog's RSS feed is back</b> – subscribe now on hoo
 
 ##Open Source
 
-With `semantic-release` you can fully automate your npm module’s releases. You can try it out [here](https://github.com/boennemann/semantic-release).
+With semantic-release you can fully automate your npm module’s releases. You can try it out [here](https://github.com/boennemann/semantic-release).
 
 Open Source Software, [a one-act play](https://twitter.com/searls/status/565931153564377089).
 
