@@ -2,7 +2,7 @@
 title: hood.ie
 description: "Hoodie is an Open Source Software project initiated, developed, maintained and furthered by the Hoodie Community and its supporters."
 baseurl: ""
-url: "hood.ie"
+url: "http://hood.ie"
 
 # Build settings
 markdown: kramdown
