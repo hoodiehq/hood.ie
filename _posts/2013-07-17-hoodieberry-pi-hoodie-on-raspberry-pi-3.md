@@ -6,7 +6,7 @@ layout: blog-post
 ---
 The Raspberry Pi is everyone’s favourite embedded Linux system and we thought it might be fun to try and get Hoodie to run on it. Little did we know how easy that was. Here’s your guide to follow along.
 
-<a href="http://blog.hood.ie/wp-content/uploads/2013/07/hoodie-world.png" rel="lightbox[184]" title="Hoodieberry PI — Hoodie on Raspberry Pi"><img src="http://blog.hood.ie/wp-content/uploads/2013/07/hoodie-world-750x205.png" alt="hoodie-world" width="640" height="174" class="alignnone size-large wp-image-185" /></a>
+<a href="/dist/blog/2013/07/hoodie-world.png" rel="lightbox[184]" title="Hoodieberry PI — Hoodie on Raspberry Pi"><img src="/dist/blog/2013/07/hoodie-world-750x205.png" alt="hoodie-world" width="640" height="174" class="alignnone size-large wp-image-185" /></a>
 ## Prelude
 
 For this setup we used a Raspberry Pi model B. As far as we can tell, model A should work just the same.
@@ -62,7 +62,7 @@ Voilà!
 
 Now Hoodie runs on your Raspberry Pi, yay! :)
 
-<a href="http://blog.hood.ie/wp-content/uploads/2013/07/hoodie-start-bind.png" rel="lightbox[184]" title="Hoodieberry PI — Hoodie on Raspberry Pi"><img src="http://blog.hood.ie/wp-content/uploads/2013/07/hoodie-start-bind-750x386.png" alt="hoodie-start-bind" width="640" height="329" class="alignnone size-large wp-image-187" /></a>
+<a href="/dist/blog/2013/07/hoodie-start-bind.png" rel="lightbox[184]" title="Hoodieberry PI — Hoodie on Raspberry Pi"><img src="/dist/blog/2013/07/hoodie-start-bind-750x386.png" alt="hoodie-start-bind" width="640" height="329" class="alignnone size-large wp-image-187" /></a>
 Since Hoodie is security conscious, it only listens on `localhost`, but that is no good if you want to access your Hoodie app from other computers or phones on your local network.
 
 To enable this, you can start Hoodie with this:
@@ -74,7 +74,7 @@ It tells Hoodie to listen to all of the open IP addresses of the Raspberry Pi. N
 
 http://ip-of-your-raspberry-pi:6001/
 
-<a href="http://blog.hood.ie/wp-content/uploads/2013/07/hoodie-start.png" rel="lightbox[184]" title="Hoodieberry PI — Hoodie on Raspberry Pi"><img src="http://blog.hood.ie/wp-content/uploads/2013/07/hoodie-start-750x370.png" alt="hoodie-start" width="640" height="315" class="alignnone size-large wp-image-186" /></a>
+<a href="/dist/blog/2013/07/hoodie-start.png" rel="lightbox[184]" title="Hoodieberry PI — Hoodie on Raspberry Pi"><img src="/dist/blog/2013/07/hoodie-start-750x370.png" alt="hoodie-start" width="640" height="315" class="alignnone size-large wp-image-186" /></a>
 ## Why is this useful?
 
 The Raspberry Pi is not the fastest of computers, let alone a server for web apps. But as a server for Hoodie apps it is quite cool, as it does static web serving fast enough. And since Hoodie itself works primarily in the browser and only asynchronously syncs with the backend, and never gets in the way of user interaction, this can take as long as it needs (which isn’t too long to begin with, but still, it is worth highlighting that this is a neat setup :)

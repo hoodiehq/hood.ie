@@ -6,13 +6,13 @@ layout: blog-post
 ---
 We&#8217;re glad to announce that one of Hoodie&#8217;s projects, the [implementation of a Plugin Architecture][1], has received half of the required funding by the [NLnet foundation][2].
 
-<img class="size-full wp-image-353 alignleft" alt="nl-net-banner-160x60" src="http://blog.hood.ie/wp-content/uploads/2013/08/nl-net-banner-160x60.png" width="160" height="60" />NLnet is an independent Dutch organisation, believing in Open Standards and Open Source and aiming to increase the use of open technologies for society (read more: [NLnet&#8217;s Mission Statement][3]). NLnet has helped many people realize their dreams, amongst them were improvements to [TOR][4], [NoScript][5], [Serval Project][6], [Unhosted][7], [Remote Storage][8] and many more (read more opinions and acknowledgements [here][9]). [Currently][10], they&#8217;re funding projects like [Sockethub][11], [Calligra][12], [Viewer.js][13] &#8211; and [Hoodie][14].
+<img class="size-full wp-image-353 alignleft" alt="nl-net-banner-160x60" src="/dist/blog/2013/08/nl-net-banner-160x60.png" width="160" height="60" />NLnet is an independent Dutch organisation, believing in Open Standards and Open Source and aiming to increase the use of open technologies for society (read more: [NLnet&#8217;s Mission Statement][3]). NLnet has helped many people realize their dreams, amongst them were improvements to [TOR][4], [NoScript][5], [Serval Project][6], [Unhosted][7], [Remote Storage][8] and many more (read more opinions and acknowledgements [here][9]). [Currently][10], they&#8217;re funding projects like [Sockethub][11], [Calligra][12], [Viewer.js][13] &#8211; and [Hoodie][14].
 
 # What can NLnet funding do?
 
 It&#8217;s [still hard to figure out ways of funding Open Source-projects][15], and NLnet&#8217;s unbureaucratic offer, even addressing projects in their early stage, can be of enormous help to focus on your plans, realize ideas faster and finally push your project way further. This is what Hoodie is experiencing at the moment and one of the major reasons we&#8217;re very glad this became possible.
 
-<img class="alignnone size-full wp-image-366" alt="1-IMG_9262" src="http://blog.hood.ie/wp-content/uploads/2013/08/1-IMG_92621.jpg" width="638" height="479" />
+<img class="alignnone size-full wp-image-366" alt="1-IMG_9262" src="/dist/blog/2013/08/1-IMG_92621.jpg" width="638" height="479" />
 In the last weeks, we made our first steps, so now is a good time to make this public and also answer some questions that you might have if you&#8217;re in a similiar situation and interested in finding a funder or sponsor for your Open Source project.
 
 # Who and which kinds of projects does NLnet address?
@@ -27,7 +27,7 @@ A number of times a year, NLnet issues an open call for funding (next deadline f
 
 The Hoodie-project accepted by NLnet was one of the &#8220;below 30k EUR&#8221;-category. We were asked to write a detailed *project plan* containing e.g. a detailed project description and course, budget, people & skills involved, promotion plans and milestones planned to be achieved during our project&#8217;s progression (no worries, NLnet&#8217;s helpful team will tell you what they need to see in there).
 
-<img class="alignnone size-full wp-image-365" alt="1-nlnet-plan" src="http://blog.hood.ie/wp-content/uploads/2013/08/1-nlnet-plan.jpg" width="640" height="480" />
+<img class="alignnone size-full wp-image-365" alt="1-nlnet-plan" src="/dist/blog/2013/08/1-nlnet-plan.jpg" width="640" height="480" />
 Afterwards, you submit your plan, receive feedback and the amount of budget granted, the people responsible sign some contracts and then you &#8230;
 
 # Get started!

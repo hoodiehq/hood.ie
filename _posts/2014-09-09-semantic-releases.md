@@ -9,7 +9,7 @@ layout: blog-post
 <em>tl;dr:</em> Don&#8217;t release <img class="emoji" title=":floppy_disk:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4be.png" alt=":floppy_disk:" width="20" height="20" align="absmiddle" /> like a <img class="emoji" title=":monkey:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f412.png" alt=":monkey:" width="20" height="20" align="absmiddle" />, as it causes lots of <img class="emoji" title=":bug:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41b.png" alt=":bug:" width="20" height="20" align="absmiddle" /><img class="emoji" title=":beetle:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f41e.png" alt=":beetle:" width="20" height="20" align="absmiddle" />. Do it like a <img class="emoji" title=":princess:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f478.png" alt=":princess:" width="20" height="20" align="absmiddle" /> using <img class="emoji" title=":boar:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f417.png" alt=":boar:" width="20" height="20" align="absmiddle" /><img class="emoji" title=":balloon:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f388.png" alt=":balloon:" width="20" height="20" align="absmiddle" />. Use the <img class="emoji" title=":clock230:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f55d.png" alt=":clock230:" width="20" height="20" align="absmiddle" /> saved and the <img class="emoji" title=":moneybag:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b0.png" alt=":moneybag:" width="20" height="20" align="absmiddle" />made to <img class="emoji" title=":revolving_hearts:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f49e.png" alt=":revolving_hearts:" width="20" height="20" align="absmiddle" />: <a href="https://github.com/boennemann/grunt-semantic-release">grunt-semantic-release</a>.
 
 
-<a href="http://blog.hood.ie/wp-content/uploads/2014/09/grunt-release-command-screenshot.png" rel="lightbox[1707]" title="Essential Tooling for a Small Modules World: Bringing Back the Excitement of Software Releases with <em>grunt-semantic-release</em>"><img class="wp-image-1714 size-large" src="http://blog.hood.ie/wp-content/uploads/2014/09/grunt-release-command-screenshot-750x245.png" alt="A screenshot of the grunt release command in the terminal"/></a>
+<a href="/dist/blog/2014/09/grunt-release-command-screenshot.png" rel="lightbox[1707]" title="Essential Tooling for a Small Modules World: Bringing Back the Excitement of Software Releases with <em>grunt-semantic-release</em>"><img class="wp-image-1714 size-large" src="/dist/blog/2014/09/grunt-release-command-screenshot-750x245.png" alt="A screenshot of the grunt release command in the terminal"/></a>
 This how easy it is to release software now. Yes checkboxes are pre-checked for you.
 
 
@@ -22,7 +22,7 @@ Before that at Hoodie&#8217;s: …
 This happened approximately once a week at Hoodie, especially as we are currently maintaining over 50 repositories. You can probably imagine how messed up things can get when a lot of different people have to follow this fragile, lengthy and awfully repetitive process:
 
 <div id="attachment_1711" class="wp-caption alignnone">
-  <a href="http://blog.hood.ie/wp-content/uploads/2014/09/release-process-before-parallel.gif" rel="lightbox[1707]" title="Essential Tooling for a Small Modules World: Bringing Back the Excitement of Software Releases with <em>grunt-semantic-release</em>"><img class="wp-image-1711" src="http://blog.hood.ie/wp-content/uploads/2014/09/release-process-before-parallel-750x235.gif" alt="A graph of the error-prone &quot;process&quot; we used before." /></a><p class="wp-caption-text">
+  <a href="/dist/blog/2014/09/release-process-before-parallel.gif" rel="lightbox[1707]" title="Essential Tooling for a Small Modules World: Bringing Back the Excitement of Software Releases with <em>grunt-semantic-release</em>"><img class="wp-image-1711" src="/dist/blog/2014/09/release-process-before-parallel-750x235.gif" alt="A graph of the error-prone &quot;process&quot; we used before." /></a><p class="wp-caption-text">
     The old process looks simple, but due to multiple human interactions it is error-prone.
   </p>
 </div>
@@ -61,7 +61,7 @@ This is why I decided to build **a layer on top of the existing tools** that sol
 All I have to do locally now is type 'grunt release' into the terminal. The task will **analyse the changes made** since the last release and suggest the next version – and that&#8217;s it already. Once I confirm, everything is taken care of by bots. No more error-prone humans necessary.
 
 <div id="attachment_1713" class="wp-caption alignnone">
-  <a href="http://blog.hood.ie/wp-content/uploads/2014/09/release-process-after-serial.gif" rel="lightbox[1707]" title="Essential Tooling for a Small Modules World: Bringing Back the Excitement of Software Releases with <em>grunt-semantic-release</em>"><img class="wp-image-1713" src="http://blog.hood.ie/wp-content/uploads/2014/09/release-process-after-serial-601x470.gif" alt="A graph of the new process" width="601" height="470" /></a><p class="wp-caption-text">
+  <a href="/dist/blog/2014/09/release-process-after-serial.gif" rel="lightbox[1707]" title="Essential Tooling for a Small Modules World: Bringing Back the Excitement of Software Releases with <em>grunt-semantic-release</em>"><img class="wp-image-1713" src="/dist/blog/2014/09/release-process-after-serial-601x470.gif" alt="A graph of the new process" width="601" height="470" /></a><p class="wp-caption-text">
     The new process is complex, but automated and taken care of by bots.
   </p>
 </div>
@@ -74,7 +74,7 @@ As this is packaged in a single grunt plugin including an interactive setup scri
 
 Obviously, the whole plugin was initially tightly coupled to the needs of Hoodie, but I extracted a general-purpose gruntplugin and published it to npm (using itself) last week. Say hello to [grunt-semantic-release][13], or say hi to its repo [on GitHub][14].
 
-## <a href="http://blog.hood.ie/wp-content/uploads/2014/09/screencast_slow.gif" rel="lightbox[1707]" title="Essential Tooling for a Small Modules World: Bringing Back the Excitement of Software Releases with <em>grunt-semantic-release</em>"><img class="aligncenter" src="http://blog.hood.ie/wp-content/uploads/2014/09/screencast_slow.gif" alt="A screencast of the grunt release workflow" /></a>
+## <a href="/dist/blog/2014/09/screencast_slow.gif" rel="lightbox[1707]" title="Essential Tooling for a Small Modules World: Bringing Back the Excitement of Software Releases with <em>grunt-semantic-release</em>"><img class="aligncenter" src="/dist/blog/2014/09/screencast_slow.gif" alt="A screencast of the grunt release workflow" /></a>
 
 ## Join the discussion!
 

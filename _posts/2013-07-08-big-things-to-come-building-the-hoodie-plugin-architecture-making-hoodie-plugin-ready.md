@@ -44,6 +44,6 @@ And as &#8220;we&#8221; also means &#8220;you&#8221;, we&#8217;ve created an [is
 
 <3
 
-<img class="alignnone  wp-image-134" alt="hoodie plugin architecture" src="http://blog.hood.ie/wp-content/uploads/2013/07/IMG_9353-470x470.jpg" width="600" height="600" />
+<img class="alignnone  wp-image-134" alt="hoodie plugin architecture" src="/dist/blog/2013/07/IMG_9353-470x470.jpg" width="600" height="600" />
 
  [1]: https://github.com/hoodiehq/hoodie-server/issues/96

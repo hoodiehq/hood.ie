@@ -86,7 +86,7 @@ Victor, an Emotional Robot, is sore Loser – [This Scrabble Player&#8217;s Best
 
 If male superhero costumes were [designed like female superhero costumes][19]:
 
-[<img class="alignnone size-large wp-image-1294" alt="Screenshot: fernacular.tumblr.com" src="http://blog.hood.ie/wp-content/uploads/2014/03/Screen-Shot-2014-03-21-at-09.15.03-405x470.png" width="405" height="470" />][19]
+[<img class="alignnone size-large wp-image-1294" alt="Screenshot: fernacular.tumblr.com" src="/dist/blog/2014/03/Screen-Shot-2014-03-21-at-09.15.03-405x470.png" width="405" height="470" />][19]
 What happens when you [replace the women in ads with men][20]:
 
 [<img class="alignnone" alt="" src="http://s3-ec.buzzfed.com/static/2014-03/enhanced/webdr03/15/17/anigif_enhanced-6083-1394920558-9.gif" width="500" height="283" />][20]

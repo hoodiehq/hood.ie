@@ -7,7 +7,7 @@ Katrin Apel is a Berlin-based iOS developer whose contributions are of high valu
 
 Last week, she gave a talk about [Building your first iOS apps with Hoodie][3], including one of the probably best Hoodie-talk slides ever:
 
-[<img class="alignnone size-full wp-image-1532" src="http://blog.hood.ie/wp-content/uploads/2014/05/Screen-Shot-2014-05-22-at-14.50.53.png" alt="Screen Shot 2014-05-22 at 14.50.53" width="705" height="526" />][4]
+[<img class="alignnone size-full wp-image-1532" src="/dist/blog/2014/05/Screen-Shot-2014-05-22-at-14.50.53.png" alt="Screen Shot 2014-05-22 at 14.50.53" width="705" height="526" />][4]
 *Note: Yes, there has been a bit of an Adventure Time-meme evolving in Hoodie talks recently. Which we want to comment appropriately:
 *<!--more-->
 

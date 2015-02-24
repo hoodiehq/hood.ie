@@ -4,7 +4,7 @@ author: Lena
 layout: blog-post
 //permalink: /2013/08/hoodies-irl-jsconf-eu/
 ---
-<img class="wp-image-394 alignleft" alt="jsconf-logo" src="http://blog.hood.ie/wp-content/uploads/2013/08/jsconf-logo-300x300.png" width="150" height="150" />
+<img class="wp-image-394 alignleft" alt="jsconf-logo" src="/dist/blog/2013/08/jsconf-logo-300x300.png" width="150" height="150" />
 This year, we won&#8217;t mind the end of summer as autumn promises to be amazing beginning with an entire week in Berlin packed with great community events.
 
 We&#8217;re already excited and very much looking forward to an international, diverse group of developers coming to town for serious nerdery, teaching and learning at [Reject.JS][1] (Sept. 12), [CSSConf.eu][2] (Sept. 13), [NodeCopter][3] (Sept. 13) and [up.front][4] and, last but not least, [JSConf EU][5] (Sept. 14, 15).

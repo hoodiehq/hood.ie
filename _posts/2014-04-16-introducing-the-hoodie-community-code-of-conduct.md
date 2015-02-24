@@ -4,7 +4,7 @@ author: Lena
 layout: blog-post
 //permalink: /2014/04/introducing-the-hoodie-community-code-of-conduct/
 ---
-<img class="alignnone size-large wp-image-1360" style="padding-bottom: 1em;" alt="201419_0388" src="http://blog.hood.ie/wp-content/uploads/2014/04/201419_0388-705x470.jpg" width="705" height="470" />
+<img class="alignnone size-large wp-image-1360" style="padding-bottom: 1em;" alt="201419_0388" src="/dist/blog/2014/04/201419_0388-705x470.jpg" width="705" height="470" />
 We strongly believe that Hoodie can only be a success if a wide variety of people with very diverse backgrounds come together and make it a reality. To help communicating this, we are announcing the [Hoodie Community Code of Conduct][1].
 
 These are the main reasons, some more general, some more urgent, that led us to write it:

@@ -4,7 +4,7 @@ author: Lena
 layout: blog-post
 
 ---
-<img class="alignnone size-large wp-image-1288" alt="201419_1981" src="http://blog.hood.ie/wp-content/uploads/2014/03/201419_1981-705x470.jpg" width="705" height="470" /> 
+<img class="alignnone size-large wp-image-1288" alt="201419_1981" src="/dist/blog/2014/03/201419_1981-705x470.jpg" width="705" height="470" /> 
 
 **Hoodie goes native mobile! Wooohooo!**
 

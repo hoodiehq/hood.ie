@@ -38,7 +38,7 @@ Making good hacks: a [wiki][4] on feminist hacker spaces and a great text on [ho
 
 [Female Conference Speaker Bingo][9]:
 
-[<img class="aligncenter size-large wp-image-1152" alt="Female Conference Speaker Bingo" src="http://blog.hood.ie/wp-content/uploads/2014/02/Female-Conference-Speaker-Bingo-e1348511495522-425x470.jpg" width="799" />][9]
+[<img class="aligncenter size-large wp-image-1152" alt="Female Conference Speaker Bingo" src="/dist/blog/2014/02/Female-Conference-Speaker-Bingo-e1348511495522-425x470.jpg" width="799" />][9]
 &nbsp;
 
 **The work**

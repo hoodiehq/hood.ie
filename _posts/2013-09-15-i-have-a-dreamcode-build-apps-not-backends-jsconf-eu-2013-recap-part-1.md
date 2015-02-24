@@ -6,7 +6,7 @@ layout: blog-post
 ---
 We&#8217;re still amazed after all those fantastic conferences taking part in Berlin last week. While JSConf EU is just seeing their last talks, we&#8217;re happy to already show you Alex&#8217; *noBackend-*talk he gave there this afternoon.
 
-<img class="wp-image-431 alignleft" alt="do want" src="http://blog.hood.ie/wp-content/uploads/2013/09/Screen-Shot-2013-09-15-at-18.30.23-300x223.png" width="220" height="164" />
+<img class="wp-image-431 alignleft" alt="do want" src="/dist/blog/2013/09/Screen-Shot-2013-09-15-at-18.30.23-300x223.png" width="220" height="164" />
 Though Alex is part of Team Hoodie, his thoughts and slides are about one idea in general: &#8220;noBackend&#8221;, the idea of BaaS (Backend as a Service) &#8211; building a full-featured web application on the browser side without having to worry about the server side.
 
 You&#8217;ll find his slides [here][1] and below, as soon as the video&#8217;s available, we&#8217;ll post it here. For your comments and notes, don&#8217;t hesitate to ping [Alex][2] on Twitter!

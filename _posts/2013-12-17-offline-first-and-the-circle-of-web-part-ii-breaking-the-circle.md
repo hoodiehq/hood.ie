@@ -28,13 +28,14 @@ We are trying to get some data from a server, say new emails, but we never reach
 
 However it is relevant to look at this from another perspective: if, say, the mobile operating system understands it is offline, the client request to the server will fail right away. But if this is a case of just getting offline, the request might just sit there until a timeout is triggered, either in the TCP stack, or at the HTTP level, or the even the application might give up eventually. This timeout is often specified in minutes, during which the user can’t do anything.
 
-<!-- <img class="alignright size-full wp-image-779" alt="fails immediately" src="http://blog.hood.ie/wp-content/uploads/2013/12/s-of.009.png" width="740" height="315" /> -->
+<img class="alignright size-full wp-image-779" alt="fails immediately" src="/dist/blog/2013/12/s-of.009.png" width="740" height="315" />
 * * *
 
-<!-- <img class="alignright size-full wp-image-780" alt="fails later" src="http://blog.hood.ie/wp-content/uploads/2013/12/s-of.010.png" width="740" height="315" /> -->
+<img class="alignright size-full wp-image-780" alt="fails later" src="/dist/blog/2013/12/s-of.010.png" width="740" height="315" />
 This opens up another scenario: some data makes it back to the client, but not all of it.
 
-<!-- <img class="alignright size-full wp-image-781" alt="returns partial data" src="http://blog.hood.ie/wp-content/uploads/2013/12/s-of.011.png" width="740" height="315" /> -->
+<img class="alignright size-full wp-image-781" alt="returns partial data" src="/dist/blog/2013/12/s-of.011.png" width="740" height="315" />
+
 Especially in browsers, it can be very tricky to find out the correct connection state, but even native apps have trouble being able to do the right thing.
 
 Let’s add two terms to our vocabulary: “server unreachable” and “request timeout”. And let&#8217;s note that “request timeout” is potentially three different timeouts: from the app, the HTTP layer or from TCP.
@@ -59,10 +60,11 @@ Passing the lovely countryside, we snap a few great photos and decide one of the
 
 Now we have a similar situation as before, the server might be reachable, but it takes too long, or it might not be reachable at all and we know immediately.
 
-<!-- <img class="alignright size-full wp-image-782" alt="fails immediately" src="http://blog.hood.ie/wp-content/uploads/2013/12/s-of.012.png" width="740" height="315" /> -->
+<img class="alignright size-full wp-image-782" alt="fails immediately" src="/dist/blog/2013/12/s-of.012.png" width="740" height="315" />
 * * *
 
-<!-- <img class="alignright size-full wp-image-783" alt="fails later" src="http://blog.hood.ie/wp-content/uploads/2013/12/s-of.013.png" width="740" height="315" /> -->
+<img class="alignright size-full wp-image-783" alt="fails later" src="/dist/blog/2013/12/s-of.013.png" width="740" height="315" />
+
 ## More consequences for the user interface
 
 But the consequences for the user interface are different. If the first law of robotics is not to harm any humans, the first law of Offline First apps is to never lose the user’s data:

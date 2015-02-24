@@ -6,13 +6,13 @@ layout: blog-post
 ---
 Prescript: [*Offline First*][1] is an initiative which is supported by (Team) Hoodie but not &#8220;a Hoodie project&#8221;. Although we consider it to be very important, it is a discussion and a topic bigger than Hoodie. *Offline First* aims to reach far more people, collect their experiences and ideas and find solutions for the problems caused by lack or loss of internet connection in apps. We invite you to join the discussion and help collect information on the [*Offline First* GitHub organisation][2]. Find more information on the first ideas about this topic [here][3].
 
-<img alt="Offline First Meetup #1 in Berlin" src="http://blog.hood.ie/wp-content/uploads/2014/01/20140129_09-705x470.jpg" width="705" height="470" /> <p style="text-align: center;">
+<img alt="Offline First Meetup #1 in Berlin" src="/dist/blog/2014/01/20140129_09-705x470.jpg" width="705" height="470" /> <p style="text-align: center;">
   ____________
 </p>
 
 It&#8217;s been a while now since the first discussions around *Offline First* started. As this topic can only grow if it attracts more people thinking and discussing about it, it was a good time to have the very first *Offline First*-meetup. <!--more-->
 
-<img alt="Offline First Meetup #1 in Berlin" src="http://blog.hood.ie/wp-content/uploads/2014/01/20140129_02-705x470.jpg" width="705" height="470" />
+<img alt="Offline First Meetup #1 in Berlin" src="/dist/blog/2014/01/20140129_02-705x470.jpg" width="705" height="470" />
 So two weeks ago, on January 29, around 20 people met at Co.up Berlin &#8211; most of them developers, and including three people from Stockholm. The meetup started with an
 
 <h1 style="text-align: center;">
@@ -29,7 +29,7 @@ round: everyone telling (or ranting) about their experiences with the often-seen
 >
 > &#8220;For Google Maps, you can cache maps manually by typing &#8220;ok maps&#8221; into the address field. This is interesting to know &#8211; but it&#8217;s a terrible user experience.&#8221;
 
-<img alt="Offline First Meetup #1 in Berlin" src="http://blog.hood.ie/wp-content/uploads/2014/01/20140129_03-705x470.jpg" width="705" height="470" />
+<img alt="Offline First Meetup #1 in Berlin" src="/dist/blog/2014/01/20140129_03-705x470.jpg" width="705" height="470" />
 > &#8220;I bought a new smartphone for a non-tech-savvy person. It was said the manual was on the phone itself. When we tried to open it, it turned out the prepaid card wasn&#8217;t active yet &#8211; and the smartphone&#8217;s so-called &#8216;manual&#8217; was just a link to the manufacturer&#8217;s website that failed to load.&#8221;
 
 > &#8220;Why can&#8217;t apps just say &#8216;HONESTLY &#8211; YOU&#8217;RE OFFLINE&#8217;?&#8221;
@@ -44,7 +44,7 @@ In the second part of the meetup we got together in small groups for
 
 Alex and Jan, the meetup&#8217;s organizers, had collected some suggestions for the discussions in advance. All topics, ideas and results were [collected in one pad][4].
 
-<img alt="Offline First Meetup #1 in Berlin" src="http://blog.hood.ie/wp-content/uploads/2014/01/20140129_04-705x470.jpg" width="705" height="470" />
+<img alt="Offline First Meetup #1 in Berlin" src="/dist/blog/2014/01/20140129_04-705x470.jpg" width="705" height="470" />
 Some of the
 
 <h1 style="text-align: center;">
@@ -95,7 +95,7 @@ Some of the
         &nbsp;
       </p>
 
-      <img alt="Offline First Meetup #1 in Berlin" src="http://blog.hood.ie/wp-content/uploads/2014/01/20140129_05-705x470.jpg" width="705" height="470" /> <h1 style="text-align: center;">
+      <img alt="Offline First Meetup #1 in Berlin" src="/dist/blog/2014/01/20140129_05-705x470.jpg" width="705" height="470" /> <h1 style="text-align: center;">
         Spreading the word
       </h1>
 
@@ -136,7 +136,7 @@ Some of the
         &nbsp;
       </p>
 
-      <img alt="Offline First Meetup #1 in Berlin" src="http://blog.hood.ie/wp-content/uploads/2014/01/20140129_08-705x470.jpg" width="705" height="470" /> <h1 style="text-align: center;">
+      <img alt="Offline First Meetup #1 in Berlin" src="/dist/blog/2014/01/20140129_08-705x470.jpg" width="705" height="470" /> <h1 style="text-align: center;">
         Typical offline (use) cases
       </h1>
 
@@ -160,7 +160,7 @@ Some of the
       </p>
     </div>
 
-    <img alt="Offline First Meetup #1 in Berlin" src="http://blog.hood.ie/wp-content/uploads/2014/01/20140129_01-705x470.jpg" width="705" height="470" />
+    <img alt="Offline First Meetup #1 in Berlin" src="/dist/blog/2014/01/20140129_01-705x470.jpg" width="705" height="470" />
   </div>
 </div>
 
@@ -181,7 +181,7 @@ Some of the
 </p>
 
 <p style="text-align: left;">
-  <img alt="Offline First Meetup #1 in Berlin" src="http://blog.hood.ie/wp-content/uploads/2014/01/20140129_06-313x470.jpg" width="313" height="470" /> <img alt="Offline First Meetup #1 in Berlin" src="http://blog.hood.ie/wp-content/uploads/2014/01/20140129_10-313x470.jpg" width="313" height="470" />
+  <img alt="Offline First Meetup #1 in Berlin" src="/dist/blog/2014/01/20140129_06-313x470.jpg" width="313" height="470" /> <img alt="Offline First Meetup #1 in Berlin" src="http://blog.hood.ie/wp-content/uploads/2014/01/20140129_10-313x470.jpg" width="313" height="470" />
 </p>
 
 <p style="text-align: center;">
