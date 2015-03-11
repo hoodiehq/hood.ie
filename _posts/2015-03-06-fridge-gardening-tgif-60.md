@@ -8,9 +8,9 @@ comments: true
 ---
 
 
-TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. As usually, they're curated for you by [Julia](http://twitter.com/juschm) and [Lena](http://twitter.com/lrnrd). Enjoy!
+TGIF! — Thank Grohl, Gauss, Glob, Galileo and Science it’s <strike>Friday</strike>Wednesday \*cough\*, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. As usually, they're curated for you by [Julia](http://twitter.com/juschm) and [Lena](http://twitter.com/lrnrd). Enjoy!
 
-Oh, and by the way: <b>our blog's RSS feed is back</b> – subscribe now on hood.ie or hood.ie/feed.xml to make sure you never miss a post! <3
+Oh, and by the way: <b>[our blog's RSS feed is back](http://hood.ie/feed.xml)</b> — subscribe now on [hood.ie](http://hood.ie) or [http://hood.ie/feed.xml](hood.ie) to make sure you never miss a post! <3
 
 ##Open Source
 
@@ -23,17 +23,17 @@ What happened while [contributing to Open Source on a daily basis for one year](
 ##Design
 
 >
-Stop working so hard. Seriously, stop it. Until we’re congratulating ourselves and our friends not for how busy we are, but for rearranging work we can’t countenance without crying, for setting aside a week to just sit and read, for going for a walk or a drink with a friend.– <cite>[Self employment in games](http://www.hannahnicklin.com/2015/03/self-employment-practices-in-games/)</cite>
+Stop working so hard. Seriously, stop it. Until we’re congratulating ourselves and our friends not for how busy we are, but for rearranging work we can’t countenance without crying, for setting aside a week to just sit and read, for going for a walk or a drink with a friend. — <cite>[Self employment in games](http://www.hannahnicklin.com/2015/03/self-employment-practices-in-games/)</cite>
 
 [Krita](https://krita.org/) is a free and open source digital painting and illustration application.
 
-1850s-1950s - [Photoshop before Photoshop](http://mashable.com/2015/02/19/before-photoshop/), 100 years of manipulating images without computers
+1850s–1950s — [Photoshop before Photoshop](http://mashable.com/2015/02/19/before-photoshop/), 100 years of manipulating images without computers
 
-[Thinking about designing with data](http://www.uxmatters.com/mt/archives/2015/02/thinking-about-designing-with-data.php)
+> As a researcher, I want to understand how technology changes people’s lives, not wade through a bunch of data. Like a lot of people, I think in stories rather than numbers; in the tangible rather than the abstract. So, when I made it a goal to understand all of the data about the experiences people have with technology—not just the kinds of data that I was comfortable with—there were some big gaps in my knowledge. — [Thinking about designing with data](http://www.uxmatters.com/mt/archives/2015/02/thinking-about-designing-with-data.php)
 
 [UX Myths](http://uxmyths.com/) collects the most frequent user experience misconceptions and explains why they don't hold true.
 
-[Designing for dyslexia](http://www.uxbooth.com/articles/designing-for-dyslexia-part-2/)
+> There are seven guiding principles that can help designers to make choices that will fit a broader audience, and five of them are applicable to the world of web applications and sites — [Designing for dyslexia](http://www.uxbooth.com/articles/designing-for-dyslexia-part-2/)
 
 ##The Web and Development
 
@@ -50,7 +50,7 @@ Design Patterns: [The decorator pattern](http://code.tutsplus.com/tutorials/desi
 [Parable of the polygons](http://ncase.me/polygons/) - a playable post on the shape of society.
 
 >
-It's nice that you think they're all brave, but they shouldn't have to be. They're not going to the frontlines of a war zone. They're going to write code. - <cite>[Honey, I left the tech industry](http://www.catehuston.com/blog/2015/02/25/honey-i-left-the-tech-industry)</cite>
+It's nice that you think they're all brave, but they shouldn't have to be. They're not going to the frontlines of a war zone. They're going to write code. — <cite>[Honey, I left the tech industry](http://www.catehuston.com/blog/2015/02/25/honey-i-left-the-tech-industry)</cite>
 
 ##The Business
 
@@ -67,4 +67,4 @@ Infographic: [How to save your business from cyber attacks](http://www.inc.com/w
 
 [What multicolored toothpaste looks like before it's squeezed from the tube](http://boingboing.net/2015/03/05/what-multicolored-toothpaste-l.html)
 
-Does anybody know, where Magneto is ?[On the fridge!](http://www.thehammo.com/wp-content/uploads/2014/04/Fridge-Megneto.jpg)
+Does anybody know, where Magneto is? [On the fridge!](http://www.thehammo.com/wp-content/uploads/2014/04/Fridge-Megneto.jpg)
