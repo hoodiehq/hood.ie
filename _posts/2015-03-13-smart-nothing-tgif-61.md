@@ -1,6 +1,5 @@
 ---
-
-title: 'Smart nothing and Spiderman's summery puppies : TGIF! (61)'
+title: 'Smart nothing and Spiderman’s summery puppies: TGIF! (61)'
 author: Julia
 layout: blog-post-tgif
 comments: true
@@ -34,6 +33,8 @@ Friction weighs down interactions, making even the most well-designed interfaces
 ##The Web and Development
 
 [A beginner’s guide to web site optimization](http://boxesandarrows.com/a-beginners-guide-to-web-site-optimization-part-3/) using A/B tests - from basic concepts to communicating tests properly.
+
+[20 lines of code that will beat A/B testing every time](http://stevehanov.ca/blog/index.php?id=132).
 
 Practice your [frontend development skills](http://tevko.github.io/practice/) with random suggestions and challenges.
 
