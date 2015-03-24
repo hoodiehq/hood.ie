@@ -384,7 +384,10 @@ body {
   line-height: 1.618;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; }
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-feature-settings: "liga" 0;
+  -webkit-font-feature-settings: "liga" 0;
+  font-feature-settings: "liga" 0; }
 
 h1, .h1 {
   font-size: 2.25em;
