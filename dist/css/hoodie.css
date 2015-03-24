@@ -377,27 +377,6 @@ figcaption {
 /*------------------------------------*\
     #TYPO
 \*------------------------------------*/
-@font-face {
-  font-family: 'FiraSans';
-  src: url('../font/FiraSans-Light.eot');
-  src: url('../font/FiraSans-Light.eot?#iefix') format('embedded-opentype'), url('../font/FiraSans-Light.woff') format('woff'), url('../font/FiraSans-Light.ttf') format('truetype'), url('../font/FiraSans-Light.svg#FiraSansLight') format('svg');
-  font-weight: 300;
-  font-style: normal; }
-
-@font-face {
-  font-family: 'FiraSans';
-  src: url('../font/FiraSans-Regular.eot');
-  src: url('../font/FiraSans-Regular.eot?#iefix') format('embedded-opentype'), url('../font/FiraSans-Regular.woff') format('woff'), url('../font/FiraSans-Regular.ttf') format('truetype'), url('../font/FiraSans-Regular.svg#FiraSansRegular') format('svg');
-  font-weight: 400;
-  font-style: normal; }
-
-@font-face {
-  font-family: 'FiraSans';
-  src: url('../font/FiraSans-Medium.eot');
-  src: url('../font/FiraSans-Medium.eot?#iefix') format('embedded-opentype'), url('../font/FiraSans-Medium.woff') format('woff'), url('../font/FiraSans-Medium.ttf') format('truetype'), url('../font/FiraSans-Medium.svg#FiraSansMedium') format('svg');
-  font-weight: 500;
-  font-style: normal; }
-
 body {
   font-family: 'FiraSans', sans-serif;
   font-weight: 300;
