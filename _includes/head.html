@@ -46,11 +46,11 @@ and we’d love to have you on board: http://hood.ie/contribute
             var style = document.createElement('style');
             style.rel = 'stylesheet';
             document.head.appendChild(style);
-            style.textContent = localStorage.firaSans;
+            style.textContent = localStorage.firaSansWeb;
         }
 
         try {
-            if (localStorage.firaSans) {
+            if (localStorage.firaSansWeb) {
                 // The font is in localStorage, we can load it directly
                 addFont();
             } else {
@@ -61,7 +61,7 @@ and we’d love to have you on board: http://hood.ie/contribute
                 request.onload = function() {
                     if (request.status >= 200 && request.status < 400) {
                         // We save the file in localStorage
-                        localStorage.firaSans = request.responseText;
+                        localStorage.firaSansWeb = request.responseText;
 
                         // ... and load the font
                         addFont();
