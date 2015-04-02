@@ -1,6 +1,6 @@
 ---
 
-title: 'Future trollies reconciling crosswords — TGIF! (64)'
+title: 'Future trollies reconciling crosswords: TGIF! (64)'
 author: Julia
 layout: blog-post-tgif
 comments: true
