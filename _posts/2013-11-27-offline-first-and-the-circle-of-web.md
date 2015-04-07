@@ -15,9 +15,8 @@ If you haven’t, we strongly suggest to read [Say Hello to Offline First][1] fo
 > Frequently not having any data connection in even the wealthiest and most developed cities of the world has led us to conclude that no, the mobile connectivity/bandwidth issue isn’t just going to solve itself on a global level anywhere in the near future.
 >
 > We can’t keep building apps with the desktop mindset of permanent, fast connectivity, where a temporary disconnection or slow service is regarded as a problem and communicated as an error.
->
-> 
->
+
+
 <small>A note before we start: we use “web” in the sense that there is a client and a server working together. Both web browsers and native applications are applicable. So “The Circle of the Net” would be a better title, but it doesn’t quite have the same ring to it, so there :).</small>
 
 ## The Circle of Web, a Detailed Observation {#the_circle_of_web_a_detailed_observation}
