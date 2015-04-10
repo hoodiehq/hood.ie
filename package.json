@@ -14,6 +14,7 @@
     "grunt-contrib-copy": "^0.7.0",
     "grunt-contrib-uglify": "^0.6.0",
     "grunt-contrib-watch": "^0.6.1",
+    "grunt-jekyll": "^0.4.2",
     "grunt-sass": "^0.18.1",
     "grunt-string-replace": "^1.0.0",
     "time-grunt": "^1.0.0"
@@ -22,8 +23,5 @@
     "name": "Hood.ie Sass/JS",
     "stylesheets": "dist/sass",
     "javascripts": "dist/js"
-  },
-  "dependencies": {
-    "grunt-jekyll": "^0.4.2"
   }
 }
