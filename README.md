@@ -3,8 +3,8 @@ Hood.ie: the Website for the Hoodie Open Source Project
 
 ## Getting started
 
-To get started check out the recent version and type `npm install`. You also need
-[Jekyll](http://jekyllrb.com/) installed. Then type `npm start` to start a local server on `localhost:1337`.
+To get started check out the recent version and type `npm installbundle` and `bundle`. 
+Then type `npm start` to start a local server on `localhost:1337`.
 This will run Grunts default task, so if you have `grunt-cli` installed globally you can also type `grunt` instead.
 
 There's also a production task (`npm run build` or `grunt build`) which at this point just spits out a compressed CSS file, without sourcemap in a dedicated folder(css/build).

@@ -4,9 +4,9 @@ module.exports = function(grunt) {
 
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
-    jekyll: {
-      options: {
-        bundleExec: true
+    shell: {
+      jekyllBuild: {
+        command: 'bundle exec jekyll build'
       }
     },
     connect: {
@@ -127,11 +127,11 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-string-replace');
-  grunt.loadNpmTasks('grunt-jekyll');
+  grunt.loadNpmTasks('grunt-shell');
   
 
   grunt.registerTask('default', [
-      'jekyll',
+      'shell',
       'connect',
       'string-replace:dev',
       'watch'
