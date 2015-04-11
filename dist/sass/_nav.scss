@@ -11,10 +11,10 @@ footer {
     a { text-shadow: none !important; }
 }
 
-@-moz-document url-prefix() {
+// @-moz-document url-prefix() {
 
-    header a { background-position: 0 23px; }
-}
+//     header a { background-position: 0 23px; }
+// }
 
 .nav {
     display: flex;

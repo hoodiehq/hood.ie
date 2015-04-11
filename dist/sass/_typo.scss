@@ -27,14 +27,14 @@ h1,
     }
 }
 
-@-moz-document url-prefix() {
+// @-moz-document url-prefix() {
 
-    h1 a,
-    .h1 a {
-        background-position: 0 .93em;
-    }
+//     h1 a,
+//     .h1 a {
+//         background-position: 0 .93em;
+//     }
 
-}
+// }
 
 h2,
 .h2 {
@@ -127,20 +127,20 @@ aside {
 
 }
 
-@-moz-document url-prefix() {
+// @-moz-document url-prefix() {
 
-    .teaser a {
-        background-position: 0 rem-calc(25);
-    }
+//     .teaser a {
+//         background-position: 0 rem-calc(25);
+//     }
 
-    .teaser aside a {
-        background-position: 0 rem-calc(19);
-    }
+//     .teaser aside a {
+//         background-position: 0 rem-calc(19);
+//     }
 
-    aside a {
-        background-position: 0 rem-calc(17);
-    }
-}
+//     aside a {
+//         background-position: 0 rem-calc(17);
+//     }
+// }
 
 
 blockquote p {
@@ -169,11 +169,11 @@ a {
     text-shadow: 1px 0 0 #fff, -1px 0 0 #fff;
 }
 
-@-moz-document url-prefix() {
-    a {
-        background-position: 0 rem-calc(18);
-    }
-}
+// @-moz-document url-prefix() {
+//     a {
+//         background-position: 0 rem-calc(18);
+//     }
+// }
 
 .main .teaser-index-section a,
 .orange-box a {

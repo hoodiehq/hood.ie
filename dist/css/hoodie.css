@@ -394,10 +394,6 @@ h1, .h1 {
   h1 a, .h1 a {
     background-position: 0 1.15em; }
 
-@-moz-document url-prefix() {
-  h1 a, .h1 a {
-    background-position: 0 0.93em; } }
-
 h2, .h2 {
   font-size: 1.4em;
   font-weight: 500;
@@ -459,16 +455,6 @@ aside a {
   background-image: linear-gradient(to bottom, #999999 75%, rgba(153, 153, 153, 0.8) 75%) !important;
   background-position: 0 1.3125rem; }
 
-@-moz-document url-prefix() {
-  .teaser a {
-    background-position: 0 1.5625rem; }
-
-  .teaser aside a {
-    background-position: 0 1.1875rem; }
-
-  aside a {
-    background-position: 0 1.0625rem; } }
-
 blockquote p {
   font-style: italic; }
 
@@ -489,10 +475,6 @@ a {
   background-size: 1px 1px;
   text-decoration: none;
   text-shadow: 1px 0 0 #fff, -1px 0 0 #fff; }
-
-@-moz-document url-prefix() {
-  a {
-    background-position: 0 1.125rem; } }
 
 .main .teaser-index-section a, .orange-box a {
   text-shadow: 1px 0 0 #e94e1b, -1px 0 0 #e94e1b; }
@@ -833,10 +815,6 @@ aside img {
     background-position: 0 0.8125rem;
     color: #fff; }
 
-@-moz-document url-prefix() {
-  .footer-licensing a {
-    background-position: 0 0.625rem; } }
-
 /*------------------------------------*\
     #EVENTS
 \*------------------------------------*/
@@ -933,10 +911,6 @@ aside img {
   font-size: 1.375em;
   font-weight: 500;
   text-shadow: none; }
-
-@-moz-document url-prefix() {
-  .links-list-link {
-    background-position: 0 1.125rem; } }
 
 /*------------------------------------*\
     #FUTURE-EVENTS
@@ -1189,10 +1163,6 @@ svg path, svg rect {
 \*------------------------------------*/
 header a, footer a {
   text-shadow: none !important; }
-
-@-moz-document url-prefix() {
-  header a {
-    background-position: 0 23px; } }
 
 .nav {
   display: flex;
