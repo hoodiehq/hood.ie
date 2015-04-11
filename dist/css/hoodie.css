@@ -760,21 +760,20 @@ aside img {
 .blog-post a {
   display: inline; }
 
-@-moz-document url-prefix() {
-  .blog-post article > p:first-of-type a {
-    background-position: 0 25px; } }
+@-moz-document url-prefix() { }
 
 .blog-post-link {
   background-image: none !important; }
 
+.blog-post a {
+  background-position: 0 1.4375rem; }
+
 .blog-post-link-more {
-  background-position: 0 1.1875rem;
+  background-position: 0 1.3125rem;
   font-weight: 500;
   text-transform: uppercase; }
 
-@-moz-document url-prefix() {
-  .blog-post-link-more {
-    background-position: 0 0.9375rem; } }
+@-moz-document url-prefix() { }
 
 .blog-greetings {
   font-size: 1.125em;
