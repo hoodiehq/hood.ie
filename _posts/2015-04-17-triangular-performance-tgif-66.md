@@ -88,7 +88,7 @@ Yay, the things you can do with some lines of code: Just have a look at the cent
 
 [Stop telling woman to smile](http://stoptellingwomentosmile.com/)
 
-Giving ["it bascially codes itself"](http://codepen.io/jakealbaugh/full/PwLXXP) a new meaning :).
+Giving ["it basically codes itself"](http://codepen.io/jakealbaugh/full/PwLXXP) a new meaning :).
 
 >
 One of the best days of the year for finding coins on the sidewalks of New York, according to Roger Pasquier, is March 18th, right after St. Patrick’s Day. In general, the best time is early morning, and the best weather is chilly: cold enough so that people have to wear gloves, but not so cold that they stay inside. Sundays are good; Mondays are bad.
