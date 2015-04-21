@@ -43,7 +43,7 @@
         margin: rem-calc(32) auto rem-calc(64);
         width: 100%;
 
-        @include breakpoint(mv-lv) { width: 32em; }
+        @include breakpoint(mv-lv) { width: 40em; }
 
         .icheckbox_flat-lilac {
             margin-left: rem-calc(16);
