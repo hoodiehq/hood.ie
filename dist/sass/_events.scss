@@ -13,7 +13,7 @@
     .hidden { display: none; }
 
     .loader {
-        background: $yellow;
+        background: $lilac;
         border-radius: 50%;
         color: #fff;
         font-size: 1.25em;
@@ -45,7 +45,7 @@
 
         @include breakpoint(mv-lv) { width: 32em; }
 
-        .icheckbox_flat-yellow {
+        .icheckbox_flat-lilac {
             margin-left: rem-calc(16);
             margin-right: rem-calc(8);
             margin-top: rem-calc(-4);
@@ -98,7 +98,7 @@
 }
 
 .events-list-item.events-list-item {
-    border-bottom: 1px solid $yellow;
+    border-bottom: 1px solid $lilac;
     margin-bottom: rem-calc(19);
     padding-bottom: rem-calc(19);
 
@@ -106,7 +106,7 @@
 }
 
 .twitterCTA { // CLASS USED IN EVENTS:JS
-    background-color: $yellow;
+    background-color: $lilac;
     border-radius: 4px;
     color: #fff;
     padding: rem-calc(25 12);
@@ -143,7 +143,7 @@
     .events-list-item {
 
         &:first-child {
-            background-color: $yellow;
+            background-color: $lilac;
             border-radius: 4px;
             color: #fff;
             font-weight: 400;
