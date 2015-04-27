@@ -7,7 +7,7 @@ comments: true
 
 ---
 
-[Ola](https://twitter.com/misprintedtype), [Lewis](http://twitter.com/LewisCowper), [Stephan](http://twitter.com/boennemann) and [Etiene](http://twitter.com/etiene_d) each gave a total of six(!) talks at [JSUnconf 2015](http://2015.jsunconf.eu "JS Unconf 2015"), last weekend in Hamburg. The Hoodie community is very proud to be part of such an esteemed event!
+[Ola](https://twitter.com/misprintedtype), [Lewis](http://twitter.com/LewisCowper), [Stephan](http://twitter.com/boennemann) and [Etiene](http://twitter.com/etiene_d) gave a total of six(!) talks at [JSUnconf 2015](http://2015.jsunconf.eu "JS Unconf 2015"), last weekend in Hamburg. The Hoodie community is very proud to be part of such an esteemed event!
 
 We helped Etiene and Lewis with their travel costs to Hamburg. It turns out this was a great bet on future speakers :) — Also, Etiene is [running a fundraiser](https://www.indiegogo.com/projects/etiene-at-hackathons-and-tech-confs#activity) that allows her to go to even more events, you might want to consider supporting her as well.
 
@@ -38,7 +38,7 @@ After a full day of enlighting talks and envigorating discussions with many grea
 
 Etiene told the story of how she used JavaScript to teach 150 women programming. [Slides](http://www.slideshare.net/EtieneDalcol/what-i-learned-teaching-programming-to-150).
 
-At the same time, Stephan held his inaugural talk about how Smenatic Versioning is left best to computers ([Slides](https://speakerdeck.com/boennemann/we-fail-to-follow-semver-and-why-it-neednt-matter)). Don’t miss his [on-video performance at JSConf Budapest in two weeks](http://jsconfbp.com/#boennemann "JSConf Budapest").
+At the same time, Stephan held his inaugural talk about how Semantic Versioning is left best to computers ([Slides](https://speakerdeck.com/boennemann/we-fail-to-follow-semver-and-why-it-neednt-matter)). Don’t miss his [on-video performance at JSConf Budapest in two weeks](http://jsconfbp.com/#boennemann "JSConf Budapest").
 
 ![Hauptversionsnummernerhöhungsangst](/dist/blog/2015/04/semverangst.jpg)
 
