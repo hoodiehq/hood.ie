@@ -2,7 +2,7 @@
 
 title: 'JSUnconf Recap'
 author: Jan
-layout: blog-post-tgif
+layout: blog-post
 comments: true
 
 ---
