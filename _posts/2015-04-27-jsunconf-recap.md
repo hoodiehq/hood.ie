@@ -49,8 +49,9 @@ Finally, Lewis closed things out with his legendary lightning talk on Service Wo
 Special shout out to community member Oliver, who we got to meet in person for the first time! If you want to meet the Hoodie community, maybe we can hang out at [one of these next events](http://hood.ie/events/ "hood.ie Events") :)
 
 * * *
-
-[![JSUnconf - Photo by Robert Kowalski](/dist/blog/2015/04/robinson_k_2015-Apr-25.jpg)](https://twitter.com/robinson_k/status/591876211837636608)
+<a class="blog-post-link" target="_blank" href="https://twitter.com/robinson_k/status/591876211837636608">
+  <img src="/dist/blog/2015/04/robinson_k_2015-Apr-25.jpg" alt="JSUnconf - Photo by Robert Kowalski">
+</a>
 
 Thank you everyone who made this such a fun weekend! <3
 
