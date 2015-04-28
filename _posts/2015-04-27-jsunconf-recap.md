@@ -42,7 +42,7 @@ At the same time, Stephan held his inaugural talk about how Semantic Versioning 
 
 ![Hauptversionsnummernerhöhungsangst](/dist/blog/2015/04/semverangst.jpg)
 
-Finally, Lewis closed things out with his legendary lighting talk on Service Workers. [Slides](http://slidr.io/lewiscowper/service-worker-and-the-offline-web-lightning-talk#1) & [Video from the Conc.at conference](https://youtu.be/bx1bVJZueFw?t=1613)
+Finally, Lewis closed things out with his legendary lightning talk on Service Workers. [Slides](http://slidr.io/lewiscowper/service-worker-and-the-offline-web-lightning-talk#1) & [Video from the Conc.at conference](https://youtu.be/bx1bVJZueFw?t=1613)
 
 * * *
 
