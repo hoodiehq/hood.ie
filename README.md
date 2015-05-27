@@ -3,8 +3,11 @@ Hood.ie: the Website for the Hoodie Open Source Project
 
 ## Getting started
 
-To get started check out the recent version and type npm install.
-The default task (just type 'grunt') will fire up a local server at localhost:1337 with livereload and dev Sass compiling (including sourcemap and nested output).
+To get started check out the recent version and type `npm install`.
+The default task (just type `grunt`) will fire up a local server at `localhost:1337` with livereload and dev Sass compiling (including sourcemap and nested output).
+
+This doesn't serve the actual jekyll page, though. To do that, run `jekyll serve --watch --drafts` as well, which will run the full page at `localhost:4000`, using the styles from the grunt task. You may need to `gem install jekyll-redirect-from` beforehand.
+
 There's also a production task ('grunt build') which at this point just spits out a compressed CSS file, without sourcemap in a dedicated folder(css/build).
 
 ## FE structure overview
