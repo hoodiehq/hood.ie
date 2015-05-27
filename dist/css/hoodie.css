@@ -851,7 +851,7 @@ aside img {
   width: 100%; }
   @media (min-width: 43.5em) {
     .events #filters {
-      width: 32em; } }
+      width: 40em; } }
   .events #filters .icheckbox_flat-lilac {
     margin-left: 1rem;
     margin-right: 0.5rem;
