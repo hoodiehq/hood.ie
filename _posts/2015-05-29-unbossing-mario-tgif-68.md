@@ -60,6 +60,8 @@ What's the difference between [art direction and design](http://www.vanseodesign
 
 > A lesson from last year: just because you can be a leader, just because you own a business, just because you have one good idea, or a string of good ideas, and just because your title has the word "executive" in it — you do not have to enjoy being a boss.[...] It is hard to talk about female leadership now without entering a feminist conversation, without tiptoeing around words like empowerment or equality. <cite>[Unboss](http://www.designformankind.com/2015/05/unboss/)</cite>
 
+> Persist and keep going. Resist giving up due to negative feedback. It will be worth it. <cite>[Persist! Resist!](https://the-pastry-box-project.net/jina-bolton/2015-may-28)</cite>
+
 ##The Business
 
 > I only take on projects where it's likely going to be a win-win. Which is why I tell potential clients not to hire me all the time. Sometimes more than once a week. Their reactions vary too: some are mad, some are upset and some totally get it.[No, you shouldn't hire me - and here is why](https://medium.com/i-dont-know-a-thing/no-you-shouldn-t-hire-me-and-here-s-why-b9ff847a631)
