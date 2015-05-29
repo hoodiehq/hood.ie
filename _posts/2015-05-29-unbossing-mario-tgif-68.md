@@ -18,7 +18,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 If you're into IoT and JavaScript, [macchina.io](https://github.com/macchina-io/macchina.io) seems like a nice project to check out.
 
-[Apache Drill](http://drill.apache.org/blog/2015/05/19/the-apache-software-foundation-announces-apache-drill-1.0/) celebrated its first major release.
+[Apache Drill](http://drill.apache.org/blog/2015/05/19/the-apache-software-foundation-announces-apache-drill-1.0/) celebrated its first major release, as did [Polymer](https://www.polymer-project.org/1.0/).
 
 ##Design
 
