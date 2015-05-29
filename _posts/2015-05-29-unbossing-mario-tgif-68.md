@@ -14,6 +14,8 @@ Team Tessie from the RailsGirls Summer of Code is [going to be working on Hoodie
 
 Hoodie and friend CouchDB have both been [mentioned in the ThoughtWorks Technology Radar as examples of Offline First Technology](http://www.thoughtworks.com/radar/techniques "Technology Radar ThoughtWorks").
 
+> My name is Charlotte and I’m going to tell you about contributing to Hoodie. <cite>[Contributing to Hoodie](http://hood.ie/blog/contributing-to-hoodie.html)</cite>
+
 > Start with the Humans, End with the Source Code <cite>[How to find the best open source project for you](http://www.linux.com/news/software/applications/832555-how-to-find-the-best-open-source-project-for-you)</cite>
 
 [AngularJS 1.4](http://angularjs.blogspot.de/2015/05/angular-140-jaracimrman-existence.html) is out and includes several improvements regarding animation, $http and internationalization.
