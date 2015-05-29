@@ -12,6 +12,8 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 ##Open Source
 
+[How to find the best open source project for you](http://www.linux.com/news/software/applications/832555-how-to-find-the-best-open-source-project-for-you)
+
 [AngularJS 1.4](http://angularjs.blogspot.de/2015/05/angular-140-jaracimrman-existence.html) is out and includes several improvements regarding animation, $http and internationalization.
 
 If you're into IoT and JavaScript, [macchina.io](https://github.com/macchina-io/macchina.io) seems like a nice project to check out.
