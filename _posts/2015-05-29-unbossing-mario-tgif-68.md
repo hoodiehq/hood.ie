@@ -52,6 +52,8 @@ What's the difference between [art direction and design](http://www.vanseodesign
 
 ##The Tech World and Culture
 
+> When Rust was first opened up, all players were given the same default avatar: a bald white man. With the most recent update, Rust’s lead developer, Garry Newman, introduced different avatars of different racial origins into the mix. However, they did so with a twist — unlike typical massively multiplayer online role-playing games, Rust does not allow players to choose the race of their avatar. Instead, they are assigned one at random. [...] The backlash only underscored a disturbing reality: By insisting that race doesn’t or shouldn’t exist online, such attitudes ensure an online status quo in which people of color remain marginalized and invisible. <cite>[The Web is not a post-racial utopia](http://america.aljazeera.com/opinions/2015/5/the-online-game-that-proves-the-web-is-not-a-post-racial-utopia.html)</cite>
+
 > Pao said she did not think Silicon Valley, a place where it's possible to have all white male meetings all day every day, was a meritocracy. "I think SV aspires to be a true meritocracy … but there is not an even track to success. No. With 6% women in VC, level of funding for women-led startups, it just doesn’t seem that that could possibly be the case." <cite>[Ellen Pao Says Silicon Valley Isn't A Meritocracy. It's Not.](http://techcrunch.com/2015/05/27/just-look-at-the-numbers/)</cite>
 
 [10 ways to actually increase diversity in tech](http://www.fastcompany.com/3041339/strong-female-lead/10-commitments-that-will-make-a-difference-in-increasing-diversity-in-tec)
