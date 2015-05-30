@@ -122,4 +122,4 @@ Scully and Mulder will return! Look at them, [singing and kissing](https://youtu
 
 [Who writes novels?](http://www.newyorker.com/books/page-turner/who-writes-novels).
 
-[The Cewie Hoodie](http://www.welovefine.com/i-am-chewie-hoodie-9493.html).
+[The Chewie Hoodie](http://www.welovefine.com/i-am-chewie-hoodie-9493.html).
