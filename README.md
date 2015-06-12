@@ -84,6 +84,24 @@ The color-scheme mixin builds all relevant color stylings you need to create a f
 
 For example take a look at the calendar icon on the index page.
 
+## Contributing
+We are very happy about you contributing and have defined a process for that, which makes it easy for us to maintain the website. 
+
+Please fork the website and send a pull request for your contribution. Here is <a href="http://hood.ie/blog/contributing-to-hoodie.html" target="_blank">an amazing article</a>, how you can fork and edit files, also how to send a pull request. It's especially great for new contributors! Please do not forget to add comments on what you did and why, especially if your changes are bit more complex. 
+
+We will review the PR (pull request) and merge or comment it. 
+
+**Content changes and typos**   
+Simple typo fixes can be merged right away, if you have the permission to do so. We trust you with that!
+
+**Layout changes and additions**  
+We wrote a small css-framework for our websites (hood.ie, docs, blog, faq), so the CI remains the same everywhere and we can make changes at the design pretty quick, also we are able to build new sites pretty quick and without a haze!
+
+If you'd love to change something within the layout or add something specific to the website, please read the <a href="https://github.com/hoodiehq/hoodie-css#how-to-use" target="_blank">"How to use the hoodie-css framework"-guide</a> first!
+
+Then fork, commit and PR! <3
+
+
 ## Deployments
 
 The new hood.ie Website doesn't need to be deployed after making changes. (Only thing you might need to know: when making changes locally on files like `_config.yml` or on blog post drafts (`_drafts`), you may need to restart your local Jekyll so you can also see them locally immediately (abort on Mac with `cmd+c`, restart with `jekyll serve --watch --drafts`(which then also gives you blog drafts).)
