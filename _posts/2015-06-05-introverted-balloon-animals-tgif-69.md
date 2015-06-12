@@ -12,6 +12,10 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 [PouchDB 3.6](http://pouchdb.com/2015/06/01/pouchdb-3.6.0.html) is out and offers some performance improvements.
 
+[SpinaCMS](http://www.spinacms.com/) is an open source CMS for Ruby developers.
+
+[Apache Software Foundation](https://s3.amazonaws.com/files-dist/AnnualReports/ASFAnnualReport-FY2014-2015FINAL.pdf) has released their first annual report to bring some recognition for all people involved.
+
 ##Design
 
 [A (rough) manifesto for accessible user experience](https://medium.com/@accessibleux/rough-manifesto-for-accessible-user-experience-10a3ea34a3d6)
@@ -28,6 +32,10 @@ A designer's [checklist for designing awesome multi-page layouts](https://design
 
 [A journey into web accessibility](http://www.vanseodesign.com/web-design/accessibility-journey/)
 
+[The Accessibility Cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/)
+
+[The PLAY button is not optical alignment](https://medium.com/@erqiudao/the-play-button-is-not-optical-alignment-4cea11bda175)
+
 ##The Web and Development
 
 > As I hear stories about teams using a microservices architecture, I've noticed a common pattern. 1) Almost all the successful microservice stories have started with a monolith that got too big and was broken up. 2) Almost all the cases where I've heard of a system that was built as a microservice system from scratch, it has ended up in serious trouble. <cite>[MonolithFirst](http://martinfowler.com/bliki/MonolithFirst.html)</cite>
@@ -40,11 +48,17 @@ A designer's [checklist for designing awesome multi-page layouts](https://design
 
 > More than a decade after we won the battle for web standards, too much code is still crap. So what do you do, if your company is satisfied with this crap?<cite>[No good can come from bad code](http://alistapart.com/column/no-good-can-come-of-bad-code)</cite>
 
+[A brief history of error reports](http://www.theawl.com/2015/06/the-errors-of-our-ways)
+
+[10 things learned about security at velocity](http://java.dzone.com/articles/10-things-i-learned-about-0)
+
+[ngMessages revisited](http://blog.thoughtram.io/2015/06/06/ng-messages-revisited.html)
+
+In ["Engineering a safer world"](https://mitpress.mit.edu/index.php?q=books/engineering-safer-world) Nancy Leveson revisits and updates ideas pioneered by 1950s aerospace engineers in their system safety concept and adaptes them for modern day techniques for system safety engineering.
+
 ## Events
 
 *Meet the Hoodie community at one or more of these fine events:*
-
-WWNRW, June 6th, Düsseldorf, Germany
 
 [OTSConf](https://otsconf.com), August 15th, Dortmund Germany
 
@@ -68,11 +82,18 @@ Full Frontal, November 6th, Brighton, UK, [Call for Speakers open now](https://r
 
 > We've been in the New York Times and been invited to conferences and told that we are Important Voices, doing Important Work, we've been on the news at night and in magazines. We are awash in social capital. But none of it translates to real capital. <cite>[All the women I know in video games are tired](http://boingboing.net/2015/05/29/all-the-women-i-know-in-video.html)</cite>
 
+> When told not to worry about something, that isn't actually an option.  Logically I may know that it's not worth worrying about, but that doesn't change my feelings. Embellishing on this point - there is no logic. <cite>[
+What's going on in there? (on mental illness)](http://www.bubakes.co.uk/blog/whats-going-on-in-there)</cite>
+
+[What if men had periods? It's a question still worth posing](http://www.theguardian.com/commentisfree/2015/may/28/what-if-men-had-periods)
+
 ##The Business
 
 What's one thing you've learned at Harvard Business School that [blew your mind?](https://medium.com/thelist/what-s-one-thing-you-ve-learned-at-harvard-business-school-that-blew-your-mind-fdea346a0422)
 
 [An alternate reality for startups](http://www.paperplanes.de/2015/5/19/an-alternate-reality-for-startups.html)
+
+> Don't hire a junior developer if you don’t have the resources to mentor them. <cite>[The Catch-22 of Being "Too Junior"](https://medium.com/coding-culture/the-catch-22-of-being-too-junior-43af002958c)</cite>
 
 ##We <3
 
@@ -85,3 +106,5 @@ Eminem's ["Loose yourself" in American sign language](https://www.youtube.com/wa
 [Japanese balloon animals](http://mashable.com/2015/06/05/japanese-balloon-art)
 
 Episode 33 of Geek Chic's podcast discusses [the science of rock 'n' roll](https://audioboom.com/boos/3253543-episode-33-the-science-of-rock-and-roll) and touches topics like "How do we hear music?", "Why does it affect us?" and "Can we hear colours?".
+
+In case you want to build a lego mural: [Legoizer](http://sailorhg.github.io/legoizer/) to the rescue
