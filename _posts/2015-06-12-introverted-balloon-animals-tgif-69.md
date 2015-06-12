@@ -87,6 +87,8 @@ What's going on in there? (on mental illness)](http://www.bubakes.co.uk/blog/wha
 
 [What if men had periods? It's a question still worth posing](http://www.theguardian.com/commentisfree/2015/may/28/what-if-men-had-periods)
 
+> The best way to avoid falling into the culture fit trap is to have an honest look at why someone doesn't match your expectations. Did they not match implicit or explicit expectations? If they're implicit, are they really a part of your company culture? If they are, why are they not explicit?[Why hiring for "culture fit" hurts your culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
+
 ##The Business
 
 What's one thing you've learned at Harvard Business School that [blew your mind?](https://medium.com/thelist/what-s-one-thing-you-ve-learned-at-harvard-business-school-that-blew-your-mind-fdea346a0422)
