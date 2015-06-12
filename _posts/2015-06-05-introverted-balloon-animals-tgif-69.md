@@ -24,6 +24,10 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 A designer's [checklist for designing awesome multi-page layouts](https://designschool.canva.com/blog/multi-page-layout/)
 
+> Communication plays a vital role in design. Whether you design websites, mobile apps, or wearable UIs, your creations have to clearly communicate their intent and purpose. And since text does a lot of the heavy lifting in communicating purpose, you need a solid understanding of typography.<cite>[4 tips on typography in UI design](https://medium.com/@InVisionApp/4-tips-on-typography-in-ui-design-64cc9e61d60)</cite>
+
+[A journey into web accessibility](http://www.vanseodesign.com/web-design/accessibility-journey/)
+
 ##The Web and Development
 
 > As I hear stories about teams using a microservices architecture, I've noticed a common pattern. 1) Almost all the successful microservice stories have started with a monolith that got too big and was broken up. 2) Almost all the cases where I've heard of a system that was built as a microservice system from scratch, it has ended up in serious trouble. <cite>[MonolithFirst](http://martinfowler.com/bliki/MonolithFirst.html)</cite>
@@ -72,6 +76,12 @@ What's one thing you've learned at Harvard Business School that [blew your mind?
 
 ##We <3
 
+[WonderWombat](https://twitter.com/hashtag/WONDERWOMBAT)!!! What's not to love?
+
 Eminem's ["Loose yourself" in American sign language](https://www.youtube.com/watch?v=fnAofkVHZOQ) - if you look at her other videos: she also signs live at concerts!
 
+> Read, read, read! Watch people on the street.[...] Horrify us with new ideas. Outrage outdated critics. Use technology for transgression, not lazy social living. Make me nervous!<cite>[John Waters' commencement speech to the students of RISD 2015 ](https://www.youtube.com/watch?t=407&v=Hl05XGifKb4)</cite>
+
 [Japanese balloon animals](http://mashable.com/2015/06/05/japanese-balloon-art)
+
+Episode 33 of Geek Chic's podcast discusses [the science of rock 'n' roll](https://audioboom.com/boos/3253543-episode-33-the-science-of-rock-and-roll) and touches topics like "How do we hear music?", "Why does it affect us?" and "Can we hear colours?".
