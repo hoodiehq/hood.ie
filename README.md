@@ -89,19 +89,19 @@ We are very happy about you contributing to the Hoodie website! We have defined 
 
 Please fork the website and send a Pull Request for your contribution. Here is <a href="http://hood.ie/blog/contributing-to-hoodie.html" target="_blank">an amazing article</a>, that explains how you can fork and edit files, also how to send a Pull Request. It's especially great for new contributors! Please do not forget to add comments on what you did and why, especially if your changes are bit more complex. 
 
-We will review the PR (Pull Request) and merge or comment it. 
+We will review the Pull Request (PR) and merge or comment it. 
 
 **Content changes and typos**   
 Simple typo fixes can be merged right away, if you have the permission to do so. We trust you with that!
 
+In addition, if you want to merge a PR that includes structural changes, make sure to test the whole site on your computer to make sure nothing breaks. We want to avoid having a broken site online. Once a PR is merged (into the gh-pages branch), the changes will be on the live site a few seconds later.
+
+Then fork, commit and PR! <3
+
 **Layout changes and additions**  
 We wrote a small css-framework for our websites (hood.ie, docs, blog, faq), so the CI remains the same everywhere and we can make changes at the design pretty quick, also we are able to build new sites pretty quick and without a haze!
 
-If you'd love to change something within the layout or add something specific to the website, please read the <a href="https://github.com/hoodiehq/hoodie-css#how-to-use" target="_blank">"How to use the hoodie-css framework"-guide</a> first!
-
-In addition, if you want to merge a PR that includes structural changes, make sure to test the whole site on your computer to make sure nothing breaks. We want to avoid having a broken site online. Once a PR is merged (into the gh-pages) branch, the changes will be on the live site a few seconds later.
-
-Then fork, commit and PR! <3
+If you`d love to change something within the layout or add something specific to the website, please read the <a href="https://github.com/hoodiehq/hoodie-css#how-to-use" target="_blank">"How to use the hoodie-css framework"-guide</a> first!
 
 
 ## Deployments
