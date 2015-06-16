@@ -117,6 +117,10 @@ What's going on in there? (on mental illness)](http://www.bubakes.co.uk/blog/wha
 
 > The best way to avoid falling into the culture fit trap is to have an honest look at why someone doesn't match your expectations. Did they not match implicit or explicit expectations? If they're implicit, are they really a part of your company culture? If they are, why are they not explicit? <cite>[Why hiring for "culture fit" hurts your culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)</cite>
 
+> At 65 years old, Olympic gold medalist, self-affirmed Republican and reality-show star Caitlyn Jenner has opened up about her gender identity. She chose to “reemerge” as her femme self earlier this week on the cover of Vanity Fair, with a request for people to “Call Me Caitlyn.” <cite>[As Caitlyn Jenner Reemerges, So Should Talk of Privilege
+](http://msmagazine.com/blog/2015/06/03/as-caitlyn-jenner-reemerges-so-should-talk-of-privilege/)</cite>
+
+
 [Replacing “crazy” for ableism and preciseness of language](http://whatprivilege.com/replacing-crazy-for-ableism-and-preciseness-of-language/ "Replacing &#8220;crazy&#8221; for ableism and preciseness of language").
 
 [The Paradox of Meritocracy in Organizations](http://dspace.mit.edu/handle/1721.1/65884#files-area "DSpace@MIT: The Paradox of Meritocracy in Organizations").
