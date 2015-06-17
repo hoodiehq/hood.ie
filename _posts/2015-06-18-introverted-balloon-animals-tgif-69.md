@@ -142,7 +142,7 @@ What's one thing you've learned at Harvard Business School that [blew your mind?
 
 [WonderWombat](https://twitter.com/hashtag/WONDERWOMBAT)!!! What's not to love?
 
-Eminem's ["Loose yourself" in American sign language](https://www.youtube.com/watch?v=fnAofkVHZOQ) - if you look at her other videos: she also signs live at concerts!
+Eminem's ["Lose yourself" in American sign language](https://www.youtube.com/watch?v=fnAofkVHZOQ) - if you look at her other videos: she also signs live at concerts!
 
 > Read, read, read! Watch people on the street.[...] Horrify us with new ideas. Outrage outdated critics. Use technology for transgression, not lazy social living. Make me nervous!<cite>[John Waters' commencement speech to the students of RISD 2015 ](https://www.youtube.com/watch?t=407&v=Hl05XGifKb4)</cite>
 
@@ -154,6 +154,6 @@ Eminem's ["Loose yourself" in American sign language](https://www.youtube.com/wa
 
 Episode 33 of Geek Chic's podcast discusses [the science of rock 'n' roll](https://audioboom.com/boos/3253543-episode-33-the-science-of-rock-and-roll) and touches topics like "How do we hear music?", "Why does it affect us?" and "Can we hear colours?".
 
-[Sad Anmial Facts](http://sadanimalfacts.com "Sad Animal Facts").
+[Sad Animal Facts](http://sadanimalfacts.com "Sad Animal Facts").
 
 In case you want to build a lego mural: [Legoizer](http://sailorhg.github.io/legoizer/) to the rescue!
