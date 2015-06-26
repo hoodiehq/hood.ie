@@ -32,7 +32,7 @@ Version 1.0 of the [Atom text editor](https://github.com/blog/2031-announcing-at
 
 [How to silence your irrationally harsh inner critic](http://99u.com/articles/43277/how-to-silence-your-irrationally-harsh-inner-critic)
 
-[Distributed Systems Are a UX Problem](http://bravenewgeek.com/distributed-systems-are-a-ux-problem/ "Distributed Systems Are a UX Problem | Brave New Geek").
+[Distributed Systems Are a UX Problem](http://bravenewgeek.com/distributed-systems-are-a-ux-problem/ "Distributed Systems Are a UX Problem").
 
 [Apple remains committed to making their products accessible. Smart developers will follow their lead](http://blog.iconfactory.com/2015/06/a-special-feature/).
 
