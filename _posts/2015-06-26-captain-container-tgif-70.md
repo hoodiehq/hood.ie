@@ -18,6 +18,8 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 Version 1.0 of the [Atom text editor](https://github.com/blog/2031-announcing-atom-1-0) is now available from [atom.io](http://atom.io).
 
+**Hoodie and Lena’s talk about nothing are nominated for [Open Source Project and Conference Talk of the year](http://hood.ie/blog/hoodie-nominee-net-awards-2015.html "Hoodie: Nominee as Open Source Project of the Year")!**
+
 ##Design
 
 [7 future web design trends](https://medium.com/@jowitaziobro/7-future-web-design-trends-fba93eba6355)
