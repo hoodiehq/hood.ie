@@ -68,7 +68,9 @@ Podcast: [Sustaining Open Source Software](https://changelog.com/159/).
 
 [Cold Front](https://coldfrontconf.com), September 3rd, Copenhagen, Denmark
 
-[RejectJS](http://rejectjs.org), September 25th, Belrin, Germany *TICKETS ON SALE NOW, CALL FOR SPEAKERS OPEN*[JSConf EU](http://2015.jsconf.eu/call-for-speakers/), September 25th & 27th, Berlin, Germany
+[RejectJS](http://rejectjs.org), September 25th, Berlin, Germany *TICKETS ON SALE NOW, CALL FOR SPEAKERS OPEN*
+
+[JSConf EU](http://2015.jsconf.eu/call-for-speakers/), September 25th & 27th, Berlin, Germany
 
 [CSSconf EU](http://http://2015.cssconf.eu), September 26th, Berlin, Germany *TICKETS ON SALE NOW, CALL FOR SPEAKERS OPEN*
 
