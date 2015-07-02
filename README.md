@@ -3,12 +3,15 @@ Hood.ie: the Website for the Hoodie Open Source Project
 
 ## Getting started
 
+You need node.js, [npm](https://npmjs.org/), ruby and [bundler](http://bundler.io/) installed.
 To get started check out the recent version and type `npm install`.
-The default task (just type `grunt`) will fire up a local server at `localhost:1337` with livereload and dev Sass compiling (including sourcemap and nested output).
+The default task (just type `npm run dev`) will fire up a local server at `localhost:1337` with livereload and dev Sass compiling (including sourcemap and nested output).
 
-This doesn't serve the actual jekyll page, though. To do that, run `jekyll serve --watch --drafts` as well, which will run the full page at `localhost:4000`, using the styles from the grunt task. You may need to `gem install jekyll-redirect-from` beforehand.
+This doesn't serve the actual jekyll page, though. To do that, run `npm run serve` as well, which will run the full page at `localhost:4000`, using the styles from the dev task.
 
-There's also a production task ('grunt build') which at this point just spits out a compressed CSS file, without sourcemap in a dedicated folder(css/build).
+There's also a production task (`npm run build`) which at this point just spits out a compressed CSS file, without sourcemap in a dedicated folder(css/build).
+
+Run `npm run` to see a list of available tasks.
 
 ## FE structure overview
 
@@ -24,9 +27,11 @@ Use the .editorsconfig file with your editor of choice to ensure a consistent co
 
 ### Grunt tasks
 
-**Dev:** Type `grunt` to get a simple watch task which is looking for changes inside your Sass files. Also the command `grunt` replaces the paths for the CSS and JS files(dev version).
+**Dev:** Type `grunt` (or `npm run dev`) to get a simple watch task which is looking for changes inside your Sass files. Also the command `grunt` (or `npm run dev`) replaces the paths for the CSS and JS files(dev version).
 
-**Build:** Type `grunt build` which runs concatinate and minify tasks and also swaps the file paths for CSS & JS(build versions).
+**Build:** Type `grunt build` (or `npm run build`) which runs concatinate and minify tasks and also swaps the file paths for CSS & JS(build versions).
+
+These tasks are available through npm scripts so you don't need to install grunt globally.
 
 ### Coding standards
 
@@ -86,7 +91,7 @@ For example take a look at the calendar icon on the index page.
 
 ## Deployments
 
-The new hood.ie Website doesn't need to be deployed after making changes. (Only thing you might need to know: when making changes locally on files like `_config.yml` or on blog post drafts (`_drafts`), you may need to restart your local Jekyll so you can also see them locally immediately (abort on Mac with `cmd+c`, restart with `jekyll serve --watch --drafts`(which then also gives you blog drafts).)
+The new hood.ie Website doesn't need to be deployed after making changes. (Only thing you might need to know: when making changes locally on files like `_config.yml` or on blog post drafts (`_drafts`), you may need to restart your local Jekyll so you can also see them locally immediately (abort on Mac with `cmd+c`, restart with `npm run serve` (which then also gives you blog drafts).)
 
 ## Blog
 
