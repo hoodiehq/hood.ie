@@ -42,9 +42,9 @@ Use the .editorsconfig file with your editor of choice to ensure a consistent co
 * Avoid using IDs if possible
 * Avoid styling elements directly
 * Never combine element and class selectors like `ul.list`
-* Use nesting thoughtful
+* Use nesting thoughtfully
 * Avoid nesting deeper than 3 levels (Inception rule)
-* Use `$variables` reasonable
+* Use `$variables` reasonably
 * Leave one empty line before and after a nested selector
 * We use [Autoprefixer](https://github.com/nDmitry/grunt-autoprefixer), so no need to write vendor prefixes
 * Use `//` for comments in `.scss` files
@@ -54,7 +54,7 @@ Use the .editorsconfig file with your editor of choice to ensure a consistent co
 * Leave out the unit values where possible e.g. instead of `0px` use `0`
 * Leave out the `0` on values like `0.3`
 * Use `-` notation for `.classes`
-* Add comments to your code if you think it could be usefull
+* Add comments to your code if you think it could be useful
 
 ### How to use Layouts inside of Jekyll
 
