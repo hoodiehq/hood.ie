@@ -4,6 +4,7 @@
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-autoprefixer": "^3.0.3",
+    "grunt-cli": "^0.1.13",
     "grunt-contrib-concat": "^0.5.0",
     "grunt-contrib-connect": "^0.10.1",
     "grunt-contrib-copy": "^0.8.0",
@@ -17,5 +18,12 @@
     "name": "Hood.ie Sass/JS",
     "stylesheets": "dist/sass",
     "javascripts": "dist/js"
+  },
+  "scripts": {
+    "build": "grunt build",
+    "dev": "grunt",
+    "install": "bundle install",
+    "jekyll": "bundle exec jekyll",
+    "serve": "npm run jekyll -- serve --watch --drafts"
   }
 }
