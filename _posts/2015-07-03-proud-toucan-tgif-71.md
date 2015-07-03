@@ -101,11 +101,11 @@ Comedian John Oliver's take on [online harassment](https://youtu.be/PuNIwYsz7PI)
 
 [Reading is forgetting](http://www.nybooks.com/blogs/nyrblog/2015/jun/26/reading-is-forgetting/).
 
-[Super Mario Lang in recrod time. Blindfolded](https://www.youtube.com/watch?v=Aj-Mf0ZVoGs).
+[Super Mario Lan in recrod time. Blindfolded](https://www.youtube.com/watch?v=Aj-Mf0ZVoGs).
 
 > A British graffiti artist's year-long battle with a local council — and how that squabble transformed an otherwise unremarkable brick building – has been recorded in a gloriously amusing photo series. <cite>[This graffiti artist's "experiment" with the authorities escalated hilariously](http://mashable.com/2015/07/01/graffiti-artist-experiment/)</cite>
 
-Video: [Will Whaton on project UROK](https://www.youtube.com/watch?t=208&v=K6ACzT6PCDw)
+Video: [Will Wheaton on project UROK](https://www.youtube.com/watch?t=208&v=K6ACzT6PCDw)
 
 [Pretty nebula pictures :)](http://www.esa.int/spaceinimages/Images/2015/06/A_nitrogen-rich_nebula).
 
