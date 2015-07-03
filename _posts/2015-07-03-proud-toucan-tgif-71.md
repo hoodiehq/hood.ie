@@ -49,7 +49,7 @@ If you're into Deep Learning, there now is a [news site](http://news.startup.ml/
 
 *Meet the Hoodie community at one or more of these fine events:*
 
-[Meet hte W3C TAG](http://lanyrd.com/2015/meetthetag/), July 15th, Berlin, Germany **RSVP NOW**
+[Meet the W3C TAG](http://lanyrd.com/2015/meetthetag/), July 15th, Berlin, Germany **RSVP NOW**
 
 [OTSConf](https://otsconf.com), August 15th, Dortmund Germany *TICKETS ON SALE NOW*
 
