@@ -23,7 +23,7 @@
     "build": "grunt build",
     "dev": "grunt",
     "install": "bundle install",
-    "jekyll": "bundle exec jekyll",
+    "jekyll": "LANG=\"en_US.UTF-8\" LC_ALL=\"en_US.UTF-8\" bundle exec jekyll",
     "serve": "npm run jekyll -- serve --watch --drafts"
   }
 }
