@@ -5,8 +5,7 @@
 \*------------------------------------*/
 
 
-.footer {
-    padding: rem-calc(0 16);
+.footer { padding: rem-calc(0 16);
 
     .grid-3 {
         max-width: none;
@@ -26,8 +25,7 @@
 
     &:last-child { margin-right: 0; }
 
-    .sitemap-item {
-        margin-bottom: 0;
+    .sitemap-item { margin-bottom: 0;
 
         &.smaller {
             -moz-osx-font-smoothing: initial;
@@ -56,9 +54,4 @@
         color: #fff;
     }
 }
-
-// @-moz-document url-prefix() {
-
-//     .footer-licensing a { background-position: 0 rem-calc(10); }
-// }
 

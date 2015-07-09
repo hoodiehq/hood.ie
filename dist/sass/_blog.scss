@@ -19,7 +19,7 @@
         padding: rem-calc(16 16 11);
         position: relative;
 
-        &:before {
+        &::before {
             color: $gray-5;
             content: '\201C';
             font-size: 4.5em;
@@ -76,11 +76,6 @@
     a { display: inline; }
 }
 
-@-moz-document url-prefix() {
-
-    // .blog-post article > p:first-of-type a { background-position: 0 25px; }
-}
-
 .blog-post-link { background-image: none !important; }
 
 .blog-post a { background-position: 0 rem-calc(23);}
@@ -89,11 +84,6 @@
     background-position: 0 rem-calc(21);
     font-weight: 500;
     text-transform: uppercase;
-}
-
-@-moz-document url-prefix() {
-
-    // .blog-post-link-more { background-position: 0 rem-calc(15); }
 }
 
 .blog-greetings {

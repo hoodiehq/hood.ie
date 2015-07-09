@@ -701,7 +701,7 @@ aside img {
   margin-bottom: 1.25rem;
   padding: 1rem 1rem 0.6875rem;
   position: relative; }
-  .blog blockquote:before {
+  .blog blockquote::before {
     color: #b3b3b3;
     content: '\201C';
     font-size: 4.5em;
@@ -742,8 +742,6 @@ aside img {
 .blog-post a {
   display: inline; }
 
-@-moz-document url-prefix() { }
-
 .blog-post-link {
   background-image: none !important; }
 
@@ -754,8 +752,6 @@ aside img {
   background-position: 0 1.3125rem;
   font-weight: 500;
   text-transform: uppercase; }
-
-@-moz-document url-prefix() { }
 
 .blog-greetings {
   font-size: 1.125em;
@@ -932,7 +928,7 @@ aside img {
     text-shadow: none; }
   .futureEvents .events-list-item:first-child .links {
     margin-bottom: 0.3125rem; }
-  .futureEvents .events-list-item:first-child:before {
+  .futureEvents .events-list-item:first-child::before {
     content: "Next event";
     display: block;
     font-weight: 500;

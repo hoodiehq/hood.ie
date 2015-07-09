@@ -122,15 +122,6 @@
     text-shadow: none;
 }
 
-// @-moz-document url-prefix() {
-
-//     .links-list-link { background-position: 0 rem-calc(18); }
-// }
-
-
-
-
-
 /*------------------------------------*\
     #FUTURE-EVENTS
 \*------------------------------------*/
@@ -159,7 +150,7 @@
 
             .links { margin-bottom: rem-calc(5); }
 
-            &:before {
+            &::before {
                 content: "Next event";
                 display: block;
                 font-weight: 500;
@@ -170,10 +161,6 @@
     }
 }
 
-
-
-
-
 /*------------------------------------*\
     #PAST-EVENTS
 \*------------------------------------*/
@@ -181,11 +168,11 @@
 
 .pastEvents { // CLASS USED IN EVENTS.JS
     margin-top: rem-calc(48);
+
     @include breakpoint(index) {
         margin-top: 0;
         padding-left: rem-calc(16);
     }
-
 }
 
 
