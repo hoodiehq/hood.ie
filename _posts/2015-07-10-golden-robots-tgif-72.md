@@ -62,7 +62,7 @@ Juri Strumpflohner collects best pratices to help you [prepare for Angular 2](ht
 
 [The Lead Developer](http://theleaddeveloper.com "The Lead Developer Conference"), September 11th, London, UK
 
-Staff pick: [Realtime Conf](http://realtimeconf.com), October 6th-8th, Richland, Washington, USA *TICKETS ON SALE NOW*
+Staff pick: [&Yet Conf](http://andyetconf.com), October 6th-8th, Richland, Washington, USA *TICKETS ON SALE NOW*
 
 [Full Frontal](http://2015.ffconf.org "ffconf 2015"), November 6th, Brighton, UK, [Call for Speakers open now](https://remysharp.com/2015/05/25/call-for-proposals-at-ffconf-2015).
 
