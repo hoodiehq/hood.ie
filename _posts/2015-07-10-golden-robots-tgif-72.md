@@ -68,7 +68,7 @@ Staff pick: [Realtime Conf](http://realtimeconf.com), October 6th-8th, Richland,
 
 ##The Tech World and Culture
 
-> I wish I could do my job, something I very obviously love doing, without any of this bullshit. However that seems impossible at this point.<cite>[This industry is fucked]https://blog.jessfraz.com/post/this-industry-is-fucked/)</cite>
+> I wish I could do my job, something I very obviously love doing, without any of this bullshit. However that seems impossible at this point.<cite>[This industry is fucked](https://blog.jessfraz.com/post/this-industry-is-fucked/)</cite>
 
 [Diagrams with diversity](https://the-pastry-box-project.net/emma-jane/2015-july-4)
 
