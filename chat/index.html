@@ -42,6 +42,10 @@ redirect_from: "/irc/"
         </p>
 
         <p>
+          <form id="slackin">
+            <input type="email" placeholder="you@yourdomain.com" autofocus="true" class="form-item">
+            <button class="">Get my Invite</button>
+          </form>
           <iframe style="width:100%" src="https://hoodie-slack.herokuapp.com"></iframe>
         </p>
 
@@ -58,6 +62,23 @@ redirect_from: "/irc/"
 </div>
 <script src="/dist/js/jquery/dist/jquery.js"></script>
 <script>
+    $(document).ready(function () {
+        $('#slackin').submit(function (e) {
+            e.preventDefault()
+            var email = $('input', this).val()
+            if (!email) return
+            $.ajax({
+                type: 'POST',
+                url: 'https://hoodie-slack.herokuapp.com/invite',
+                dataType: 'json',
+                crossDomain: true,
+                contentType: 'application/json; charset=utf-8',
+                data: JSON.stringify({ channel: null, email: email })
+            }).done(function (data) {
+              console.log(data)
+            })
+        })
+    });
     (function(window,undefined){
       var d = new Date();
 
