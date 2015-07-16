@@ -65,17 +65,27 @@ redirect_from: "/irc/"
     $(document).ready(function () {
         $('#slack-integration').submit(function (e) {
             e.preventDefault()
-            var email = $('#mail-for-slack', this).val()
-            if (!email) return
+            var btn = $('#submit-slack', this)
+            var email = $('#mail-for-slack', this)
+            if (!email.val()) return
+            btn.prop('disabled', true)
             $.ajax({
                 type: 'POST',
                 url: 'https://hoodie-slack.herokuapp.com/invite',
                 dataType: 'json',
                 crossDomain: true,
                 contentType: 'application/json; charset=utf-8',
-                data: JSON.stringify({ channel: null, email: email })
-            }).done(function (data) {
-              console.log(data)
+                data: JSON.stringify({ email: email.val() })
+            })
+            .fail(function (res) {
+                alert((res.responseJSON && res.responseJSON.msg) || 'Server error.')
+            })
+            .done(function (data) {
+                email.val('')
+                alert('WOOT. Check your email!')
+            })
+            .always(function () {
+                btn.prop('disabled', false)
             })
         })
     });
