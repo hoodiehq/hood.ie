@@ -180,3 +180,30 @@ aside img { border: 0; }
     }
 }
 
+#slack-integration {
+  width: 100%;
+  text-align: center;
+  padding-bottom: rem-calc(25);
+
+  input {
+    border: 1px solid;
+    font-size: 1em;
+    height: 2.2rem;
+    width: 60%;
+  }
+
+  #mail-for-slack {
+    border-color: #ccc;
+    color: #404040;
+    padding: rem-calc(12) rem-calc(8);
+  }
+
+  #submit-slack {
+    border-color: #520644;
+    background-color: #520644;
+    color: #fff;
+    margin-left: -4px;
+    margin-top: rem-calc(7);
+    padding: rem-calc(8) rem-calc(3);
+  }
+}
