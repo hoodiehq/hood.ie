@@ -193,17 +193,32 @@ aside img { border: 0; }
   }
 
   #mail-for-slack {
-    border-color: #ccc;
+    border-color: #C1A7BC;
     color: #404040;
     padding: rem-calc(12) rem-calc(8);
+    &:focus, &:hover{
+      outline: none;
+      border-color: #520644;
+    }
   }
 
   #submit-slack {
     border-color: #520644;
     background-color: #520644;
     color: #fff;
-    margin-left: -4px;
     margin-top: rem-calc(7);
     padding: rem-calc(8) rem-calc(3);
+    font-weight: bold;
+    cursor: pointer;
+    &:focus, &:hover{
+      outline: none;
+      background-color: #C1A7BC;
+      border-color: #C1A7BC;
+    }
+  }
+
+  .message {
+    font-weight: 400;
+    line-height: 2;
   }
 }
