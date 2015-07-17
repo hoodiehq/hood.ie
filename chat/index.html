@@ -44,8 +44,8 @@ redirect_from: "/irc/"
         <p>
           <form id="slack-integration">
             <input id="mail-for-slack" type="email" placeholder="me@mydomain.com" autofocus="true" required />
-            <br />
             <input type="submit" id="submit-slack" value="Get your Invite" />
+            <div class="message"></div>
           </form>
         </p>
 
@@ -78,11 +78,11 @@ redirect_from: "/irc/"
                 data: JSON.stringify({ email: email.val() })
             })
             .fail(function (res) {
-                alert((res.responseJSON && res.responseJSON.msg) || 'Server error.')
+                $('#slack-integration .message').text((res.responseJSON && res.responseJSON.msg) || 'Sorry, there was a server error.');
             })
             .done(function (data) {
                 email.val('')
-                alert('WOOT. Check your email!')
+                $('#slack-integration .message').text('Woot! Check your email!');
             })
             .always(function () {
                 btn.prop('disabled', false)
