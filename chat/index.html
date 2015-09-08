@@ -1,0 +1,168 @@
+---
+
+layout: default-lilac
+title: hood.ie IRC
+redirect_from: "/irc.html"
+redirect_from: "/irc/"
+
+---
+
+<div class="cb teaser">
+    <article>
+        <h1>Chat</h1>
+        <p>
+            Welcome to the Hoodie Chat!
+            We run community channels on the <a href="http://freenode.net" title="About the Freenode Network" target="_blank">Freenode IRC network</a> and <a href="https://slack.com/" title="About Slack" target="_blank">Slack</a>.
+        </p>
+
+    </article>
+
+    <aside>
+
+    </aside>
+</div>
+<div class="cb">
+    <article class="grid-9">
+        <h2>Send and receive the same messages on IRC and Slack.</h2>
+        <p>
+          IRC is open and very common, but Slack is more user-friendly. We have developed an <a href="https://github.com/hoodiehq/slack-irc-duplex" title="slack-irc-duplex on GitHub">IRC/Slack two-way sync</a>, so you can choose whatever you personally prefer.
+        </p>
+
+        <p>
+          We have multiple channels so everyone has the opportunity to opt into certain topics of their interest around Hoodie.
+
+          There is <strong>#hoodie-dev</strong>, <strong>#hoodie-design</strong>, <strong>#hoodie-docs</strong>, <strong>#hoodie-help</strong> and <strong>#hoodie-pouch</strong> to foster focused discussions around these topics.
+          On top of that there is <strong>#hoodie-random</strong>, where you'll mostly find gifs and off-topic stuff. Join <strong>#hoodie-selfies</strong> if you feel like sharing a moment with the community.
+
+          <strong>#hoodie</strong> is our general hub and if you aren't sure about where to go next you'll always find help there. Especially during office hours (see below).
+        </p>
+
+        <p>
+          To get started join these channels on Freenode or sign up for our Slack here:
+        </p>
+
+        <p>
+          <form id="slack-integration">
+            <input id="mail-for-slack" type="email" placeholder="me@mydomain.com" autofocus="true" required />
+            <input type="submit" id="submit-slack" value="Get your Invite" />
+            <div class="message"></div>
+          </form>
+        </p>
+
+
+        <h2>These are the guidelines:</h2>
+         <p>
+             We're a small team and can't always be here, but we still want to make it easy to get in touch with us. We're usually here on weekdays between <strong>14:00 CE(S)T</strong> and <strong>18:00 CE(S)T</strong>.<span class="offsetMessage"></span>. If you've never used IRC before, you can find all information on how to use it, get a nick name and join a channel <a href="https://freenode.net/using_the_network.shtml" target="_blank">here</a>.
+         </p>
+         <p>We also have an <a href="http://faq.hood.ie" target="_blank">FAQ</a> for the most common questions. We also have special pages for <a href="/bug">Bug Reports</a> and various resources where you can <a href="/get-help">get help</a>. And, in general, we’re of course on the internet™ — you’ll find all the places where we are on <a href="/contact">our contact page</a>.</p>
+    </article>
+    <aside>
+
+    </aside>
+</div>
+<script src="http://hoodiehq.github.io/hoodie-css/src/js/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#slack-integration').submit(function (e) {
+            e.preventDefault()
+            var btn = $('#submit-slack', this)
+            var email = $('#mail-for-slack', this)
+            if (!email.val()) return
+            btn.prop('disabled', true)
+            $.ajax({
+                type: 'POST',
+                url: 'https://hoodie-slack.herokuapp.com/invite',
+                dataType: 'json',
+                crossDomain: true,
+                contentType: 'application/json; charset=utf-8',
+                data: JSON.stringify({ email: email.val() })
+            })
+            .fail(function (res) {
+                $('#slack-integration .message').text((res.responseJSON && res.responseJSON.msg) || 'Sorry, there was a server error.');
+            })
+            .done(function (data) {
+                email.val('')
+                $('#slack-integration .message').text('Woot! Check your email!');
+            })
+            .always(function () {
+                btn.prop('disabled', false)
+            })
+        })
+    });
+    (function(window,undefined){
+      var d = new Date();
+
+      var localTime = d.getTime();
+
+      var localOffset = d.getTimezoneOffset() * 60000;
+
+      var utc = localTime + localOffset;
+
+      var offset = 1;
+
+      var calculateWait = function(dst){
+        if (parseInt(dst, 10) === 1) {
+          offset += 1;
+        }
+
+        var absoluteOffset = localOffset/60000/60 + offset;
+        var berlin = utc + (3600000*offset);
+
+        var nd = new Date(berlin);
+        var startTime = 14;
+        var endTime = 18;
+        var message = "";
+        var getHourString = function(hours, prefix){
+          if(!prefix){
+            prefix = "";
+          }
+          if(hours > 1){
+            return hours+prefix+" hours";
+          }
+          if(hours === 1){
+            return hours+prefix+" hour";
+          }
+        };
+        if(absoluteOffset > 0 ){
+          message = " It's "+getHourString(absoluteOffset)+" later here, ";
+        }
+        if(absoluteOffset === 0 ){
+          message = " You're in the same time zone as we are, ";
+        }
+        if(absoluteOffset < 0 ){
+          message = " It's "+getHourString(absoluteOffset*-1)+" earlier here, ";
+        }
+        if(nd.getDay() < 6){
+          if(nd.getHours() < startTime){
+            message += " so we'll be here in about "+getHourString( startTime - nd.getHours())+ ".";
+          }
+
+          if(nd.getHours() >= startTime && nd.getHours() < endTime){
+            message += " so we'll be around for about "+getHourString( endTime - nd.getHours(), " more ")+".";
+          }
+
+          if(nd.getHours() >= endTime){
+            // Sunday to Thursday, there's a one-day wait
+            var daysTilNextWorkdayStartTime = 1;
+            if (nd.getDay() === 5 || nd.getDay() === 6){
+              message = " That means we'll be back after the weekend.";
+            } else {
+              message += " so we should be back in roughly "+getHourString( startTime - nd.getHours() + 24)+ ".";
+            }
+          }
+        } else {
+          message = " It's a weekend though, so we're probably not in right now.";
+        }
+
+        $('.offsetMessage').text(message);
+      };
+      $.ajax({
+        url: "http://api.timezonedb.com/?lat=52.499504&lon=13.4191&format=json&key=ARQ25LY95DS0",
+        crossDomain: true,
+        dataType: 'jsonp'
+      })
+      .done(function( data ) {
+        calculateWait(data.dst);
+      });
+    })(window);
+</script>

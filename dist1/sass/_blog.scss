@@ -1,0 +1,105 @@
+
+/*------------------------------------*\
+    #BLOG
+\*------------------------------------*/
+
+.blog {
+
+    h1 { text-transform: uppercase; }
+
+    h2 { margin-top: rem-calc(40); }
+
+    p { margin-bottom: rem-calc(16); }
+
+    .entry { margin-bottom: rem-calc(20); }
+
+    blockquote {
+        border-left: 3px solid #b3b3b3;
+        margin-bottom: rem-calc(20);
+        padding: rem-calc(16 16 11);
+        position: relative;
+
+        &::before {
+            color: $gray-5;
+            content: '\201C';
+            font-size: 4.5em;
+            position: absolute;
+            top: rem-calc(-16);
+        }
+
+        p {
+            margin-bottom: 0;
+            text-indent: 2em;
+        }
+
+        cite {
+            display: block;
+            font-style: normal;
+            margin-top: rem-calc(10);
+            text-align: right;
+            text-indent: 6em;
+        }
+    }
+
+    .blog-post-end { margin-top: rem-calc(80); }
+}
+
+.blog__hr {
+    background-color: $gray-1;
+    border: 0;
+    height: 1px;
+    margin: rem-calc(20) auto;
+    width: rem-calc(160);
+}
+
+.blog-meta {
+    display: block;
+    margin-bottom: rem-calc(20);
+}
+
+.blog-post {
+
+    article {
+        margin-bottom: rem-calc(60);
+        @extend %n;
+
+        > p:first-of-type {
+            font-size: 1.7em;
+            font-style: italic;
+            font-weight: 500;
+            padding-bottom: 3.5625rem;
+
+            a { background-position: 0 rem-calc(35); }
+        }
+    }
+
+    a { display: inline; }
+}
+
+.blog-post-link { background-image: none !important; }
+
+.blog-post a { background-position: 0 rem-calc(23);}
+
+.blog-post-link-more {
+    background-position: 0 rem-calc(21);
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.blog-greetings {
+    font-size: 1.125em;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.pagination {
+    float: right;
+    margin-top: rem-calc(30);
+}
+
+.blog-post-excerpt {
+
+    img:not(.emoji) { width: 100%; }
+
+    .emoji { vertical-align: sub; }
+}

@@ -1,0 +1,181 @@
+
+
+/*------------------------------------*\
+    #LAYOUT
+\*------------------------------------*/
+
+
+* { box-sizing: border-box; }
+
+img { max-width: 100%; }
+
+// CLEARFIX
+%cf {
+
+    &:before,
+    &:after {
+        content: " ";
+        display: table;
+    }
+
+    &:after { clear: both; }
+
+}
+
+section,
+.main-nav,
+.sub-nav {
+    @extend %cf;
+    width: 100%;
+}
+
+header { z-index:1; }
+
+header section li,
+header section a {
+    display: inline-block;
+}
+
+footer {
+    padding-top: rem-calc(90);
+
+    @include breakpoint(mv) { margin-top: rem-calc(85); }
+}
+
+.nav { height: rem-calc(65); }
+
+.sub-nav {
+    padding: rem-calc(8 0 5 0);
+    top: rem-calc(65);
+}
+
+.sub-nav,
+.cb,
+.main-nav,
+.blog-list,
+.blog-post .comments {
+    margin: 0 auto;
+}
+
+.nav,
+.sub-nav { position: absolute; }
+
+.cb {
+    @extend %cf;
+    max-width: rem-calc(830);
+    padding-bottom: rem-calc(42);
+    width: 100%;
+
+    &.teaser { padding-bottom: rem-calc(57); }
+
+    article {
+        margin: 0 auto;
+        max-width: rem-calc(600);
+        width: 100%;
+
+        @include breakpoint(lv) { float: right; }
+    }
+
+    aside {
+        max-width: rem-calc(600);
+        margin: 0 auto;
+        width: 100%;
+
+        br {
+            display: none;
+
+            @include breakpoint(lv) { display: inline; }
+
+        }
+
+        @include breakpoint(lv) {
+            float: left;
+            margin: rem-calc(0 50 0 0);
+            max-width: rem-calc(180);
+        }
+    }
+
+    table { width: 100%; }
+
+    tr:nth-child(even) { background-color: #e1e1e1; }
+
+    td {
+        padding: 5px 8px;
+
+        &:nth-child(1) { width: 60%; }
+    }
+}
+
+.content {
+    padding: rem-calc(160 16 0);
+
+    @include breakpoint(mv) { padding: rem-calc(200 16 0); }
+
+    @include breakpoint(lv) { padding: rem-calc(270 16 0); }
+
+}
+
+code {
+    display: block;
+    padding-top: rem-calc(25);
+}
+
+
+// GRIDS
+.grid-9 {
+    max-width: rem-calc(600);
+    width: 100%;
+
+    figcaption { padding-bottom: rem-calc(30); }
+
+}
+
+.grid-6 {
+    max-width: rem-calc(450);
+    width: 65%;
+}
+
+.grid-3 {
+    max-width: rem-calc(170);
+    min-width: rem-calc(170);
+}
+
+.grid-3-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+// HELPER
+.l { float: left; }
+
+.r { float: right; }
+
+%n { float: none; }
+
+.hide { display: none; }
+
+.centered {
+    text-align: center;
+    display: block;
+}
+
+
+.switch-on-break {
+    display: flex;
+    flex-direction: column;
+
+    .contribute-aside-icon { order: 1; }
+
+    article { order: 2; }
+
+    @include breakpoint(lv) { display: block; }
+}
+
+.vat {
+    display: block;
+    font-size: .8em;
+    margin-top: rem-calc(15);
+}
+
