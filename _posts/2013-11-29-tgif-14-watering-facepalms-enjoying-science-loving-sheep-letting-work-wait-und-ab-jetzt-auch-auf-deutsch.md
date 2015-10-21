@@ -58,7 +58,7 @@ Stop making To-do lists. [They don&#8217;t work][15].
 
 <3 Unisex-Toilets at [Bitcrowd][19]-office:
 
-<img class="alignnone size-full wp-image-731" src="/dist/blog/2013/11/unisex-toilets.jpg" alt="unisex-toilets" width="600" height="450" />
+<img class="alignnone size-full wp-image-731" src="/dist1/blog/2013/11/unisex-toilets.jpg" alt="unisex-toilets" width="600" height="450" />
 **Water your facepalms regularly**
 
 &#8220;After a year of traveling, Dutch writer Niels Gerson Lohman wanted to visit New Orleans, the city that his father – who died a year ago – had a great love for. The U.S. customs officials thought different: &#8230; &#8216;We are under the impression you have more ties with more countries we are not on friendly terms with than your own. We decided to bring you back to the Canadian border.'&#8221; – [Why I will never return to the USA][20]

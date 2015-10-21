@@ -51,7 +51,7 @@ Everyday objects in such beautiful design … that they don&#8217;t work anymore
 <img class="alignnone" alt="" src="http://mefi.us/images/bestof/9EB8A03089246C3826D327153D3139F4.jpg" width="300" height="295" />
 *&#8220;I never realized the underlying geometry of the Apple logo is [built entirely of golden ratio circles][12].&#8221; –*
 
-[<img class="alignnone size-full wp-image-1343" alt="Screen Shot: @JasonLong, Twitter" src="/dist/blog/2014/04/Screen-Shot-2014-04-04-at-10.33.44.png" width="554" height="416" />][12]
+[<img class="alignnone size-full wp-image-1343" alt="Screen Shot: @JasonLong, Twitter" src="/dist1/blog/2014/04/Screen-Shot-2014-04-04-at-10.33.44.png" width="554" height="416" />][12]
 **The Tech World and Culture**
 
 *&#8220;We realize that this crosses the line of “feeding the trolls” or giving attention to “bad guys”, but we feel it relevant for our industry. Our lives and work are completely online and we’re all highly susceptible to types of hacks and identity theft.&#8221; – *Podcast: [One on One with a Hacker][13]
@@ -84,7 +84,7 @@ People don&#8217;t read, do they? – <a title="NPR’s Epic April Fools’ Day 
 
 &#8216;We Are Just Humans': Portrait Project Highlights Ethnic Diversity – [about the project][22] | [the project website][23]
 
-[<img class="alignnone size-large wp-image-1342" alt="Screen Shot: humanae.tumblr.com" src="/dist/blog/2014/04/Screen-Shot-2014-04-04-at-10.19.48-750x250.png" width="750" height="250" />][24] <p style="text-align: center;">
+[<img class="alignnone size-large wp-image-1342" alt="Screen Shot: humanae.tumblr.com" src="/dist1/blog/2014/04/Screen-Shot-2014-04-04-at-10.19.48-750x250.png" width="750" height="250" />][24] <p style="text-align: center;">
   <em>Have a nice weekend! <3</em>
 </p>
 

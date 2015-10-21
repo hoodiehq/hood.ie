@@ -15,7 +15,7 @@ This is why we&#8217;d now love you to
 # Meet [*Ubersicht*][3]
 
 – our first stab at solving this:
-<img class="alignnone size-full wp-image-911" alt="ubersicht" src="/dist/blog/2014/01/ubersicht.png" width="907" height="682" />
+<img class="alignnone size-full wp-image-911" alt="ubersicht" src="/dist1/blog/2014/01/ubersicht.png" width="907" height="682" />
 This is a new view into all issues of an organisation, sorted by time, with powerful filtering options: show all issues with the label “backlog” that have no comments yet: *easy*. Show all open issues for a milestone across all repositories: *easy*. Show issues that are easy to work on for new contributors: *EASY*.
 
 You get the idea.

@@ -7,7 +7,7 @@ comments: true
 
 ---
 
-Hello! 
+Hello!
 
 My name is [Charlotte](https://www.twitter.com/charlotteis) and I'm going to tell you about contributing to Hoodie. I am a self-taught web developer who has been programming for around nine months. Which means that in comparison to most people, I have much less experience. Despite this I've made a handful of contributions to Hoodie and I'm going to show you how you can do it too.
 
@@ -21,20 +21,20 @@ When you have found something you think that you can improve, it's time to edit 
 
 Say you have found a typo on the homepage.
 
-![Mispelt Documentation](/dist/blog/2015/05/contrib-hoodie-documentationz.png)
+![Mispelt Documentation](/dist1/blog/2015/05/contrib-hoodie-documentationz.png)
 _That 'z' doesn't really exist on the home page!_
 
 As you are looking at the homepage you need to go to the project folder for the [main website](https://github.com/hoodiehq/hood.ie). Find the page within the project that corresponds to the homepage and click the pencil (edit) icon. This will copy the project to your own account where you can make edits without affecting the original project.
 
-![Making Edits to Hoodie's Documentation](/dist/blog/2015/05/contrib-hoodie-editingcode.png)
+![Making Edits to Hoodie's Documentation](/dist1/blog/2015/05/contrib-hoodie-editingcode.png)
 
 Once you have finished editing you can submit this change to your project and ask the team to put it  into the original project. To do this, you need to make a "pull request".
 
-![Creating a Pull Request](/dist/blog/2015/05/contrib-hoodie-createapr.png)
+![Creating a Pull Request](/dist1/blog/2015/05/contrib-hoodie-createapr.png)
 
 When you have made your pull request, the Hoodies will review your changes. If it is accepted, congratulations on your first contribution to the project!
 
-![An accepted pull request](/dist/blog/2015/05/contrib-hoodie-mergedpr.png)
+![An accepted pull request](/dist1/blog/2015/05/contrib-hoodie-mergedpr.png)
 
 If you need any advice on your contribution you can ask in the Hoodie [slack channel](http://hood.ie/chat/). I learned to include information in my pull requests that would help the team understand my changes.
 

@@ -23,7 +23,7 @@ Here&#8217;s some thoughts on this by [Unstoppable Robot Ninja][7], a [discuss
 **&#8212; How to defend the internet when you&#8217;re not a superhero**
 
 &#8220;[This comic] should remind you that there is no need for super powers to defend the freedom of the Internet and the future of digital society.&#8221; –[ The League Internet Villains][12], a comic about the future of our digital society
-[<img class="alignnone  wp-image-621" src="/dist/blog/2013/11/the-league-internet-villains-739x470.png" alt="the-league-internet-villains" width="500" height="318" />][12]
+[<img class="alignnone  wp-image-621" src="/dist1/blog/2013/11/the-league-internet-villains-739x470.png" alt="the-league-internet-villains" width="500" height="318" />][12]
 
 **&#8212; How to have great conferences**
 

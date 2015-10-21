@@ -26,13 +26,13 @@ You&#8217;re a Frontend Developer wanting to help promoting Wikipedia? Work with
   &#8220;Since I&#8217;m a software developer, I’ll think of the audience as my users. And if they’re my users, then this presentation is a user experience and I am just a UI. And what’s a key attribute of a good UI? It disappears.&#8221; – A beautiful mindset that may <strong>help against stage fright</strong>: <a href="http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful?utm_content=buffer113e3&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer">Presentation Skills considered harmful<em><br /> </em></a>
 </p>
 
-[<img class="alignnone size-large wp-image-496" src="/dist/blog/2013/10/presenter-awesome-683x470.png" alt="presenter-awesome" width="647" height="445" />][10]
+[<img class="alignnone size-large wp-image-496" src="/dist1/blog/2013/10/presenter-awesome-683x470.png" alt="presenter-awesome" width="647" height="445" />][10]
 *&#8220;Discover a better way of thinking about advanced JavaScript application development and gain a strong foundation for **building amazing web app experiences** in a logical way.&#8221;* – out now: [*Human Javascript*][11] by Henrik Joreteg*
 
 &#8220;The most frustrating projects I’ve ever worked on were with people that didn’t understand **why front-end development needed to be involved in the design process**. &#8230; For a lot of people, *this is scary as shit.*&#8221; – [Development is Design][12].<!--more-->
 
 [An ice cube melting in pure CSS][13]:
-<img class="alignnone size-full wp-image-511" src="/dist/blog/2013/10/ice-cube-css1.png" alt="ice-cube-css" width="470" height="334" />
+<img class="alignnone size-full wp-image-511" src="/dist1/blog/2013/10/ice-cube-css1.png" alt="ice-cube-css" width="470" height="334" />
 **Open Access** is aiming to free knowledge paid for by tax payers, and they succeeded [in this case involving NASA][14].
 
 *&#8220;You have to **stretch your wings**, or else you’re going to get bored with it.&#8221; *– [How to grow][15]
@@ -42,7 +42,7 @@ You&#8217;re a Frontend Developer wanting to help promoting Wikipedia? Work with
 Smart quotes for smart people: [a typography guide to using the correct quotation marks][17] in any system.
 
 [518 sad, funny, hilarious, awesome comments encountered in source code][18]:
-[<img class="alignnone size-full wp-image-497" src="/dist/blog/2013/10/comments-in-source-code.png" alt="comments-in-source-code" width="635" height="151" />][18]
+[<img class="alignnone size-full wp-image-497" src="/dist1/blog/2013/10/comments-in-source-code.png" alt="comments-in-source-code" width="635" height="151" />][18]
 
 <p id="archive-head">
   Crackers tap new sources to uncover &#8220;givemelibertyorgivemedeath&#8221; and other phrases: <a href="http://arstechnica.com/security/2013/10/how-the-bible-and-youtube-are-fueling-the-next-frontier-of-password-cracking/">How the Bible and YouTube are fueling the next frontier of password cracking</a>.
@@ -51,7 +51,7 @@ Smart quotes for smart people: [a typography guide to using the correct quotatio
 Team Hoodie&#8217;s working on something, and here&#8217;s [what we did last week][19].
 
 Two physicists won the Nobel Prize for their theory explaining how particles acquire mass. If you&#8217;re not a physicist, you may wonder: **what is *****The Higgs**, *and what is *The Higgs Field*? A lovely-made [explanation in drawings][20]:
-[<img class="alignnone size-full wp-image-501" src="/dist/blog/2013/10/the_higgs_field.png" alt="The Higgs Field" width="412" height="235" />][20]
+[<img class="alignnone size-full wp-image-501" src="/dist1/blog/2013/10/the_higgs_field.png" alt="The Higgs Field" width="412" height="235" />][20]
 
 –
 **Disclosure: The book&#8217;s forword was written by [Jan][21], one of the Hoodie-founders.*

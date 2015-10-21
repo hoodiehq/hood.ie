@@ -23,7 +23,7 @@ Grand Theft Auto V is out now. Carolyn Petit, a professional games reviewer, pla
 
 30 years ago, Richard Stallman [announced][18] that he started working on GNU (original post [here][19]):
 
-[<img class="alignnone" src="/dist/blog/2013/09/gnu.png" alt="" width="512" height="362" />][18]
+[<img class="alignnone" src="/dist1/blog/2013/09/gnu.png" alt="" width="512" height="362" />][18]
 *&#8220;We may be a technology industry, but we’re still comprised of people, and people deserve our respect, first and foremost.&#8221;* – A recommendable talk about: [&#8220;Schooled in Feminism &#8211; an Ally&#8217;s perspective&#8221;][20].
 
 And here&#8217;s the weekly edition of what Hoodie worked on last week: [Hoodie weekly #11][21].

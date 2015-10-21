@@ -28,13 +28,13 @@ We are trying to get some data from a server, say new emails, but we never reach
 
 However it is relevant to look at this from another perspective: if, say, the mobile operating system understands it is offline, the client request to the server will fail right away. But if this is a case of just getting offline, the request might just sit there until a timeout is triggered, either in the TCP stack, or at the HTTP level, or the even the application might give up eventually. This timeout is often specified in minutes, during which the user can’t do anything.
 
-<img class="alignright size-full wp-image-779" alt="fails immediately" src="/dist/blog/2013/12/s-of.009.png" width="740" height="315" />
+<img class="alignright size-full wp-image-779" alt="fails immediately" src="/dist1/blog/2013/12/s-of.009.png" width="740" height="315" />
 * * *
 
-<img class="alignright size-full wp-image-780" alt="fails later" src="/dist/blog/2013/12/s-of.010.png" width="740" height="315" />
+<img class="alignright size-full wp-image-780" alt="fails later" src="/dist1/blog/2013/12/s-of.010.png" width="740" height="315" />
 This opens up another scenario: some data makes it back to the client, but not all of it.
 
-<img class="alignright size-full wp-image-781" alt="returns partial data" src="/dist/blog/2013/12/s-of.011.png" width="740" height="315" />
+<img class="alignright size-full wp-image-781" alt="returns partial data" src="/dist1/blog/2013/12/s-of.011.png" width="740" height="315" />
 
 Especially in browsers, it can be very tricky to find out the correct connection state, but even native apps have trouble being able to do the right thing.
 
@@ -60,10 +60,10 @@ Passing the lovely countryside, we snap a few great photos and decide one of the
 
 Now we have a similar situation as before, the server might be reachable, but it takes too long, or it might not be reachable at all and we know immediately.
 
-<img class="alignright size-full wp-image-782" alt="fails immediately" src="/dist/blog/2013/12/s-of.012.png" width="740" height="315" />
+<img class="alignright size-full wp-image-782" alt="fails immediately" src="/dist1/blog/2013/12/s-of.012.png" width="740" height="315" />
 * * *
 
-<img class="alignright size-full wp-image-783" alt="fails later" src="/dist/blog/2013/12/s-of.013.png" width="740" height="315" />
+<img class="alignright size-full wp-image-783" alt="fails later" src="/dist1/blog/2013/12/s-of.013.png" width="740" height="315" />
 
 ## More consequences for the user interface
 

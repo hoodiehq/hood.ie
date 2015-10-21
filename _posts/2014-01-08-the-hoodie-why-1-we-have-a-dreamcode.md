@@ -125,10 +125,10 @@ The &#8220;survive a nuke&#8221;-aspect was actually never a design goal, but mo
 
 So we got packet switching and TCP/IP, and we also got this image:
 
-<img src="/dist/blog/2014/01/Screen-Shot-2014-01-07-at-17.07.25.png" alt="Screen Shot 2014-01-07 at 17.07.25" width="491" height="314" />
+<img src="/dist1/blog/2014/01/Screen-Shot-2014-01-07-at-17.07.25.png" alt="Screen Shot 2014-01-07 at 17.07.25" width="491" height="314" />
 Now, on a technical level, this is still somewhat accurate, that&#8217;s roughly how the web works. In practice, though, the individual nodes aren&#8217;t of equal size: some are veritable supernodes:
 
-<img src="/dist/blog/2014/01/Screen-Shot-2014-01-07-at-17.07.38.png" alt="Screen Shot 2014-01-07 at 17.07.38" width="592" height="445" />
+<img src="/dist1/blog/2014/01/Screen-Shot-2014-01-07-at-17.07.38.png" alt="Screen Shot 2014-01-07 at 17.07.38" width="592" height="445" />
 The big ones are what you&#8217;d expect: many of them are google sites, the second largest one is facebook, then yahoo.com, apple.com etc. These are pretty significant points of failure now. Not necessarily in an reliability/uptime sense, but in a more general security sense: if an antagonistic third party can access anyone&#8217;s data in these large nodes, they must be considered broken. As we know, this is the case.
 
 So, ideally, the web, even the social web, is properly distributed, to avoid these kinds of things in the future:
@@ -178,10 +178,10 @@ By supporting these complexities and reveling in our arcane skills we are helpin
 
 Today, computing and the web are quite prevalent in our daily social lives, and indeed in the lives of a large portion of the world&#8217;s population. For many of them, the web has always existed. Many may have never felt the urge to make, because what they wanted was already there. When i started with computers, this is all I got:
 
-<img class="alignnone size-full wp-image-820" src="/dist/blog/2014/01/Screen-Shot-2014-01-07-at-17.18.21.png" alt="Screen Shot 2014-01-07 at 17.18.21" width="612" height="460" />
+<img class="alignnone size-full wp-image-820" src="/dist1/blog/2014/01/Screen-Shot-2014-01-07-at-17.18.21.png" alt="Screen Shot 2014-01-07 at 17.18.21" width="612" height="460" />
 For many of today&#8217;s developers, it might have been a similar experience, varying mainly in the color scheme. But nowadays, fewer and fewer people are ever faced with this black void, waiting to be filled by them, the prompt and the blinking cursor, waiting to do their bidding. For them, the web isn&#8217;t the participatory medium it could be. Yes, they upload terabytes of video a minute, tens of thousands of instagram pictures, years of audio, but that&#8217;s content, they&#8217;re not *making* the web. They&#8217;re using it. And that&#8217;s understandable. Nobody&#8217;s giving them much incentive to do anything else.
 
-<img class="alignnone size-full wp-image-821" src="/dist/blog/2014/01/Screen-Shot-2014-01-07-at-17.19.26.png" alt="Screen Shot 2014-01-07 at 17.19.26" width="600" height="425" />
+<img class="alignnone size-full wp-image-821" src="/dist1/blog/2014/01/Screen-Shot-2014-01-07-at-17.19.26.png" alt="Screen Shot 2014-01-07 at 17.19.26" width="600" height="425" />
 But that&#8217;s not the point of the web, is it?
 
 > &#8220;The web is not just for web developers!&#8221;

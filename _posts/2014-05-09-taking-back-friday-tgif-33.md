@@ -89,7 +89,7 @@ Three Months in Berlin: <a href="http://www.xconomy.com/san-francisco/2014/05/08
 Now I will never be able to look at The Great Wave of Kanagawa again –
 <cite>(<a href="https://twitter.com/ibogost/status/464603970154291200/photo/1">source</a>)</cite>
 
-<img class="alignnone size-full wp-image-1477" src="/dist/blog/2014/05/BnKa2MIIgAEwmMQ.jpg" alt="BnKa2MIIgAEwmMQ" width="599" height="413" />
+<img class="alignnone size-full wp-image-1477" src="/dist1/blog/2014/05/BnKa2MIIgAEwmMQ.jpg" alt="BnKa2MIIgAEwmMQ" width="599" height="413" />
 
 The Africa Hack Trip Movie is in the making and here’s <a href="https://www.indiegogo.com/projects/africahacktrip-the-movie">how you can support it</a>.
 

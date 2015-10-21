@@ -4,7 +4,7 @@ author: Lena
 layout: blog-post
 //permalink: /2014/02/meet-the-hoodies-episode-2-ola/
 ---
-**<img class="alignright" alt="Bildschirmfoto 2014-02-17 um 14.13.44" src="/dist/blog/2014/02/Bildschirmfoto-2014-02-17-um-14.13.44.png" />**In June 2013, the (almost) entire Team Hoodie went for a field trip (or* &#8220;Klassenfahrt&#8221;*, as we call it) to Bochum for giving a talk at [PottJS][1]. This is where we met a lively person with lots of questions and interest in Hoodie. – We met [Ola][2].
+**<img class="alignright" alt="Bildschirmfoto 2014-02-17 um 14.13.44" src="/dist1/blog/2014/02/Bildschirmfoto-2014-02-17-um-14.13.44.png" />**In June 2013, the (almost) entire Team Hoodie went for a field trip (or* &#8220;Klassenfahrt&#8221;*, as we call it) to Bochum for giving a talk at [PottJS][1]. This is where we met a lively person with lots of questions and interest in Hoodie. – We met [Ola][2].
 
 Thing is: we had already been wishing and working on having more women in our project &#8211; not only because we aim for diversity for reasons™, but also because we think it helps us develop this project further if we get different people, personalities and perspectives on board (and not only the standard &#8220;white-male-bearded&#8221; one). Finally, Ola joined our team by end of december 2013. And one of the greatest things about her is that, from my personal point of view, she has not only become a co-worker, but a good friend to me.
 
@@ -19,7 +19,7 @@ I still recall those mornings on Lanzarote during [Hoodie&#8217;s second offsite
 </p>
 
 <p dir="ltr">
-  <img class="alignright" alt="201419_0990-Edit" src="/dist/blog/2014/02/201419_0990-Edit-470x470.jpg" width="320" height="320" />Her days start early, many of them at 05:30 or 6 in the morning, and she&#8217;s often the first to say <em>&#8220;Moin!&#8221;</em> (our <em>&#8220;good morning&#8221;</em>) in our team chat. She&#8217;s been working as a professional JavaScript frontend / backend and mobile developer for 7 years now (and started coding when she was 8), she organizes <a href="http://twitter.com/OTS_do">Open Tech School Dortmund</a> and gives workshops for kids and grown-ups there, she studies computer science – and: she&#8217;s the mother of a wonderful daughter.
+  <img class="alignright" alt="201419_0990-Edit" src="/dist1/blog/2014/02/201419_0990-Edit-470x470.jpg" width="320" height="320" />Her days start early, many of them at 05:30 or 6 in the morning, and she&#8217;s often the first to say <em>&#8220;Moin!&#8221;</em> (our <em>&#8220;good morning&#8221;</em>) in our team chat. She&#8217;s been working as a professional JavaScript frontend / backend and mobile developer for 7 years now (and started coding when she was 8), she organizes <a href="http://twitter.com/OTS_do">Open Tech School Dortmund</a> and gives workshops for kids and grown-ups there, she studies computer science – and: she&#8217;s the mother of a wonderful daughter.
 </p>
 
 <p dir="ltr">
@@ -27,7 +27,7 @@ I still recall those mornings on Lanzarote during [Hoodie&#8217;s second offsite
 </p>
 
 <p dir="ltr">
-  <img alt="201419_0526" src="/dist/blog/2014/02/201419_05261-704x470.jpg" width="704" height="470" />
+  <img alt="201419_0526" src="/dist1/blog/2014/02/201419_05261-704x470.jpg" width="704" height="470" />
 </p>
 
 <p dir="ltr">
@@ -53,7 +53,7 @@ I still recall those mornings on Lanzarote during [Hoodie&#8217;s second offsite
 </p>
 
 <p dir="ltr">
-  <img class="alignright" alt="201419_0783" src="/dist/blog/2014/02/201419_0783-313x470.jpg" width="320" height="483" />As a kid, she dreamed of being Zorro so she could save the people in need. But soon, she got her C64 and her career plans slightly changed. And she&#8217;s still a comic nerd, so if she could be a super hero today and could choose super powers, she&#8217;d go for Telepathy and Telekinesis &#8211; reading people&#8217;s minds, moving things and flying around all the time.
+  <img class="alignright" alt="201419_0783" src="/dist1/blog/2014/02/201419_0783-313x470.jpg" width="320" height="483" />As a kid, she dreamed of being Zorro so she could save the people in need. But soon, she got her C64 and her career plans slightly changed. And she&#8217;s still a comic nerd, so if she could be a super hero today and could choose super powers, she&#8217;d go for Telepathy and Telekinesis &#8211; reading people&#8217;s minds, moving things and flying around all the time.
 </p>
 
 <p dir="ltr">
@@ -67,7 +67,7 @@ I still recall those mornings on Lanzarote during [Hoodie&#8217;s second offsite
 # Ola recommends &#8230;
 
 <p dir="ltr">
-  <strong> <img class="wp-image-1189 alignright" alt="418113_377820008911986_348785749_n" src="/dist/blog/2014/02/418113_377820008911986_348785749_n-352x470.jpg" width="320" height="429" />Things to do:</strong>
+  <strong> <img class="wp-image-1189 alignright" alt="418113_377820008911986_348785749_n" src="/dist1/blog/2014/02/418113_377820008911986_348785749_n-352x470.jpg" width="320" height="429" />Things to do:</strong>
 </p>
 
 *   Watch MST3K (Mystery Science Theater 3000)

@@ -7,7 +7,7 @@ layout: blog-post
 *Thank [Glob][1] it’s Friday! Team Hoodie presents your weekend reading list.*
 
 [The world in 1k of JavaScript][2]:
-[<img class="alignnone size-medium wp-image-464" src="/dist/blog/2013/09/Screen-Shot-2013-09-27-at-12.04.46-300x142.png" alt="world in java script" width="300" height="142" />][2]
+[<img class="alignnone size-medium wp-image-464" src="/dist1/blog/2013/09/Screen-Shot-2013-09-27-at-12.04.46-300x142.png" alt="world in java script" width="300" height="142" />][2]
 
 About Lavabit&#8217;s Ladar Levison and what happened since he shut down Lavabit in May.: [&#8220;As F.B.I. Pursued Snowden, an E-Mail Service Stood Firm.&#8221;][3]
 
@@ -17,7 +17,7 @@ Ways to **make open source software financially sustainable** for the developers
 
 **[Programming is an Art][6]:**
 
-[<img class="alignnone  wp-image-479" src="/dist/blog/2013/10/programming-art-331x470.jpg" alt="" width="331" height="470" />][6]
+[<img class="alignnone  wp-image-479" src="/dist1/blog/2013/10/programming-art-331x470.jpg" alt="" width="331" height="470" />][6]
 *&#8220;Big data evangelists insist that data-driven decisionmaking can now give us better predictions &#8230; . But much of the rhetoric of big data contains no meaningful analysis of its potential perils, only the promise.&#8221;* – Neil M. Richards and Jonathan H. King: &#8220;[Three Paradoxes of Big Data][7]&#8221;
 
 **Test tech job specs** for issues with sexism, culture, expectations, and recruiter fails with [Joblint][8].

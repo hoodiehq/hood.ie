@@ -71,7 +71,7 @@ A beautiful series of [Old Finnish people with nature on their heads][22]:
 <img class="alignnone" alt="" src="http://www.laravisual.com/wp-content/uploads/2013/05/27_riittaikonenhjorthbengt33.jpg" width="600" height="500" />
 **Count your blessings** &#8211; a lesson taught by a fire and a cat, [narrated by The Oatmeal][23] (excerpt below):
 
-<img class="alignnone size-large wp-image-837" alt="Screen Shot: The Oatmeal" src="/dist/blog/2014/01/Screen-Shot-2014-01-09-at-12.51.34-663x470.png" width="663" height="470" />
+<img class="alignnone size-large wp-image-837" alt="Screen Shot: The Oatmeal" src="/dist1/blog/2014/01/Screen-Shot-2014-01-09-at-12.51.34-663x470.png" width="663" height="470" />
 *Team Hoodie wishes you a very nice weekend! *
 
 # Die Links der Woche

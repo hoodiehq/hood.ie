@@ -10,7 +10,7 @@ Hoodie-talks and presentations took place at more than 20 conferences and meetup
 
 Said in GitHub-speech, this means: this year, more than 40 contributors have pushed 2712 Commits to [44 Hoodie-repos][11].
 
-<a href="/dist/blog/2013/12/hoodie-20131.jpg" rel="lightbox[796]" title="Oh what a year! – Hoodie says thank you"><img class="alignnone size-large wp-image-807" alt="hoodie-2013" src="/dist/blog/2013/12/hoodie-20131-726x470.jpg" width="726" height="470" /></a>
+<a href="/dist1/blog/2013/12/hoodie-20131.jpg" rel="lightbox[796]" title="Oh what a year! – Hoodie says thank you"><img class="alignnone size-large wp-image-807" alt="hoodie-2013" src="/dist1/blog/2013/12/hoodie-20131-726x470.jpg" width="726" height="470" /></a>
 So now it&#8217;s time for us to say
 
 # Thank you.

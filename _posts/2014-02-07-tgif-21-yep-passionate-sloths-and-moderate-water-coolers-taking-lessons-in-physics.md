@@ -84,7 +84,7 @@ Richard Feynman, famous for his work as a physicist, is also widely regarded as 
 
 What could be more relaxed than a sloth? – [A sloth in endless loop][22]:
 
-[<img class="alignnone size-full wp-image-1018" alt="sloth" src="/dist/blog/2014/02/sloth.png" width="633" height="348" />][22]
+[<img class="alignnone size-full wp-image-1018" alt="sloth" src="/dist1/blog/2014/02/sloth.png" width="633" height="348" />][22]
 [Animals in Winter][23]:
 
 [<img class="alignnone" alt="" src="http://www.boredpanda.com/blog/wp-content/uploads/2014/01/animals-in-winter-1.jpg" width="880" height="587" />][23]

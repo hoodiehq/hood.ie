@@ -37,33 +37,33 @@ On the web (again, we generously include native clients here), there are two par
 
 The server is traditionally the source of truth, the bearer of authority. The client can be a web browsers or a native app that is set up to communicate with the server for storing data that was produced on the client, or for receiving new content or data from the server, or both.
 
-<img src="/dist/blog/2013/11/of.001.png" alt="Client, Server" width="740" height="315" class="alignright size-full wp-image-683 image-border" />
+<img src="/dist1/blog/2013/11/of.001.png" alt="Client, Server" width="740" height="315" class="alignright size-full wp-image-683 image-border" />
 Before any communication can happen, however, the client application needs to be made available on the client. With a web browser, the client opens a URL, requests its HTML content and subsequent resources that make up the app. In a native context, the client uses an app store to download the app in whatever form required for the platform.
 
-<img src="/dist/blog/2013/11/of.002.png" alt="Client Requests" width="740" height="315" class="alignright size-full wp-image-684 image-border" />
+<img src="/dist1/blog/2013/11/of.002.png" alt="Client Requests" width="740" height="315" class="alignright size-full wp-image-684 image-border" />
 
 * * *
 
-<img src="/dist/blog/2013/11/of.003.png" alt="Server Responds" width="740" height="315" class="alignright size-full wp-image-685 image-border" />
+<img src="/dist1/blog/2013/11/of.003.png" alt="Server Responds" width="740" height="315" class="alignright size-full wp-image-685 image-border" />
 In the native world, the app usually arrives in one go, on the web, the circle goes on for a bit after the initial HTML is sent, fetching all that CSS and JavaScript that makes up an app.
 
-<img src="/dist/blog/2013/11/of.004.png" alt="Subsequent Requests" width="740" height="315" class="alignright size-full wp-image-686 image-border" />
+<img src="/dist1/blog/2013/11/of.004.png" alt="Subsequent Requests" width="740" height="315" class="alignright size-full wp-image-686 image-border" />
 Now that the app is ready to go, it can make more requests to the server. It could ask the server for additional data, say, more emails to display. Or it could send data that has been created on the client to the server, like a blog post that has been composed, or a photo that has been taken on a phone.
 
 To do this, the client either asks the server for new data.
 
-<img src="/dist/blog/2013/11/of.005.png" alt="Request more data" width="740" height="315" class="alignright size-full wp-image-687 image-border" />
+<img src="/dist1/blog/2013/11/of.005.png" alt="Request more data" width="740" height="315" class="alignright size-full wp-image-687 image-border" />
 
 * * *
 
-<img src="/dist/blog/2013/11/of.006.png" alt="Respond more data" width="740" height="315" class="alignright size-full wp-image-688 image-border" />
+<img src="/dist1/blog/2013/11/of.006.png" alt="Respond more data" width="740" height="315" class="alignright size-full wp-image-688 image-border" />
 Or it sends its local data straight to the server.
 
-<img src="/dist/blog/2013/11/of.007.png" alt="Post a photo" width="740" height="315" class="alignright size-full wp-image-689 image-border" />
+<img src="/dist1/blog/2013/11/of.007.png" alt="Post a photo" width="740" height="315" class="alignright size-full wp-image-689 image-border" />
 
 * * *
 
-<img src="/dist/blog/2013/11/of.008.png" alt="respond with status" width="740" height="315" class="alignright size-full wp-image-690 image-border" />
+<img src="/dist1/blog/2013/11/of.008.png" alt="respond with status" width="740" height="315" class="alignright size-full wp-image-690 image-border" />
 You might notice a pattern: the client is usually in charge and either *“pulls”* data from the server or *“pushes”* data to the server. Let’s call these operations **“client pull”** and **“client push”**.
 
 Remember, this is to open a conversation, if we come up with more established terms in the future, that’s great, we’re merely defining concepts here and we are inviting you to discuss this with us (you can use the comments on this post to get started).

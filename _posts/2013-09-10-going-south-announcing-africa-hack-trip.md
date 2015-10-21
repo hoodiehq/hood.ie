@@ -4,7 +4,7 @@ author: Lena
 layout: blog-post
 //permalink: /2013/09/going-south-announcing-africa-hack-trip/
 ---
-<img class="size-medium wp-image-388 alignleft" alt="africahacktrip-logo" src="/dist/blog/2013/08/africahacktrip-logo-300x124.png" width="197" height="81" />Now being connected to fast, reliable and affordable internet for four years, Eastern Africa is still experiencing a growing hacker culture. This autumn, [eight developers and designers][1] from all over Europe will go there for [AfricaHackTrip][2], bringing together African and European hacking culture, meeting, connecting and sharing knowledge with peers.
+<img class="size-medium wp-image-388 alignleft" alt="africahacktrip-logo" src="/dist1/blog/2013/08/africahacktrip-logo-300x124.png" width="197" height="81" />Now being connected to fast, reliable and affordable internet for four years, Eastern Africa is still experiencing a growing hacker culture. This autumn, [eight developers and designers][1] from all over Europe will go there for [AfricaHackTrip][2], bringing together African and European hacking culture, meeting, connecting and sharing knowledge with peers.
 
 
 

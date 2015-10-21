@@ -16,7 +16,7 @@ layout: blog-post
   <em>Brought to you with <3 and best wishes from Hoodie&#8217;s Team-Offsite (#hoffsite) on Lanzarote</em>
 </p>
 
-<img class="size-large wp-image-884 aligncenter" alt="201419_1087-2" src="/dist/blog/2014/01/201419_1087-2-705x470.jpg" width="705" height="470" /> <p style="text-align: center;">
+<img class="size-large wp-image-884 aligncenter" alt="201419_1087-2" src="/dist1/blog/2014/01/201419_1087-2-705x470.jpg" width="705" height="470" /> <p style="text-align: center;">
   ____________
 </p>
 

@@ -14,7 +14,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s <strike>Fri</stri
 
 [SpinaCMS](http://www.spinacms.com/) is an open source CMS for Ruby developers.
 
-[Apache Software Foundation](https://s3.amazonaws.com/files-dist/AnnualReports/ASFAnnualReport-FY2014-2015FINAL.pdf) has released their first annual report to bring some recognition for all people involved.
+[Apache Software Foundation](https://s3.amazonaws.com/files-dist1/AnnualReports/ASFAnnualReport-FY2014-2015FINAL.pdf) has released their first annual report to bring some recognition for all people involved.
 
 ##Design
 
@@ -39,9 +39,9 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s <strike>Fri</stri
 ##The Web and Development
 
 [Is HTML “complete”?](http://www.brucelawson.co.uk/2015/is-html-complete/ "Bruce Lawson&#8217;s  personal site&nbsp; : Is HTML &#8216;complete&#8217;?")
- 
+
 > It happens on the web from time to time that powerful technologies come to exist without the benefit of marketing departments or slick packaging. They linger and grow at the peripheries, becoming old-hat to a tiny group while remaining nearly invisible to everyone else. Until someone names them. <cite>[Progressive Apps: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/)</cite>
- 
+
 
 > As I hear stories about teams using a microservices architecture, I've noticed a common pattern. 1) Almost all the successful microservice stories have started with a monolith that got too big and was broken up. 2) Almost all the cases where I've heard of a system that was built as a microservice system from scratch, it has ended up in serious trouble. <cite>[MonolithFirst](http://martinfowler.com/bliki/MonolithFirst.html)</cite>
 

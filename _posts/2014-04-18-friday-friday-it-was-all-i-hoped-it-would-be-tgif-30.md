@@ -148,7 +148,7 @@ layout: blog-post
   <a href="https://twitter.com/bloerwald/status/448415935926255618/photo/1">&#8220;SUCCESS: 26/26 (100%) Tests passed&#8221;:</a>
 </p>
 
-[<img class="alignnone size-full wp-image-1423" src="/dist/blog/2014/04/Screen-Shot-2014-04-18-at-11.51.56.png" alt="https://twitter.com/bloerwald/status/448415935926255618/photo/1" width="558" height="416" />][1] <p style="text-align: center;">
+[<img class="alignnone size-full wp-image-1423" src="/dist1/blog/2014/04/Screen-Shot-2014-04-18-at-11.51.56.png" alt="https://twitter.com/bloerwald/status/448415935926255618/photo/1" width="558" height="416" />][1] <p style="text-align: center;">
   <em>Have a nice weekend! <3</em>
 </p>
 

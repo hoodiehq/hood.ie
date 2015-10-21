@@ -82,7 +82,7 @@ For all those of you who love those nice little stories narrated in this special
 
 
 [Different ways of appreciating the beauty of a flower][36] (excerpt below):
-[<img class="alignnone size-large wp-image-660" alt="feynman-beauty" src="/dist/blog/2013/11/feynman-beauty-677x470.png" width="677" height="470" />][36]
+[<img class="alignnone size-large wp-image-660" alt="feynman-beauty" src="/dist1/blog/2013/11/feynman-beauty-677x470.png" width="677" height="470" />][36]
 
 Finding Waldo &#8211; [a foolproof strategy for locating the stripe-loving cartoon man][37]:
 [<img alt="" src="http://www.slate.com/content/dam/slate/articles/arts/culturebox/2013/11/131111_CBOX_WheresWaldoThere.jpg.CROP.original-original.jpg" width="590" height="421" />][37]

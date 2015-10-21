@@ -4,7 +4,7 @@ author: Lena
 layout: blog-post
 //permalink: /2014/04/hoodietime-events-and-conferences-with-hoodies-in-april-and-may/
 ---
-<img class="alignnone size-large wp-image-1348" src="/dist/blog/2014/04/201419_2415-705x470.jpg" alt="201419_2415" width="705" height="470" /> <p style="text-align: right;">
+<img class="alignnone size-large wp-image-1348" src="/dist1/blog/2014/04/201419_2415-705x470.jpg" alt="201419_2415" width="705" height="470" /> <p style="text-align: right;">
   <em>Pic: <a href="http://twitter.com/ffffux">Lena Reinhard</a>, license: <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></em>
 </p>
 
