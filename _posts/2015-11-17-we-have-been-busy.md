@@ -15,7 +15,7 @@ Here are the highlights
 
 ## 1. Hoodie 1.0 milestones closing in
 
-We made some **significant progress** on [the Hoodie 1.0 milestones](http://gr2m.github.io/milestones/). Most notably, we [completely re-structured how Hoodie is put together, and tested and released](https://github.com/hoodiehq/discussion/issues/76). This work is already available in our new @next tag on npm, albeit not 100% functional yet. If you are keen on giving it a spin and help fix missing features, run *npm install hoodie@next* to get the work-in-progress version. See [https://github.com/hoodiehq/hoodie](https://github.com/hoodiehq/hoodie) for more details and a a way to find and file issues. The main work is done in the [Client](https://github.com/hoodiehq/hoodie-client), [Server](https://github.com/hoodiehq/hoodie-server) and [Admin Dashboard](https://github.com/hoodiehq/hoodie-admin-dashboard) modules.
+We made some **significant progress** on [the Hoodie 1.0 milestones](http://gr2m.github.io/milestones/). Most notably, we ["completely re-structured how Hoodie is put together, tested and released](https://github.com/hoodiehq/discussion/issues/76). This work is already available in our new @next tag on npm, albeit not 100% functional yet. If you are keen on giving it a spin and help fix missing features, run *npm install hoodie@next* to get the work-in-progress version. See [https://github.com/hoodiehq/hoodie](https://github.com/hoodiehq/hoodie) for more details and a a way to find and file issues. The main work is done in the [Client](https://github.com/hoodiehq/hoodie-client), [Server](https://github.com/hoodiehq/hoodie-server) and [Admin Dashboard](https://github.com/hoodiehq/hoodie-admin-dashboard) modules.
 
 
 ## 2. JSConf EU, CSSconf EU, Reject.js & OTSConf
@@ -39,7 +39,7 @@ As if we hadn’t been busy enough already, Neighbourhoodie Software, the compan
 
 Greenkeeper came out of something we wanted for Hoodie anyway, and we found it useful in a client project, so we made a product out of it for everyone, why not! :)
 
-In short, Greenkeeper monitors your npm-modules and sends you a Pull Request, every time one of your dependencies updates. The Pull Request then runs your tests and you see if you can safely upgrade to the new version right  there, without having to do any of the installation manually. We find it super useful, and since its launch, Greenkeeper has already sent over 2000 pull requests to packages that help developers make sure their code doesn’t break.
+In short, Greenkeeper monitors your npm-modules and sends you a Pull Request, every time one of your dependencies updates. The Pull Request then runs your tests and you see if you can safely upgrade to the new version right  there, without having to do any of the installation manually. We find it super useful, and since its launch, Greenkeeper has already sent over 18000 pull requests to packages that help developers make sure their code doesn’t break.
 
 * * *
 
