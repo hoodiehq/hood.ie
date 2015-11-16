@@ -1,0 +1,272 @@
+
+/*------------------------------------*\
+    #INDEX STYLES
+\*------------------------------------*/
+
+.teaser-index {
+    display: flex;
+    flex-wrap: wrap;
+
+    .grid-3 {
+        background-color: #fcfcfc;
+        max-width: 100% !important;
+        width: 100% !important;
+
+        @include breakpoint(index) {
+            border-top-left-radius: rem-calc(12);
+            border-top-right-radius: rem-calc(12);
+            max-width: none !important;
+            width: 32.833333333% !important;
+        }
+
+        &:first-child {
+            margin-right: 0 !important;
+            margin-top: 0 !important;
+            order: 2;
+
+            @include breakpoint(index) {
+                margin-right: .75% !important;
+                order: 1;
+            }
+        }
+
+        &:last-child {
+            margin-top: 0 !important;
+            order: 3;
+        }
+
+        p { margin-bottom: rem-calc(15); }
+    }
+
+    .main {
+        background-color: $orange;
+        border-top-left-radius: rem-calc(12);
+        border-top-right-radius: rem-calc(12);
+        color: #fff;
+        margin-right: 0 !important;
+        order: 1;
+
+        @include breakpoint(index) {
+            margin-right: .75% !important;
+            order: 2;
+        }
+
+        @include breakpoint(index) { margin-top: rem-calc(-50) !important; }
+
+        .teaser-index-section { font-weight: 400; }
+    }
+
+    &-section { padding: rem-calc(15 6); }
+}
+
+.index .img-bg {
+    background-position: 0 0;
+    background-size: cover;
+    font-weight: 400;
+    text-shadow: 0 0 50px rgba(0, 0, 0, 1);
+
+    p:last-of-type { margin-bottom: 0; }
+}
+
+.index .icon-calendar {
+    height: rem-calc(32);
+    width: rem-calc(32);
+}
+
+.index .orange-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    h3 { margin-bottom: 0 !important; }
+}
+
+.index section p:last-of-type { margin-bottom: 0; }
+
+svg path,
+svg rect { fill: currentColor; }
+
+.index .content {
+
+    @include breakpoint(index) { padding: rem-calc(270 16 0); }
+
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: rem-calc(16);
+
+        &.first .main {
+            background-color: $orange;
+            color: #fff;
+            margin-top: 0;
+
+            h3 {
+                color: #fff;
+                font-size: 2.25em;
+                margin-bottom: rem-calc(13);
+                text-align: center;
+            }
+
+            p { line-height: rem-calc(28); }
+
+            a {
+                background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 75%, rgba(255, 255, 255, .8) 75%);
+                color: #fff;
+            }
+        }
+
+        // WHITE BG
+        &.white div { background-color: #fff; }
+
+        // REGULAR STYLES
+        div {
+            background-color: #fcfcfc;
+            min-height: $dh;
+            padding: rem-calc(9) rem-calc(8);
+
+            section { padding: rem-calc(15) rem-calc(6);
+
+                h3 {
+                    margin-bottom: rem-calc(9);
+                    text-transform: uppercase;
+                }
+            }
+
+            &.newsletter { padding: rem-calc(0) rem-calc(7); }
+
+            // NEWSLETTER
+            input {
+                border: 0 none;
+                color: #404040;
+                font-size: 1.6em;
+                height: $dh;
+                width: 100%;
+
+                &:focus { outline: none; }
+            }
+        }
+
+        &.last div {
+            border-bottom-left-radius: rem-calc(12);
+            border-bottom-right-radius: rem-calc(12);
+        }
+
+        // SPECIAL FONT STYLES FOR INDEX
+        .img-bg p { color: #fff; }
+
+        .img-bg h3 { color: $orange; }
+
+        .img-bg a { font-weight: 400; }
+
+        // BG IMAGES
+        .merch { background-image: url('../content_img/index/index_merch.jpg'); }
+
+        .feature { background-image: url('../content_img/index/index1.jpg'); }
+
+        .contribute { background-image: url('../content_img/index/contribute2.jpg'); }
+
+        .newsletter { border: 1px solid #ebebeb; }
+
+        .placeholder { background: #fff url('../content_img/index/placeholder.jpg') 60% 50% no-repeat; }
+
+        .orange-box {
+            background-color: #e94e1b !important;
+            color: #fff;
+            text-align: center;
+
+            h3 { color: #fff; }
+
+            a {
+                color: #fff;
+                display: block;
+            }
+
+            img { margin: rem-calc(14 0 5 -15); }
+        }
+
+        .center {
+            margin-left: rem-calc(-14);
+            text-align: center;
+        }
+
+        // SPECIAL GRID FOR INDEX
+        .grid-3 {
+            max-width: none;
+            width: 100%;
+
+            @include breakpoint(mv-lv) {
+                margin-right: .75%;
+                width: 32.833333333%;
+            }
+
+            &:nth-child(3n) { margin-right: 0; }
+        }
+
+        .grid-6 {
+            margin-right: 0;
+            max-width: none;
+            width: 100%;
+
+            @include breakpoint(mv-lv) { width: 66.416666666%; }
+        }
+
+        .grid-9 {
+            margin-right: 0;
+            max-width: none;
+            width: 100%;
+        }
+
+        .m-l {
+            margin-left: 0;
+            margin-right: 0;
+
+            @include breakpoint(mv-lv) { margin-left: .75%; }
+        }
+    }
+
+    // MORE MAILCHIMP NEWSLETTER
+    #mc-embedded-subscribe { display: none; }
+
+// ANIMATION
+    #logo-animation {
+        position: absolute;
+        text-align: center;
+        top: rem-calc(140);
+        width: rem-calc(830);
+
+        &.animate .letter {
+          opacity: 1;
+          transform: scale(1);
+        }
+
+        .letter {
+            opacity: 0;
+            transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
+            transform: scale(.1);
+            transform-origin: center center;
+
+            &:nth-child(2) { transition-delay: .1s; }
+
+            &:nth-child(3) { transition-delay: .2s; }
+
+            &:nth-child(4) { transition-delay: .3s; }
+
+            &:nth-child(5) { transition-delay: .4s; }
+
+            &:nth-child(6) { transition-delay: .4s; }
+        }
+    }
+}
+
+@keyframes kaboom {
+
+    0% {
+        opacity: 0;
+        transform: scale(.1);
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}

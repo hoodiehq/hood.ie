@@ -1,0 +1,229 @@
+
+/*------------------------------------*\
+    #TYPO
+\*------------------------------------*/
+
+//http://modularscale.com/scale/?px1=19&px2=16&ra1=1.618&ra2=0
+
+body {
+    font-family: 'FiraSans', sans-serif;
+    font-weight: 300;
+    font-size: 100%;
+    line-height: 1.618;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+.h1 {
+    font-size: 2.25em;
+    font-weight: 500;
+    line-height: 1.363;
+    margin-bottom: rem-calc(20);
+
+    a { background-position: 0 1.15em; }
+}
+
+h2,
+.h2 {
+    font-size: 1.4em;
+    font-weight: 500;
+    line-height: 1.363;
+    margin-bottom: 1.188rem;
+    text-transform: uppercase;
+}
+
+h3,
+.h3 {
+    font-size: 1.375em;
+    font-weight: 500;
+    line-height: 1.361;
+    margin-bottom: .734rem;
+}
+
+h4,
+.h4 {
+    font-size: 1.1em;
+    font-weight: 500;
+    line-height: 1.363;
+    margin-bottom: .734rem;
+    text-transform: uppercase;
+}
+
+h5,
+.h5 {
+    font-size: 1.1em;
+    font-weight: 500;
+    line-height: 1.363;
+    margin-bottom: .734rem;
+    text-transform: uppercase;
+
+    a { background-position: 0 1.15em; }
+}
+
+h6,
+.h6 {
+    font-size: .875em;
+    font-weight: 500;
+    line-height: 1.6;
+}
+
+.h-section {
+    margin: 0 auto rem-calc(19);
+    max-width: 37.5rem;
+
+    @include breakpoint(lv) { margin: 0 auto rem-calc(19 230); }
+}
+
+p {
+    font-size: 1.1875em;
+    line-height: 1.618;
+    margin-bottom: rem-calc(26);
+}
+
+.teaser {
+
+    p {
+        font-size: 1.7em;
+        line-height: 1.618;
+    }
+
+    a { background-position: 0 rem-calc(33); }
+
+    aside a { background-position: 0 rem-calc(23); }
+}
+
+aside {
+
+    @include breakpoint(lv) { text-align: right; }
+
+    a {
+        background-image: linear-gradient(to bottom, rgba(153, 153, 153, 1) 75%, rgba(153, 153, 153, .8) 75%) !important;
+        background-position: 0 rem-calc(21);
+   }
+
+}
+
+blockquote p { font-style: italic; }
+
+small {
+    display: inline-block;
+    font-size: .8em;
+    line-height: 1.3;
+}
+
+em { font-style: italic; }
+
+strong { font-weight: 500; }
+
+a {
+    background-position: 0 rem-calc(22);
+    background-repeat: repeat-x;
+    background-size: 1px 1px;
+    text-decoration: none;
+    text-shadow: 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+.main .teaser-index-section a,
+.orange-box a { text-shadow: 1px 0 0 $orange, -1px 0 0 $orange; }
+
+.feature a,
+.contribute a,
+.merch a { text-shadow: none; }
+
+.sub-nav,
+.main-nav { text-align: center; }
+
+.meta-nav { text-align: right; }
+
+.meta-nav,
+.main-nav { font-size: 1.094em; }
+
+.sub-nav { font-size: .938em;
+
+    .sub-nav-list-item { margin-right: rem-calc(9); }
+}
+
+.sub-nav-list-item.current a { text-decoration: underline; }
+
+.nav,
+.sub-nav { text-transform: uppercase; }
+
+.nav a,
+.meta-nav .meta-nav-list-item { margin-right: rem-calc(9); }
+
+.nav a:last-child,
+.sub-nav .sub-nav-list-item:last-child,
+.meta-nav .meta-nav-list-item:last-child { margin-right: 0; }
+
+ul,
+ol { font-size: 1.1875em; }
+
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+    font-size: 1em;
+    margin-top: 0.75rem;
+}
+
+.cb {
+
+    aside {
+        font-size: 1.1em;
+        line-height: 1.618;
+    }
+
+    &.teaser { font-size: .8em;
+
+        @include breakpoint(mv) { font-size: 1em; }
+
+        aside {
+            font-size: 1.2em;
+            line-height: 1.618;
+        }
+    }
+
+    li { margin-bottom: rem-calc(12); }
+
+}
+
+article figure figcaption {
+    font-size: 1.1em;
+    line-height: 1.45;
+}
+
+code {
+    font-family: 'Fira Mono';
+    font-size: 1.2em;
+    line-height: 1.8;
+}
+
+input,
+textarea { font-family: "FiraSansLight", sans-serif; }
+
+.api-nav {
+  font-size: 1.1em;
+  line-height: 1.8;
+}
+
+
+.no-border {
+    background-image: none !important;
+    border: 0 !important;
+}
+
+.bio-link a { @extend .no-border; }
+
+.grid-3-container a { @extend .no-border; }
+
+.friends .grid-3 a { background-position: 0 7.55em; }
+
+.text-transform-reverse { text-transform: initial; }
+
+// INLINE EMOJIS, WHICH ARE MORE ORE LESS TYPE
+.emoji { border: none; }
+
+.contribute-topic-headline { text-align: center; }
+

@@ -1,0 +1,50 @@
+
+/*------------------------------------*\
+    #BREAKPOINTS
+\*------------------------------------*/
+
+@mixin breakpoint($point) {
+
+    @if $point == tiny {
+        @media (max-height: 26.667em) {
+            @content;
+        }
+    }
+
+    @if $point == mv {
+        @media (min-width: 30em) {
+            @content;
+        } //480px
+    }
+
+    @if $point == footer {
+        @media (min-width: 34.375em) {
+            @content;
+        } //600px;
+    }
+
+    @if $point == mv-lv {
+        @media (min-width: 43.5em) {
+            @content;
+        } //696px
+    }
+
+    @if $point == index {
+        @media (min-width: 50.3125em) {
+            @content;
+        } //805px
+    }
+
+    @if $point == lv {
+        @media (min-width: 57.5em) {
+            @content;
+        } //920px
+    }
+
+    @else if $point == main-nav {
+        @media (min-width: 64em) {
+            @content;
+        } //930px
+    }
+
+}
