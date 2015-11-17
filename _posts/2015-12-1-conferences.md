@@ -5,7 +5,7 @@ layout: blog-post-tgif
 comments: true
 ---
 
-This is Part 3 of of our [little series about what has happened in Hoodie-land](http://hood.ie/blog/we-have-been-busy.html "We. Have. Been. Busy!") in the past <strike>three</strike>five months.
+This is Part 2 of of our [little series about what has happened in Hoodie-land](http://hood.ie/blog/we-have-been-busy.html "We. Have. Been. Busy!") in the past <strike>three</strike>five months.
 
 During summer, the Hoodie community was deeply involved with at total of FOUR conferences. And that’s on the organising side, not just participation. So yeah, we were really really busy :)
 
