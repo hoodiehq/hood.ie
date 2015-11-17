@@ -16,13 +16,15 @@ In order, we worked on OTSConf, Reject.js, CSSconf EU and JSConf EU and we got t
 Featuring (from left to right): 
 [@janl](https://twitter.com/janl), [@boennemann](https://twitter.com/boennemann), [@misprintedtype](https://twitter.com/misprintedtype), [@christophwitzko](https://twitter.com/christophwitzko), [@lewiscowper](https://twitter.com/lewiscowper), [@hipsterbrown](https://twitter.com/hipsterbrown), [@anderspree](https://twitter.com/anderspree), [@espylaub](https://twitter.com/espylaub), [@gr2m](https://twitter.com/gr2m) & [@autofocus](https://twitter.com/autofocus).
 
-And to top things off, three Hoodie community members gave talks:
+And to top things off, four Hoodie community members gave talks:
 
 - [Nick Hehr](https://twitter.com/hipsterbrown): [The other Side of Empathy](https://www.youtube.com/watch?v=6evp7YLDJrg)
 
 - [Patricia Garica](https://twitter.com/patggs): [Good Tech for Hard Places: Fighting Ebola with JS Offline Apps](https://www.youtube.com/watch?v=1sLjWlWvCsc)
 
 - [Stephan Bönnemann](https://twitter.com/boennemann): [Dependency Hell Just Froze Over](https://www.youtube.com/watch?v=PA139CERNbc) (Introducing [Greenkeeper](http://greenkeeper.io)!)
+
+- [Lewis Cowper](https://twitter.com/lewiscowper): [Forklift Driver to Developer in 9 Months](https://www.youtube.com/watch?v=zKLkHbcjwsc)
 
 * * *
 
