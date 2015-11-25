@@ -11,6 +11,12 @@ Prescript: Join the discussion on [offlinefirst.org][1] and help collecting info
 
 ([Russian translation][5] by [@kouprianov][6])
 
+* * *
+
+*Sponsor message: if you are looking for professional services or consulting around all things Offline First, look no further than [Neighbourhoodie Software](http://neighbourhood.ie/), the founders of the Offline First movement. They can help with anything from planning, design, UX, develpment and production support of small and large-scale offline apps.*
+
+* * *
+
 The members of [Team Hoodie][7] are currently travelling around quite a bit, organising, participating in and attending conferences and workshops in various countries, and through all this we've not only made lots of personal experiences with limited network connectivity, but also met many people from all over the world, all with their own related stories and problems.
 
 **Frequently not having any data connection in even the wealthiest and most developed cities of the world has led us to conclude that no, the mobile connectivity/bandwidth issue isn't just going to solve itself on a global level anywhere in the near future.**
