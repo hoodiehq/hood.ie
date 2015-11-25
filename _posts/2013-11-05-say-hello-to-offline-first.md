@@ -13,7 +13,7 @@ Prescript: Join the discussion on [offlinefirst.org][1] and help collecting info
 
 * * *
 
-*Sponsor message: if you are looking for professional services or consulting around all things Offline First, look no further than [Neighbourhoodie Software](http://neighbourhood.ie/), the founders of the Offline First movement. They can help with anything from planning, design, UX, develpment and production support of small and large-scale offline apps.*
+*Sponsor message: if you are looking for professional services or consulting around all things Offline First, look no further than [Neighbourhoodie Software](http://neighbourhood.ie/), the initiators of the Offline First movement. They can help with anything from planning, design, UX, develpment and production support of small and large-scale offline apps.*
 
 * * *
 
