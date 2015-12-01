@@ -7,9 +7,9 @@ comments: true
 
 *phew* what a summer (and fall)! The Hoodie community has been very busy, and at the same time, we’ve neglected the blog a little bit. This will be fixed now and we’ll start with getting you up to speed what has happened in the past <strike>three</strike> five months.
 
-This is a mini-series that we’ll publish every Tuesday for the next four weeks. We’ll start with this brief overview and and then, in each issue, go into details about what happened.
+This is a mini-series that we’ll publish every Tuesday for the next four weeks. We’ll start with this brief overview and then, in each issue, go into details about what happened.
 
-*If you want to get involved with the publication process on the Hoodie blog, or the project in general: [we are actively recruiting and editorial team](https://github.com/hoodiehq/discussion/issues/84).*
+*If you want to get involved with the publication process on the Hoodie blog, or the project in general: [we are actively recruiting an editorial team](https://github.com/hoodiehq/discussion/issues/84).*
 
 Here are the highlights
 

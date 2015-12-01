@@ -7,7 +7,7 @@ comments: true
 
 This is Part 3 of our [little series about what has happened in Hoodie-land](http://hood.ie/blog/we-have-been-busy.html "We. Have. Been. Busy!") in the past <strike>three</strike>five months.
 
-During summer, the Hoodie community was deeply involved with at total of FOUR conferences. And that’s on the organising side, not just participation. So yeah, we were really really busy :)
+During summer, the Hoodie community was deeply involved with a total of FOUR conferences. And that’s on the organising side, not just participation. So yeah, we were really really busy :)
 
 In order, we worked on OTSConf, Reject.js, CSSconf EU and JSConf EU and we got to meet **a lot** of great people! Here are just a few:
 
