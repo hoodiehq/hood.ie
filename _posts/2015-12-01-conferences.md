@@ -1,11 +1,11 @@
 ---
 title: "JSConf EU, CSSconf EU, Reject.js & OTSConf"
 author: Jan
-layout: blog-post-tgif
+layout: blog-post-tgif-ish
 comments: true
 ---
 
-This is Part 2 of of our [little series about what has happened in Hoodie-land](http://hood.ie/blog/we-have-been-busy.html "We. Have. Been. Busy!") in the past <strike>three</strike>five months.
+This is Part 3 of our [little series about what has happened in Hoodie-land](http://hood.ie/blog/we-have-been-busy.html "We. Have. Been. Busy!") in the past <strike>three</strike>five months.
 
 During summer, the Hoodie community was deeply involved with at total of FOUR conferences. And that’s on the organising side, not just participation. So yeah, we were really really busy :)
 
@@ -18,7 +18,7 @@ Featuring (from left to right):
 
 And to top things off, four Hoodie community members gave talks:
 
-- [Nick Hehr](https://twitter.com/hipsterbrown): [The other Side of Empathy](https://www.youtube.com/watch?v=6evp7YLDJrg)
+- [Nick Hehr](https://twitter.com/hipsterbrown): [The Other Side of Empathy](https://www.youtube.com/watch?v=6evp7YLDJrg)
 
 - [Patricia Garica](https://twitter.com/patggs): [Good Tech for Hard Places: Fighting Ebola with JS Offline Apps](https://www.youtube.com/watch?v=1sLjWlWvCsc)
 
