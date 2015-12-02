@@ -55,11 +55,7 @@ In our mind, the most sensible way to handle data in a web app is via a sync eng
 
 Since we really like this setup, we’ve abstracted it into a project called [Hoodie](http://hood.ie). Hoodie provides an extendable backend with a database, a frontend library for authentication and data storage, and a sync engine that connects the two.
 
-It allows us to do things like sign up new users or store a meeting via an API that abstracts away all of the offline issues. You can just:
-
-<pre class="javascript"><code>hoodie.store.add(’meeting-item’, dataObject)</code></pre>
-
-and Hoodie will take care of everything: store it locally, and sync to the server whenever possible.
+It allows us to do things like sign up new users or store a meeting via an API that abstracts away all of the offline issues. You can just: __hoodie.store.add('meeting-item', dataObject)__ and Hoodie will take care of everything: store it locally, and sync to the server whenever possible.
 
 # Knowing your scope and your limitations
 
@@ -69,7 +65,7 @@ For now, we know our scope, we know the amounts of data our users are storing, a
 
 # Offlining functionality
 
-Thanks to Hoodie, this section will be quite short. As said above, Hoodie abstracts away all the syncing and offline logic, when we use __hoodie.store.add()__ to save data, we can rely on it being stored locally and synced to the server whenever possible. If our UI only ever reacts to events that Hoodie emits, such as __hoodie.store.on(’add’, ’meeting-item’)__, and only ever fetches data through the Hoodie API, we can rely on it going through the local store first and never hitting a non-existent network.
+Thanks to Hoodie, this section will be quite short. As said above, Hoodie abstracts away all the syncing and offline logic, when we use __hoodie.store.add()__ to save data, we can rely on it being stored locally and synced to the server whenever possible. If our UI only ever reacts to events that Hoodie emits, such as __hoodie.store.on('add', meetingItem)__, and only ever fetches data through the Hoodie API, we can rely on it going through the local store first and never hitting a non-existent network.
 
 So as long as our interaction with our data store runs exclusively through Hoodie, the app is simply going to work offline with no extra effort on our part.
 
@@ -85,7 +81,7 @@ I wasn’t being entirely truthful earlier when I said that minutes.io users onl
 
 __We don’t need huge images:__ the logos are displayed in a 126x126px square, so even with 2x retina images, that’s not much data. 2x is also pretty fine for printing. Plus, we don’t need to let people upload infinite numbers of logos: for now, we let users have a small library of three to pick from. And finally, instead of actually attaching the logo image to every individual meeting, meetings only reference one of the three possible images in a user’s logo library, which keeps data size minimal.
 
-__It’s possible to do all image ”uploading”, manipulation and storage in-browser.__ We can grab the image data from the File object without actually uploading anything, we can use canvas with [limby-resize](https://github.com/danschumann/limby-resize) to get crisply shrunk images, and we use canvas’ __toDataURL(’image/jpeg’, 0.8)__ to output a string version of the nicely compressed logos. The stringified logo image is then just saved via __hoodie.store.add()__, like any other meeting data, and synced in the same way.
+__It’s possible to do all image ”uploading”, manipulation and storage in-browser.__ We can grab the image data from the File object without actually uploading anything, we can use canvas with [limby-resize](https://github.com/danschumann/limby-resize) to get crisply shrunk images, and we use canvas’ __toDataURL('image/jpeg', 0.8)__ to output a string version of the nicely compressed logos. The stringified logo image is then just saved via __hoodie.store.add()__, like any other meeting data, and synced in the same way.
 
 The result is a feature that just works, online or offline, and is completely opaque to the user. There’s no difference in functionality or behaviour when offline, neither here or at any other point in the app. Users can ”upload” logos when offline, in the same way they can save meetings, or click the ”Send email” button when offline. The app deals with it and communicates accordingly.
 
