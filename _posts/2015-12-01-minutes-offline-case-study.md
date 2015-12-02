@@ -7,7 +7,7 @@ comments: true
 
 ---
 
-minutes.io is an [offline-first](http://offlinefirst.org) web app: after the first visit, it considers a working network connection an optional enhancement, and tries to enable as much functionality as possible without it. It’s been around for about five years, and while none of the tech used is particularly new, it’s robust and does exactly what it’s supposed to. So here’s how we did it.
+[minutes.io](http://minutes.io) is an [offline-first](http://offlinefirst.org) web app: after the first visit, it considers a working network connection an optional enhancement, and tries to enable as much functionality as possible without it. It’s been around for about five years, and while none of the tech used is particularly new, it’s robust and does exactly what it’s supposed to. So here’s how we did it.
 
 # The App
 
