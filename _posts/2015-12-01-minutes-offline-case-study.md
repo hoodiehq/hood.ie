@@ -13,6 +13,8 @@ comments: true
 
 First off: what are we actually talking about? Well, minutes.io is a note-taking tool for meeting minutes. Its main function is efficiently capturing user input and then making sure the correct people later get that input via email. The data gathered is mainly text, and we felt that users shouldn’t have to depend on a network connection to access their notes. At the same time, we also felt it would be useful to be able to take meeting minutes when offline, too.
 
+![Screenshot of minutes.io](/dist1/blog/2015/12/minutes_case_study_screenshot.png)
+
 # Why have an offline-capable web app at all?
 
 It’s on the web, right? Surely making it work offline defies the entire point? Well, no. The web isn’t just read-only documents and the odd form anymore, it’s fully-fledged apps that store data. We strongly feel that users should have sovereignty over their own data and have access to it at all times, under any circumstances, just like they would with any classic native (desktop) app, which is precisely what web apps are increasingly competing with. Building such an app without offline support almost requires a disclaimer: we built this tool for you, but you can’t use it under certain circumstances, and you might not even be able to access your own data in it. In short, we think it’s a good idea to treat the network as a potential enhancement, because you never know where people might be using your software.
