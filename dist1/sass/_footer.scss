@@ -1,0 +1,57 @@
+
+
+/*------------------------------------*\
+    #FOOTER
+\*------------------------------------*/
+
+
+.footer { padding: rem-calc(0 16);
+
+    .grid-3 {
+        max-width: none;
+        width: 100%;
+
+        @include breakpoint(footer) { width: 33%; }
+    }
+}
+
+.sitemap { padding: rem-calc(35 0 15); }
+
+.sitemap-list {
+    line-height: 1.6;
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+
+    &:last-child { margin-right: 0; }
+
+    .sitemap-item { margin-bottom: 0;
+
+        &.smaller {
+            -moz-osx-font-smoothing: initial;
+            font-size: .8em;
+        }
+
+        &:first-child { padding-top: 0; }
+    }
+
+    .sitemap-item-bold {
+        font-weight: 500;
+        opacity: .9;
+        padding-top: rem-calc(15);
+    }
+
+    .sitemap-link { text-decoration: none !important; }
+}
+
+.footer-licensing {
+    color: #fff;
+    font-size: .875em;
+
+    a {
+        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 45%, rgba(255, 255, 255, .4) 60%);
+        background-position: 0 rem-calc(13);
+        color: #fff;
+    }
+}
+

@@ -1,0 +1,76 @@
+
+
+/*------------------------------------*\
+    #COLOURS
+\*------------------------------------*/
+
+
+$orange: rgba(233, 78, 27, 1);
+$orange-l: rgba(249, 196, 179, 1);
+
+$blue: rgba(39, 49, 131, 1);
+$blue-l: rgba(191, 188, 216, 1);
+
+$green: rgba(11, 142, 54, 1);
+$green-l: rgba(169, 214, 184, 1);
+
+$yellow: rgba(249, 178, 51, 1);
+$yellow-l: rgba(252, 227, 182, 1);
+
+$lilac: rgba(82, 6, 68, 1);
+$lilac-l: rgba(193, 167, 188, 1);
+
+
+$gray-1: #282828;
+$gray-2: #404040;
+$gray-3: #606060;
+$gray-4: #999;
+$gray-5: #b3b3b3;
+$gray-6: #fefefe;
+
+$gray: $gray-1;
+$gray-l: $gray-5;
+
+
+body {
+    color: $gray-2;
+    background-color: #fff;
+}
+
+/*------------------------------------*\
+    #COLOUR SCHEMES
+\*------------------------------------*/
+
+
+.orange { @include color-scheme($orange, $orange-l, 'orange'); }
+
+.blue { @include color-scheme($blue, $blue-l, 'blue'); }
+
+.green { @include color-scheme($green, $green-l, 'green'); }
+
+.yellow { @include color-scheme($yellow, $yellow-l, 'yellow'); }
+
+.lilac { @include color-scheme($lilac, $lilac-l, 'lilac'); }
+
+.gray { @include color-scheme($gray, $gray-l, 'gray'); }
+
+aside { color: $gray-4; }
+
+.box:nth-child(even) { background-color: $gray-6; }
+
+.sub-nav a { color: $gray-2 !important; }
+
+.main-nav a,
+.meta-nav a { color: #fff !important; }
+
+.cb {
+
+    &:odd { background-color: $gray-5; }
+
+    aside a { color: $gray-4; }
+}
+
+figcaption { color: $gray-4; }
+
+
+.api-nav li a { color: $blue; }

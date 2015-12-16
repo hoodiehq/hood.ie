@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html class="no-js">
+{% include head.html %}
+    <body class="green">
+        {% include header.html %}
+        <div class="content blog blog-post">
+            <section class="cb">
+                <article>
+                    <h1>{{ page.title }}</h1>
+                    <div class="blog-meta">
+                        <time>
+                            {{ page.date | date: "%B %e, %Y" }}
+                        </time>
+                        <span>posted by {{ page.author }}</span>
+                        <!-- <span class=""> in <strong><a href="/blog/tgif/">{{ page.categories | join '' }}</a></strong></span> -->
+                    </div>
+                    {{ content }}
+                    <hr class="blog__hr blog-post-end" />
+                </article>
+                <div class="comments grid-9">
+                    {% if page.comments %}
+                        {% include disqus.html %}
+                    {% endif %}
+                </div>
+            </section>
+        </div>
+        {% include footer.html %}

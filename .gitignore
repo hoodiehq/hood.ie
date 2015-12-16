@@ -3,5 +3,7 @@
 node_modules
 _site
 Gemfile.lock
-dist/css/hoodie.css
-dist/css/hoodie.css.map
+dist/img/.DS_Store
+dist/prod/.tmp
+dist/prod/hoodie.min.css
+npm-debug.log

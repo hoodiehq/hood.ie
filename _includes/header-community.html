@@ -1,0 +1,39 @@
+<header>
+    <section class="nav">
+        <a href="/" class="logo">
+            <img src="http://hoodiehq.github.io/hoodie-css/src/svg/logo.svg" width="135" alt="">
+        </a>
+        <nav class="main-nav">
+            <a href="/intro">Intro</a>
+            <a href="/contribute">Contribute</a>
+            <a href="/get-help">Get help</a>
+            <a href="/about">About</a>
+            <a href="/community" class="active">community</a>
+            <a href="/animals">Animals</a>
+            <a href="/contact">Contact</a>
+        </nav>
+        <ul class="meta-nav">
+            <li class="meta-nav-list-item"><a href="/blog">Blog</a></li>
+            <li class="meta-nav-list-item"><a href="http://docs.hood.ie/" target="_blank">Docs</a></li>
+            <!-- <li><a href="#">try</a></li> -->
+            <li class="meta-nav-list-item"><a href="http://faq.hood.ie" target="_blank">FAQ</a></li>
+        </ul>
+        <a href="#" class="menu-button">
+            <span class="menu-button-span"></span>
+        </a>
+    </section>
+    <section class="hid">
+        <ul class="sub-nav">
+            {% for link in site.sub-navigation-community %}
+                {% assign current = nil %}
+                {% if page.url contains link.url %}
+                    {% assign current = 'current' %}
+                {% endif %}
+                <li class="sub-nav-list-item {{ current }}">
+                    <a href="{{ link.url }}">{{ link.title }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% include animated-header-logo.html %}
+</header>

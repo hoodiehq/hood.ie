@@ -1,0 +1,180 @@
+
+
+/*------------------------------------*\
+    #EVENTS
+\*------------------------------------*/
+
+
+#eventsList {
+    margin: 0;
+
+    @include breakpoint(mv) { margin: 2em; }
+
+    .hidden { display: none; }
+
+    .loader {
+        background: $lilac;
+        border-radius: 50%;
+        color: #fff;
+        font-size: 1.25em;
+        font-weight: 500;
+        height: 7em;
+        margin: 0 auto;
+        padding-top: rem-calc(40);
+        text-align: center;
+        text-transform: uppercase;
+        width: 7em;
+    }
+}
+
+.events,
+.links {
+    list-style: none;
+    padding-left: 0;
+}
+
+.events {
+
+    .links-list-item { margin-bottom: 0; }
+
+    #filters {
+        display: block;
+        font-weight: 500;
+        margin: rem-calc(32) auto rem-calc(64);
+        width: 100%;
+
+        @include breakpoint(mv-lv) { width: 40em; }
+
+        .icheckbox_flat-lilac {
+            margin-left: rem-calc(16);
+            margin-right: rem-calc(8);
+            margin-top: rem-calc(-4);
+        }
+    }
+
+    .filter-label {
+        display: block;
+        margin-bottom: rem-calc(4);
+
+        @include breakpoint(mv) {
+            display: inline-block;
+            width: 45%;
+        }
+
+        @include breakpoint(mv-lv) {
+            display: inline;
+            width: auto;
+        }
+    }
+}
+
+.futureEvents,
+.pastEvents { // CLASSES USED IN EVENTS.JS
+    float: none;
+    padding: 0;
+    width: 100%;
+
+    @include breakpoint(index) {
+        float: left;
+        width: 50%;
+    }
+
+    h2 { text-align: center; }
+
+    .description {
+        font-size: 1em;
+        line-height: 1.5;
+        margin-bottom: rem-calc(14);
+    }
+
+    .subline {
+        display: block;
+        font-size: .631578947em;
+        font-weight: 500;
+        margin-bottom: rem-calc(6);
+        margin-top: rem-calc(-9);
+        text-transform: uppercase;
+    }
+}
+
+.events-list-item.events-list-item {
+    border-bottom: 1px solid $lilac;
+    margin-bottom: rem-calc(19);
+    padding-bottom: rem-calc(19);
+
+    &:last-of-type { border-bottom: none; }
+}
+
+.twitterCTA { // CLASS USED IN EVENTS:JS
+    background-color: $lilac;
+    border-radius: 4px;
+    color: #fff;
+    padding: rem-calc(25 12);
+    text-align: center;
+    font-weight: 400;
+}
+
+.twitterCTA-link.twitterCTA-link { // CLASS USED IN EVENTS:JS | DOUBLED CLASS FOR HIGHER SPECIFICITY
+    color: #fff;
+    display: block;
+    font-size: 1.375em;
+    font-weight: 500;
+    text-shadow: none;
+}
+
+/*------------------------------------*\
+    #FUTURE-EVENTS
+\*------------------------------------*/
+
+
+.futureEvents { // CLASS USED IN EVENTS.JS
+
+    @include breakpoint(index) { padding-right: 1rem; }
+
+    .events-list-item {
+
+        &:first-child {
+            background-color: $lilac;
+            border-radius: 4px;
+            color: #fff;
+            font-weight: 400;
+            padding: rem-calc(10 14);
+
+            h3 { color: #fff; }
+
+            .links-list-link {
+                background-image: linear-gradient(to bottom, #fff 75%, rgba(255, 255, 255, .8) 75%);
+                color: #fff;
+                text-shadow: none;
+            }
+
+            .links { margin-bottom: rem-calc(5); }
+
+            &::before {
+                content: "Next event";
+                display: block;
+                font-weight: 500;
+                text-align: center;
+                text-transform: uppercase;
+            }
+        }
+    }
+}
+
+/*------------------------------------*\
+    #PAST-EVENTS
+\*------------------------------------*/
+
+
+.pastEvents { // CLASS USED IN EVENTS.JS
+    margin-top: rem-calc(48);
+
+    @include breakpoint(index) {
+        margin-top: 0;
+        padding-left: rem-calc(16);
+    }
+}
+
+
+
+

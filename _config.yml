@@ -1,12 +1,121 @@
 # Site settings
 title: hood.ie
-description: "Hoodie is a project by Jan Lehnardt (@janl), Gregor Martynus (@gr2m), Alex Feyerke (@espylaub), Caolan McMahon (@caolan), Lena Reinhard (@ffffux), Sven Lito (@svenlito) and Ola Gasidlo (@misprintedtype) and a growing community. We are based in Berlin, Zurich, Sheffield and Dortmund and run mostly on Coffee and Cheesecake."
+description: "Hoodie is an Open Source Software project initiated, developed, maintained and furthered by the Hoodie Community and its supporters."
 baseurl: ""
-url: "hood.ie"
+url: "http://hood.ie"
 
 # Build settings
 markdown: kramdown
 kramdown:
     auto_ids: false
 
-permalink: /blog/:categories/:title.html
+
+permalink: "/blog/:categories/:title.html"
+paginate_path: "/blog/page:num"
+paginate: 10
+
+# 404
+gems:
+  - jekyll-redirect-from
+
+sub-navigation:
+- title: What is Hoodie?
+  url: '/intro'
+- title: Get started
+  url: '/intro/#get-started'
+- title: 'Apps & Showcases'
+  url: '/intro/#showcases'
+- title: Initiatives
+  url: '/initiatives'
+- title: Philosophy
+  url: '/about'
+
+sub-navigation-about:
+- title: Community
+  url: '/community#community'
+- title: Contributors
+  url: '/community#contributors'
+- title: Initiatives
+  url: '/initiatives'
+- title: Friends
+  url: '/friends'
+- title: Merchandise
+  url: '/merchandise'
+- title: Events
+  url: '/events'
+- title: Code of Conduct
+  url: '/code-of-conduct'
+
+sub-navigation-community:
+- title: Community
+  url: '/community/#community'
+- title: Contributors
+  url: '/community/#contributors'
+- title: Join us!
+  url: '/contribute'
+- title: Philosophy
+  url: '/about'
+- title: Code of Conduct
+  url: '/code-of-conduct'
+
+sub-navigation-contact:
+- title: Get help
+  url: '/get-help'
+- title: Contribute
+  url: '/contribute'
+- title: Community
+  url: '/community'
+- title: Meet us!
+  url: '/events'
+- title: Code of Conduct
+  url: '/code-of-conduct'
+
+sub-navigation-contribute:
+- title: Development
+  url: '/contribute/#development'
+- title: Design
+  url: '/contribute/#design'
+- title: Writing
+  url: '/contribute/#writing'
+- title: Feedback
+  url: '/contribute/#feedback'
+- title: Give Talks
+  url: '/contribute/#talks'
+- title: Give Money
+  url: '/contribute/#money'
+- title: Hire us
+  url: '/contribute/#hire-us'
+
+sub-navigation-get-help:
+- title: FAQ
+  url: 'http://faq.hood.ie'
+- title: Report a Bug
+  url: '/bug'
+- title: Contact
+  url: '/contact'
+
+sub-navigation-intro:
+- title: Get started
+  url: '/intro/#get-started'
+- title: 'Apps & Showcases'
+  url: '/intro/#showcases'
+- title: Initiatives
+  url: '/initiatives'
+- title: Philosophy
+  url: '/about'
+- title: Community
+  url: '/community'
+- title: Events
+  url: '/events'
+
+sub-navigation-initiatives:
+- title: Offline first
+  url: '/initiatives/#offline-first'
+- title: NoBackend
+  url: '/initiatives#nobackend'
+- title: Non-coding People
+  url: '/initiatives/#noncoders'
+- title: Dreamcode
+  url: '/initiatives/#dreamcode'
+- title: Tools
+  url: '/initiatives/#tools'

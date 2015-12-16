@@ -1,0 +1,352 @@
+
+
+/*------------------------------------*\
+    #NAVIGATION
+\*------------------------------------*/
+
+
+header,
+footer {
+
+    a { text-shadow: none !important; }
+}
+
+// @-moz-document url-prefix() {
+
+//     header a { background-position: 0 23px; }
+// }
+
+.nav {
+    display: flex;
+    padding: rem-calc(17 20);
+    transition: height 0.2s;
+
+    &.is-active {
+        flex-direction: column;
+        font-size: 4vh;
+        height: 100vh;
+        position: fixed;
+        text-align: center;
+        z-index: 100;
+
+        .main-nav {
+            margin-bottom: 5vmin;
+            margin-top: 4vmin;
+            width: 50%;
+
+            > a {
+                display: block;
+                margin-right: 0;
+            }
+
+            @include breakpoint(tiny) {
+                // OFFSET THE ANCHOR PADDING BELOW
+                padding-right: 1em;
+                width: 80%;
+
+                a {
+                    display: inline-block;
+                    padding-left: 1em;
+                }
+            }
+        }
+
+        .meta-nav { text-align: center; }
+
+        & + .hid .sub-nav {
+            bottom: 0;
+            padding: rem-calc(8 10 5 10);
+            top: auto;
+            z-index: 101;
+        }
+
+        .active { background-position: 0 6.1vh; }
+    }
+
+    .active { font-weight: 500; }
+}
+
+.logo {
+    display: block;
+    margin-right: 0 !important;
+    transition: all 0.2s;
+
+    .is-active & {
+        padding-top: 3vh;
+        width: 50%;
+        margin: 0 auto; // ???
+        margin-left: 25%; // ???
+    }
+
+    img { border: 0; }
+}
+
+.main-nav {
+    display: none;
+    padding-top: rem-calc(3);
+    width: auto;
+
+    .is-active & { display: block; }
+
+    @include breakpoint(main-nav) { display: block; }
+}
+
+.meta-nav {
+    display: none;
+    margin: 0;
+    padding: 0;
+
+    .is-active & { display: inline-block; }
+
+    @include breakpoint(main-nav) { display: inline-block; }
+}
+
+.meta-nav-list-item { padding-top: rem-calc(3); }
+
+.sub-nav {
+    display: none;
+
+    .is-active + .hid & { display: block; }
+
+    @include breakpoint(main-nav) { display: block; }
+
+    a { background-image: none; }
+}
+
+.meta-nav a,
+.main-nav a,
+.sub-nav a {
+    font-weight: 300;
+}
+
+.menu-button {
+    display: block;
+    height: rem-calc(35);
+    margin-left: auto;
+    position: relative;
+    text-align: center;
+    top: rem-calc(-4);
+    transition: all .2s;
+    width: rem-calc(35);
+    z-index: 102;
+
+    .is-active & {
+        display: block;
+        top: -82.6vh;
+    }
+
+    @include breakpoint(main-nav) { display: none; }
+}
+
+.menu-button-span,
+.menu-button-span:before,
+.menu-button-span:after {
+    background-color: #fff;
+    border-radius: 3px;
+    display: inline-block;
+    height: rem-calc(5);
+    width: rem-calc(35);
+}
+
+.menu-button-span:before,
+.menu-button-span:after {
+    content: "";
+    left: 0;
+    position: absolute;
+    transition: all .2s;
+}
+
+.menu-button-span {
+    position: relative;
+    top: rem-calc(-5);
+    transition: all .2s;
+
+    &:before { top: rem-calc(20); }
+
+    &:after { top: rem-calc(10); }
+}
+
+.is-active {
+
+    .menu-button {
+        position: absolute;
+        right: 1.25rem;
+        top: 1rem;
+        transform: rotate(45deg);
+    }
+
+    .menu-button-span:after { opacity: 0; }
+
+    .menu-button-span:before {
+        top: 0;
+        transform: rotate(90deg);
+    }
+}
+
+body {
+
+    &.orange .animation.colorise .letter { stroke: $orange; }
+
+    &.blue .animation.colorise .letter { stroke: $blue; }
+
+    &.green .animation.colorise .letter { stroke: $green; }
+
+    &.yellow .animation.colorise .letter { stroke: $yellow; }
+
+    &.lilac .animation.colorise .letter { stroke: $lilac; }
+
+    &.gray .animation.colorise .letter { stroke: $gray-1; }
+}
+
+.animated-logo {
+    background: #fff;
+    margin-top: rem-calc(102);
+    overflow: hidden;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+
+    .animation {
+        margin: 1.25em 0 1em; // REM
+        transition: margin-top 0.5s, stroke 0.5s;
+
+        svg { width: 90%; }
+
+        &.slideUp { margin-top: -8.75em; } // REM
+
+        &.animate .letter {
+            opacity: 1;
+            transform: scale(1);
+        }
+
+        .letter {
+            opacity: 0;
+            transform: scale(.1);
+            transform-origin: center center;
+                    transition: all 500ms cubic-bezier(.175, .885, .320, 1.275);
+
+            &:nth-child(2) { transition-delay: 0.1s; }
+
+            &:nth-child(3) { transition-delay: 0.2s; }
+
+            &:nth-child(4) { transition-delay: 0.3s; }
+
+            &:nth-child(5) { transition-delay: 0.4s; }
+
+            &:nth-child(6) { transition-delay: 0.4s; }
+        }
+    }
+}
+
+.content {
+    transition: background-position 1s, margin-top 0.5s;
+    &.during-intro {
+        background-position: center rem-calc(-100);
+        margin-top: 3rem;
+    }
+}
+
+
+.is-active .logo img { width: 180px !important; }
+
+.is-fixed {
+    bottom: 0;
+    position:fixed !important;
+    z-index: 400;
+}
+
+.mobile header {
+    height: 65px;
+
+    &.during-intro { height: 200px; }
+
+    &.detached {
+        height: 65px;
+
+        &.is-active { height: 100%; }
+    }
+
+    &.is-active { height: 100%; }
+
+    a { background-image: none; }
+
+    .main-nav {
+        opacity: 0;
+        transition: opacity 0.5s;
+    }
+
+    .is-active .main-nav { opacity: 1; }
+
+    .animated-logo {
+        margin-top: 4.375rem;
+
+        .animation {
+            margin: 0.75em auto 0.25em;
+            width: 80%;
+
+            &.slideUp { margin-top: -8.75em; } //REM
+        }
+    }
+}
+
+
+
+
+
+/*------------------------------------*\
+    #HEADER
+\*------------------------------------*/
+
+
+// WHEN NAVIGATION IS VISIBLE DON'T ALLOW TO SCROLL CONTENT
+.no_scroll {
+    height: 100%;
+    overflow: hidden;
+}
+
+// TOP MENU LAYOUT
+header {
+    cursor: pointer;
+    height: 102px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transition: transform .4s, height .3s, background .4s;
+    transform: translate(0,0);
+    width: 100%;
+    z-index: 1000;
+
+    &.during-intro { height: 245px; }
+}
+
+// WHEN HIDDEN IT GOES UP
+.invisible {
+    opacity: 0;
+    transform: translate(0, -64px);
+    transition: transform .2s;
+}
+
+// WHEN VISIBLE AND DETACHED POSITION IS FIXED
+.detached {
+    position: fixed;
+    transition: transform .3s, height .3s, background .4s, opacity .3s;
+}
+
+// INCREASE MENU WIDTH AND HEIGHT
+.expanded {
+    cursor: default;
+    height: 100%;
+    position: fixed;
+    width: 100%;
+
+    .menu-button-span:before {
+        content: 'x';
+        font-size: 1.4em;
+        line-height: 1.4em;
+        padding-right: .15em;
+    }
+}
+
+// ON FOCUS DON'T SHOW OUTLINE
+.menu-button-span:focus { outline: none; }
