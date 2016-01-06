@@ -40,6 +40,7 @@ There are many fantastic communities out there, but I feel that Hoodie is a uniq
 Don’t think you’re not good enough for Hoodie, or you don’t have the right skill set. The main thing you need to contribute to Hoodie, is the desire to contribute to Hoodie! Don’t think you can’t come and sit with us and do cool things, we need you to work with us to make Hoodie better.
 
 We have a range of ways you can contribute:
+
 - dreaming up Hoodie APIs
 - programming the backend in Node.JS, Hapi and PouchDB/CouchDB.
 - designing and maintaining nice frontend experiences for thing parts of Hoodie that need them
