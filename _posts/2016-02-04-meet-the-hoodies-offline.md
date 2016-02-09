@@ -1,13 +1,11 @@
 ---
 
-title: Meet The Hoodies
+title: Meet the Hoodies: Offline Edition
 author: Gregor
 layout: blog-post
 comments: true
 
 ---
-
-# Meet the Hoodies: Offline Edition
 
 Maybe you’ve heard about Hoodie at a conference, or read about on Twitter, or through our initiatives like Offline First and noBackend and want to learn more, or you just want to get started with contributing to a meaningful Open Source project. Either way: **Meet the Hoodies is for you**!
 
