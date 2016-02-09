@@ -27,8 +27,6 @@ And because it was so nice, [we came right back](https://ti.to/hoodie/hello-nyc-
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/116240988@N08/24146138643/in/photostream/" title="Meet the Hoodies NYC II"><img src="https://farm2.staticflickr.com/1716/24146138643_8749dc917f_k.jpg" alt="Meet the Hoodies NYC II"></a>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/116240988@N08/24146136463/in/photostream/" title="Meet the Hoodies NYC"><img src="https://farm2.staticflickr.com/1657/24146136463_7f64b75722_b.jpg" alt="Meet the Hoodies NYC"></a>
-
 Special thanks to [Bocoup](https://bocoup.com/) and especially Brian for being such great hosts for our events.
 
 ## Berlin!
