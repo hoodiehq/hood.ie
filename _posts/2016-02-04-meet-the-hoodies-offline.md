@@ -1,6 +1,6 @@
 ---
 
-title: Meet the Hoodies: Offline Edition
+title: Meet the Hoodies - Offline Edition
 author: Gregor
 layout: blog-post
 comments: true
