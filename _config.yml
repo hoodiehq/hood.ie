@@ -17,6 +17,7 @@ paginate: 10
 # 404
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
 
 sub-navigation:
 - title: What is Hoodie?
