@@ -6,7 +6,8 @@ Hood.ie: the Website for the Hoodie Open Source Project
 To get started check out the recent version and type `npm install`.
 The default task (just type `grunt`) will fire up a local server at `localhost:1337` with livereload and dev Sass compiling (including sourcemap and nested output).
 
-This doesn't serve the actual jekyll page, though. To do that, run `jekyll serve --watch --drafts` as well, which will run the full page at `localhost:4000`, using the styles from the grunt task. You may need to `gem install jekyll-redirect-from` beforehand.
+This doesn't serve the actual jekyll page, though. To do that, run `jekyll serve --watch --drafts` as well, which will run the full page at `localhost:4000`, using the styles from the grunt task.
+You may need to `gem install jekyll-redirect-from jekyll-paginate` beforehand.
 
 There's also a production task ('grunt build') which at this point just spits out a compressed CSS file, without sourcemap in a dedicated folder(css/build).
 
@@ -87,9 +88,9 @@ For example take a look at the calendar icon on the index page.
 ## Contributing
 We are very happy about you contributing to the Hoodie website! We have defined a process that makes it easy for you to contribute and helps us maintain the website.
 
-Please fork the website and send a Pull Request for your contribution. Here is <a href="http://hood.ie/blog/contributing-to-hoodie.html" target="_blank">an amazing article</a>, that explains how you can fork and edit files, also how to send a Pull Request. It's especially great for new contributors! Please do not forget to add comments on what you did and why, especially if your changes are bit more complex. 
+Please fork the website and send a Pull Request for your contribution. Here is <a href="http://hood.ie/blog/contributing-to-hoodie.html" target="_blank">an amazing article</a>, that explains how you can fork and edit files, also how to send a Pull Request. It's especially great for new contributors! Please do not forget to add comments on what you did and why, especially if your changes are bit more complex.
 
-We will review the Pull Request (PR) and merge or comment it. 
+We will review the Pull Request (PR) and merge or comment it.
 
 **Content changes and typos**   
 Simple typo fixes can be merged right away, if you have the permission to do so. We trust you with that!
