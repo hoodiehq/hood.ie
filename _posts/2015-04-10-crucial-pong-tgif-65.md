@@ -12,14 +12,14 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 Oh, and by the way: <b>[our blog's RSS feed is back](http://hood.ie/feed.xml)</b> — subscribe now on [hood.ie](http://hood.ie) or [http://hood.ie/feed.xml](hood.ie) to make sure you never miss a post! <3
 
-##Open Source
+## Open Source
 
 > [W]ith the beta release, all libraries and language features that are planned to be stable for 1.0 have been marked as stable. As such, the beta release represents an accurate preview of what Rust 1.0 will include. <cite>There's a first beta for [Version 1.0 of the Rust programming language](http://blog.rust-lang.org/2015/04/03/Rust-1.0-beta.html)</cite>
 
 [Have your bets on open paid off?](https://www.youtube.com/watch?v=HZnbGNtcyMc) — a panel discussion featuring Microsoft and Facebook
 
 
-##Design
+## Design
 
 The procedure is a little different, depending on where you are, but here are some pointers on [what you can do if you find out your work is copied online](http://www.owe.com/resources/legalities/legalities-34-what-can-you-do-when-your-work-is-copied-online/).
 
@@ -29,7 +29,7 @@ The procedure is a little different, depending on where you are, but here are so
 
 Big picture + arrow down = lazy design <cite>[Dear web designer, let's stop breaking the affordance of scrolling](https://medium.com/user-experience-design-1/dear-web-designer-let-s-stop-breaking-the-affordance-of-scrolling-fe8bf258df7b).</cite>
 
-##The Web and Development
+## The Web and Development
 
 A few useful things to know about [machine learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
@@ -64,7 +64,7 @@ Meet the Hoodie community at one or more of these fine events:
 
 > Terra nemo is a Latin expression meaning "No man's land". In this context we describe systems and protocols without centralized ownership and how they impact the landscape of the internet. <cite>[data terra nemo](http://dtn.is "Data Terra Nemo"), May 23 & 24 in Berlin, Germany</cite>
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 >
 Somehow, I became a weapon to be used against trolls, a target for trolls to abuse, and in both cases, less of a person. Somehow, somehow, somehow. I’m learning to be OK with this. I’m trying. It’s hard. It sucks. I’m tired. I’m angry. I’m hurt. Every mean comment hurts. But I can’t think about it, and I have to keep moving, because I won’t accept violent or sexual threats as being acceptable. I won’t ever accept having to plan for being SWATed as part of being an woman that is opinionated, playing video games, or working in a male dominated industry. <cite>[Tales from the Trenches: I was SWATed](http://blog.randi.io/2015/04/03/swated/)</cite>
@@ -81,7 +81,7 @@ Acting as an ally is hard, and mistakes are costly. This shouldn’t deter allie
 You can [still support the Rails Girls Summer of Code fundraiser](http://railsgirlssummerofcode.org/campaign/) to allow more women to get into Open Source. This is less of a donation and more of an investment into the future of our culture: [Start Now](http://t.co/gXqu8UsHix).
 
 
-##The Business
+## The Business
 
 > Just submit a pull request! — Go fuck yourself. <cite>[What Your Open Source Culture Really Says, Part One](https://modelviewculture.com/pieces/what-your-open-source-culture-really-says-part-one)</cite>
 
@@ -89,7 +89,7 @@ You can [still support the Rails Girls Summer of Code fundraiser](http://railsgi
 
 
 
-##We <3
+## We <3
 
 Pong, Pacman and Space Invaders — [all in one game](http://kingpenguin.itch.io/pacapong)
 

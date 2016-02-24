@@ -12,17 +12,17 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 Oh, and by the way: <b>our blog's RSS feed is back</b> – subscribe now on hood.ie or hood.ie/feed.xml to make sure you never miss a post! <3
 
-##Open Source
+## Open Source
 
 The [CouchDB Weekly News, February 03, 2015](http://blog.couchdb.org/2015/02/03/couchdb-weekly-news-february-03-2015/).
 
-##Design
+## Design
 
 Hold a kickoff meeting [before diving into the design](http://www.smashingmagazine.com/2015/01/12/hold-a-kickoff-meeting-before-diving-into-the-design/).
 
 [How to be found by clients](http://www.webdesignerdepot.com/2015/02/how-to-be-found-by-clients/).
 
-##The Web and Development
+## The Web and Development
 
 >
 I'm a coder. I'm also blind. Blind as a bat, you might say. And I was born this way. –
@@ -52,7 +52,7 @@ For developers to live up to them, they need to understand that optimal app perf
 
 [The HTML5 JavaScript API index](http://html5index.org/).
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 [You’re Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/).
 
@@ -62,7 +62,7 @@ Wadhwa betrays bias in implying that women aren’t nerds. There’s a wide spec
 
 Visual Effects: [The gender bias behind the screen](http://techcrunch.com/2015/02/02/women-in-vfx-high-tech-yet-not-tech/).
 
-##The Business
+## The Business
 
 [Five bits of management wisdom from Pixar](http://tomtunguz.com/creativity-pixar/)
 
@@ -82,7 +82,7 @@ Perhaps the biggest challenge we face as individuals at work, and as leaders, is
 Empathy is a far undervalued technical asset. Too often, the knee-jerk reaction to hiring a developer is to think purely of code output, as though they are cogs churning out predictable quality product in a silo. The most successful developers I’ve ever worked for, with, and hired were those who actually cared about the people who were using their products on an emotional level. –
 <cite>[Hire good Developers](http://blogs.perl.org/users/camspi/2015/02/hire-good-developers.html)<cite>
 
-##We <3
+## We <3
 
 [A history of loving to read](http://www.newyorker.com/culture/cultural-comment/history-loving-read).
 

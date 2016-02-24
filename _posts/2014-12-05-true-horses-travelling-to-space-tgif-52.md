@@ -11,7 +11,7 @@ comments: true
 Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and here are our reading recommendations, curated for you by [Lena](http://twitter.com/lrnrd) for your weekend. Enjoy!
 
 
-##Open Source
+## Open Source
 
 The [CouchDB Weekly News, December 4, 2014](http://blog.couchdb.org/2014/12/04/couchdb-weekly-news-december-04-2014/).
 
@@ -20,7 +20,7 @@ This isn’t about one project or one company or one instance of poor management
 <cite>[On Corporate Ownership of Open Source](https://medium.com/@mikeal/on-corporate-ownership-of-open-source-786ebd15847e)</cite>
 
 
-##Design
+## Design
 
 A series of four blog posts about [Responsive Type](http://8gramgorilla.com/).
 
@@ -36,7 +36,7 @@ Problem is, we see dark things and assume they are black things. When, in realit
 ‘The urge to create is equally strong in all children. Boys and girls.’ It’s a sentiment from the 1970s that’s never been more relevant. Or was it? –
 <cite>[LEGO’s letter to parents, and how not to tell a fake when you don’t see one](https://medium.com/@adambanksdotcom/legos-letter-to-parents-and-how-not-to-tell-a-fake-when-you-dont-see-one-2ca9dfe586d7)
 
-##The Web and Development
+## The Web and Development
 
 >
 If you're a programmer, please don't denigrate what a beginner is currently learning ... unless you're willing to personally invest the enormous amount of time to ensure that they learn what you want them to learn. –
@@ -52,7 +52,7 @@ Focus on a single next action. Ruthlessly ignore the future. Nothing else matter
 The end is a nightmare. The pressure (internal or external) to ship it increases. There’s still a lot to do, and a lot of tiny odds and ends, which are really hard to focus on. –
 <cite>[The ending is the hardest part](http://blog.andyet.com/2014/12/01/the-end)</cite>
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 >
 The courts may decide that sending threats over social media isn’t threatening enough to be a crime. Silicon Valley needs to step up or lose customers. –
@@ -61,13 +61,13 @@ The courts may decide that sending threats over social media isn’t threatening
 Study reveals (and adds numbers to) what we already knew: [Women 'belittled, underappreciated and underpaid' in tech industry](http://www.theguardian.com/technology/2014/nov/21/tech-sector-sexist-survey-guardian).
 
 
-##The Business
+## The Business
 
 >
 Health is more important than anything else. If your job is driving you crazy and giving you high BP, my prescription is, 'Try, try, then quit'. –
 <cite>[So your management fails at IT, huh?](http://everythingsysadmin.com/2013/08/let-failures-fail.html)</cite>
 
-##We <3
+## We <3
 
 [The true Icelandic Horse](http://player.vimeo.com/video/113323901) – a wonderful film by Seriouspony
 

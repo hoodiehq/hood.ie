@@ -10,7 +10,7 @@ comments: true
 
 Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. As usually, they're curated for you by [Julia](http://twitter.com/juschm) and [Lena](http://twitter.com/lrnrd). Enjoy!
 
-##Open Source
+## Open Source
 
 [io.js 1.0.1 (beta)](https://iojs.org/) is out.
 
@@ -22,7 +22,7 @@ generally be a member of a community of documentarians. ["Write the docs" tries 
 
 ISome guidelines to [securely deploy Docker](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines).
 
-##Design
+## Design
 
 [Hongtao Zhou has created ‘textscape’](http://www.designboom.com/art/hongtao-zhou-3d-printed-textscape-extruded-typography-01-13-2015/), 3D documents to re-emphasize printing in the contemporary technological world.
 
@@ -32,7 +32,7 @@ ISome guidelines to [securely deploy Docker](https://github.com/GDSSecurity/Dock
 
 [How top start-ups pay designers](http://www.gv.com/lib/how-top-startups-pay-designers)
 
-##The Web and Development
+## The Web and Development
 
 Model View Culture posted a [Review of 2014](https://modelviewculture.com/issues/2014-in-review) and their [subscriptions for 2015 are open now](https://modelviewculture.com/support). You should definitely subscribe, or get a subscription for your company.
 
@@ -56,7 +56,7 @@ If you're more into exotic stuff, here are a few [little-known programming langu
 
 [Learn Python the hard way](http://learnpythonthehardway.org/book/index.html).
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 >
 The method of classifying people as “similar” reduces us to objects that might be recommended, through data, like a book or kitchen item. –
@@ -68,7 +68,7 @@ Male executives who spoke more often than their peers were rewarded with 10 perc
 
 An [anonymous survey on cyber abuse](https://www.surveymonkey.com/s/LRWKGJ9).
 
-##The Business
+## The Business
 
 [The job of leadership is to foster alignment and enthusiasm toward the right goal](https://medium.com/inside/the-job-of-leadership-757e4bc3e539)
 
@@ -90,7 +90,7 @@ It is possible to hold on so tightly to one another that we smother each other�
 
 [28 productivity tips](https://www.themuse.com/advice/28-stealworthy-tips-from-the-most-productive-people-on-the-planet) from industrials from all over the world.
 
-##Being human
+## Being human
 
 >
 As much of us reformed Nice Guys™ learn, relationships aren't a game you win, and they only work when you're willing to accept a person as they are, in all their complex mess, and you're willing to offer yourself up exactly as you are, no matter how broken, and let them make the call. –
@@ -104,7 +104,7 @@ In an unequal world, satire that mocks everyone serves the powerful. It is worth
 if you’re human, you have bias, and that it impacts almost every variation of human identity: Race, gender, sexual orientation, body size, religion, accent, height, hand dominance, etc. The question is not "do we have bias?" but rather "which are ours?" –
 <cite>[How Unconscious Bias Affects Everything You Do](http://www.fastcompany.com/3037359/strong-female-lead/how-unconscious-bias-affects-everything-you-do)</cite>
 
-##We <3
+## We <3
 
 Here's Amy Poehler and Tina Fey opening the Golden Globes mean girl bestie-style with [a series of sick burns on the rich, famous, and drunk](http://jezebel.com/tina-fey-amy-poehler-burn-the-fuck-outta-bill-cosby-a-1678881452).
 
@@ -116,7 +116,7 @@ Have you ever wondered why you [can't tickle yourself](http://www.bbc.com/future
 
 Tired of reading? Listen to Peter Serafinovicz and others read [Good Omens](http://www.bbc.co.uk/programmes/b04knthd) by Terry Pratchett instead.
 
-##… and also in the News
+## … and also in the News
 
 [
 The Last Time the Oscars Were This White Was 1998](http://www.mediaite.com/online/the-last-time-the-oscars-were-this-white-was-1998/).

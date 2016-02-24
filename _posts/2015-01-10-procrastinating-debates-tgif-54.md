@@ -10,7 +10,7 @@ comments: true
 
 It's the year 2015 now, and we hope it will be a great year for you. We're happy to also welcome you back to our weekly reading recommendations. This week, they're again curated by [Lena](http://twitter.com/lrnrd) and [Julia](http://twitter.com/juschm) for your weekend. We've read a lot during the holidays, so this is a quite extensive list today. Enjoy!
 
-##Open Source
+## Open Source
 
 Protractor is an end-to-end test framework for AngularJS applications. [Version 1.6 is out now](https://github.com/angular/protractor/blob/master/CHANGELOG.md) and includes features such as the option of filtering the specs a user
 wants to run using simple string match.
@@ -21,7 +21,7 @@ It’s all in the numbers — followers, contributions, comments, stars. Hav
 
 Why I Don’t Like Open Source: [a play in 3 acts](https://storify.com/trodrigues/why-i-don-t-like-open-source-a-play-in-3-acts).
 
-##Design
+## Design
 
 There isn't always time, but sometimes [designing with your clients](http://www.smashingmagazine.com/2014/12/30/designing-with-your-clients) can be beneficial for both parties.
 
@@ -31,7 +31,7 @@ If you're new to the game: [16 design tips for creating mobile apps](http://www.
 
 [A lack of effective web design can cost you conversions](http://inspiredm.com/lack-effective-web-design-equals-lack-conversions/).
 
-##The Web and Development
+## The Web and Development
 
 [Teach yourself logic: A study guide](http://www.logicmatters.net/tyl/).
 
@@ -52,7 +52,7 @@ Exploring Angular 1.3: [Binding to Directive Controllers](http://blog.thoughtram
 Although diversity in tech conversations have driven my work for the last several years, I now believe we've reached a point where that conversation has become stagnant and narrow. –
 <cite>[Diversity != Inclusion: Expanding the “diversity in tech” conversation](https://medium.com/@mikellsolution/diversity-inclusion-expanding-the-diversity-in-tech-conversation-9d049fc98eed)</cite>
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 Technology can do a lot of good, but you should also be aware of the
 downsides. Hans de Zwart, who works for the dutch digital civil rights
@@ -71,7 +71,7 @@ getting that [a rough past doesn't equal structural oppression](http://www.newst
 In a perfect world, people might reflect more carefully before posting online; but in the current world, we need women to speak up if they are to be heard above the cacophony. –
 <cite>[How to Get More Women to Join the Debate](http://kristof.blogs.nytimes.com/2015/01/06/how-to-get-more-women-to-join-the-debate/)</cite>
 
-##The Business
+## The Business
 
 Looking at all of the emails most of us have to read and write everyday,
 why not try to [get better at formulating](http://mashable.com/2015/01/02/write-better-emails/) those?
@@ -82,7 +82,7 @@ While being on-call can be challenging, it is also very rewarding. After a while
 
 [15 ways to beat procrastination in a handy infographic](http://essay.expert/15-ways-to-beat-procrastination).
 
-##We <3
+## We <3
 
 ...[surveillance](http://vimeo.com/116049132). (Of course we do. Who wouldn't?)
 

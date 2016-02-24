@@ -11,11 +11,11 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 Oh, and by the way: <b>[our blog's RSS feed is back](http://hood.ie/feed.xml)</b> — subscribe now on [hood.ie](http://hood.ie) or [http://hood.ie/feed.xml](hood.ie) to make sure you never miss a post! <3
 
-##Open Source
+## Open Source
 
 [The CouchDB Weekly News, March 19, 2015](http://blog.couchdb.org/2015/03/19/the-couchdb-weekly-news-march-19-2015/)
 
-##Design
+## Design
 
 [CSS Sans](http://yusugomori.com/projects/css-sans/fonts) - a purely CSS font.
 
@@ -23,7 +23,7 @@ Oh, and by the way: <b>[our blog's RSS feed is back](http://hood.ie/feed.xml)</b
 
 [Personas: Finding imaginary friends for web designers](http://www.webdesignerdepot.com/2015/03/personas-finding-imaginary-friends-for-web-designers/)
 
-##The Web and Development
+## The Web and Development
 
 Developer Productivity: [The Art of Saying No](https://localizejs.com/blog/startup/developer-productivity-saying-no)
 
@@ -33,7 +33,7 @@ Developer Productivity: [The Art of Saying No](https://localizejs.com/blog/start
 
 [On Accessibility APIs](http://www.smashingmagazine.com/2015/03/16/web-accessibility-with-accessibility-api/)
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 Sarah Novotney of nginx talked about [Conway's law](https://www.youtube.com/watch?v=zA1EXJV1JWQ)
 
@@ -41,7 +41,7 @@ Sarah Novotney of nginx talked about [Conway's law](https://www.youtube.com/watc
 
 As it doesn't cease to be a problem: ["On burnout and the year of hell"](https://the-pastry-box-project.net/dylan-wilbanks/2015-march-17)
 
-##The Business
+## The Business
 
 Startup 101: [Finding the right business partner](http://mashable.com/2015/02/28/startup-business-partner/)
 
@@ -49,7 +49,7 @@ If you're working with customer data, you might have to think about a [cyber-lia
 
 >When engineering management is done right, you're focusing on three big things. You're directly supporting the people on your team; you're managing execution and coordination across teams; and you're stepping back to observe and evolve the broader organization and its processes as it grows. - <cite>[This is what impactful engineering leadership looks like](http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)</cite>
 
-##We <3
+## We <3
 
 >Is your friend a rockstar brogrammer? Are you being asked to cause a paradigm shift? Does your co-worker have the job title “social media guru”? There is a solution : Sans Bullshit Sans. -
 <cite>[Sans Bullshit Sans](http://www.sansbullshitsans.com/)</cite>

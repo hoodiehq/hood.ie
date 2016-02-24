@@ -8,11 +8,11 @@ comments: true
 
 TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. They're curated, just for you, by [Julia](http://twitter.com/juschm) and [Jan](http://twitter.com/janl). Enjoy!
 
-##Open Source
+## Open Source
 
 **Hoodie itself and Lena's talk about nothing are nominated for [Open Source Project and Conference Talk of the year](http://hood.ie/blog/hoodie-nominee-net-awards-2015.html "Hoodie: Nominee as Open Source Project of the Year")!**
 
-##Design
+## Design
 
 [React.js introduction for people who know just enough jQuery to get by](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 
@@ -26,7 +26,7 @@ Question: [How can I work better with developers who build and implement the web
 
 [Why website redesigns make you so angry](http://gizmodo.com/why-website-redesigns-make-you-so-angry-1716514600)
 
-##The Web and Development
+## The Web and Development
 
 Douglas Crockford talked about [upgrading the web](https://www.youtube.com/watch?v=6UTWAEJlhww) at Angular U in San Francisco.
 
@@ -66,7 +66,7 @@ Staff pick: [&Yet Conf](http://andyetconf.com), October 6th-8th, Richland, Washi
 
 [Full Frontal](http://2015.ffconf.org "ffconf 2015"), November 6th, Brighton, UK, [Call for Speakers open now](https://remysharp.com/2015/05/25/call-for-proposals-at-ffconf-2015).
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 > I wish I could do my job, something I very obviously love doing, without any of this bullshit. However that seems impossible at this point.<cite>[This industry is fucked](https://blog.jessfraz.com/post/this-industry-is-fucked/)</cite>
 
@@ -76,7 +76,7 @@ Staff pick: [&Yet Conf](http://andyetconf.com), October 6th-8th, Richland, Washi
 
 > Lately I've been watching more men give talks about diversity. Personally I'm in favour of this, because 1) If women could fix this, we would have by now – making "diversity" a "woman's issue" is a way of perpetuating the status quo. And 2) there is clearly a subset of men who won't listen to women talking about this (or maybe anything), and perhaps they won't listen to men on this topic either but it's worth a try. That being said, I'm seeing some things reoccur and I think they are problematic. <cite>[Pitfalls for men talking about diversity](http://www.catehuston.com/blog/2015/07/08/pitfalls-for-men-talking-about-diversity/)</cite>
 
-##The Business
+## The Business
 
 [How SoundCloud keeps communication flowing across four offices in four time zones](http://firstround.com/review/how-soundcloud-keeps-communication-flowing-across-4-offices-in-4-time-zones/).
 
@@ -86,7 +86,7 @@ Staff pick: [&Yet Conf](http://andyetconf.com), October 6th-8th, Richland, Washi
 
 [The sad state of job titles](https://medium.com/tony-stubblebine/the-sad-state-of-job-titles-d705832560f5)
 
-##We <3
+## We <3
 
 [Everything you think you know about addiction is wrong](http://www.ted.com/talks/johann_hari_everything_you_think_you_know_about_addiction_is_wrong)
 

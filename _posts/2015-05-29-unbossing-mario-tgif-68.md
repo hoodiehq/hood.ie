@@ -8,7 +8,7 @@ comments: true
 
 TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. They're curated, just for you, by [Julia](http://twitter.com/juschm) and [Jan](http://twitter.com/janl). Enjoy!
 
-##Open Source
+## Open Source
 
 Team Tessie from the RailsGirls Summer of Code is [going to be working on Hoodie](https://twitter.com/TeamTessie/status/599901238302547968) all summer!
 
@@ -26,7 +26,7 @@ If you're into IoT and JavaScript, [macchina.io](https://github.com/macchina-io/
 
 A recap of the [first six NodeSchool Berlin meetups](https://github.com/nodeschool/write-ups/issues/2).
 
-##Design
+## Design
 
 > The majority of work we will undertake will be intended for someone else, in another place, under different circumstances. The design profession is about solving problems that are wholly foreign. We must approach our work as skeptics: exploring, questioning, and researching. <cite>[A checklist for design](http://www.hailpixel.com/articles/checklist-for-design)</cite>
 
@@ -42,7 +42,7 @@ What's the difference between [art direction and design](http://www.vanseodesign
 
 [How to practice good design](http://techcrunch.com/2015/05/27/how-to-practice-good-design/).
 
-##The Web and Development
+## The Web and Development
 
 > I'd like to explore why promises are so tricky in the first place, and why so many of us – novices and experts alike – get tripped up by them. I'm also going to offer what I consider to be the singular insight, the one weird trick, that makes promises a cinch to understand. And yes, I really do believe they're not so hard after that! <cite>[We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)</cite>
 
@@ -79,7 +79,7 @@ WWNRW, June 6th, Düsseldorf, Germany
 Full Frontal, November 6th, Brighton, UK, [Call for Speakers open now](https://remysharp.com/2015/05/25/call-for-proposals-at-ffconf-2015).
 
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 > When Rust was first opened up, all players were given the same default avatar: a bald white man. With the most recent update, Rust’s lead developer, Garry Newman, introduced different avatars of different racial origins into the mix. However, they did so with a twist — unlike typical massively multiplayer online role-playing games, Rust does not allow players to choose the race of their avatar. Instead, they are assigned one at random. [...] The backlash only underscored a disturbing reality: By insisting that race doesn’t or shouldn’t exist online, such attitudes ensure an online status quo in which people of color remain marginalized and invisible. <cite>[The Web is not a post-racial utopia](http://america.aljazeera.com/opinions/2015/5/the-online-game-that-proves-the-web-is-not-a-post-racial-utopia.html)</cite>
 
@@ -104,7 +104,7 @@ Full Frontal, November 6th, Brighton, UK, [Call for Speakers open now](https://r
 
 [Be kind](http://boz.com/articles/be-kind.html "Be Kind").
 
-##The Business
+## The Business
 
 > I only take on projects where it's likely going to be a win-win. Which is why I tell potential clients not to hire me all the time. Sometimes more than once a week. Their reactions vary too: some are mad, some are upset and some totally get it. <cite>[No, you shouldn't hire me - and here is why](https://medium.com/i-dont-know-a-thing/no-you-shouldn-t-hire-me-and-here-s-why-b9ff847a631)</cite>
 
@@ -112,7 +112,7 @@ Even if you're not into hard metrics, knowing about it never hurts: [The Rule of
 
 [Things to consider](http://www.problogger.net/archives/2015/05/13/4-things-to-consider-when-choosing-your-domain-name/) when choosing a domain name.
 
-##We <3
+## We <3
 
 [Rethink money and meaning with the internet of things](https://www.youtube.com/watch?v=Q40TyD6YxdI) - Chris Rezendes at TEDxSanDiego 2013.
 

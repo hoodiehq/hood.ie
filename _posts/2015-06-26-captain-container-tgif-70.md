@@ -8,7 +8,7 @@ comments: true
 
 TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. They're curated, just for you, by [Julia](http://twitter.com/juschm) and [Jan](http://twitter.com/janl). Enjoy!
 
-##Open Source
+## Open Source
 
 [The ECMAScript 2015 Language Specification is now final](http://www.ecma-international.org/ecma-262/6.0/ "ECMAScript 2015 Language Specification &ndash; ECMA-262 6th Edition").
 
@@ -20,7 +20,7 @@ Version 1.0 of the [Atom text editor](https://github.com/blog/2031-announcing-at
 
 **Hoodie and Lena’s talk about nothing are nominated for [Open Source Project and Conference Talk of the year](http://hood.ie/blog/hoodie-nominee-net-awards-2015.html "Hoodie: Nominee as Open Source Project of the Year")!**
 
-##Design
+## Design
 
 [7 future web design trends](https://medium.com/@jowitaziobro/7-future-web-design-trends-fba93eba6355)
 
@@ -36,7 +36,7 @@ Version 1.0 of the [Atom text editor](https://github.com/blog/2031-announcing-at
 
 [Apple remains committed to making their products accessible. Smart developers will follow their lead](http://blog.iconfactory.com/2015/06/a-special-feature/).
 
-##The Web and Development
+## The Web and Development
 
 > Here’s what we really need: designers who can design the hell out of things and developers who can develop the hell out of things. And we need them all to work together seamlessly. This requires one key element: empathy.<cite>[We don’t need more
 designers who can code](https://medium.com/re-write/we-dont-need-more-designers-who-can-code-b81483d2a0e6)</cite>
@@ -84,7 +84,7 @@ Staff pick: [Realtime Conf](http://realtimeconf.com), October 6th-8th, Richland,
 
 [Full Frontal](http://2015.ffconf.org "ffconf 2015"), November 6th, Brighton, UK, [Call for Speakers open now](https://remysharp.com/2015/05/25/call-for-proposals-at-ffconf-2015).
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 [How one college went from 10% female computer-science majors to 40%](http://qz.com/192071/how-one-college-went-from-10-female-computer-science-majors-to-40/)
 
@@ -104,7 +104,7 @@ Staff pick: [Realtime Conf](http://realtimeconf.com), October 6th-8th, Richland,
 
 [Code like a girl, lead like Tim Cook](http://www.loopinsight.com/2015/06/19/code-like-a-girl-lead-like-tim-cook/ "Code like a girl, lead like Tim Cook").
 
-##The Business
+## The Business
 
 [The origin of the 8-hour day and why we should rethink  it](https://blog.bufferapp.com/optimal-work-time-how-long-should-we-work-every-day-the-science-of-mental-strength).
 
@@ -118,7 +118,7 @@ Staff pick: [Realtime Conf](http://realtimeconf.com), October 6th-8th, Richland,
 
 [On Recruiting, Inclusiveness, and Crafting Better Job Descriptions](https://blog.safaribooksonline.com/2015/06/08/on-recruiting-inclusiveness-and-crafting-better-job-descriptions/).
 
-##We <3
+## We <3
 
 Matchmatical! — [KnitYak: Custom mathematical knit scarves](https://www.kickstarter.com/projects/fbz/knityak-custom-mathematical-knit-scarves).
 

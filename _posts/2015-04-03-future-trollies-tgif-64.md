@@ -13,13 +13,13 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s (nearly) Friday, 
 Oh, and by the way: <b>[our blog's RSS feed is back](http://hood.ie/feed.xml)</b> — subscribe now on [hood.ie](http://hood.ie) or [http://hood.ie/feed.xml](hood.ie) to make sure you never miss a post! <3
 
 
-##Open Source
+## Open Source
 
 > For the last few weeks people from the Linux Foundation, node.js and io.js have been working to draft an open governance structure that can reconcile the projects and working groups together in the new Node.js Foundation. We have now entered a critical period of community review and iteration. <cite>[Help to reconcile node.js and io.js](https://medium.com/node-js-javascript/help-us-reconcile-node-js-and-io-js-c060a9ec1bd4)</cite>
 
 > Meteor 1.1: now supporting Microsoft Windows and MongoDB 3.0 <cite>[Meteor 1.1 is out](https://www.meteor.com/blog/2015/03/31/meteor-11-microsoft-windows-mongodb-30)</cite>
 
-##Design
+## Design
 
 > Some argue that you cannot design a user’s experience. After all there are so many things beyond your control that you cannot influence. But that is not my point. My point is that many people claim to design experiences, when they are actually designing a user interface. You see the user interface is just a tiny part of the experience, not the whole thing. <cite>[Could you really be a UX designer?](http://www.webdesignerdepot.com/2015/03/could-you-really-be-a-ux-designer/)</cite>
 
@@ -27,7 +27,7 @@ Oh, and by the way: <b>[our blog's RSS feed is back](http://hood.ie/feed.xml)</b
 
 > 1. Content: If your website content isn't making it immediately clear what you do and offer, and why your visitors should care, then your website may never meet your business expectations. <cite>[5 metrics that affect the success of your website redesign](http://mashable.com/2015/03/31/website-redesign-success)</cite>
 
-##The Web and Development
+## The Web and Development
 
 > Imagine a world in which you can't connect from a USA web browser to a China web server or vice versa. <cite>[Zooko commenting](https://twitter.com/zooko/status/583517021108711424) on Google’s [“Managing Digital Certificate Security”](http://googleonlinesecurity.blogspot.de/2015/03/maintaining-digital-certificate-security.html)</cite>
 
@@ -41,7 +41,7 @@ Oh, and by the way: <b>[our blog's RSS feed is back](http://hood.ie/feed.xml)</b
 [Slack has two factor authentication now](http://slackhq.com/post/114696167740/march-2015-security-incident-and-launch-of-2fa)
 
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 > It is a form of soft discrimination that I fear might be all too familiar to all too many women — and often I find it hard to explain to my male friends and colleagues. Occasionally, I even find myself struggling to convince them that it is discrimination, and that it has consequences. <cite>[Ellen Pao and the sexism you can’t quite prove](http://nymag.com/daily/intelligencer/2015/03/ellen-pao-and-the-sexism-you-cant-quite-prove.html)</cite>
 
@@ -50,7 +50,7 @@ Oh, and by the way: <b>[our blog's RSS feed is back](http://hood.ie/feed.xml)</b
 [What it's like to be intersex](https://www.youtube.com/watch?v=cAUDKEI4QKI)
 
 
-##The Business
+## The Business
 
 >
 Life in a closed country has made the Burmese unusually resourceful, reckons Kaung Sitt, an entrepreneur who has recently returned home from Singapore: “You find your own way to get things done.” - <cite>[Startups in Myanmar](http://www.economist.com/news/business/21647318-startup-culture-germinates-unlikely-place-land-temples-and-tech)</cite>
@@ -61,7 +61,7 @@ Life in a closed country has made the Burmese unusually resourceful, reckons Kau
 
 > There are many types of risk in hiring your firm that a client might gladly pay a premium to insure against. The largest is the financial risk tied to poor performance, or the answer to the questions how do I know you’re going to get this right, and what is this going to cost me if you get it wrong? <cite>[The Justice of Price Premiums](https://www.winwithoutpitching.com/justice-of-price-premiums/)</cite>
 
-##We <3
+## We <3
 
 >
 As we moved our lives online, the internet promised an end to isolation. But can we find real intimacy amid shifting identities and permanent surveillance? - <cite>[The future of loneliness](http://www.theguardian.com/society/2015/apr/01/future-of-loneliness-internet-isolation)</cite>

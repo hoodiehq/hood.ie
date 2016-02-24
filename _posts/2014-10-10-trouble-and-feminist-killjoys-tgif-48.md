@@ -10,7 +10,7 @@ comments: true
 Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and here are our reading recommendations, curated for you by <a href="http://twitter.com/juschm">Julia</a> and <a href="http://twitter.com/lrnrd">Lena</a> for your weekend. Enjoy!
 
 
-##Open Source
+## Open Source
 Maybe worth a try: <a href="http://duojs.org/">Duo – package manager for the front-end</a>
 
 <a href="http://stwissel.github.io/hoodiepreso/#/">Hood.ie Offline First applications</a> (presentation slides)
@@ -29,13 +29,13 @@ Maybe worth a try: <a href="http://duojs.org/">Duo – package manager for the f
 Hoodie goes Austria: <a href="http://blog.hood.ie/2014/10/hoodie-goes-austria-join-us-for-a-hoodie-workshop-during-barcamp-salzburg/">join us for a Hoodie Workshop during Barcamp Salzburg!</a>
 
 
-##Design
+## Design
 Making the best out of design limitations: <a href="http://www.webdesignerdepot.com/2014/09/how-to-transform-design-limitations-into-design-success/">how to transform Design Limitations into Design Success</a>
 
 <a href="http://tmagazine.blogs.nytimes.com/2014/09/22/design-golden-age/">A golden age of design</a>
 
 
-##The Web and Development
+## The Web and Development
 
 <a href="http://arqex.com/939/learning-much-javascript-one-line-code">Learning much JavaScript from one line of code</a>
 
@@ -46,7 +46,7 @@ For all you webdesigners and web developers who have to explain it over and over
 <a href="https://education.github.com/pack">GitHub Student Developer Pack</a>
 
 
-##The Tech World and Culture
+## The Tech World and Culture
 >
 We need to stop propagating the troll-driven meme that '*it’s all just trollin’ and boohoo mean words you should cry more'* and start making the hard, fine-grained distinctions. —
 <cite><a href="http://seriouspony.com/trouble-at-the-koolaid-point">Trouble at the Koolaid Point</a></cite>
@@ -75,7 +75,7 @@ A related post: <a href="http://www.catehuston.com/blog/2014/10/01/male-allies-a
 <a href="http://www.catehuston.com/blog/2014/07/09/some-things-im-tired-of-hearing-from-men-about-women-in-tech/">Some Things I’m Tired Of Hearing From Men About Women in Tech</a>
 
 
-##The Business
+## The Business
 The most important skill for great Leaders: <a href="http://99u.com/articles/32883/the-most-important-skill-for-great-leaders-trustworthiness">Trustworthiness</a>
 
 <a href="http://shopthebbar.com/blog/networking-to-grow-your-career/">Networking to grow your career</a>
@@ -87,7 +87,7 @@ At least someone on stage at Thursday morning's keynote could speak honestly abo
 <a href="http://www.usatoday.com/story/tech/2014/10/09/high-tech-pay-gap-hispanics-asians-african-americans/16606121/?utm_content=buffer65285&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">High-tech pay gap: Minorities earn less in skilled jobs</a>
 
 
-##We <3
+## We <3
 >
 If you haven't time or energy to get yourself to a point that's respectively 'well read' on the topic, then please at least avoid emitting any equivalences at all. Listen to such conversations but do not add your input. –
 <cite><a href="http://graydon2.dreamwidth.org/192881.html">False Equivalences</a></cite>

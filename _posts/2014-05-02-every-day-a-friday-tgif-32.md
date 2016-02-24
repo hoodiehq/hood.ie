@@ -19,7 +19,7 @@ Für den Teil auf Deutsch bitte <a href="#deutsch">hier</a> entlang :)
 The CouchDB Weekly News are also out for last week. Find out about the ongoing discussion about the Code of Conduct and project by-laws <a href="https://blogs.apache.org/couchdb/entry/couchdb_weekly_news_may_1">here</a>.
 
 
-##Design
+## Design
 
 <a href="http://alistapart.com/article/css-shapes-101">CSS Shapes 101</a>
 
@@ -73,7 +73,7 @@ Why names matter: <a href="http://geekfeminism.org/2014/04/28/the-naming-of-thin
 **May 10: <a href="http://codefront.io/">codefront.io</a>**, **Linz, Austria**: two Hoodies one conference – <a href="http://codefront.io/#speakers">Ola and Lena</a> will be giving talks about Hoodie and Open Source culture at Austria’s amazing frontend develoment conference. If you wanna meet them there: <a href="http://codefront.io/#tickets">grab a ticket</a>! :)<del></del>
 
 
-##We <3
+## We <3
 
 Hamsters eating Burritos. Because they can.
 

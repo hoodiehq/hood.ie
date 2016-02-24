@@ -10,7 +10,7 @@ comments: true
 
 TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Fr...ahem, Saturday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. They're curated, just for you, by [Julia](http://twitter.com/juschm) and [Jan](http://twitter.com/janl). Enjoy!
 
-##Open Source
+## Open Source
 
 If you're using Brackets for coding, have a look at the now released [version 1.3](http://blog.brackets.io/2015/04/27/brackets-1-3-release-is-here/) in which you can configure, whether you want to send anonymous data to the project.
 
@@ -22,7 +22,7 @@ Support for files with variable-length blocks in HDFS and automatic shared, glob
 
 [Two contrasting takes on OpenStreetMap](https://twitter.com/ManAboutCouch/status/592992851245604864).
 
-##Design
+## Design
 
 Graphic design for print vs the web: [15 differences you need to know about](https://designschool.canva.com/blog/print-vs-web/).
 
@@ -30,7 +30,7 @@ Graphic design for print vs the web: [15 differences you need to know about](htt
 
 > There’s a famous quote by beloved author Antoine de Saint-Exupéry that says “Perfection is achieved when there is nothing left to take away.” While this may resonate with some, there’s still an on-going and healthy debate across the wider software development community as to what perfection looks like on an interface.<cite>[When there's nothing left to take away](http://uxmag.com/articles/when-theres-nothing-left-to-take-away)</cite>
 
-##The Web and Development
+## The Web and Development
 
 [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html "Everyone has JavaScript, right?")
 
@@ -64,7 +64,7 @@ Past Event, [read the recap](http://hood.ie/blog/jsunconf-recap.html "JSUnconf R
 
 
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 > People who look like me can just kinda do programming for work if we want, or not do it, or switch into it later, or out of it again, or work quietly, or nerd-rant on how Ruby sucks or rocks or whatever, or name-drop monads. And nobody will make remarks about our appearance, about whether we're truly dedicated hackers, or how our behavior might reflect badly on “our kind” of people. That's silent technical privilege. <cite>[Silent Technical Privilege](http://pgbovine.net/tech-privilege.htm "Philip Guo - Silent Technical Privilege")</cite>
 
@@ -81,7 +81,7 @@ Dev + UX: [How not to be dicks to each other](https://shinetechblog.files.wordpr
 
 What’s it like being subjected to incessant, misogynistic trolling? [Ashley Judd and Anita Sarkeesian speak out](http://nytlive.nytimes.com/womenintheworld/2015/04/23/whats-it-like-to-be-subjected-to-incessant-misogynistic-trolling-ashley-judd-and-anita-sarkeesian-speak-out/ "What&#8217;s it like being subjected to incessant, misogynistic trolling? Ashley Judd and Anita Sarkeesian speak out &#8211; Women in the World in Association with The New York Times &#8211; WITW").
 
-##The Business
+## The Business
 
 > A common question I am asked, “How big should the team be?” My immediate response: Seven plus or minus three. There is a not a lot of hard theory behind this guideline, just common sense.<cite>[Seven Plus or Minus Three](http://randsinrepose.com/archives/seven-plus-or-minus-three/)</cite>
 
@@ -95,7 +95,7 @@ To be a great leader, [rethink your default behaviors](https://medium.com/ideo-s
 
 > It is easy to imagine that this was the work of a great many sloppy engineers, who were not as smart as the rest of us. That has never been my experience. Instead I see hard working developers who want to figure out the right thing, the right way. And so it was here. The hands-on worker bees wanted to test and refactor and clean up the code base. They were skeptical about the diagram. They were also loyal and followed their manager. Brilliant software engineers will follow bad plans put forth by people in power.<cite>[The code is just the symptom.](https://medium.com/@rubyghetto/the-code-is-just-the-symptom-c77f43b29320)</cite>
 
-##We <3
+## We <3
 
 [To the beach!](https://thenib.com/get-beach-body-ready-8d7937aee32b)
 
