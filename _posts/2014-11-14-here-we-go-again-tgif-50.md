@@ -13,7 +13,7 @@ This is the 50th issue of Hoodie’s weekly "TGIF" series. And for this special 
 Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and here are our reading recommendations, curated for you by [Julia](http://twitter.com/juschm) and [Lena](http://twitter.com/lrnrd) for your weekend. Enjoy!
 
 
-##Open Source
+## Open Source
 
 [Ember.js 1.8 is out](http://emberjs.com/blog/2014/10/26/ember-1-8-0-released.html) and gives you an idea about what the vision for the coming releases will be.
 
@@ -25,7 +25,7 @@ The [CouchDB Weekly News](http://blog.couchdb.org/2014/11/13/couchdb-weekly-news
 
 [What's your Hoodie Workflow?](https://appback.com/whats-your-hoodie-workflow/)
 
-##Design
+## Design
 
 In the design community, [giving back](http://www.hongkiat.com/blog/design-community-giving-back/) is as important as anywhere else.
 
@@ -41,7 +41,7 @@ If Paul McCartney were a web developer, and writing ‘Sergeant Pepper’s Lonel
 
 [Fontface Ninja](http://fontface.ninja/) helps you identify the names of types used on a website and lets you download them when they’re free
 
-##The Web and Development
+## The Web and Development
 
 Bethany Macri talking about how building a Post Mortem Tool helped her [understanding events better](http://vimeo.com/77206751).
 
@@ -69,7 +69,7 @@ Sometimes it’s tough to change course. –
 Consequently, the person who is most likely to get new ideas is a person of good background in the field of interest and one who is unconventional in his habits. –
 <cite><a href="http://www.technologyreview.com/view/531911/isaac-asimov-asks-how-do-people-get-new-ideas/">Isaac Asimov asks, "How do people get new ideas?""</a></cite>
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 >
 My opinions don’t really matter, the only job left for me to do is listen to these amazing people and offer whatever support I can. –
@@ -99,7 +99,7 @@ Socially progressive men often ask how they can support women, what they can do 
 Dad’s masculinity, the messaging implies, automatically ensures his grasp of all new products and services out of the gate. While women are belittled for (supposedly) not knowing how to use new tools, men are allowed to remain ignorant about the social context in which those tools are put to use and the fact that some people, and not only women, are prevented from using them. –
 <cite><a href="http://www.thebaffler.com/salvos/dads-tech">The Dads of Tech</a></cite>
 
-##The Business
+## The Business
 
 One man's [journey to more productivity](https://medium.com/matter/work-it-harder-make-it-better-do-it-faster-makes-us-stronger-65c137c79aeb).
 
@@ -121,7 +121,7 @@ When we think about labor, we usually think about motivation and payment as the 
 Employees will know the company expects them to take off at least a certain number of days, and beyond that, time as needed. –
 <cite><a href="https://medium.com/@cameronmoll/the-minimum-vacation-policy-15f6c3b922f">The "Minimum Vacation" Policy</a></cite>
 
-##We <3
+## We <3
 
 [Ten Lessons learned from Organizing Diversity-Focused Events](https://modelviewculture.com/pieces/ten-lessons-learned-from-organizing-diversity-focused-events)
 

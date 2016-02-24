@@ -8,12 +8,12 @@ comments: true
 
 TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. They're curated, just for you, by [Julia](http://twitter.com/juschm) and [Jan](http://twitter.com/janl). Enjoy!
 
-##Open Source
+## Open Source
 
 
 **Hoodie itself and Lena's talk about nothing are nominated for [Open Source Project and Conference Talk of the year](http://hood.ie/blog/hoodie-nominee-net-awards-2015.html "Hoodie: Nominee as Open Source Project of the Year")!**
 
-##Design
+## Design
 
 [The future of UI design? Text messages](http://www.wired.com/2015/06/future-ui-design-old-school-text-messages/).
 
@@ -29,7 +29,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 [Android design anti-patterns and common pitfalls](http://www.sitepoint.com/android-design-anti-patterns-pitfalls/).
 
-##The Web and Development
+## The Web and Development
 
 > If we can start building a vibrant ecosystem of web applications where Apple is not invited, then maybe they’ll be forced to pull a Microsoft and make their own penitent walk to Canossa. Otherwise we’ll have to content ourselves with living in the web of 2010, with Safari replacing IE as the blue-tinged icon that fills web developers with dread. <cite>[Safari is the new IE](http://nolanlawson.com/2015/06/30/safari-is-the-new-ie/])</cite>
 
@@ -73,7 +73,7 @@ Staff pick: [Realtime Conf](http://realtimeconf.com), October 6th-8th, Richland,
 
 [Full Frontal](http://2015.ffconf.org "ffconf 2015"), November 6th, Brighton, UK, [Call for Speakers open now](https://remysharp.com/2015/05/25/call-for-proposals-at-ffconf-2015).
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 [Behind Silicon Valley's self-critical tone on diversity, a lack of progress](http://bits.blogs.nytimes.com/2015/06/28/new-diversity-reports-show-the-same-old-results/)
 
@@ -87,13 +87,13 @@ Staff pick: [Realtime Conf](http://realtimeconf.com), October 6th-8th, Richland,
 
 Comedian John Oliver's take on [online harassment](https://youtu.be/PuNIwYsz7PI).
 
-##The Business
+## The Business
 
 [How to avoid a total UX mess in product support](http://leo.github.io/blog/avoid-a-total-ux-mess-in-product-support/).
 
 [Building a diverse board makes sense](http://techcrunch.com/2015/06/21/building-a-diverse-board-makes-sense-for-startups/) (not only) for startups.
 
-##We <3
+## We <3
 
 [TOUCAN!! TOUCAN!!!](https://pbs.twimg.com/tweet_video/CIgBO6gVEAAT2h7.mp4)
 

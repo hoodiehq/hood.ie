@@ -8,7 +8,7 @@ layout: blog-post-tgif
 
 Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! The week’s (almost) over, and these are our reading recommendations, curated for you by Julia and Lena, for your weekend or a lazy afternoon. Enjoy!
 
-##Open Source
+## Open Source
 On the <a href="http://www.youtube.com/watch?v=TE-JbJ5Ues8">business value of open source</a>: <em>"If you said 20 years ago, that there would be this huge thing and everybody would work for free and they would give things away for free, you wouldn't have believed it."</em>
 
 Sascha Brink is writing an <a href="https://leanpub.com/angularjs-cookbook">AngularJS Cookbook</a> to help you speed up your work process when using the framework. 85 percent are already done and ready to be read and you yourself decide, what you want to pay.

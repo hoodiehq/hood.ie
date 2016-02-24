@@ -12,7 +12,7 @@ TGIF! — Thank Grohl, Gauss, Glob, Galileo and Science it’s <strike>Friday</s
 
 Oh, and by the way: <b>[our blog's RSS feed is back](http://hood.ie/feed.xml)</b> — subscribe now on [hood.ie](http://hood.ie) or [http://hood.ie/feed.xml](hood.ie) to make sure you never miss a post! <3
 
-##Open Source
+## Open Source
 
 [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 
@@ -20,7 +20,7 @@ What happened while [contributing to Open Source on a daily basis for one year](
 
 [Makers: The Next Frontier for Open Source](https://www.youtube.com/watch?v=J5zbxFuqNx0)
 
-##Design
+## Design
 
 >
 Stop working so hard. Seriously, stop it. Until we’re congratulating ourselves and our friends not for how busy we are, but for rearranging work we can’t countenance without crying, for setting aside a week to just sit and read, for going for a walk or a drink with a friend. — <cite>[Self employment in games](http://www.hannahnicklin.com/2015/03/self-employment-practices-in-games/)</cite>
@@ -35,7 +35,7 @@ Stop working so hard. Seriously, stop it. Until we’re congratulating ourselves
 
 > There are seven guiding principles that can help designers to make choices that will fit a broader audience, and five of them are applicable to the world of web applications and sites — [Designing for dyslexia](http://www.uxbooth.com/articles/designing-for-dyslexia-part-2/)
 
-##The Web and Development
+## The Web and Development
 
 Design Patterns: [The decorator pattern](http://code.tutsplus.com/tutorials/design-patterns-the-decorator-pattern--cms-22641)
 
@@ -45,14 +45,14 @@ Design Patterns: [The decorator pattern](http://code.tutsplus.com/tutorials/desi
 
 [How to avoid JavaScript mistakes with a static code analyzer](http://www.smashingmagazine.com/2015/02/18/avoid-javascript-mistakes-with-static-code-analyzer/)
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 [Parable of the polygons](http://ncase.me/polygons/) - a playable post on the shape of society.
 
 >
 It's nice that you think they're all brave, but they shouldn't have to be. They're not going to the frontlines of a war zone. They're going to write code. — <cite>[Honey, I left the tech industry](http://www.catehuston.com/blog/2015/02/25/honey-i-left-the-tech-industry)</cite>
 
-##The Business
+## The Business
 
 >
 CTO is not an engineering role. CTO is not the top of the technical ladder, it is not the natural progression for engineers over the course of their careers to strive to achieve. It's not a role most people who love coding, architecture, and deep technical design would enjoy doing.- <cite>[On the role of CTO](http://whilefalse.blogspot.de/2015/02/cto.html)</cite>
@@ -61,7 +61,7 @@ How to go [from structureless to structured](http://de.slideshare.net/CamilleFou
 
 Infographic: [How to save your business from cyber attacks](http://www.inc.com/will-yakowicz/infographic-how-to-save-your-company-cyber-attack.html)
 
-##We <3
+## We <3
 
 [What do artists do all day?](https://www.youtube.com/playlist?list=PLM4S2hGZDSE4645tTLQ-q0CGiR4eSFlBW)
 

@@ -8,7 +8,7 @@ comments: true
 
 TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s <strike>Fri</strike>Tuesday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. They're curated, just for you, by [Julia](http://twitter.com/juschm) and [Jan](http://twitter.com/janl). Enjoy!
 
-##Open Source
+## Open Source
 
 [PouchDB 3.6](http://pouchdb.com/2015/06/01/pouchdb-3.6.0.html) is out and offers some performance improvements.
 
@@ -16,7 +16,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s <strike>Fri</stri
 
 [Apache Software Foundation](https://s3.amazonaws.com/files-dist1/AnnualReports/ASFAnnualReport-FY2014-2015FINAL.pdf) has released their first annual report to bring some recognition for all people involved.
 
-##Design
+## Design
 
 > Access to digital resources is an individual and societal imperative and a fundamental human right <cite>[A (rough) manifesto for accessible user experience](https://medium.com/@accessibleux/rough-manifesto-for-accessible-user-experience-10a3ea34a3d6)</cite>
 
@@ -36,7 +36,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s <strike>Fri</stri
 
 [The PLAY button is not optical alignment](https://medium.com/@erqiudao/the-play-button-is-not-optical-alignment-4cea11bda175).
 
-##The Web and Development
+## The Web and Development
 
 [Is HTML “complete”?](http://www.brucelawson.co.uk/2015/is-html-complete/ "Bruce Lawson&#8217;s  personal site&nbsp; : Is HTML &#8216;complete&#8217;?")
 
@@ -96,7 +96,7 @@ Staff pick: **[Realtime Conf](http://realtimeconf.com), October 6th-8th, Richlan
 [Full Frontal](http://2015.ffconf.org "ffconf 2015"), November 6th, Brighton, UK, [Call for Speakers open now](https://remysharp.com/2015/05/25/call-for-proposals-at-ffconf-2015).
 
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 [Keep your Open Source Open!](https://twitter.com/dch__/status/607827305214418945)
 
@@ -130,7 +130,7 @@ What's going on in there? (on mental illness)](http://www.bubakes.co.uk/blog/wha
 [What if men had periods? It's a question still worth posing](http://www.theguardian.com/commentisfree/2015/may/28/what-if-men-had-periods).
 
 
-##The Business
+## The Business
 
 What's one thing you've learned at Harvard Business School that [blew your mind?](https://medium.com/thelist/what-s-one-thing-you-ve-learned-at-harvard-business-school-that-blew-your-mind-fdea346a0422)
 
@@ -138,7 +138,7 @@ What's one thing you've learned at Harvard Business School that [blew your mind?
 
 > Don't hire a junior developer if you don’t have the resources to mentor them. <cite>[The Catch-22 of Being "Too Junior"](https://medium.com/coding-culture/the-catch-22-of-being-too-junior-43af002958c)</cite>
 
-##We <3
+## We <3
 
 [WonderWombat](https://twitter.com/hashtag/WONDERWOMBAT)!!! What's not to love?
 

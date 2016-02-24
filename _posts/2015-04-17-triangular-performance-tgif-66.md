@@ -10,14 +10,14 @@ comments: true
 
 TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. They're curated, just for you, by [Julia](http://twitter.com/juschm). Enjoy!
 
-##Open Source
+## Open Source
 
 [Docker 1.6](http://blog.docker.com/2015/04/docker-release-1-6/) is ready for download now. Updated components include Docker Engine, Registry, Compose, Swarm, and Machine.
 
 If you want to use Polymer but have a question, there now is a [channel](http://polymer-slack.herokuapp.com/) for that.
 
 
-##Design
+## Design
 
 > Etsy: Performance is user experience <cite>[Designing for Performance](http://larahogan.me/design/)</cite>
 
@@ -25,7 +25,7 @@ If you want to use Polymer but have a question, there now is a [channel](http://
 
 > The Nintendo “Virtual Boy” was released in the United States in 1995 and discontinued in 1996 — making it the white whale of gaming tech in our little home town.  <cite>Lessons learned from [designing for immersive environments](https://medium.com/backchannel/immersive-design-76499204d5f6)</cite>
 
-##The Web and Development
+## The Web and Development
 
 >
 In the time-honored tradition of taking yet another noun and making .js file out of it, I proudly present black-hole.js (see on GitHub), which uses a numerical ordinary differential equation solver from numeric.js, and some nice WebGL utilities from glfx.js, to render the gravitational lensing of a black hole.<cite>[black-hole.js](http://cliffcrosland.tumblr.com/post/115981256393/black-hole-js)</cite>
@@ -62,7 +62,7 @@ Meet the Hoodie community at one or more of these fine events:
 > We are inviting the JavaScript community to submit talks for the upcoming JSConf EU (Friday September 25th and Sunday 27th, Berlin). This Call for Presentation closes on April 30th. <cite>[The JSConf EU Call for Speakers is open now](http://2015.jsconf.eu/call-for-speakers/)</cite>
 
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 >
 Hidden inside that “full-stack employee” manifesto is the idea that tech equals work and work equals life. Despite all the talk of learning and growing, the full-stack employee is primarily focused on conquering domains within the tech industry. But there have always been ways to impact the world outside the workplace. Unfortunately, the continuous pursuit of professional skillsets tends to diminish the boundaries between work and everything else, leaving you with less and less time to actually grow as a human being. <cite>[The full-stack employee and the glorification of generalization](https://modelviewculture.com/news/the-full-stack-employee-and-the-glorification-of-generalization)</cite>
@@ -72,7 +72,7 @@ Kate Heddleston will talk about how engineering environments are killing diversi
 [2015 is the year of the tableflip](http://tableflip.club).
 
 
-##The Business
+## The Business
 
 >
 Until about six months ago, I thought I knew exactly what went into creating a positive company culture.
@@ -82,7 +82,7 @@ The components included Google-style perks like a hip office design, regular hap
 
 [Managing an employee with a different communication style](http://mashable.com/2015/04/15/managing-communication-style)
 
-##We <3
+## We <3
 
 Yay, the things you can do with some lines of code: Just have a look at the center of this mesmerizing [triangular spiral](http://bl.ocks.org/mbostock/1d48ce4f3024edfc2277).
 

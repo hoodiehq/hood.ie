@@ -12,19 +12,19 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 Oh, and by the way: <b>our blog's RSS feed is back</b> – subscribe now on hood.ie or hood.ie/feed.xml to make sure you never miss a post! <3
 
-##Open Source
+## Open Source
 
 [WebVR lands in Firefox Nightly](http://mozvr.com/posts/webvr-lands-in-nightly/).
 
 Today is the last day to apply for a travel grant to visit [CouchDB Day in Hamburg, Germany](http://day.couchdb.org/), on February 07. Find out how to apply [here](http://hood.ie/blog/travel-grants-for-couchdb-day.html).
 
-##Design
+## Design
 
 The 80% Rule: [When to show your work](http://blog.creativelive.com/when-to-show-your-work/).
 
 [Achieving a good work/life balance](https://authorallsorts.wordpress.com/2015/01/20/achieving-a-good-worklife-balance-as-a-freelance-illustrator-or-at-least-trying-to-2/) as a freelance illustrator (or at least trying to).
 
-##The Web and Development
+## The Web and Development
 
 >
 So, as a public service, I’m going to list assumptions your systems probably make about names.  All of these assumptions are wrong.  Try to make less of them next time you write a system which touches names. –
@@ -44,7 +44,7 @@ Judgments about language use, despite being far from “objective” or “techn
 
 Life long learning ahead: [does developer knowledge really only last five years?](http://jaxenter.com/curse-developer-knowledge-lasts-five-years-113646.html)
 
-##The Tech World and Culture
+## The Tech World and Culture
 
 >
 But for many very competent technical people, dealing with projects that are run this way just isn’t worth it. –
@@ -69,7 +69,7 @@ Whether male, female, non-binary, or human, I urge you, please. Support us. If y
 
 MIT researcher on [internet misogyny and programming for privacy](https://gigaom.com/2015/01/17/mit-researcher-on-internet-misogyny-and-programming-for-privacy/).
 
-##The Business
+## The Business
 
 >
 I don’t want to burn out. I don’t want my team to burn out. But I don’t
@@ -86,7 +86,7 @@ it reacts to change, the way it builds things. –
 
 Why are we choosing to work with questionable jokers [when we don’t have to?](http://venturebeat.com/2015/01/18/why-so-many-entrepreneurs-work-with-clowns-and-buffoons/)
 
-##We <3
+## We <3
 
 So much yes: [Mansplainer – the song](https://www.youtube.com/watch?v=9odBeuK251o).
 
