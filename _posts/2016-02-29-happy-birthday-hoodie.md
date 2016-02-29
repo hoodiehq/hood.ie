@@ -7,11 +7,9 @@ comments: true
 
 ---
 
-# Hello Hoodie friends :)
+By the power of leap years, __today and yesterday__ marks Hoodie’s third birthday and we’re inviting you to join us in celebrating. After all, we have accomplished so much together!
 
-![Happy Hoodie Birthday](/blog/images/201602/happyhoodie.png)
-
-By the power of leap years, __today and yesterday__ marks our third birthday and we’re inviting you to join us in celebrating. After all, we have accomplished so much together!
+<img src="/blog/images/201602/happyhoodie.png" alt="Happy Hoodie Birthday" style="float: right; border: 0">
 
 – [First presentation](https://www.youtube.com/watch?v=X3Ttb0BD8pg), three years ago in 2013  
 – 3200+ [followers on Twitter](https://twitter.com/hoodiehq)  
@@ -32,7 +30,7 @@ We had a small birthday party in Berlin last night, and thanks to the many frien
 
 We’re going to have a lot more to celebrate this year, and coming very soon is the Camp Release on our roadmap to Hoodie 1.0!
 
-![Camp Release Illustration](/blog/images/201602/campsite2.png)
+<img src="/blog/images/201602/campsite2.png" alt="Hoodie Camp!" style="border: 0">
 
 Up until eight months ago, we’ve had Hoodie built up to be a nice, standalone house that a large family could comfortably live in. It showed Hoodie’s potential and got a lot of people interested and now we’ve got a good number of apps built with it and it’s even being used commercially. A full success. 
 
