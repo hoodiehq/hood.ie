@@ -9,28 +9,30 @@ comments: true
 
 # Hello Hoodie friends :)
 
-By the power of leap years, _today and yesterday_ marks our third birthday and we’re inviting you to join us in celebrating. After all, we have accomplished so much together!
+![Happy Hoodie Birthday](/blog/images/201602/happyhoodie.png)
 
-– [First presentation](https://www.youtube.com/watch?v=X3Ttb0BD8pg), three years ago in 2013
-– 3200+ [followers on Twitter](https://twitter.com/hoodiehq)
-– 3100+ [project stars on GitHub](https://github.com/hoodiehq) 
-– 56+ contributors and growing!
-– 9500+ commits
-– 155+ [Blog Posts](http://hood.ie/blog/)
-– [noBackend](http://hood.ie/initiatives/#nobackend)
-– [Offline First](http://hood.ie/initiatives/#offline-first)
-– First app: [minutes.io](https://minutes.io/)
-– [Improving the npm ecosystem](http://greenkeeper.io/)
-– Global [Meet the Hoodies](http://hood.ie/events/) events and talks!
-– Working hard together to have a reputation for being [one of the most inclusive communities in Open Source](https://opensource.com/life/16/2/hoodie-open-source-community)!
+By the power of leap years, __today and yesterday__ marks our third birthday and we’re inviting you to join us in celebrating. After all, we have accomplished so much together!
 
-To show our gratitude for joining us on this journey, we’re offering a [birthday discount on exclusive Hoodie merchandise](http://hood.ie/merchandise/). Depending on the items you are picking, the discount is between _20% and 25% off_.
+– [First presentation](https://www.youtube.com/watch?v=X3Ttb0BD8pg), three years ago in 2013  
+– 3200+ [followers on Twitter](https://twitter.com/hoodiehq)  
+– 3100+ [project stars on GitHub](https://github.com/hoodiehq)  
+– 56+ contributors and growing!  
+– 9500+ commits  
+– 155+ [Blog Posts](http://hood.ie/blog/)   
+– [noBackend](http://hood.ie/initiatives/#nobackend)  
+– [Offline First](http://hood.ie/initiatives/#offline-first)  
+– First app: [minutes.io](https://minutes.io/)  
+– [Improving the npm ecosystem](http://greenkeeper.io/)  
+– Global [Meet the Hoodies](http://hood.ie/events/) events and talks!  
+– Working hard together to have a reputation for being [one of the most inclusive communities in Open Source](https://opensource.com/life/16/2/hoodie-open-source-community)!  
+
+To show our gratitude for joining us on this journey, we’re offering a [birthday discount on exclusive Hoodie merchandise](http://hood.ie/merchandise/). Depending on the items you are picking, the discount is between __20% and 25% off__.
 
 We had a small birthday party in Berlin last night, and thanks to the many friends who helped us celebrate. If you couldn’t be there – [check out the video!](https://www.youtube.com/watch?v=Gg_0uYH3Nnw&feature=youtu.be)
 
 We’re going to have a lot more to celebrate this year, and coming very soon is the Camp Release on our roadmap to Hoodie 1.0!
 
-[Tent illustration]
+![Camp Release Illustration](/blog/images/201602/campsite2.png)
 
 Up until eight months ago, we’ve had Hoodie built up to be a nice, standalone house that a large family could comfortably live in. It showed Hoodie’s potential and got a lot of people interested and now we’ve got a good number of apps built with it and it’s even being used commercially. A full success. 
 
