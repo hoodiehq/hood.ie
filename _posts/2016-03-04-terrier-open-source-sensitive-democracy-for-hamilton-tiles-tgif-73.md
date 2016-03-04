@@ -122,7 +122,7 @@ Nathan got it all right on first try. Just like his many contributions before. T
 for all your hard work, Nathan!
 
 [Gregor](https://github.com/gr2m) made a special birthday present and prepared a bunch of [Starter Issues](http://go.hood.ie/hoodie-starter-issues),
-based on a [outstandingly thorough researched issue](https://github.com/hoodiehq/hoodie-server-account/issues/83) by [Patricia](https://patriciagarcia).
+based on a [outstandingly thorough researched issue](https://github.com/hoodiehq/hoodie-server-account/issues/83) by [Patricia](https://github.com/patriciagarcia).
 
 [Nick Colley](https://github.com/nickcolley), Hoodie’s PouchDB expert in residence :),
 is always there when someone gets stuck, has a question, or a pull request needs a
@@ -132,7 +132,7 @@ it speaks for itself :)
 Thanks to [Steffen](https://github.com/stehuebn) for reporting [a bug in our new Hoodie Tracker App](https://github.com/hoodiehq/hoodie-app-tracker/issues/19).
 
 Last but not least, thanks [Cecily](https://github.com/skeskali) for bringing
-back our beloved TGIF: [Terrier Open Source Sensitive Democracy for Hamilton Tiles](hood.ie/blog/terrier-open-source-sensitive-democracy-for-hamilton-tles-tgif-72.html)
+back our beloved TGIF: [Terrier Open Source Sensitive Democracy for Hamilton Tiles](http://hood.ie/blog/terrier-open-source-sensitive-democracy-for-hamilton-tiles-tgif-73.html)
 
 ## Would you like to become a Hoodie Contributor?
 
