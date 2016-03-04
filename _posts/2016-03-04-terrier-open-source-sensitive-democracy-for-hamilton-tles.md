@@ -82,3 +82,107 @@ If you’re in Washington, D.C., come [Meet The Hoodies!](https://ti.to/hoodie/d
 Read this short story, take a deep breath, relax, and read it again. It’s so good.
 
 > There was nothing phoenix-like in my sister’s immolation. Just the scent of charred skin, unbearable heat, the inharmonious sound of her last, grief-raw scream as she evaporated, leaving glass footprints seared into the desert sand. <cite>[A Fist of Permutations in Lightning and Wildflowers](http://www.tor.com/2016/03/02/a-fist-of-permutations-in-lightning-and-wildflowers-alyssa-wong/), a short story by Alyssa Wong</cite>
+
+## Shout outs 📣
+
+🎉We are super proud and happy that [Aline](https://twitter.com/AlineBastos) & [Stephen](https://github.com/stevemasta34)
+submitted their [very](http://firstpr.me/#AlineBastos) [first](http://firstpr.me/#stevemasta34)
+pull requests to Hoodie. Welcome to Hoodie and the Open Source Community 🎉
+
+👏 We welcome [Charlotte](https://github.com/Charlotteis) as a new [Hoodie core member](http://hood.ie/community).
+Not only did they leave a big dent with their work on [Your First PR](http://yourfirstpr.github.io/), they also helped greatly
+with feedback to improve accessibility in [new Hoodie’s Tracker App](https://github.com/hoodiehq/hoodie-app-tracker) and
+by reviewing pull requests to help get them merged faster.
+
+👏 We also welcome [Julia](https://github.com/jsimplicio) as a new [Hoodie core member](http://hood.ie/community).
+Julia is doing tremendous work on Hoodie’s new [Tracker App](https://github.com/hoodiehq/hoodie-app-tracker).
+This is the first app that is using [Hoodie’s new Camp Release](http://gr2m.github.io/milestones), and Julia
+does a great job to make this first experience stellar.
+
+We can’t thank [Jenn](https://github.com/renrutnnej) enough these days! Not only does she do an amazing
+job with our monthly [Hoodie letter](http://us4.campaign-archive2.com/home/?u=12d36bbe9418ed6a43127cd62&id=664f4ce8cd),
+she took on [Hoodie’s Editorial Team](https://github.com/hoodiehq/editorial/), simplifying processes, adding documentation
+where we were lacking, creating a bunch of [editorial Starter Issues](https://github.com/hoodiehq/editorial/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+label%3Aready+author%3Arenrutnnej)
+for new contributors and staying on top of things in our [Hoodie Chat](http://hood.ie/chat/).
+And all that while she starter her very own new thing: [jennwrit.es/newsletters](http://jennwrit.es/newsletters).
+
+Thanks to [Bill](https://github.com/crswll) we removed a very [strange link on hood.ie](https://github.com/hoodiehq/hood.ie/issues/237) – good catch, thanks for reporting :)
+
+[Jan](https://github.com/hoodiehq/hoodie-client/pull/64) took on an issue that
+looked like a simple fix, but turns out the be quite a challenge. No reason to
+give up for Jan, thanks for your great efforts 👍
+
+No words needed to express our gratitude to [Nathan](https://github.com/nathanstilwell)
+for taking on [adding options.interval.connected & options.interval.disconnected to hoodie.connectionStatus](https://github.com/hoodiehq/hoodie-client-connection-status/issues/24).
+Nathan got it all right on first try. Just like his many contributions before. Thanks
+for all your hard work, Nathan!
+
+[Gregor](https://github.com/gr2m) made a special birthday present and prepared a bunch of [Starter Issues](http://go.hood.ie/hoodie-starter-issues),
+based on a [outstandingly thorough researched issue](https://github.com/hoodiehq/hoodie-server-account/issues/83) by [Patricia](https://patriciagarcia).
+
+[Nick Colley](https://github.com/nickcolley), Hoodie’s PouchDB expert in residence :),
+is always there when someone gets stuck, has a question, or a pull request needs a
+review. Just look at his [activity on GitHub](https://github.com/nickcolley?tab=activity),
+it speaks for itself :)
+
+Thanks to [Steffen](https://github.com/stehuebn) for reporting [a bug in our new Hoodie Tracker App](https://github.com/hoodiehq/hoodie-app-tracker/issues/19).
+
+Last but not least, thanks [Cecily](https://github.com/skeskali) for bringing
+back our beloved TGIF: [Terrier Open Source Sensitive Democracy for Hamilton Tiles](hood.ie/blog/terrier-open-source-sensitive-democracy-for-hamilton-tles-tgif-72.html)
+
+## Would you like to become a Hoodie Contributor?
+
+We prepared some great starter issues for you. If you like issue like these,
+we recommend you follow your friends [@YourFirstPR](http://twitter.com/yourfirstPR)
+on twitter :)
+
+### Code
+
+- [PATCH /session/account -> 409 "data.id must be '{id}'" error](https://github.com/hoodiehq/hoodie-server-account/issues/100)
+- [PATCH /session/account/profile -> 204](https://github.com/hoodiehq/hoodie-server-account/issues/102)
+- [PATCH /session/account -> 204](https://github.com/hoodiehq/hoodie-server-account/issues/99)
+- [PUT /session/account 409 error message](https://github.com/hoodiehq/hoodie-server-account/issues/97)
+
+### Editorial
+
+- [/contributers](https://github.com/hoodiehq/editorial/issues/61)
+- [Write a bio for Blog Bear 🐻](https://github.com/hoodiehq/editorial/issues/64)
+- [Create a bio (and pick out a name) for the design mascot, an alpaca](https://github.com/hoodiehq/editorial/issues/66)
+- [Additional copy for hood.ie/get-help](https://github.com/hoodiehq/editorial/issues/67)
+- [Additional copy for hood.ie/community](https://github.com/hoodiehq/editorial/issues/68)
+
+## Hoodie Camp Release
+
+As we mentioned in our [Birthday Post](http://hood.ie/blog/happy-birthday-hoodie.html),
+[we are getting close](http://gr2m.github.io/milestones) to releasing an all new Hoodie Version!
+
+We call it "Hoodie Camp Release" because it’s still rough around the edges, but
+we made sure that it’s a lot of fun to be part of it :) We keep track of [open
+issues & questions](https://github.com/gr2m/milestones/issues/88), but here
+is a summary:
+
+- [Implement username change](https://github.com/hoodiehq/hoodie-server-account/issues/79)  
+  The new Hoodie Server does not handle a username change correctly. If you like
+  [hapi](http://hapijs.com/) and [CouchDB](http://couchdb.apache.org/), you will
+  enjoy working on this issue :)
+- There is an issue with [disappearing items after login in](https://github.com/hoodiehq/hoodie-app-tracker/issues/19)
+  as mentioned above. We could use some help with finding out what is causing it :)
+- We would like to [unify Hoodie’s test setup](https://github.com/hoodiehq/hoodie/issues/457) across all repositories,
+  to make it an even nicer experience to contribute code.
+- We found a way to [simplify Hoodie’s Account JSON API](https://github.com/hoodiehq/account-json-api/issues/14),
+  and we would like to do this before promoting the new Hoodie version
+
+We also have a few open questions and would love to hear your thoughts on them.
+Thanks [Mike](https://github.com/mikehedman), [Ransom](https://github.com/ransomw),
+[Jan](https://github.com/janl), [Stephan](https://github.com/boennemann), [Nick](https://github.com/nickcolley)
+and [Lewis](https://github.com/lewiscowper) for your feedback!
+
+- [how to add a .createdBy property to automagically to all documents created with hoodie.store.add?](https://github.com/hoodiehq/hoodie-client/issues/62)
+- [rename /www folder to /public](https://github.com/hoodiehq/hoodie-server/issues/436)
+- [simplify Internal Module Architecture](https://github.com/hoodiehq/hoodie/issues/458)
+
+## We <3 Hoodies
+
+[![Goat Hoodie](http://56.media.tumblr.com/0aa36688bb6374898a8fab16487785d8/tumblr_o3bh0vuLG91spmdhyo1_1280.png)](http://meetthehoodies.tumblr.com/post/140465124702/via)
+
+Found a Hoodie Animal? [Submit it here](http://meetthehoodies.tumblr.com/submit) :)
