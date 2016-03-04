@@ -25,7 +25,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 ## Design
 
 >I have a rule: If I keep complaining about something, I either do something about it or let it go.
- <cite>[Don’t Complain, Create](http://99u.com/videos/28625/tina-roth-eisenberg-5-rules-for-making-an-impact "Don't Complain, Create")</cite>
+ <cite> Tina Roth-Eisenberg, [Don’t Complain, Create](http://99u.com/videos/28625/tina-roth-eisenberg-5-rules-for-making-an-impact "Don't Complain, Create")</cite>
 
 [Mosaic Tiles That Resemble African Fabrics](http://design-milk.com/mosaic-tiles-resemble-african-fabrics/)
 
@@ -54,7 +54,7 @@ If you're in Washington, DC, come [Meet The Hoodies](https://ti.to/hoodie/dc-mee
 
 [How to Prepare and Write a Tech Conference Talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 
-[The Faces of American Power, Nearly as Whit as the Oscar Nominees](http://www.nytimes.com/interactive/2016/02/26/us/race-of-american-power.html?_r=2)
+[The Faces of American Power, Nearly as White as the Oscar Nominees](http://www.nytimes.com/interactive/2016/02/26/us/race-of-american-power.html?_r=2)
 
 ## The Business
 
@@ -68,11 +68,13 @@ If you're in Washington, DC, come [Meet The Hoodies](https://ti.to/hoodie/dc-mee
 
 [Rails Girls Summer of Code fundraising campaign is open!](http://railsgirlssummerofcode.org/blog/2016-02-23-crowdfunding-campaign-is-open)
 
-[The Hamilton Mixtape is on the way!](http://www.vanityfair.com/culture/2016/03/questlove-lin-manuel-miranda-the-hamilton-mixtape)
+[The Hamilton Mixtape is coming ho-o-me](http://www.vanityfair.com/culture/2016/03/questlove-lin-manuel-miranda-the-hamilton-mixtape) - Shoutout to all the other Hamilton-Nerds out there (I see you!).
 
 [2016 Emoji Candidates](http://unicode.org/emoji/charts/emoji-candidates.html) - which do you like best?
 
-[Men In Western Art Who Are So Nude It Makes Them Furious](http://the-toast.net/2016/03/02/men-in-western-art-who-are-so-nude-it-makes-them-furious/)
+[The Toast: Men In Western Art Who Are So Nude It Makes Them Furious](http://the-toast.net/2016/03/02/men-in-western-art-who-are-so-nude-it-makes-them-furious/)
+
+Read this short story, take a deep breath, relax, and read it again. It's so good.
 
 > There was nothing phoenix-like in my sister’s immolation. Just the scent of charred skin, unbearable heat, the inharmonious sound of her last, grief-raw scream as she evaporated, leaving glass footprints seared into the desert sand.
 [A Fist of Permutations in Lightning and Wildflowers](http://www.tor.com/2016/03/02/a-fist-of-permutations-in-lightning-and-wildflowers-alyssa-wong/), a short story by Alyssa Wong
