@@ -43,7 +43,10 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 [Preload: What Is It Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
 
 ## Events
+
 If you’re in Washington, D.C., come [Meet The Hoodies!](https://ti.to/hoodie/dc-meet-the-hoodies) on Sunday, March 20.
+
+If you’re in Atlanta, our Gregor co-hosts an [Intro to Open Source](http://www.meetup.com/Jr-Dev-Mentoring/events/228951389/) on Saturday, April 2.
 
 ### Other Events
 [Write/Speak/Code](http://2016.writespeakcode.com/tickets), June 15-18, Chicago (IL), US
