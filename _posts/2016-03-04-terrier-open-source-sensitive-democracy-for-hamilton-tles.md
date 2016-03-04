@@ -1,5 +1,5 @@
 ---
-title: "Title To Be Determined Later:  TGIF! (73)"
+title: "TERRIER OPEN SOURCE SENSITIVE DEMOCRACY FOR HAMILTON TILES:  TGIF! (73)"
 author: cecily
 layout: blog-post-tgif
 comments: true
@@ -23,6 +23,16 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 
 ## Design
+
+> I’ve been paying close attention to these small breaks in UX that some people seem so happy to write off — the misplaced humor, the snotty error messages, the binary gender selection boxes, the assumptions about sexuality, the inability to select more than one race. What I’ve realized is that the best way to look at them is as a series of microaggressions.
+
+>Lots of people think caring about these microaggressions is a waste of time, too: Stop being so sensitive! There are more important issues in the world! Everyone’s a victim these days!
+
+> Mostly the people who don’t experience them.
+
+> For those who do, they’re exhausting. They stack up over the course of a day, a week at work, a lifetime of being fed the same BS. A million tiny moments where you were reminded that you don’t fit in, or that you’re not “normal,” or that others view your body as fair game.
+
+<cite>Sara Wachter-Boettcher, [Too Sensitive](https://medium.com/@sara_ann_marie/too-sensitive-9752a86a8382#.s4yig43qu)</cite>
 
 >I have a rule: If I keep complaining about something, I either do something about it or let it go.
  <cite> Tina Roth-Eisenberg, [Don’t Complain, Create](http://99u.com/videos/28625/tina-roth-eisenberg-5-rules-for-making-an-impact "Don't Complain, Create")</cite>
