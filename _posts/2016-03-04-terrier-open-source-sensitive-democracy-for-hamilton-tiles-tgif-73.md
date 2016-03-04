@@ -3,6 +3,7 @@ title: "TERRIER OPEN SOURCE SENSITIVE DEMOCRACY FOR HAMILTON TILES:  TGIF! (73)"
 author: cecily
 layout: blog-post-tgif
 comments: true
+redirect_from: "/blog/terrier-open-source-sensitive-democracy-for-hamilton-tles.html"
 ---
 
 TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it’s time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. They’re curated, just for you, by [Cecily](http://twitter.com/skeskali).
