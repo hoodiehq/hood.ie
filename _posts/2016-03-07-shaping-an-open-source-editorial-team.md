@@ -8,7 +8,8 @@ comments: false
 
 ---
 
-# Shaping an open source editorial team
+<img src="/blog/images/201603/community.jpg" alt="Community" style="border: 0">
+
 First thing–if you’re reading this and you know an awesome writer friend, share it with them.
 
 Second, if you’re a writer who managed to find their way here, welcome! You’re probably wondering what is an online Hoodie and what the heck does Open Source mean?
@@ -71,4 +72,3 @@ Any of the issues with a `ready` label mean that they are available for anyone t
 Otherwise, head on over to the [official Hoodie contribute page](http://hood.ie/contribute/), where you can get some background on the project and all of the different ways one can contribute to the Hoodie community. There’s also some more information on the [editorial team’s repository](https://github.com/hoodiehq/editorial), including a very warm, emoji-laden welcome.
 
 Finally, if you’d prefer to talk directly to someone, an “IRL writer” if you will, about the experience of contributing to an Open Source project, please get ahold of me, Jenn Turner. I can be reached on Twitter at [@jennwrites](https://twitter.com/jennwrites) (my direct messages are open to anyone) or by email at [jenn@thehoodiefirm.com](mailto:jenn@thehoodiefirm.com). I look forward to hearing from you!
-
