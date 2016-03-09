@@ -51,7 +51,7 @@ Only created the [most epic return of TGIF!](http://hood.ie/blog/terrier-open-so
 
 Also, we said [Happy Birthday to Hoodie](http://hood.ie/blog/happy-birthday-hoodie.html) in February, as Hoodie turned three and we started gearing up for the Camp Release. 
 
-The editorial team also pushed forward the continuation of Meet the Hoodies blog series, a small spotlight on our regular contributors! Check out the one on [Charlotte Spencer](http://hood.ie/blog/Charlotte-Spencer-meet-the-hoodies-2.html), and [Alex Feyerke](http://hood.ie/blog/Alex-Feyerke-meet-the-hoodies-1.html)
+The editorial team also pushed forward the continuation of Meet the Hoodies blog series, a small spotlight on our regular contributors! Check out the one on [Charlotte Spencer](http://hood.ie/blog/Charlotte-Spencer-meet-the-hoodies-2.html) and [Alex Feyerke](http://hood.ie/blog/Alex-Feyerke-meet-the-hoodies-1.html).
 
 First things first, our editorial team had to have style. So we created a [style guide and wiki](https://github.com/hoodiehq/editorial/wiki) to be able to point to some general guidelines around writing and references. 
 
