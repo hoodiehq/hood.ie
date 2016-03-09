@@ -23,16 +23,16 @@ In comes the __Hoodie editorial team__. The editorial team began as a [discussio
 
 After much social media-ing and direct messaging, the editorial team officially started on the 21st of November, 2015 with an awesome Google Hangout full of people. Coincidentally, on the same day as a New York City-based [meetup for people getting familiarized with Hoodie](http://hood.ie/blog/meet-the-hoodies-offline.html).
 
-Soon after, the team created [a Slack channel](http://hood.ie/chat/) and [GitHub repository](https://github.com/hoodiehq/editorial/). GitHub is a social coding site that offers a free storage and collaboration service to customers, which can be conveniently used to store documents, hold discussions, and draft copy, among other things. Think Google Docs, for programmers.
+Soon after, the team created [a Slack channel](http://hood.ie/chat/) and [GitHub repository](https://github.com/hoodiehq/editorial/). GitHub is a social coding site that offers a free storage and collaboration service to customers (and it’s free to use for open source projects), which can be conveniently used to store documents, hold discussions, and draft copy, among other things. Think Google Docs, for programmers.
 
 Things got off to an awesome start! Folks were having interesting and sometimes intense discussions. People began writing processes and volunteering for writing and coordinating jobs.
 
 And then, well…and then the holidays came. The funny thing about Open Source is that it’s voluntary, so obviously real life comes first. But the timing of the editorial team getting kicked off right before a series of holidays—Thanksgiving in the US, Christmas, and then New Year, meant that real life held __a lot__ more distractions than quite possibly any other time of the year.
 
-In February, when things had calmed back down, I started poking around to get the editorial team up and going again. A couple weeks later, we have some solid contributions under our belt, and I think we’re making great headway for new people to be able to jump in and get started.
+In February, when things had calmed back down, a contributor named [Jenn Turner](https://twitter.com/jennwrites) started poking around to get the editorial team up and going again. A couple weeks later, we have some solid contributions under our belt, and we’re making great headway for new people to be able to jump in and get started.
 
 ## What does the editorial team do?
-At this point, we’re wrangling copy assignments to generate good coverage of all things Hoodie on our blog, as well as trying to help support the Camp Release of Hoodie 1.0. The important thing to understand is that you don’t have to have any sort of technical understanding of JavaScript to be able to lend a hand on the editorial team. If you’re interested in understanding code better, it’s a great opportunity to join [one of the most supportive teams and communities on the web today](https://opensource.com/life/16/2/hoodie-open-source-community).
+At this point, we’re wrangling copy assignments to generate good coverage of all things Hoodie on our blog, as well as trying to help support the Camp Release of Hoodie 1.0. __The important thing to understand is that you don’t have to have any sort of technical understanding of JavaScript to be able to lend a hand on the editorial team.__ If you’re interested in understanding code better, it’s a great opportunity to join [one of the most supportive teams and communities on the web today](https://opensource.com/life/16/2/hoodie-open-source-community).
 
 We also have a list of things we’d like to do, which we keep in our repository, under [the “Issues” section](https://github.com/hoodiehq/editorial/issues). It’s a great way to flag and organize ideas for the editorial team to hang on to, or jump into contributing right away.
 
