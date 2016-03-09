@@ -1,7 +1,6 @@
 ---
 
-title: 'Shaping an open source editorial team
-'
+title: 'Shaping an open source editorial team'
 author: Jenn
 layout: blog-post
 comments: false
@@ -12,7 +11,7 @@ comments: false
 
 First thing–if you’re reading this and you know an awesome writer friend, share it with them.
 
-Second, if you’re a writer who managed to find their way here, welcome! You’re probably wondering what is an online Hoodie and what the heck does Open Source mean?
+Second, if you’re a writer who managed to find their way here, welcome! You’re probably wondering “What is an online Hoodie?” and/or “What the heck does Open Source mean?”
 
 Hoodie is a group of fun folks who created a bit of code and decided to make it available to anyone with an internet connection and a sense of adventure. Instead of keeping their code to themselves, and limiting its capabilities to just a certain set of brains, they opened it up to the entire internet (and world) so that endless contributors can help shape and grow all the different ways Hoodie can now be useful.
 
@@ -28,7 +27,7 @@ Soon after, the team created [a Slack channel](http://hood.ie/chat/) and [GitHub
 
 Things got off to an awesome start! Folks were having interesting and sometimes intense discussions. People began writing processes and volunteering for writing and coordinating jobs.
 
-And then, well…and then the holidays came. The funny thing about Open Source is that it’s volunteer, so obviously real life comes first. But the timing of the editorial team getting kicked off right before a series of holidays—Thanksgiving in the US, Christmas, and then New Year, meant that real life held __a lot__ more distractions than quite possibly any other time of the year.
+And then, well…and then the holidays came. The funny thing about Open Source is that it’s voluntary, so obviously real life comes first. But the timing of the editorial team getting kicked off right before a series of holidays—Thanksgiving in the US, Christmas, and then New Year, meant that real life held __a lot__ more distractions than quite possibly any other time of the year.
 
 In February, when things had calmed back down, I started poking around to get the editorial team up and going again. A couple weeks later, we have some solid contributions under our belt, and I think we’re making great headway for new people to be able to jump in and get started.
 
@@ -37,7 +36,7 @@ At this point, we’re wrangling copy assignments to generate good coverage of a
 
 We also have a list of things we’d like to do, which we keep in our repository, under [the “Issues” section](https://github.com/hoodiehq/editorial/issues). It’s a great way to flag and organize ideas for the editorial team to hang on to, or jump into contributing right away.
 
-Beginning this week, we’re going to start a weekly hangout on [Wednesdays at 9:30 am (EST)](http://everytimezone.com/#2016-3-9,-1290,cn3). The idea is to get the editorial team together to hangout and toss ideas around, get feedback, or just catch up/get to know each other. Feel free to join us! 
+Beginning next week, we’re going to start a weekly hangout on [Wednesdays at 9:30 am (EST)](http://everytimezone.com/#2016-3-9,-1290,cn3). The idea is to get the editorial team together to hangout and toss ideas around, get feedback, or just catch up/get to know each other. [Feel free to join us!](https://plus.google.com/hangouts/_/thehoodiefirm.com/editorial-hang) 
 
 ## Where you can find us
 If you feel like joining an interesting community, and you have some writerly skills to contribute, but not only that, maybe you have social media skills, or organizational ones, or process writing, documentation writing, or event planning skills. The thing about Hoodie is, if you want to be a part of the community, there is a place for you. The only stipulation is, that you have to adhere to our [Code of Conduct](http://hood.ie/code-of-conduct).
@@ -62,12 +61,11 @@ As mentioned above, there are several spots you can go to first, but if you’re
 Examples of some open issues (or available writing contributions):
 
 + [Idea for blog series: projects we love](https://github.com/hoodiehq/editorial/issues/25)
-+ [Creating our wikipedia page](https://github.com/hoodiehq/editorial/issues/57)
-+ [Creating bios for our Hoodie animals](https://github.com/hoodiehq/editorial/issues/66)
-+ [Help contribute to the hoodiehq twitter account](https://github.com/hoodiehq/editorial/issues/5)
 + [Write blog posts for the hoodie blog](https://github.com/hoodiehq/editorial/issues/71)
++ [Help us draft documentation for licensing](https://github.com/hoodiehq/editorial/issues/10)
++ [Coordinate copy for a new version of the Contribute page](https://github.com/hoodiehq/editorial/issues/61)
 
-Any of the issues with a `ready` label mean that they are available for anyone to take, so feel free to claim any of the issues you’re interested in.
+Any of the issues with a `help wanted` or `ready` label mean that they are available for anyone to take, so feel free to claim any of the issues you’re interested in.
 
 Otherwise, head on over to the [official Hoodie contribute page](http://hood.ie/contribute/), where you can get some background on the project and all of the different ways one can contribute to the Hoodie community. There’s also some more information on the [editorial team’s repository](https://github.com/hoodiehq/editorial), including a very warm, emoji-laden welcome.
 
