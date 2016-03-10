@@ -27,3 +27,17 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 
 ## We <3
+
+
+## Shout outs :mega:
+
+
+## Become a Hoodie Contributor
+
+
+## Hoodie Camp Release
+
+
+## We <3 Hoodies
+
+<!-- Tumblr entry from last week, or pick your favourite one -->
