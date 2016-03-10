@@ -41,10 +41,10 @@ Beginning next week, we’re going to start a weekly hangout on [Wednesdays at 9
 ## Where you can find us
 If you feel like joining an interesting community, and you have some writerly skills to contribute, but not only that, maybe you have social media skills, or organizational ones, or process writing, documentation writing, or event planning skills. The thing about Hoodie is, if you want to be a part of the community, there is a place for you. The only stipulation is, that you have to adhere to our [Code of Conduct](http://hood.ie/code-of-conduct).
 
-Ways you can find us –
-+ [Check out the official contribute page](http://hood.ie/contribute/) 
-+ [Visit our GitHub repository](https://github.com/hoodiehq/editorial)
-+ [Sign up for Slack and come hang out to chat!](http://hood.ie/chat/)
+Ways you can find us –  
++ [Check out the official contribute page](http://hood.ie/contribute/)  
++ [Visit our GitHub repository](https://github.com/hoodiehq/editorial)  
++ [Sign up for Slack and come hang out to chat!](http://hood.ie/chat/)  
 
 ## What sorts of things has the team done so far?
 Only created the [most epic return of TGIF!](http://hood.ie/blog/terrier-open-source-sensitive-democracy-for-hamilton-tiles-tgif-73.html), Hoodie’s weekly blog of awesomeness! 
@@ -65,7 +65,7 @@ Examples of some open issues (or available writing contributions):
 + [Help us draft documentation for licensing](https://github.com/hoodiehq/editorial/issues/10)
 + [Coordinate copy for a new version of the Contribute page](https://github.com/hoodiehq/editorial/issues/61)
 
-Any of the issues with a `help wanted` or `ready` label mean that they are available for anyone to take, so feel free to claim any of the issues you’re interested in.
+Any of the issues with a __help wanted__ or __ready__ label mean that they are available for anyone to take, so feel free to claim any of the issues you’re interested in.
 
 Otherwise, head on over to the [official Hoodie contribute page](http://hood.ie/contribute/), where you can get some background on the project and all of the different ways one can contribute to the Hoodie community. There’s also some more information on the [editorial team’s repository](https://github.com/hoodiehq/editorial), including a very warm, emoji-laden welcome.
 
