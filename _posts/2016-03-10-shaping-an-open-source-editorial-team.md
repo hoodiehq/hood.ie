@@ -39,7 +39,7 @@ We also have a list of things we’d like to do, which we keep in our repository
 Beginning next week, we’re going to start a weekly hangout on [Wednesdays at 9:30 am (EST)](http://everytimezone.com/#2016-3-9,-1290,cn3). The idea is to get the editorial team together to hangout and toss ideas around, get feedback, or just catch up/get to know each other. [Feel free to join us!](https://plus.google.com/hangouts/_/thehoodiefirm.com/editorial-hang) 
 
 ## Where you can find us
-If you feel like joining an interesting community, and you have some writerly skills to contribute, but not only that, maybe you have social media skills, or organizational ones, or process writing, documentation writing, or event planning skills. The thing about Hoodie is, if you want to be a part of the community, there is a place for you. The only stipulation is, that you have to adhere to our [Code of Conduct](http://hood.ie/code-of-conduct).
+If you feel like joining an interesting community, and you have some writerly skills to contribute, but not only that, maybe you have social media skills, or organizational ones, or process writing, documentation writing, or event planning skills. The thing about Hoodie is, if you want to be a part of the community, there is a place for you. The only stipulation is you have to adhere to our [Code of Conduct](http://hood.ie/code-of-conduct).
 
 Ways you can find us –  
 + [Check out the official contribute page](http://hood.ie/contribute/)  
