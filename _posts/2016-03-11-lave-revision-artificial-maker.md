@@ -1,6 +1,6 @@
 ---
 
-title: ' TBD TGIF 74'
+title: ' LAVE REVISION ARTIFICIAL MAKER:  TGIF! (74)'
 author: cecily
 layout: blog-post-tgif
 comments: true
@@ -45,7 +45,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 [FLOSS Weekly Podcast](https://www.twit.tv/shows/floss-weekly) - hear Jan and Jenn talk about Hoodie. Live stream starts Tuesday, March 15, at 12:30pm Eastern / 9:30am Pacific / 17:30 UTC.
 
-New England Software Engineers host Hoodies Gregor and Nolan as they talk about Offline First. Thursday, March 31, Boston (MA), US
+New England Software Engineers host Hoodies [Gregor](https://twitter.com/gr2m) and [Nolan](https://twitter.com/nolanlawson) as they talk about Offline First. Thursday, March 31, Boston (MA), US
 
 ### Other Events
 
