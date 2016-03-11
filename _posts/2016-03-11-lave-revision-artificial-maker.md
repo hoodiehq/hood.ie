@@ -18,8 +18,7 @@ Thanks to Christoph ([GitHub](https://github.com/christophwitzko), [Twitter](htt
 
 Our two favourites Nicks ([1](https://github.com/hipsterbrown), [2](https://github.com/nickcolley)) do an outstanding job as part of Hoodie’s maintainers team to review new Pull Requests and help people contributing in many ways, both on GitHub and our [Hoodie Chat](http://hood.ie/chat/). While at it, shout out to [LGTM.co](https://lgtm.co/) – it integrates nicely with GitHub and makes sure we don’t merge anything without at least two reviews from our maintainers. Check it out :)
 
-Thanks to Charlotte ([GitHub](github.com/Charlotteis), [Twitter](github.com/Charlotteis)), Jan ([GitHub](https://github.com/janl), [Twitter](https://twitter.com/janl)), Jenn ([GitHub](https://github.com/renrutnnej), [Twitter](https://twitter.com/jennwrites)), Jules ([GitHub](https://github.com/jo-porter), [Twitter](https://twitter.com/ExactlyJ)) on their amazing editorial work. Talking about writing, here’s a sneak peak by Annika ([GitHub](https://github.com/NeekyRabbit), [Twitter](https://twitter.com/NeekyRabbit)) you don’t want to miss: [Meet The Blog Bear 🐻](https://docs.google.com/document/d/1gJZnZxTYMRYek54O5xqeLK1NcIDSijTeO17eZ7Tikto/edit)
-
+Thanks to Charlotte ([GitHub](github.com/Charlotteis), [Twitter](github.com/Charlotteis)), Jan ([GitHub](https://github.com/janl), [Twitter](https://twitter.com/janl)), Jenn ([GitHub](https://github.com/renrutnnej), [Twitter](https://twitter.com/jennwrites)), Jules ([GitHub](https://github.com/jo-porter), [Twitter](https://twitter.com/ExactlyJ)) on their amazing editorial work.
 
 ## Open Source
 
