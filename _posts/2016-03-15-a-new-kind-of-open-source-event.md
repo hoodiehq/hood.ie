@@ -12,15 +12,15 @@ Earlier this year, [Your First PR](http://yourfirstpr.github.io/) promoted our [
 
 <img src="/blog/images/201603/kim-crayton-tweet.png" alt="This is a great idea. Is there anyone doing this in the Atlanta area?">
 
-Good question! It made us think: we had limited the event to Hoodie only. Why not open it up to all Open Source projects? And just like that, the idea for a new kind of Open Source event was born.
+Good question! It made us think—we had limited the event to Hoodie only—why not open it up to all Open Source projects? And just like that, the idea for a new kind of Open Source event was born.
 
 # Welcome to Open Source!
 
-The idea is simple: **different Open Source projects prepare issues that are reserved for participants of the event**. The participants can choose from all the prepared issues across many projects and technologies. Ideally someone from each of the Open Source projects will be available online during the event to answer questions and to review the pull requests. There will also be several experienced Open Source contributors at the event to answer questions and help with the first pull requests in person.
+The idea is simple: **different Open Source projects prepare issues reserved for participants of the event**. The participants can choose from all the prepared issues across many projects and technologies. Ideally someone from each of the Open Source projects will be available online during the event to answer questions and to review pull requests. There will also be several experienced Open Source contributors at the event to answer questions and help with the first pull requests in person.
 
-The first event of that kind will, of course, take place in Atlanta. Kim and Hoodie’s [Gregor](https://twitter.com/gr2m/) will host the event. It will take place on [April 2nd at the Iron Yard](http://www.meetup.com/Jr-Dev-Mentoring/events/228951389/). **And you are invited!** Bring your friends and Open Source projects :)
+The first event of that kind will, of course, take place in Atlanta. Kim and Hoodie’s [Gregor](https://twitter.com/gr2m/) are hosting the event, which takes place on [April 2nd at the Iron Yard](http://www.meetup.com/Jr-Dev-Mentoring/events/228951389/). **And you are invited!** Bring your friends and Open Source projects :)
 
-This is more than just a technical introduction on how to contribute to Open Source. **This is the Open Source community welcoming you as new contributors**, and making it a great experience.
+This is more than just a technical introduction on how to contribute to Open Source. **This is the Open Source community welcoming you as new contributors**, and making it a great experience.
 
 # Call for Projects!
 
@@ -33,7 +33,7 @@ We would like to invite all Open Source Projects to participate :) We ask for on
 
 We wrote a blog post on [how we create starter issues at Hoodie](http://hood.ie/blog/starter-issues.html), but we don’t want to set any requirements for the format. **Do whatever you think is best from a perspective of a new contributor to your project.** Just keep in mind that most likely the person to work on the issue might never have contributed to Open Source before, and might also be a beginner. So even trivial looking issues like a typo in a README file could make a great issue for some participants. We also recommend to follow [@YourFirstPR](https://twitter.com/yourfirstPR) on Twitter to see how other projects do it. Another great resource is [atfirsttimersonly.com](http://www.firsttimersonly.com/).
 
-The only thing we ask you to do is to add this banner on top of the issue, so that others know that the issue is reserved for participants of the “Welcome to Open Source, Atlanta” event:
+Additionally, we ask you to add this banner on top of the starter issues, so that others know that the issue is reserved for participants of the “Welcome to Open Source, Atlanta” event:
 
 <img src="/blog/images/201603/welcome-to-open-source-banner.png" alt="Community">
 
@@ -49,15 +49,15 @@ Simply copy and paste this code and put it on top of every issue you create for 
 
 ## Be available for questions and reviews of pull requests
 
-**We will be there to help** the participants with all questions regarding _git_ and GitHub, but if there are follow up questions to your prepared issues, it would be great if someone from the project could be available online or in person to answer questions. And if a pull request is ready, it would be fabulous if the pull request could be reviewed in a timely manner.
+**We will be there to help** the participants with all questions regarding _git_ and GitHub, but if there are follow up questions to your prepared issues, it would be great if someone from the project could be available online or in person to answer them. And if a pull request is ready, it would be fabulous if the pull request could be reviewed in a timely manner.
 
 # The event
 
-Before the event, we will send out an email with links to introductions to _git_, GitHub and Open Source. We will ask the participants to install git on their laptops ahead of time.
+Before the event, we will send out an email with links to introductions to _git_, GitHub, and Open Source and we will ask the participants to install git on their laptops ahead of time.
 
 On the day of the event, each participant will add themselves to [our event page on GitHub](https://github.com/welcome-to-open-source/Atlanta) using a pull request. **This is to get their feet wet in a secure environment**.
 
-Once that is done, participants will look through the list of prepared issues by the participating projects and comment on the ones they want to pursue.
+Once that is accomplished, participants will look through the list of prepared issues by the participating projects and comment on the ones they want to pursue.
 
 The hosts will be there to help with any questions regarding _git_ and GitHub, and encourage the participants to work together and help each other out.
 
