@@ -24,7 +24,7 @@ This is more than just a technical introduction on how to contribute to Open Sou
 
 # Call for Projects!
 
-We would like to invite all Open Source Projects to participate :) We ask for only two things:
+We would like to invite all Open Source Projects to participate :) If you know projects we should reach out to for participations, [let us know](https://github.com/welcome-to-open-source/Atlanta/issues/3)! We ask for only two things:
 
 1.  To prepare starter issues [like this one](https://github.com/hoodiehq/hoodie-server-account/issues/120).
 2.  Find someone who can be around (that includes being online) for questions and reviewing pull requests.
@@ -63,8 +63,10 @@ The hosts will be there to help with any questions regarding _git_ and GitHub, a
 
 # After the event
 
-All prepared issues that have not been worked on during the event will be free for everyone to take. We hope that the participating projects will find joy in preparing starter issues, even without an event happening, to be able to welcome new contributors to Open Source at all times.
+All prepared issues that have not been worked on during the event will be free for everyone to take, and [@YourFirstPR](https://twitter.com/yourfirstPR) will help with promoting them. We hope that the participating projects will find joy in preparing starter issues, even without an event happening, to be able to welcome new contributors to Open Source at all times.
 
-If you would like to host a “Welcome to Open Source” event in your city, [let us know](http://hood.ie/contact/)! We are more than happy to assist.
+If you would like to host a “Welcome to Open Source” event in your city, you can ping [@welcome2OS](http://twitter.com/welcome2OS)! They will be more than happy to assist.
 
-Thanks to Alex, Jan & Jenn for their reviews!
+---
+
+Thanks to Alex, Jan & Jenn for their reviews of this post <3
