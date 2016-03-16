@@ -7,8 +7,6 @@ comments: true
 
 ---
 
-# FLOSS Weekly: Hoodie Interview
-
 <img src="/blog/images/201603/flossweekly.png" alt="Floss Weekly" style="border: 0">
 
 Yesterday, [Jenn Turner](https://twitter.com/jennwrites) and [Jan Lehnardt](https://twitter.com/janl) joined the [FLOSS Weekly podcast](https://www.twit.tv/shows/floss-weekly/episodes/379?autostart=false) to chat with host Randal Schwartz about Hoodie.
