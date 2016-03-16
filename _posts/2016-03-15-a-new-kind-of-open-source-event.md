@@ -31,7 +31,7 @@ We would like to invite all Open Source Projects to participate :) If you know p
 
 ## Preparing Starter Issues
 
-We wrote a blog post on [how we create starter issues at Hoodie](http://hood.ie/blog/starter-issues.html), but we don’t want to set any requirements for the format. **Do whatever you think is best from a perspective of a new contributor to your project.** Just keep in mind that most likely the person to work on the issue might never have contributed to Open Source before, and might also be a beginner. So even trivial looking issues like a typo in a README file could make a great issue for some participants. We also recommend to follow [@YourFirstPR](https://twitter.com/yourfirstPR) on Twitter to see how other projects do it. Another great resource is [atfirsttimersonly.com](http://www.firsttimersonly.com/).
+We wrote a blog post on [how we create starter issues at Hoodie](http://hood.ie/blog/starter-issues.html), but we don’t want to set any requirements for the format. **Do whatever you think is best from a perspective of a new contributor to your project.** Just keep in mind that most likely the person to work on the issue might never have contributed to Open Source before, and might also be a beginner. So even trivial looking issues like a typo in a README file could make a great issue for some participants. We also recommend to follow [@YourFirstPR](https://twitter.com/yourfirstPR) on Twitter to see how other projects do it. Another great resource is at [firsttimersonly.com](http://www.firsttimersonly.com/).
 
 Additionally, we ask you to add this banner on top of the starter issues, so that others know that the issue is reserved for participants of the “Welcome to Open Source, Atlanta” event:
 
