@@ -6,8 +6,7 @@ Hood.ie: the Website for the Hoodie Open Source Project
 To get started check out the recent version and type `npm install`.
 The default task (just type `grunt`) will fire up a local server at `localhost:1337` with livereload and dev Sass compiling (including sourcemap and nested output).
 
-This doesn't serve the actual jekyll page, though. To do that, run `jekyll serve --watch --drafts` as well, which will run the full page at `localhost:4000`, using the styles from the grunt task.
-You may need to `gem install jekyll-redirect-from jekyll-paginate` beforehand.
+This doesn't serve the actual jekyll page, though. To do that, install the jekyll plugins by typing '`bundle install`.  Now you can run `bundle exec jekyll serve --watch --drafts`, which will run the full page at `localhost:4000`, using the styles from the grunt task.
 
 There's also a production task ('grunt build') which at this point just spits out a compressed CSS file, without sourcemap in a dedicated folder(css/build).
 
@@ -106,7 +105,7 @@ Then fork, commit and PR! <3
 
 ## Deployments
 
-The new hood.ie Website doesn't need to be deployed after making changes. (Only thing you might need to know: when making changes locally on files like `_config.yml` or on blog post drafts (`_drafts`), you may need to restart your local Jekyll so you can also see them locally immediately (abort on Mac with `cmd+c`, restart with `jekyll serve --watch --drafts`(which then also gives you blog drafts).)
+The new hood.ie Website doesn't need to be deployed after making changes. (Only thing you might need to know: when making changes locally on files like `_config.yml` or on blog post drafts (`_drafts`), you may need to restart your local Jekyll so you can also see them locally immediately (abort on Mac with `cmd+c`, restart with `bundle exec jekyll serve --watch --drafts`(which then also gives you blog drafts).)
 
 ## Blog
 
@@ -123,7 +122,7 @@ The new hood.ie Website doesn't need to be deployed after making changes. (Only 
 * For a "TGIF" post, use file `tgif-sample.md` and duplicate it
 * For another blog post, use file `post-sample.md` and duplicate it
 * When you want to check the draft in your browser,
-    - run `jekyll serve --watch --drafts` in your terminal and wait until it says `server running`
+    - run `bundle exec jekyll serve --watch --drafts` in your terminal and wait until it says `server running`
     - go to `localhost:4000/blog`. All currently available drafts are then just displayed as regular Blog posts. You can now check your draft and edit it in your editor. (Note: Jekyll is sometimes a bit slow, so this may take a little bit.)
 
 ### Publishing the drafted Blog post
