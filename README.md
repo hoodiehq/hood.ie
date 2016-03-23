@@ -3,10 +3,19 @@ Hood.ie: the Website for the Hoodie Open Source Project
 
 ## Getting started
 
-To get started check out the recent version and type `npm install`.
-The default task (just type `grunt`) will fire up a local server at `localhost:1337` with livereload and dev Sass compiling (including sourcemap and nested output).
+### Installation
 
-This doesn't serve the actual jekyll page, though. To do that, install the jekyll plugins by typing '`bundle install`.  Now you can run `bundle exec jekyll serve --watch --drafts`, which will run the full page at `localhost:4000`, using the styles from the grunt task.
+To get started check out the recent version and type `npm install`.
+
+The Hoodie website is built with [Jekyll](https://jekyllrb.com/), Jekyll requires ruby version 2.0.0 or higher.  Open a terminal and type `ruby --version` to check if ruby is installed and up to date.  If not, follow the [official download instructions](https://www.ruby-lang.org/en/downloads/).  Now install [bundler](http://bundler.io/) by running `gem install bundler` on the command line.
+
+Once ruby and bundler are up and running, run `bundle install` to install jekyll.
+
+### Usage
+
+The default grunt task (just type `grunt`) will fire up a local server at `localhost:1337` with livereload and dev Sass compiling (including sourcemap and nested output).
+
+This doesn't serve the actual jekyll page, though. To do that, run `bundle exec jekyll serve --watch --drafts`, which will run the full page at `localhost:4000`, using the styles from the grunt task.
 
 There's also a production task ('grunt build') which at this point just spits out a compressed CSS file, without sourcemap in a dedicated folder(css/build).
 
