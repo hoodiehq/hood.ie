@@ -3,7 +3,6 @@
 .DS_Store
 node_modules
 _site
-Gemfile.lock
 dist/img/.DS_Store
 dist/prod/.tmp
 dist/prod/hoodie.min.css
