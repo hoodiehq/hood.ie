@@ -7,7 +7,7 @@ comments: true
 
 ---
 
-#Hello all! I recently had the great honor of interviewing Nick Hehr (@hipsterbrown on twitter and github). Let's see what he had to say:
+#Hello all! I recently had the great honor of interviewing Nick Hehr ([Twitter](https://twitter.com/hipsterbrown), [GitHub](https://github.com/hipsterbrown)). Let's see what he had to say:
 
 #1. What’s your favorite animal?
 
@@ -21,7 +21,7 @@ Glossary of Terms: https://github.com/hoodiehq/editorial/wiki/Glossary-of-common
 
 #3. What’s your favorite use of Hoodie in the wild?
 
-I don’t have any Hoodie apps in production at the moment but I have been working on combining it with another open-source project called Tessel, to which I’ve recently started contributing. Tessel is a custom development board and software platform that can be programmed using Node.js. My goal is to use Hoodie and Tessel to make an approachable, open-source IoT stack for folks to connect their web apps to embeddable hardware. It’s a work in progress that I hope to have working later this year.
+I don’t have any Hoodie apps in production at the moment but I have been working on combining it with another open-source project called Tessel ( https://tessel.io/), to which I’ve recently started contributing. Tessel is a custom development board and software platform that can be programmed using Node.js. My goal is to use Hoodie and Tessel to make an approachable, open-source IoT stack for folks to connect their web apps to embeddable hardware. It’s a work in progress that I hope to have working later this year.
 
 
 #4. What in your opinion makes the Hoodie project unique and interesting?
