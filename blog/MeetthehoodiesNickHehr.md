@@ -7,7 +7,7 @@ comments: true
 
 ---
 
-#Hello all! I recently had the great honor of interviewing Nick Hehr ([Twitter](https://twitter.com/hipsterbrown), [GitHub](https://github.com/hipsterbrown)). Let's see what he had to say:
+## Hello all! I recently had the great honor of interviewing Nick Hehr ([Twitter](https://twitter.com/hipsterbrown), [GitHub](https://github.com/hipsterbrown)). Let's see what he had to say:
 
 #1. What’s your favorite animal?
 
