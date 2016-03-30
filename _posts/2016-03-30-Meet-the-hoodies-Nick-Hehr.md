@@ -29,4 +29,4 @@ I absolutely adore the many [mascots of Hoodie](http://hood.ie/animals/), especi
 
 I would not be where I am today without the support and mentorship of the amazing folks I’ve had the privilege to meet in person and online. From local meetups and international conferences to Twitter and GitHub, I’ve tried to always ask questions when I don’t understand, build things I think are interesting, and stick with the groups that care more about including people than writing code. It is those groups that led me to keep learning about development, empathy, and sharing any knowledge I gain with others. Lastly, be sure to take care of yourself as well.  
   
-## “What we have in common is that we all enjoy a good night’s sleep.” - [Hoodie mantra](http://hood.ie/community/)
+__“What we have in common is that we all enjoy a good night’s sleep.” - [Hoodie mantra](http://hood.ie/community/)__
