@@ -73,7 +73,7 @@ _Meet the Hoodie community at one or more of these fine events:_
 
 [ScotlandJS](http://scotlandjs.com/), June 2-3, Edinburgh, UK  
 
-###Events from our friends:  
+### Events from our friends:  
   
 [NodeConf London](http://london.nodeconf.com/), May 11, London, UK
 
