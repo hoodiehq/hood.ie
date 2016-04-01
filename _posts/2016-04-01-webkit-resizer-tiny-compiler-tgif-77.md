@@ -27,7 +27,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 ## Design
   
-“This change is a reflection of preferences within our community, as well as an acknowledgement of our position in an increasingly interconnected world. Encouraging free and open source software realigns our policies with our mission. As an academic institution, we believe that in many cases we can achieve greater impact by sharing our work.”
+> “This change is a reflection of preferences within our community, as well as an acknowledgement of our position in an increasingly interconnected world. Encouraging free and open source software realigns our policies with our mission. As an academic institution, we believe that in many cases we can achieve greater impact by sharing our work.”
 <cite>Joi Ito, [MIT Media Lab Changes Software Default to FLOSS (Free/Libre Open Source Software)](https://medium.com/mit-media-lab/mit-media-lab-changes-software-default-to-floss-4305e478e40)</cite>
   
 [Google’s new Resizer tool lets mobile web designers and developers test any URL](http://thenextweb.com/dd/2016/03/03/googles-new-resizer-tool-lets-mobile-web-designers-and-developers-test-any-url/#gref)  
@@ -40,7 +40,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
   
 [Introducing Safari Technology Preview](https://webkit.org/blog/6017/introducing-safari-technology-preview/)  
 
-“Bash coming to Windows is huge news for developers, developers, developers.”
+> “Bash coming to Windows is huge news for developers, developers, developers.”
 <cite>[Microsoft is adding the Linux command line to Windows 10](http://www.theverge.com/2016/3/30/11331014/microsoft-windows-linux-ubuntu-bash)</cite>  
 
 [Houdini: Maybe The Most Exciting Development In CSS You’ve Never Heard Of](https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/)
@@ -88,7 +88,7 @@ _Meet the Hoodie community at one or more of these fine events:_
   
 [One Less Thing to Think About in the Morning. The anticipated collaboration between Mark Zuckerberg and H&M is here.](http://markforhm.com/)  
 
-“Imagine if instead of asking your realtor for a quiet street, you asked for one where you could hear laughter, birds chirping and music drifting out of car windows. That’s the idea behind Chatty Maps, a new sound mapping project from a Yahoo research lab in Barcelona.”
+> “Imagine if instead of asking your realtor for a quiet street, you asked for one where you could hear laughter, birds chirping and music drifting out of car windows. That’s the idea behind Chatty Maps, a new sound mapping project from a Yahoo research lab in Barcelona.”
 <cite>[An Emotional Map Of The City, As Captured Through Its Sounds](http://www.fastcodesign.com/3058240/an-emotional-map-of-the-city-as-captured-through-its-sounds?partner=rss)</cite>  
   
 [Any Xbox One can now be a dev kit for universal Windows apps](http://www.theverge.com/2016/3/30/11331366/xbox-one-dev-mode-windows-apps)  
@@ -101,10 +101,10 @@ _Meet the Hoodie community at one or more of these fine events:_
   
 [A better offer letter](https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.bxgovqpy5)  
 
-“Woosh. There was the blood rushing in my ears, just like that moment years ago. But I knew to expect it and managed to focus past it. I waited and listened as my heart pounded on.”
+> “Woosh. There was the blood rushing in my ears, just like that moment years ago. But I knew to expect it and managed to focus past it. I waited and listened as my heart pounded on.”
 <cite>Anna Marie Clifton, [How I negotiated for an additional $15,000 at Yammer](https://medium.com/@TweetAnnaMarie/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec#.ks1e82ef3)</cite>
   
-“It started out as a simple challenge: could he meet one new coworker each workday for an entire month? One person. Every day. Couldn’t be that hard, right? To make sure it was a real conversation, he gave himself a rule: He couldn’t leave conversations with new people until he learned at least one fact about them. He tracked everything in a spreadsheet, with a person’s name, their department, and that one fact.”
+> “It started out as a simple challenge: could he meet one new coworker each workday for an entire month? One person. Every day. Couldn’t be that hard, right? To make sure it was a real conversation, he gave himself a rule: He couldn’t leave conversations with new people until he learned at least one fact about them. He tracked everything in a spreadsheet, with a person’s name, their department, and that one fact.”
 <cite>[How to meet 200 people in 200 days](https://slackhq.com/how-to-meet-200-people-in-200-days-bd4533699885#.6w6n0o6ma)</cite>  
   
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We have awesome datacenter shots in the new <a href="https://twitter.com/hashtag/WOCinTech?src=hash">#WOCinTech</a> photos, like these: <a href="https://t.co/sOLNvIwEoP">pic.twitter.com/sOLNvIwEoP</a></p>&mdash; #WOCinTech Chat (@wocintechchat) <a href="https://twitter.com/wocintechchat/status/715958594873729024">April 1, 2016</a></blockquote>
@@ -115,7 +115,7 @@ _Meet the Hoodie community at one or more of these fine events:_
  
 [Cats just cuz](https://www.youtube.com/watch?v=mPuAVRmV3DU)  
   
-“The brain’s craving for novelty, constant stimulation and immediate gratification creates something called a ‘compulsion loop.’ Like lab rats and drug addicts, we need more and more to get the same effect. Endless access to new information also easily overloads our working memory. When we reach cognitive overload, our ability to transfer learning to long-term memory significantly deteriorates. It’s as if our brain has become a full cup of water and anything more poured into it starts to spill out.”
+> “The brain’s craving for novelty, constant stimulation and immediate gratification creates something called a ‘compulsion loop.’ Like lab rats and drug addicts, we need more and more to get the same effect. Endless access to new information also easily overloads our working memory. When we reach cognitive overload, our ability to transfer learning to long-term memory significantly deteriorates. It’s as if our brain has become a full cup of water and anything more poured into it starts to spill out.”
 <cite>Tony Schwartz, [Addicted to Distraction](http://www.nytimes.com/2015/11/29/opinion/sunday/addicted-to-distraction.html?_r=0)</cite>  
   
 [Why Do You Want to Learn to Code?](http://lifehacker.com/decide-which-programming-language-to-learn-with-this-in-1751673162)  
@@ -128,7 +128,7 @@ _Meet the Hoodie community at one or more of these fine events:_
 “Using various Super Mario World glitches, I injected the code for Flappy Bird... This is the first time a human has ever completed this kind of exploit.”
 <cite>[SNES Code Injection -- Flappy Bird in Super Mario World](https://www.youtube.com/watch?v=hB6eY73sLV0)</cite>  
   
-It’s baby bird season. That means people are finding them out of nests and not sure what to do.  
+__It’s baby bird season. That means people are finding them out of nests and not sure what to do.__  
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s baby bird season. That means people are finding them out of nests and not sure what to do. Cue <a href="https://twitter.com/RosemaryMosco">@RosemaryMosco</a>. <a href="https://t.co/jiI1OvKOjU">pic.twitter.com/jiI1OvKOjU</a></p>&mdash; David Steen, Ph.D. (@AlongsideWild) <a href="https://twitter.com/AlongsideWild/status/714475027551371264">March 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
