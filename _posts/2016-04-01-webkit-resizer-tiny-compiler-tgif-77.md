@@ -1,6 +1,6 @@
 ---
 
-title: 'TBD TGIF (77)'
+title: 'Webkit resizer, tiny compiler: TGIF (77)'
 author: Pawan
 layout: blog-post-tgif
 comments: false
