@@ -1,6 +1,6 @@
 ---
 
-title: 'TGIF 76 HTTPS Glimmer Events Make NASA a Torfino Dilemma'
+title: 'TGIF 78 HTTPS Glimmer Events Make NASA a Torfino Dilemma'
 author: Cecily
 layout: blog-post-tgif
 comments: false
