@@ -86,8 +86,9 @@ _Meet the Hoodie community at one or more of these fine events:_
 
 ## We <3
 
-[Animal Frens!](https://www.facebook.com/CollectiveEvolutionPage/videos/10153665600208908/)
+[Bruce Springsteen cancels concert in North Carolina about trans-hostile law HB2](https://m.facebook.com/notes/bruce-springsteen/a-statement-from-bruce-springsteen-on-north-carolina/10153539447566824/)
 
+[Animal Frens!](https://www.facebook.com/CollectiveEvolutionPage/videos/10153665600208908/)
 
 [Cute Surprise](https://amp.twimg.com/v/3258b690-8845-4ccb-8a38-b8600067d98c)
 
