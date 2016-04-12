@@ -13,7 +13,7 @@ Please join us in welcoming our newest animal mascot to the Hoodieverse, capture
 
 # Meet our latest animal friend: Blog Bear
 
-<a href="http://hoodiehq.github.io/hoodie-css/src/content_img/animals/blog-bear-1.png></a>
+![Blog Bear](http://hoodiehq.github.io/hoodie-css/src/content_img/animals/blog-bear-1.png)
 
 In a shady pine forest, close to the shore, a bear ambled slowly across a carpet of pine needles. 
 
@@ -21,7 +21,7 @@ She stopped, sat back on her haunches, with a little picnic basket next to her. 
 
 This was no ordinary bear. No, this was a bear with a lot to say and a lot to convey. The first Wednesday of every month you’ll find her hosting the BIT (Bears in Tech) breakfast with her buddies Baloo, Yogi, Paddington and Iorek Byrnison. She aspires to inspire and empower animals of all species: chickens, dogs, alpacas and more to contribute to making the web a better place. She’s got her ear to the ground and her paw on the pulse; always networking, making connections and gathering information. 
 
-Putting up the hood she turned to address us and in a gentle growl she asked, “Wwhat would the API of your dreams look like?” We knew we had found our Blog Bear. 
+Putting up the hood she turned to address us and in a gentle growl she asked, “What would the API of your dreams look like?” We knew we had found our Blog Bear. 
 
 # Welcome Blog Bear!
 
