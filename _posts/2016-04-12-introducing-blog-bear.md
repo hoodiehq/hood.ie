@@ -11,7 +11,7 @@ By now you’re probably familiar with our animal friends the [Low-Profile Dog](
 
 Please join us in welcoming our newest animal mascot to the Hoodieverse, captured perfectly by editorial contributor [Annika Howard](https://github.com/NeekyRabbit).
 
-# Meet our latest animal friend: Blog Bear
+# Meet our latest animal friend: [Blog Bear](http://hood.ie/animals/#blog-bear)
 
 ![Blog Bear](http://hoodiehq.github.io/hoodie-css/src/content_img/animals/blog-bear-1.png)
 
@@ -23,5 +23,5 @@ This was no ordinary bear. No, this was a bear with a lot to say and a lot to co
 
 Putting up the hood she turned to address us and in a gentle growl she asked, “What would the API of your dreams look like?” We knew we had found our Blog Bear. 
 
-# Welcome Blog Bear!
+# Welcome [Blog Bear](http://hood.ie/animals/#blog-bear)!
 
