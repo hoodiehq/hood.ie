@@ -13,7 +13,7 @@ Please join us in welcoming our newest animal mascot to the Hoodieverse, capture
 
 # Meet our latest animal friend: Blog Bear
 
-![Blog Bear](https://github.com/hoodiehq/hood.ie/blog/images/201604/blog-bear-1.png)
+![Blog Bear](https://hoodiehq.github.io/hood.ie/blog/images/201604/blog-bear-1.png)
 
 In a shady pine forest, close to the shore, a bear ambled slowly across a carpet of pine needles. 
 
