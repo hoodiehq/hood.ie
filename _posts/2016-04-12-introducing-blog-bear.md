@@ -23,5 +23,5 @@ This was no ordinary bear. No, this was a bear with a lot to say and a lot to co
 
 Putting up the hood she turned to address us and in a gentle growl she asked, “What would the API of your dreams look like?” We knew we had found our [Blog Bear](http://hood.ie/animals/#blog-bear). 
 
-# Welcome Blog Bear!
+Welcome Blog Bear!
 
