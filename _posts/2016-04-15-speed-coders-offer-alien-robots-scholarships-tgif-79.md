@@ -33,6 +33,8 @@ Our own [Charlotteis](https://twitter.com/charlotteis) [gave a talk on Your Firs
 
 ## Design
 
+[How A Color Designer Creates The Perfect Backdrop For Famous Art](http://www.fastcodesign.com/3058592/how-a-color-designer-creates-the-perfect-backdrop-for-famous-art)
+
 
 ## The Web and Development
 
