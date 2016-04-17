@@ -16,7 +16,7 @@ Oh, and by the way: <b>our blog's RSS feed is back</b> – subscribe now on hoo
 
 ## Open Source
 
-A couple of pieces from past Hoodie blogs that are still relevant today. I (Cecily) am one of those non-coders who is happy to be a part of the team.
+A couple of pieces from past Hoodie blogs that are still relevant today. I [Cecily](https://twitter.com/skeskali) am one of those non-coders who is happy to be a part of the team.
 
 [Non-Coders in Open Source](http://hood.ie/blog/non-coders-in-open-source-projects-or-on-aliens-confessions-of-a-non-coder-1.html)
 
