@@ -16,7 +16,7 @@ Oh, and by the way: <b>our blog's RSS feed is back</b> – subscribe now on hoo
 
 ## Open Source
 
-A couple of pieces from past Hoodie blogs that are still relevant today. I (Cecily) am one of those non-coders who is happy to be a part of the team. 
+A couple of pieces from past Hoodie blogs that are still relevant today. I (Cecily) am one of those non-coders who is happy to be a part of the team.
 
 [Non-Coders in Open Source](http://hood.ie/blog/non-coders-in-open-source-projects-or-on-aliens-confessions-of-a-non-coder-1.html)
 
@@ -24,7 +24,7 @@ A couple of pieces from past Hoodie blogs that are still relevant today. I (Ceci
 
 [9 Open Source Robotics Projects](https://opensource.com/life/16/4/open-source-robotics-projects)
 
-Forbes has debuted [Well, Technically](http://www.forbes.com/sites/lillyknoepp/2016/04/12/well-technically-tech-and-the-people-who-love-it/#51ae31a060f0),  a new podcast that explores the experiences of people working in STEM. The show is hosted by Terri Burns and Sarah Kunst. 
+Forbes has debuted [Well, Technically](http://www.forbes.com/sites/lillyknoepp/2016/04/12/well-technically-tech-and-the-people-who-love-it/#51ae31a060f0),  a new podcast that explores the experiences of people working in STEM. The show is hosted by Terri Burns and Sarah Kunst.
 
 
 Our own [Charlotteis](https://twitter.com/charlotteis) [gave a talk on Your First PR](https://skillsmatter.com/skillscasts/7468-making-your-first-pull-request)!
@@ -46,13 +46,13 @@ Our own [Charlotteis](https://twitter.com/charlotteis) [gave a talk on Your Firs
 
 [An Open Letter to the Miami Tech Community](http://miamiherald.typepad.com/the-starting-gate/2016/04/an-open-letter-to-the-miami-tech-community.html)
 
-> Next time that you are at a local hackathon, look at the male/female ratio and ask yourself why this is so. We need to strive to make these events safe and fun for everyone if we want them to succeed. Meet-ups should implement a code of conduct and adhere to it so that everyone can feel welcome. 
+> Next time that you are at a local hackathon, look at the male/female ratio and ask yourself why this is so. We need to strive to make these events safe and fun for everyone if we want them to succeed. Meet-ups should implement a code of conduct and adhere to it so that everyone can feel welcome.
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TBT?src=hash">#TBT</a> to our an all-time favorite, Grace Hopper! Her accomplishments transcend 140 characters! <a href="https://twitter.com/hashtag/computerprogramming?src=hash">#computerprogramming</a> <a href="https://t.co/MJhRUbnSiz">pic.twitter.com/MJhRUbnSiz</a></p>&mdash; Girl Develop It (@girldevelopit) <a href="https://twitter.com/girldevelopit/status/720672513148248069">April 14, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-[Every time this woman is harassed online, she creates a Wikipedia page on a woman in science.](http://www.gadgette.com/2016/03/14/this-student-has-the-best-response-to-online-harassment/) 
+[Every time this woman is harassed online, she creates a Wikipedia page on a woman in science.](http://www.gadgette.com/2016/03/14/this-student-has-the-best-response-to-online-harassment/)
 
 
 [Microsoft Sues U.S. Justice Department Over Secret Customer Data Searches](http://daringfireball.net/linked/2016/04/14/microsoft-justice-department)
@@ -87,6 +87,8 @@ _Meet the Hoodie community at one or more of these fine events:_
 
 [ScotlandJS](http://scotlandjs.com/), June 2-3, Edinburgh, UK
 
+[Offline Camp](http://offlinefirst.org/camp/), June 24-26, Jewett (NY), US
+
 ### Events from our friends:
 
 [NodeConf London](http://london.nodeconf.com/), May 11, London, UK
@@ -104,4 +106,3 @@ _Meet the Hoodie community at one or more of these fine events:_
 [CommitStrip: Meanwhile, in a Parallel Universe](http://www.commitstrip.com/en/2016/04/14/meanwhile-in-a-parallel-universe-3/?)
 
 [Los Frikis](http://www.radiolab.org/story/los-frikis/) - how a group of rock/punk fans in Cuba created a revolution within a revolution
-
