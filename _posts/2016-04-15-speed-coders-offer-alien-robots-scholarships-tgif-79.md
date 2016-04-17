@@ -8,15 +8,12 @@ comments: false
 ---
 
 
-TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. As usually, they're curated for you by [Cecily](https://twitter.com/skeskali)
-
-Oh, and by the way: <b>our blog's RSS feed is back</b> – subscribe now on hood.ie or hood.ie/feed.xml to make sure you never miss a post! <3
-
+TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. As usual, they're curated for you by [Cecily](https://twitter.com/skeskali).
 
 
 ## Open Source
 
-A couple of pieces from past Hoodie blogs that are still relevant today. I [Cecily](https://twitter.com/skeskali) am one of those non-coders who is happy to be a part of the team.
+A couple of pieces from past Hoodie blogs that are still relevant today. I ([Cecily](https://twitter.com/skeskali)) am one of those non-coders who is happy to be a part of the team.
 
 [Non-Coders in Open Source](http://hood.ie/blog/non-coders-in-open-source-projects-or-on-aliens-confessions-of-a-non-coder-1.html)
 
@@ -24,7 +21,7 @@ A couple of pieces from past Hoodie blogs that are still relevant today. I [Ceci
 
 [9 Open Source Robotics Projects](https://opensource.com/life/16/4/open-source-robotics-projects)
 
-Forbes has debuted [Well, Technically](http://www.forbes.com/sites/lillyknoepp/2016/04/12/well-technically-tech-and-the-people-who-love-it/#51ae31a060f0),  a new podcast that explores the experiences of people working in STEM. The show is hosted by Terri Burns and Sarah Kunst.
+Forbes has debuted [Well, Technically](http://www.forbes.com/sites/lillyknoepp/2016/04/12/well-technically-tech-and-the-people-who-love-it/#51ae31a060f0), a new podcast that explores the experiences of people working in STEM. The show is hosted by Terri Burns and Sarah Kunst.
 
 
 Our own [Charlotteis](https://twitter.com/charlotteis) [gave a talk on Your First PR](https://skillsmatter.com/skillscasts/7468-making-your-first-pull-request)!
