@@ -29,6 +29,7 @@ Forbes has debuted [Well, Technically](http://www.forbes.com/sites/lillyknoepp/2
 
 Our own [Charlotteis](https://twitter.com/charlotteis) [gave a talk on Your First PR](https://skillsmatter.com/skillscasts/7468-making-your-first-pull-request)!
 
+What ít’s like doing Open Source software? Nolan Lawson from [PouchDB](https://pouchdb.com/) live-streamed [3 hours of typical Open Source contributing and maintaining](https://www.youtube.com/watch?v=9FBvpKllTQQ&t=4m39s) to demonstrate.
 
 
 ## Design
