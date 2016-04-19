@@ -15,14 +15,16 @@ We're lucky to have another brand new crop of first PRs, so to you all - welcome
 
 First PRs:
 
-* [David Hope](https://github.com/HopeMobile)
-* [Caity](https://github.com/caityc)
-* [Semere Lemma](https://github.com/gitsemere)
-* [hintsa](https://github.com/hintsa)
-* [Owen Williams](https://github.com/hyperperforator)
 * [Alecs Konson](https://github.com/konson)
+* [Caity](https://github.com/caityc)
+* [Chris](https://github.com/chrifpa)
+* [Cody](https://github.com/codyzu)
+* [David Hope](https://github.com/HopeMobile)
+* [hintsa](https://github.com/hintsa)
 * [Krista Prenesti](https://github.com/kprenesti)
+* [Owen Williams](https://github.com/hyperperforator)
 * [Raquel Moss](https://github.com/raquelxmoss)
+* [Semere Lemma](https://github.com/gitsemere)
 
 Next, a big thanks to those who've chimed in with comments on various bits and bugs of Hoodie:
 
