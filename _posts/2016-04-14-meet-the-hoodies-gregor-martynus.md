@@ -11,8 +11,6 @@ Gregor Martynus is a man who is passionate about open source. So much so that wi
 
 ## 1. What is your favorite animal?
 
-![sloth image](http://img.youtube.com/vi/0Mz_LhuSNAw/0.jpg)
-
 The sloth. People think that it’s a lazy animal when in fact it’s thinking hard about the future. The sloth is a DREAMER! It uses 99% of its energy thinking about its next move. Thinking about making things happen. And there is absolutely nothing cuter than a baby sloth.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/pwbpM6W2hZA" frameborder="0" allowfullscreen></iframe>
