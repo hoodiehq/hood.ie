@@ -28,28 +28,6 @@ First PRs:
 
 Next, a big thanks to those who’ve chimed in with comments on various bits and bugs of Hoodie:
 
-Commenters:
-
-* [KaLaUnlimited](https://github.com/KaLaUnlimited)
-* [Annika](https://github.com/NeekyRabbit)
-* [Antoine](https://github.com/antoinelyset)
-* [Bryan](https://github.com/bryanbierce)
-* [Chris](https://github.com/chrisdemars)
-* [Charles](https://github.com/doublerebel)
-* [Henry](https://github.com/hzoo)
-* [Jules](https://github.com/jo-porter)
-* [Mattie](https://github.com/matsieftw)
-* [Nolan](https://github.com/nolanlawson)
-* [Alex](https://github.com/espy)
-* [Pawan](https://github.com/pawan92)
-* [Stephanie](https://github.com/rubymorillo)
-* [Sergi](https://github.com/sergi)
-* [shyNotSly](https://github.com/shyNotSly)
-* [Stephen](https://github.com/stevemasta34)
-* [Summer](https://github.com/summerspirit)
-* [Texassiga](https://github.com/texassiga)
-* [Kim](https://github.com/kmcrayton7)
-
 Gigantic thanks to [Charlotte](https://github.com/Charlotteis), [Jan](https://github.com/janl), [Nick H](https://github.com/HipsterBrown), [Nick C](https://github.com/nickcolley), [Stephan](https://github.com/boennemann), [Markus](https://github.com/coderbyheart), [Cody](https://github.com/codyzu), [Marisa](https://github.com/marisalaneous), and [Sebastian](https://github.com/sebbel) for their continual commitment to reviewing and keeping things ticking over nicely.
 
 [Finn](https://github.com/finnp) has written a useful script to collect all the weekly Shoutouts in a single convenient summary. Finn has also worked hard on migration of the internal architecture, which is awesome. Thanks! 
