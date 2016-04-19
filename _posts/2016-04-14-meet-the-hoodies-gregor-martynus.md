@@ -7,11 +7,11 @@ comments: false
 
 ---
 
-Gregor Martynus is a man who is passionate about open source. So much so that with his help, he and I hosted a Welcome To Open Source event in Atlanta on April 2, 2016. It was at this event that I was able to sit down with Gregor to find out what drives him to be so generous to open source in general and newbies in particular. 
+Gregor Martynus is a man who is passionate about open source. So much so that with his help, he and I hosted a Welcome To Open Source event in Atlanta on April 2, 2016. It was at this event that I was able to sit down with Gregor to find out what drives him to be so generous to open source in general and newbies in particular.
 
 ## 1. What is your favorite animal?
 
-[![Sloth](https://hoodiehq.github.io/hood.ie/blog/images/201604/sloth.jpg)](flic.kr/p/3JCmR)
+[![Sloth](/blog/images/201604/sloth.jpg)](https://flic.kr/p/3JCmR)
 
 The sloth. People think that it’s a lazy animal when in fact it’s thinking hard about the future. The sloth is a DREAMER! It uses 99% of its energy thinking about its next move. Thinking about making things happen. And there is absolutely nothing cuter than a baby sloth.
 
@@ -19,11 +19,11 @@ The sloth. People think that it’s a lazy animal when in fact it’s thinking h
 
 ## 2. What’s your role/what have you contributed to Hoodie?
 
-My role at Hoodie started before there was a Hoodie, with the [minutes.io](http://hood.ie/blog/minutes-offline-case-study.html) project. 
+My role at Hoodie started before there was a Hoodie, with the [minutes.io](http://hood.ie/blog/minutes-offline-case-study.html) project.
 
-minutes.io is an application I built which allows for meeting minutes to be captured in an easy and effective way. While attending the 2014 CouchConf in Berlin (because minutes.io uses [CouchDB](https://cwiki.apache.org/confluence/display/COUCHDB/Introduction), a NoSQL database) I met [Jan Lehnardt](https://twitter.com/janl). He was interested in further building out the application, so he became my co-founder. I focused on the frontend and Jan handled the back. 
+minutes.io is an application I built which allows for meeting minutes to be captured in an easy and effective way. While attending the 2014 CouchConf in Berlin (because minutes.io uses [CouchDB](https://cwiki.apache.org/confluence/display/COUCHDB/Introduction), a NoSQL database) I met [Jan Lehnardt](https://twitter.com/janl). He was interested in further building out the application, so he became my co-founder. I focused on the frontend and Jan handled the back.
 
-In an effort not to become attached to a name, the application was initially named CANG (Code Application Next Generation). Which was the worse name we could think of at the time. But once we realized that we had a viable product the name search began. After some time, we were sitting around and Jan pulled the hood of his sweatshirt onto his head and said, “Why not call it hoodie”? Our mission has always been to create something that is accessible and welcoming for anyone, so Hoodie felt right and here we are. 
+In an effort not to become attached to a name, the application was initially named CANG (Code Application Next Generation). Which was the worse name we could think of at the time. But once we realized that we had a viable product the name search began. After some time, we were sitting around and Jan pulled the hood of his sweatshirt onto his head and said, “Why not call it hoodie”? Our mission has always been to create something that is accessible and welcoming for anyone, so Hoodie felt right and here we are.
 
 Currently I manage the code team.
 
@@ -33,7 +33,7 @@ Currently I manage the code team.
 
 ## 4. What in your opinion makes the Hoodie project unique and interesting?
 
-DIVERSITY! Plain and simple. Unlike many open source projects, many of our collaborators don’t care about the code. The Hoodie community consists of artists, illustrators, designers, etc. It is because of this level of diversity that the Hoodie team is able to proactively address issues affecting the open source community in general and Hoodie specifically. 
+DIVERSITY! Plain and simple. Unlike many open source projects, many of our collaborators don’t care about the code. The Hoodie community consists of artists, illustrators, designers, etc. It is because of this level of diversity that the Hoodie team is able to proactively address issues affecting the open source community in general and Hoodie specifically.
 
 ## 5. What advice do you have for aspiring Hoodie contributors?
 
