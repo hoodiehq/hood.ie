@@ -9,9 +9,9 @@ comments: true
 
 # Week 13 Shoutouts 
 
-Shoutouts has been away for longer than planned, but now we're back. To make it worth the wait, we've got even more great shoutouts than usual!
+Shoutouts has been away for longer than planned, but now we’re back. To make it worth the wait, we’ve got even more great shoutouts than usual!
 
-We're lucky to have another brand new crop of first PRs, so to you all - welcome to Hoodie!
+We’re lucky to have another brand new crop of first pull requests (PRs) merged, so to you all - welcome to Hoodie!
 
 First PRs:
 
@@ -26,7 +26,7 @@ First PRs:
 * [Raquel Moss](https://github.com/raquelxmoss)
 * [Semere Lemma](https://github.com/gitsemere)
 
-Next, a big thanks to those who've chimed in with comments on various bits and bugs of Hoodie:
+Next, a big thanks to those who’ve chimed in with comments on various bits and bugs of Hoodie:
 
 Commenters:
 
@@ -56,10 +56,10 @@ Gigantic thanks to [Charlotte](https://github.com/Charlotteis), [Jan](https://gi
 
 [Gregor](https://github.com/gr2m) for handling cross-module initialisations, plus a lot of reviews and comments, along with a bunch of other important stuff, ensuring Hoodie stays in tip-top shape 24/7.
 
-Good job all around by [Manit](https://github.com/kazekagegaara), a recent first PR who has kept up the Hoodie momentum with additional commits and reviews. Keep it up!   
+Good job all around by [Manit](https://github.com/kazekagegaara), a recent first PR committer who has kept up the Hoodie momentum with additional commits and reviews. Keep it up!   
 
-[Cecily](https://github.com/skeskali) and [Jenn](https://github.com/renrutnnej) are consistently doing cool stuff with the editorial, especially the TGIF blog posts - well done and keep up the good work!
+[Cecily](https://github.com/skeskali) and [Jenn](https://github.com/renrutnnej) are consistently doing cool stuff with the editorial, especially the [TGIF](http://hood.ie/blog/speed-coders-offer-alien-robots-scholarships-tgif-79.html) blog posts - well done and keep up the good work!
 
-## That's all for now, watch out for the next instalment of Shoutouts, coming soon! 
+## That’s all for now, watch out for the next instalment of Shoutouts, coming soon! 
 
 
