@@ -7,11 +7,11 @@ comments: false
 
 ---
 
-[Need to write an introduction about interviewing Gregor here]
+Gregor Martynus is a man who is passionate about open source. So much so that with his help, he and I hosted a Welcome To Open Source event in Atlanta on April 2, 2016. It was at this event that I was able to sit down with Gregor to find out what drives him to be so generous to open source in general and newbies in particular. 
 
 ## 1. What is your favorite animal?
 
-![sloth image](sloth image link goes here)
+![sloth image](http://img.youtube.com/vi/0Mz_LhuSNAw/0.jpg)
 
 The sloth. People think that it’s a lazy animal when in fact it’s thinking hard about the future. The sloth is a DREAMER! It uses 99% of its energy thinking about its next move. Thinking about making things happen. And there is absolutely nothing cuter than a baby sloth.
 
@@ -39,4 +39,4 @@ DIVERSITY! Plain and simple. Unlike many open source projects, many of our colla
 
 “Come say hi.” It’s that simple. We welcome new contributors. We value their insight and perspective. __It is through their experiences that the Hoodie team learns what success and potential pain points look like for new contributors.__ Many of us have long since shed our newbie skin and without their input a vital part of the conversation related to open source doesn’t get heard.
 
-_Have a lovely day :)_
+_Party Machen :)_
