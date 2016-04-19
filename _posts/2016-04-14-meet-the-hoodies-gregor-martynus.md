@@ -10,7 +10,8 @@ comments: false
 Gregor Martynus is a man who is passionate about open source. So much so that with his help, he and I hosted a Welcome To Open Source event in Atlanta on April 2, 2016. It was at this event that I was able to sit down with Gregor to find out what drives him to be so generous to open source in general and newbies in particular. 
 
 ## 1. What is your favorite animal?
-Sloth (flic.kr/p/3JCmR)
+
+[![Blog Bear](https://hoodiehq.github.io/hood.ie/blog/images/201604/sloth.jpg)](flic.kr/p/3JCmR)`
 
 The sloth. People think that it’s a lazy animal when in fact it’s thinking hard about the future. The sloth is a DREAMER! It uses 99% of its energy thinking about its next move. Thinking about making things happen. And there is absolutely nothing cuter than a baby sloth.
 
