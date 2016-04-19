@@ -7,8 +7,6 @@ comments: true
 
 ---
 
-# Week 13 Shoutouts 
-
 Shoutouts has been away for longer than planned, but now we’re back. To make it worth the wait, we’ve got even more great shoutouts than usual!
 
 We’re lucky to have another brand new crop of first pull requests (PRs) merged, so to you all - welcome to Hoodie!
