@@ -7,7 +7,7 @@ comments:
 
 ---
 
-Hello all! It is time for another edition of meet the Hoodies! I had a little time to sit and chat with our very own Julia Simplicio([Twitter](??), [GitHub](https://github.com/jsimplicio)). Let’s see what she had to say:
+Hello all! It is time for another edition of meet the Hoodies! I had a little time to sit and chat with our very own Julia Simplicio([Twitter](https://twitter.com/jlsmp), [GitHub](https://github.com/jsimplicio)). Let’s see what she had to say:
 
 ## 1. What’s your favorite animal?
 
