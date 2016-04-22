@@ -1,6 +1,6 @@
 ---
 
-title: 'TBD: TGIF(80)'
+title: 'MIDDLE AGED CMS GLITCH: TGIF(80)'
 author: Cecily
 layout: blog-post-tgif
 comments: false
