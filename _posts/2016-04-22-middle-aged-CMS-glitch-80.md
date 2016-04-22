@@ -13,7 +13,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 ## Open Source
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Do you run an open source project with a vibrant community of contributors? I’d like to talk to you.</p>&mdash; Coraline Ada Ehmke (@CoralineAda) <a href="https://twitter.com/CoralineAda/status/723534302550593536">April 22, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Do you run an open source project with a vibrant community of contributors? I’d like to talk to you.</p>&mdash; Coraline Ada Ehmke (GitHub, @CoralineAda) <a href="https://twitter.com/CoralineAda/status/723534302550593536">April 22, 2016</a></blockquote>
 
 
 [The US government and open source](http://www.linuxjournal.com/content/us-government-and-open-source-software)
