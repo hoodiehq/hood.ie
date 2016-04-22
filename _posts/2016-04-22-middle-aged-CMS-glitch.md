@@ -8,9 +8,9 @@ comments: false
 ---
 
 
-TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. As usually, they're curated for you by [Cecily](https://twitter.com/skeskali)
+TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it’s time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. As usually, they’re curated for you by [Cecily](https://twitter.com/skeskali)
 
-Oh, and by the way: <b>our blog's RSS feed is back</b> – subscribe now on hood.ie or hood.ie/feed.xml to make sure you never miss a post! <3
+Oh, and by the way: <b>our blog’s RSS feed is back</b> – subscribe now on hood.ie or hood.ie/feed.xml to make sure you never miss a post! <3
 
 
 
@@ -44,7 +44,7 @@ Remember Glitch? [Some developers are trying to bring it back](http://elevengian
 
 [Prince remembered in Silicon Valley as innovator, advocate for Black youth](http://www.usatoday.com/story/tech/news/2016/04/21/prince-van-jones-yeswecode-qeyno-labs-silicon-valley-diversity/83346648/)
 
->Every time you see a black kid wearing a hoodie, you say: There's a thug. If you see a white kid wearing hoodie, you say: There's Mark Zuckerberg," (Van) Jones told USA TODAY last year. I said, 'That's because of racism. And Prince said, 'Maybe so, or maybe you civil rights guys haven't created enough Mark Zuckerbergs.'
+>Every time you see a black kid wearing a hoodie, you say: ‘There’s a thug. If you see a white kid wearing hoodie, you say: There’s Mark Zuckerberg,’ (Van) Jones told USA TODAY last year. I said, ‘That’s because of racism. And Prince said, ‘Maybe so, or maybe you civil rights guys haven’t created enough Mark Zuckerbergs.’
 
 [The Internet of Emotional Things](https://www.smashingmagazine.com/2016/04/designing-for-the-internet-of-emotional-things/)
 
