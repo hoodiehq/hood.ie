@@ -16,6 +16,9 @@ Oh, and by the way: <b>our blog's RSS feed is back</b> – subscribe now on hoo
 
 ## Open Source
 
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Do you run an open source project with a vibrant community of contributors? I’d like to talk to you.</p>&mdash; Coraline Ada Ehmke (@CoralineAda) <a href="https://twitter.com/CoralineAda/status/723534302550593536">April 22, 2016</a></blockquote>
+
+
 [The US government and open source](http://www.linuxjournal.com/content/us-government-and-open-source-software)
 
 [STEMM Role Models](https://www.mozillascience.org/projects/KirstieJane-STEMMRoleModels) is a website that will help conference organizers connect with presenters from underrepresented groups.
