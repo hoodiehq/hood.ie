@@ -26,10 +26,6 @@ Oh, and by the way: <b>our blog's RSS feed is back</b> – subscribe now on hoo
 [How to become an advanced contributor to OpenStack](https://opensource.com/business/16/4/openstack-summit-interview-ildiko-vancsa)
 
 
-## Design
-
-
-
 ## The Web and Development
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Anyway next time someone says improving the CMS&#39;s UX is stupid and authors are just dumb, I&#39;ll print this article out and hit them with it.</p>&mdash; SaraWachterBoettcher (@sara_ann_marie) <a href="https://twitter.com/sara_ann_marie/status/723249259026501635">April 21, 2016</a></blockquote>
 
