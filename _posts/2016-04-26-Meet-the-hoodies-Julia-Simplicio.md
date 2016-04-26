@@ -31,4 +31,4 @@ I really admire the people I collaborate with on Hoodie. There are people from s
 
 ## 5. What advice do you have for aspiring Hoodie contributors?
 
-You can see our product and related projects on [GitHub](https://github.com/hoodiehq). Hop on a project you find interesting and find any issues you’d like to tackle or even make your own issues. We are very happy about new contributors and want to make the experience as welcoming as possible for them. We’re currently working on facilitating the Hoodie experience for new and existent contributors and maintainers.
+You can see our product and related projects on [GitHub](https://github.com/hoodiehq). Hop on a project you find interesting and find any issues you’d like to tackle or even make your own issues. __We are very happy about new contributors and want to make the experience as welcoming as possible for them.__ We’re currently working on facilitating the Hoodie experience for new and existing contributors and maintainers.
