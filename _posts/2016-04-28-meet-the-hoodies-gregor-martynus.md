@@ -29,7 +29,7 @@ Currently I manage the code team.
 
 ## 3. What’s your favorite use of Hoodie in the wild?
 
-[minutes.io](https://minutes.io/welcome). It has 20,000 active users helping to make sure that Hoodie is based on ‘real’ user experiences. minutes.io is to Hoodie as Basecamp is to Rails.
+[minutes.io](https://minutes.io/welcome). It has thousands of active users helping to make sure that Hoodie is based on ‘real’ user experiences. minutes.io is to Hoodie as Basecamp is to Rails.
 
 ## 4. What in your opinion makes the Hoodie project unique and interesting?
 
