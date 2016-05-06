@@ -62,7 +62,7 @@ We recommed the last two episodes of Hanselminutes: [Funding Open Source with Na
 
 > What I actually want is for everyone creating content on the web to create that content in a clean way that will serve them long into the future. Markdown, I feel, highly encourages that.
 
-<cite> Christ Coyier, [You Should Probably Blog in Markdown](http://mediatemple.net/blog/tips/you-should-probably-blog-in-markdown/)</cite>
+<cite> Chris Coyier, [You Should Probably Blog in Markdown](http://mediatemple.net/blog/tips/you-should-probably-blog-in-markdown/)</cite>
 
 Introducing [DiversityTickets](https://diversitytickets.org/), a new Travis Foundation app which helps partnered conference organisers reach out to minority groups by offering them ticket and travel grants.
 
