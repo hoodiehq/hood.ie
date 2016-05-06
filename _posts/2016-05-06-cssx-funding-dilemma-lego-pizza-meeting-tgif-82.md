@@ -75,6 +75,8 @@ _Meet the Hoodie community at one or more of these fine events:_
 
 [JSConf Budapest](http://jsconfbp.com/#speakers), May 12-13, Budapest, Hungary
 
+[OSCON Contribute](http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/51586), May 18, Austin (TX), US
+
 [EmpireJS](http://2016.empirejs.org/), May 26, New York (NY), US
 
 [ScotlandJS](http://scotlandjs.com/), June 2-3, Edinburgh, UK
@@ -125,17 +127,3 @@ Offline Camp is also [looking for sponsors](http://offlinefirst.org/camp/)
 [Programming by poking: why MIT stopped teaching SICP](https://twitter.com/lobsters/status/727912002127953920)
 
 [The Year that Music Died](http://polygraph.cool/history/), Every top 5 song, from 1956 - 2016, so we can stop arguing about when music was still good
-
-
-## Shout outs :mega:
-
-
-## Become a Hoodie Contributor
-
-
-## Hoodie Camp Release
-
-
-## We <3 Hoodies
-
-<!-- Tumblr entry from last week, or pick your favourite one -->
