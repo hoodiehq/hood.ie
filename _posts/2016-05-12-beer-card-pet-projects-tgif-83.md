@@ -80,6 +80,8 @@ Hoodie’s Gregor Martynus was a guest on this week’s Toolsday podcast on [Off
 
 _Meet the Hoodie community at one or more of these fine events:_
 
+[OSCON – Meet the Hoodies!](https://ti.to/hoodie/oscon-meet-the-hoodies), May 18, Austin (TX), US
+
 [EmpireJS](http://2016.empirejs.org/), May 26, New York (NY), US
 
 [ScotlandJS](http://scotlandjs.com/), June 2-3, Edinburgh, UK
