@@ -89,6 +89,8 @@ _Meet the Hoodie community at one or more of these fine events:_
 [Offline Camp](http://offlinefirst.org/camp/), June 24-26, Jewett (NY), US
 Offline Camp is also [looking for sponsors](http://offlinefirst.org/camp/)
 
+[npm camp](http://npm.github.io/npm-camp/), July 30, Oakland (CA), US
+
 [Cascadia Fest](http://2016.cascadiafest.org/), August 3-5, Semiahmoo (WA), US
 
 [JSConf Iceland](https://2016.jsconf.is/), August 28, Reykjavik, Iceland
@@ -101,8 +103,6 @@ Offline Camp is also [looking for sponsors](http://offlinefirst.org/camp/)
 [Dinosaur.js](http://dinosaurjs.org/), June 24, Denver (CO), US
 
 [Open Source and Feelings](http://www.osfeels.com/), July 22-23, Seattle (WA), US
-
-[npm camp](http://npm.github.io/npm-camp/), July 30, Oakland (CA), US
 
 
 ## We <3
