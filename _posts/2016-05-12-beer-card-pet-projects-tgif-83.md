@@ -121,6 +121,9 @@ Offline Camp is also [looking for sponsors](http://offlinefirst.org/camp/)
 
 Check out this [Empire Strikes Back homage](https://vimeo.com/165592795).
 
+Hoodie Contributor [Stephanie Morillo](https://twitter.com/radiomorillo) released
+her newest tune, [Voyager](http://music.stephaniemorillo.com/).
+
 [Histography is an interactive timeline of 14 billion years of history](http://histography.io/?mc_cid=c3898e3176&mc_eid=549abb3da2)
 
 >Before I could talk myself out of it, I made a reservation to go skydiving with a facility that returned no results when Googling their name followed by the word “deaths.” Despite the fact that I was supposed to be skydiving to combat my need for control, I found myself smiling at everything being in order to plan the best birthday ever.
