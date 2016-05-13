@@ -1,4 +1,3 @@
-
 ---
 
 title: 'BEER CARD PET PROJECTS TGIF (83)'
@@ -46,12 +45,9 @@ Hoodie’s Gregor Martynus was a guest on this week’s Toolsday podcast on [Off
 
 [Locking In Webkit](https://webkit.org/blog/6161/locking-in-webkit/)
 
-
 [Tradeoffs In Coordination Among Teams](http://blog.jessitron.com/2016/05/tradeoffs-in-coordination-among-teams.html)
 
-
-[Here’s a Slack slash command to let your teams know when a task is done.
-](https://hoodie-community.slack.com/apps/A0PB7H5AT--done)
+[Here’s a Slack slash command to let your teams know when a task is done.](https://hoodie-community.slack.com/apps/A0PB7H5AT--done)
 
 [Securing Your Self-Hosted Website With Let’s Encrypt](https://soledadpenades.com/2016/04/08/securing-your-self-hosted-website-with-lets-encrypt/)
 
