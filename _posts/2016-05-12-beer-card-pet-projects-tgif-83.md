@@ -30,6 +30,7 @@ Hoodie's Gregor Martynus was a guest on this week's [Offline First](http://tools
 
 [A New Way to Fund Open Source Projects](https://medium.com/open-collective/a-new-way-to-fund-open-source-projects-91a51b1b7aac#.m8s4e0bzy)
 
+
 ## Design
 
 >Budweiser is going to potentially ingenious, potentially absurd branding extremes. The company has kept the same can you already know, but when you look closely, you’ll realize that it has swapped out its own name, "Budweiser," for "America." That’s right, Budweiser has renamed its beer America for the summer. "We thought nothing was more iconic than Budweiser and nothing was more iconic than America," says Tosh Hall, creative director at the can’s branding firm JKR.
@@ -54,6 +55,7 @@ Hoodie's Gregor Martynus was a guest on this week's [Offline First](http://tools
 
 [Securing Your Self-Hosted Website With Let's Encrypt](https://soledadpenades.com/2016/04/08/securing-your-self-hosted-website-with-lets-encrypt/)
 
+
 ## The Tech World and Culture
 
 >When a designer friend of mine, Geoff, left Twitter a few years ago, the reason he provided really stuck with me. He said he was unable to approach problems anymore with a Beginner’s Mind. Instead of meeting each new challenge with an open mind and fresh enthusiasm, he let his past experiences limit his creativity and his positive outlook. In other words, when you’re the person in the room silently thinking “I know how this ends” or worse yet failing to put your best energy forth, it’s probably time to move on.
@@ -63,6 +65,7 @@ Hoodie's Gregor Martynus was a guest on this week's [Offline First](http://tools
 [Episode 22 of JavaScript Air: The Science of People in Tech](https://javascriptair.com/episodes/2016-05-11/) features a discussion between Kate Edwards, Omoju Miller, and Steve Andrews about what we can do to improve our workspaces and communities.
 
 [The Harsh Reality of Being a Woman on Social Media](http://www.teenvogue.com/story/female-online-harassment-femsplain)
+
 
 ## Business
 
@@ -75,6 +78,7 @@ Hoodie's Gregor Martynus was a guest on this week's [Offline First](http://tools
 <cite>Frederique Dame, [Harnessing Happiness to Build Your Career -- Advice from an Uber Product Leader](http://firstround.com/review/harnessing-happiness-to-build-your-career-advice-from-an-uber-product-leader/)</cite>
 
 [100 Subject Lines for Dads, Grads, and 4th of July](https://www.campaignmonitor.com/blog/email-marketing/2016/04/100-subject-lines-dads-grads-july-4th/)
+
 
 ## Events
 
