@@ -9,7 +9,7 @@ comments: false
 ---
 
 
-TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it's time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. As usual, they're curated for you by [Cecily](https://twitter.com/skeskali). Enjoy!
+TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it’s time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. As usual, they’re curated for you by [Cecily](https://twitter.com/skeskali). Enjoy!
 
 
 
@@ -18,11 +18,11 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 [16 Opensource EmberJS Projects to Learn From](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
 
-Hoodie's Gregor Martynus was a guest on this week's [Offline First](http://toolsday.io/episodes/offline-web.html)
+Hoodie’s Gregor Martynus was a guest on this week’s Toolsday podcast on [Offline First](http://toolsday.io/episodes/offline-web.html)
 
 [Knox - a service for storage and rotation of keys, passwords, and secrets used by services](https://github.com/pinterest/knox)
 
-[10 Years and over 520 Episodes of Podcasting - Tech is a Marahon, Not a Sprint](https://medium.com/@shanselman/10-years-and-over-520-episodes-of-podcasting-tech-is-a-marathon-not-a-sprint-46d75899a083#.gkw36opw8)
+[10 Years and over 520 Episodes of Podcasting—Tech is a Marathon, Not a Sprint](https://medium.com/@shanselman/10-years-and-over-520-episodes-of-podcasting-tech-is-a-marathon-not-a-sprint-46d75899a083#.gkw36opw8)
 
 >The term “open source” has become so broad as to become meaningless. I would guess at least half of my conversations with people involve the question “Wait…so what IS open source, actually?”, or realizing about 10 minutes in that we’re talking about completely different things.
 
@@ -50,10 +50,10 @@ Hoodie's Gregor Martynus was a guest on this week's [Offline First](http://tools
 [Tradeoffs In Coordination Among Teams](http://blog.jessitron.com/2016/05/tradeoffs-in-coordination-among-teams.html)
 
 
-[Here's a Slack slash command to let your teams know when a task is done.
+[Here’s a Slack slash command to let your teams know when a task is done.
 ](https://hoodie-community.slack.com/apps/A0PB7H5AT--done)
 
-[Securing Your Self-Hosted Website With Let's Encrypt](https://soledadpenades.com/2016/04/08/securing-your-self-hosted-website-with-lets-encrypt/)
+[Securing Your Self-Hosted Website With Let’s Encrypt](https://soledadpenades.com/2016/04/08/securing-your-self-hosted-website-with-lets-encrypt/)
 
 
 ## The Tech World and Culture
@@ -71,7 +71,7 @@ Hoodie's Gregor Martynus was a guest on this week's [Offline First](http://tools
 
 >History has seen countless businesses like John Wanamaker’s, ones that didn’t have the technology to track their conversions. Yet many of those businesses managed to turn into phenomenal success stories that we still study in business schools.
 
-<cite>Ali Mese, [I Can't Tell You Why Our Business Is Growing](https://medium.com/swlh/kill-your-conversion-funnel-9367e461a46f#.6t5mz7msj)</cite>
+<cite>Ali Mese, [I Can’t Tell You Why Our Business Is Growing](https://medium.com/swlh/kill-your-conversion-funnel-9367e461a46f#.6t5mz7msj)</cite>
 
 > Most people are interested in hearing about this one segment of my career: How I helped shape a big part of one of the most influential companies in the world as it grew to 400+ cities in 68 countries. But the mindset that got me there is a longer story, going back the 15 years I’ve been in Silicon Valley. When I look back, the single most important factor in my success has been happiness.
 
@@ -83,8 +83,6 @@ Hoodie's Gregor Martynus was a guest on this week's [Offline First](http://tools
 ## Events
 
 _Meet the Hoodie community at one or more of these fine events:_
-
-[JSConf Budapest](http://jsconfbp.com/#speakers), May 12-13, Budapest, Hungary
 
 [EmpireJS](http://2016.empirejs.org/), May 26, New York (NY), US
 
@@ -115,7 +113,7 @@ Offline Camp is also [looking for sponsors](http://offlinefirst.org/camp/)
 
 >Girls are more likely to learn that their feelings of anger, no matter the reason they have them, are “wrong” and out of sync with their identities as girls. They are also more likely to intuit that to show anger puts their relationships at risk. Even worse, they associate anger with being unattractive in a social milieu where few things are portrayed as worse for a girl.
 
-<cite>Soryaya Chemaly, [Does Your Daughter Know It's OK To Be Angry?](http://www.rolereboot.org/culture-and-politics/details/2016-05-daughter-know-ok-angry/)</cite>
+<cite>Soryaya Chemaly, [Does Your Daughter Know It’s OK To Be Angry?](http://www.rolereboot.org/culture-and-politics/details/2016-05-daughter-know-ok-angry/)</cite>
 
 >Manufactured food is not inherently bad and it is not the cause of obesity. The solution to obesity is not to stop people from eating processed convenience foods and there is no point in telling people that they must make everything from scratch. They never will and they would not necessarily be making better food choices if they do. Food brands and convenience products should not be seen as the problem, but embraced so they can play an important part in the solution.
 
