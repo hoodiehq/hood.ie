@@ -40,7 +40,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 ## The Tech World and Culture
 
-[Building Open Source Community: An Interview with Gregor Martynus from Hoodie]
+[Building Open Source Community: An Interview with Gregor Martynus from Hoodie](https://channel9.msdn.com/Blogs/DevRadio/DR1653)
 
 [Recipe for Disaster: on the Demise of the BBC Food Database](https://medium.com/@lloydshep/recipe-for-disaster-24acde3f273a#.d7ve17fm9)
 
