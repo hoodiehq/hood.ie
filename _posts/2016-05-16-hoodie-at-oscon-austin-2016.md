@@ -29,7 +29,7 @@ The Hoodie Hackathon happened at the same time as the one from our friends [Hosp
 
 ## Talks
 
-Our favourite talk of the event was [Saron Yitbarek](https://twitter.com/saronyitbarek)’s [“What we take for granted: Examining the barriers to contributing to open source”](http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/49367) about luck and privilege. We are huge fans of [her podcast](http://www.codenewbie.org/podcast) and the amazing [Code Newbie community](http://www.codenewbie.org/), so it was great to finally meet her. We also met [MarMaria Naggaga](https://twitter.com/LadyNaggaga) and [Stacey Mulcahy](https://twitter.com/bitchwhocodes), who also work at Microsoft, doing amazing work; what a dream team!
+Our favourite talk of the event was [Saron Yitbarek](https://twitter.com/saronyitbarek)’s [“What we take for granted: Examining the barriers to contributing to open source”](http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/49367) about luck and privilege. We are huge fans of [her podcast](http://www.codenewbie.org/podcast) and the amazing [Code Newbie community](http://www.codenewbie.org/), so it was great to finally meet her. We also met [Maria Naggaga](https://twitter.com/LadyNaggaga) and [Stacey Mulcahy](https://twitter.com/bitchwhocodes), who also work at Microsoft, doing amazing work; what a dream team!
 
 ![Microsoft’s Dream Team](/blog/images/201605/oscon-microsoft-team-is-the-best.jpg)
 
