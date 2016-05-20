@@ -37,7 +37,7 @@ Our favourite talk of the event was [Saron Yitbarek](https://twitter.com/saronyi
 
 ## The exhibition
 
-In the exhibition hall, fellow Offline Camp co-organiser [Teri Chadbourne from IBM](https://twitter.com/EventTeri) introduced us to [Marvin the robot](https://twitter.com/marvinwinsagain), who is quite full of himself thinking he could win Rock - Paper - Scissors against Gregor. Turns out he couldn’t :)
+In the exhibition hall, fellow Offline Camp co-organiser [Teri Chadbourne from IBM](https://twitter.com/EventTeri) introduced us to [Marvin the robot](https://twitter.com/marvinwinsagain), who was quite full of himself thinking he could win Rock, Paper, Scissors against Gregor. Turns out he couldn’t :)
 
 [![Gregor’s Portrait by Marvin](http://rps-cds.mybluemix.net/user/picture/gregorm?fullPicture=true)](http://bit.ly/1Tkzvyo)
 
@@ -47,4 +47,4 @@ Together with Teri we visited all the booths looking for more organisations inte
 
 We have lots of great [unclaimed starter issues](https://github.com/hoodiehq/camp) ready for our events during [EmpireJS](http://2016.empirejs.org/) next week in NYC! If you come for EmpireJS or are lucky enough to live there, come to the [Open Source Night](http://2016.empirejs.org/#oss-night) on Wednesday, May 25  and [Meet the Hoodies, NYC](https://ti.to/hoodie/nyc-meet-the-hoodies-3) on Saturday, May 28.
 
-Know of an event you’d like us to talk, host a workshop, or a hackathon? [Let us know!](http://hood.ie/contact/)
+_Know of an event you’d like us to talk, host a workshop, or a hackathon? [Let us know!](http://hood.ie/contact/)_
