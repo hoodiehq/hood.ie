@@ -12,6 +12,9 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 ## Open Source
 
+[Open Collective – Collect & disburse money transparently](https://opencollective.com).
+
+> OpenCollective is perfect for any project where you don’t want the hassle of creating a legal entity before getting to the fun stuff. It’s ideal for meetups, open source projects, parent associations, neighborhood associations, pet projects, clubs, unions, movements, non-profits, business incubators, etc.
 
 ## Design
 
@@ -58,6 +61,8 @@ _Meet the Hoodie community at one or more of these fine events:_
 [OSS Night](http://2016.empirejs.org/#oss-night), May 25, New York (NY), US
 
 [EmpireJS](http://2016.empirejs.org/), May 26, New York (NY), US
+
+[NYC, Meet The Hoodies](https://ti.to/hoodie/nyc-meet-the-hoodies-3), May 28, New York (NY), US
 
 [ScotlandJS](http://scotlandjs.com/), June 2-3, Edinburgh, UK
 
