@@ -40,7 +40,11 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 ## The Tech World and Culture
 
-[Building Open Source Community: An Interview with Gregor Martynus from Hoodie](https://channel9.msdn.com/Blogs/DevRadio/DR1653)
+> Open Source is huge, fun and full of challenges. By taking aboard some of things I have said today, you can turn Open Source into something even better. To be truly open you need to consider people. Without people, there is no open source.
+
+<cite>[Charlotte Spencer](https://twitter.com/charlotteis), [Open Open Source](http://www.charlotteis.co.uk/open-open-source/)
+
+<cite>[Building Open Source Community: An Interview with Gregor Martynus from Hoodie](https://channel9.msdn.com/Blogs/DevRadio/DR1653)</cite>
 
 [Recipe for Disaster: on the Demise of the BBC Food Database](https://medium.com/@lloydshep/recipe-for-disaster-24acde3f273a#.d7ve17fm9)
 
