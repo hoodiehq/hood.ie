@@ -12,9 +12,12 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 ## Open Source
 
+> OpenCollective is perfect for any project where you don’t want the hassle of creating a legal entity before getting to the fun stuff. It’s ideal for meetups, open source projects, parent associations, neighborhood associations, pet projects, clubs, unions, movements, non-profits, business incubators, etc.
+
 [Open Collective – Collect & disburse money transparently](https://opencollective.com).
 
-> OpenCollective is perfect for any project where you don’t want the hassle of creating a legal entity before getting to the fun stuff. It’s ideal for meetups, open source projects, parent associations, neighborhood associations, pet projects, clubs, unions, movements, non-profits, business incubators, etc.
+[PouchDB is now a monorepo with separate packages](https://github.com/pouchdb/pouchdb/pull/5178)
+
 
 ## Design
 
