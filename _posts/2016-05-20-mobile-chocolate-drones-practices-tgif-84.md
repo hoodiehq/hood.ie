@@ -65,11 +65,11 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 _Meet the Hoodie community at one or more of these fine events:_
 
-[OSS Night](http://2016.empirejs.org/#oss-night), May 25, New York (NY), US
+**New York City Week! May 25-28**
 
-[EmpireJS](http://2016.empirejs.org/), May 26, New York (NY), US
-
-[NYC, Meet The Hoodies](https://ti.to/hoodie/nyc-meet-the-hoodies-3), May 28, New York (NY), US
+1. [OSS Night](http://2016.empirejs.org/#oss-night), May 25, New York (NY), US
+2. [EmpireJS](http://2016.empirejs.org/), May 26, New York (NY), US
+3. [NYC, Meet The Hoodies](https://ti.to/hoodie/nyc-meet-the-hoodies-3), May 28, New York (NY), US
 
 [ScotlandJS](http://scotlandjs.com/), June 2-3, Edinburgh, UK
 
