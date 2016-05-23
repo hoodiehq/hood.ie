@@ -57,8 +57,6 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Terrific <a href="https://twitter.com/zeynep">@zeynep</a> piece on the biases built in to Facebook&#39;s algorithms: <a href="https://t.co/3EZ0RSZktn">https://t.co/3EZ0RSZktn</a> A key example ... <a href="https://t.co/4KvA9fVTWJ">pic.twitter.com/4KvA9fVTWJ</a></p>&mdash; Clive Thompson (@pomeranian99) <a href="https://twitter.com/pomeranian99/status/733654485252374529">May 20, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">📝 Ok pals; 2500 words on small but impactful things we can do to make Open Source better.<br><br>‘Open Open Source’ — <a href="https://t.co/GuoRJFfWxf">https://t.co/GuoRJFfWxf</a></p>&mdash; 01101000 01101001 (@Charlotteis) <a href="https://twitter.com/Charlotteis/status/733644342011777029">May 20, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 ## Events
