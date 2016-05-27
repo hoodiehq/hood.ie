@@ -12,7 +12,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 ## Open Source
 
-[Welcoming Communities – Let’s make Open Source awesome for everyone](https://speakerdeck.com/gr2m/welcoming-communities)
+[Welcoming Communities – Let’s make Open Source awesome for everyone](https://medium.com/@gr2m/f2fb46e9b996#.qrgls8wk4)
 
 [7 tips for bringing open source to networking](https://opensource.com/business/16/5/7-tips-building-community-SDN-project)
 
