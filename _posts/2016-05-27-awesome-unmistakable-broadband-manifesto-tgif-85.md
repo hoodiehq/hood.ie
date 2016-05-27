@@ -31,7 +31,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 [Let’s Write Beautiful CSS Comments](https://seesparkbox.com/foundry/lets_write_beautiful_css_comments)
 
-[perf.email is a bi-monthly newsletter bringing you the most interesting studies of all things web performance and user-experience.](https://perf.email/)
+[perf.email](https://perf.email/) is a bi-monthly newsletter bringing you the most interesting studies of all things web performance and user-experience.
 
 [Adobe Debuts ‘Spark’, Enables Anyone To Easily Design Pro-Looking Images, Videos](http://designtaxi.com/news/386316/Adobe-Debuts-Spark-Enables-Anyone-To-Easily-Design-Pro-Looking-Images-Videos)
 
@@ -51,7 +51,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 ## The Tech World and Culture
 
->In rural America, broadband internet infrastructure can be overpriced and difficult to access. It's not just an inconvenience — it's an issue of equality. Poor rural communities in America's South are falling behind in the digital age. But one man is trying to change that.
+>In rural America, broadband internet infrastructure can be overpriced and difficult to access. It’s not just an inconvenience — it’s an issue of equality. Poor rural communities in America’s South are falling behind in the digital age. But one man is trying to change that.
 
 <cite>[How poor internet access is holding rural America back](https://www.youtube.com/watch?v=qLl02zRlBOY)</cite>
 
