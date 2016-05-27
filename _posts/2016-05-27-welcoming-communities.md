@@ -12,6 +12,8 @@ comments: true
 
 A lot of people enjoy contributing to Open Source projects. And Open Source projects love contributions. And yet I keep seeing newcomers struggling to contribute and project maintainers struggling to find contributors. What’s the catch?
 
+![The Hoodie Animals on an open fire](/dist1/blog/camp.png)
+
 There is a gap. A gap between the desire to contribute to a community and the ability to find one. A gap between what contributions are welcome, and what people *think* is wanted. A gap between what people wish they could contribute, but don’t know how, or are afraid to try.
 At the [Hoodie Community](http://hood.ie/ "Hoodie – A generic backend with a client API for Offline First applications"), we work hard to close this gap. And despite being an independent project with little to no resources, it aspires to be “[one of Open Sources most diverse and inclusive communities](https://opensource.com/life/16/2/hoodie-open-source-community).”
 
