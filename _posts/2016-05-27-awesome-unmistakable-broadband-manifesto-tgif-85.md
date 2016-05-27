@@ -53,7 +53,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 >In rural America, broadband internet infrastructure can be overpriced and difficult to access. It's not just an inconvenience — it's an issue of equality. Poor rural communities in America's South are falling behind in the digital age. But one man is trying to change that.
 
-<cite>How poor internet access is holding rural America back](https://www.youtube.com/watch?v=qLl02zRlBOY)</cite>
+<cite>[How poor internet access is holding rural America back](https://www.youtube.com/watch?v=qLl02zRlBOY)</cite>
 
 [Google Wins Trial Against Oracle, Saves $9 Billion](http://motherboard.vice.com/read/google-wins-trial-against-oracle-saves-9-billion)
 
