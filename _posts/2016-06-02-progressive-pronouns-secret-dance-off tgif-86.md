@@ -19,7 +19,6 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 ## Design
 
-[Karolina Szczur - Platform for Belonging(HybridConf 2015)](https://vimeo.com/166454411)
 
 
 ## The Web and Development
@@ -40,6 +39,8 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 >Using “she” and “her” to refer to software engineers doesn’t come naturally to me, which is exactly why I try to do it whenever I can. It’s my hope that doing so will, however slightly, increase the chances that someday, when my three-year-old daughter pictures a programmer, she sees someone who looks like her.
 
 <cite>Michael Hoffman, [Why 'Her'? The Case for a Pronoun for a Programmer](https://medium.com/code-like-a-girl/why-her-559bb1f34b8#.os8l9dmpx)
+
+[Karolina Szczur - Platform for Belonging(HybridConf 2015)](https://vimeo.com/166454411)
 
 ## Business
 
