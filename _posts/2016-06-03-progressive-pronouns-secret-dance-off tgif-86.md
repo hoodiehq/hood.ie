@@ -48,7 +48,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 [Announcing Good for PoC](https://medium.com/@amelielamont/announcing-good-for-poc-8af6e512db4f#.p2pkao745) - Good for POC is an online database that helps people of colour find “safe, inclusive” companies to work for.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just launched Present! A Techie&#39;s Guide to Public Speaking. Check it out here: <a href="https://t.co/TmwYQIEGZ8">https://t.co/TmwYQIEGZ8</a> <a href="https://t.co/qkpj1eDLg7">pic.twitter.com/qkpj1eDLg7</a></p>&mdash; poornima (@poornima) <a href="https://twitter.com/poornima/status/661937924158701568">November 4, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just launched Present! A Techie&#39;s Guide to Public Speaking. Check it out here: <a href="https://t.co/TmwYQIEGZ8">https://t.co/TmwYQIEGZ8</a> <a href="https://t.co/qkpj1eDLg7">pic.twitter.com/qkpj1eDLg7</a></p>&mdash; poornima (@poornima) <a href="https://twitter.com/poornima/status/661937924158701568">November 4, 2015</a></blockquote>
 
 > Using “she” and “her” to refer to software engineers doesn’t come naturally to me, which is exactly why I try to do it whenever I can. It’s my hope that doing so will, however slightly, increase the chances that someday, when my three-year-old daughter pictures a programmer, she sees someone who looks like her.
 
@@ -56,7 +56,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 [Karolina Szczur - Platform for Belonging (HybridConf 2015)](https://vimeo.com/166454411)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">on emoji as paralanguage and the importance of culturally diverse representation within standards bodies <a href="https://t.co/ji3gjrUr4K">https://t.co/ji3gjrUr4K</a></p>&mdash; Noah Slater (@nslater) <a href="https://twitter.com/nslater/status/736981423295467520">May 29, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">on emoji as paralanguage and the importance of culturally diverse representation within standards bodies <a href="https://t.co/ji3gjrUr4K">https://t.co/ji3gjrUr4K</a></p>&mdash; Noah Slater (@nslater) <a href="https://twitter.com/nslater/status/736981423295467520">May 29, 2016</a></blockquote>
 
 ## Business
 
@@ -104,7 +104,6 @@ Offline Camp is also [looking for sponsors](http://offlinefirst.org/camp/)
 
 Shoutout to Hoodie, [Stephanie Morillo’s](https://twitter.com/radiomorillo) lastest endeavor:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">MY SHORT STORY IS NOW AVAILABLE ON GUMROAD!!! Buy &quot;Princess Hill” for just USD$1!! <a href="https://t.co/JR7Tl2op77">https://t.co/JR7Tl2op77</a> <a href="https://t.co/Gjos4NBgi5">pic.twitter.com/Gjos4NBgi5</a></p>&mdash; Stephanie Morillo (@radiomorillo) <a href="https://twitter.com/radiomorillo/status/738759089317117956">June 3, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Eddie Izzard: ‘The greatest love of my life? My mother.’](http://www.theguardian.com/lifeandstyle/2016/may/28/eddie-izzard-interview-love-of-life-mother-marathons?CMP=twt_gu)
 
@@ -112,4 +111,4 @@ Shoutout to Hoodie, [Stephanie Morillo’s](https://twitter.com/radiomorillo) la
 
 [Streetmix](https://github.com/codeforamerica/streetmix) is an open source project that allows you to (re)design and share your street from a web browser.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Sometimes gotta take a step back and applaud yourself for the stuff you have accomplished versus feeling bad about what you haven&#39;t done.</p>&mdash; Trudy (@thetrudz) <a href="https://twitter.com/thetrudz/status/738205354132000770">June 2, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Sometimes gotta take a step back and applaud yourself for the stuff you have accomplished versus feeling bad about what you haven&#39;t done.</p>&mdash; Trudy (@thetrudz) <a href="https://twitter.com/thetrudz/status/738205354132000770">June 2, 2016</a></blockquote>
