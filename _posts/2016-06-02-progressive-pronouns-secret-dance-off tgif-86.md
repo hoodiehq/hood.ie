@@ -99,6 +99,10 @@ Offline Camp is also [looking for sponsors](http://offlinefirst.org/camp/)
 
 ## We <3
 
+Shoutout to Hoodie, [Stephanie Morillo’s](https://twitter.com/radiomorillo) lastest endeavor:
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">MY SHORT STORY IS NOW AVAILABLE ON GUMROAD!!! Buy &quot;Princess Hill” for just USD$1!! <a href="https://t.co/JR7Tl2op77">https://t.co/JR7Tl2op77</a> <a href="https://t.co/Gjos4NBgi5">pic.twitter.com/Gjos4NBgi5</a></p>&mdash; Stephanie Morillo (@radiomorillo) <a href="https://twitter.com/radiomorillo/status/738759089317117956">June 3, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [Eddie Izzard: ‘The greatest love of my life? My mother.’](http://www.theguardian.com/lifeandstyle/2016/may/28/eddie-izzard-interview-love-of-life-mother-marathons?CMP=twt_gu)
 
 [Inside Serena and Venus Williams’s Secret Dance-Off](http://www.vogue.com/13440726/serena-williams-venus-dance-competition/?mbid=social_onsite_twitter)
