@@ -7,7 +7,10 @@ comments: false
 
 ---
 
+
 TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it’s time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. As usual, they’re curated for you by [Cecily](https://twitter.com/skeskali). Enjoy!
+
+
 
 ## Open Source
 
@@ -96,7 +99,7 @@ Offline Camp is also [looking for sponsors](http://offlinefirst.org/camp/)
 [ffconf 2016](https://2016.ffconf.org/), November 10-11, Brighton, United Kingdom
 
 
-## We ❤️
+## We <3
 
 Shoutout to Hoodie, [Stephanie Morillo’s](https://twitter.com/radiomorillo) lastest endeavor:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">MY SHORT STORY IS NOW AVAILABLE ON GUMROAD!!! Buy &quot;Princess Hill” for just USD$1!! <a href="https://t.co/JR7Tl2op77">https://t.co/JR7Tl2op77</a> <a href="https://t.co/Gjos4NBgi5">pic.twitter.com/Gjos4NBgi5</a></p>&mdash; Stephanie Morillo (@radiomorillo) <a href="https://twitter.com/radiomorillo/status/738759089317117956">June 3, 2016</a></blockquote>
