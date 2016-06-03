@@ -47,9 +47,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 ## The Tech World and Culture
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">on emoji as paralanguage and the importance of culturally diverse representation within standards bodies <a href="https://t.co/ji3gjrUr4K">https://t.co/ji3gjrUr4K</a></p>&mdash; Noah Slater (@nslater) <a href="https://twitter.com/nslater/status/736981423295467520">May 29, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[Announcing Good for PoC](https://medium.com/@amelielamont/announcing-good-for-poc-8af6e512db4f#.p2pkao745) - Good for POC is an online database that helps people of colour find "safe, inclusive" companies to work for.
+[Announcing Good for PoC](https://medium.com/@amelielamont/announcing-good-for-poc-8af6e512db4f#.p2pkao745) - Good for POC is an online database that helps people of colour find “safe, inclusive” companies to work for.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just launched Present! A Techie&#39;s Guide to Public Speaking. Check it out here: <a href="https://t.co/TmwYQIEGZ8">https://t.co/TmwYQIEGZ8</a> <a href="https://t.co/qkpj1eDLg7">pic.twitter.com/qkpj1eDLg7</a></p>&mdash; poornima (@poornima) <a href="https://twitter.com/poornima/status/661937924158701568">November 4, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -58,6 +56,8 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 <cite>Michael Hoffman, [Why ‘Her’? The Case for a Pronoun for a Programmer](https://medium.com/code-like-a-girl/why-her-559bb1f34b8#.os8l9dmpx)</cite>
 
 [Karolina Szczur - Platform for Belonging (HybridConf 2015)](https://vimeo.com/166454411)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">on emoji as paralanguage and the importance of culturally diverse representation within standards bodies <a href="https://t.co/ji3gjrUr4K">https://t.co/ji3gjrUr4K</a></p>&mdash; Noah Slater (@nslater) <a href="https://twitter.com/nslater/status/736981423295467520">May 29, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Business
 
