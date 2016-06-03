@@ -23,6 +23,10 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 ## Design
 
+> There are so many damn icons that the devil might trick you into solving all of the world’s design problems with them.
+
+<cite>[On Icons](https://ia.net/know-how/on-icons), iA </cite>
+
 [Designing for before, during and after](https://medium.com/write-like-a-human/designing-for-before-during-and-after-b693e6a6455a#.z123qbvp0)
 
 [How To Design With Discipline: UX Lessons From 3M](http://www.fastcodesign.com/3060559/how-to-design-with-discipline-ux-lessons-from-3m)
