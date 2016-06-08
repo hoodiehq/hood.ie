@@ -20,7 +20,7 @@ First and foremost, we are proud to welcome 4 first-time Open Source contributor
 
 ### New Contributions to Hoodie
 
-We also welcome these great people who contributed to Hoodie for the first time
+We also welcome these great people who contributed to Hoodie for the first time:
 
 - [Arcadius Kazimierski](https://github.com/ArcadiusK) landed [feat: Hoodie default UI - add numbers to instructions](https://github.com/hoodiehq/hoodie/pull/494)
 - [Alan Barr](https://github.com/alanmbarr) landed [use .status as .error property not given on error](https://github.com/hoodiehq/hoodie-store/pull/17)
@@ -39,7 +39,7 @@ We also welcome these great people who contributed to Hoodie for the first time
 - [Andromeda Yelton](https://github.com/thatandromeda) landed [Typo fix](https://github.com/hoodiehq/hood.ie/pull/279)
 - [Vicken Liu](https://github.com/vickenliu) landed [for consistency, username should be same as below](https://github.com/hoodiehq/hoodie-account-server/pull/157) and [correct the frond end files path](https://github.com/hoodiehq/hoodie-app-tracker/pull/69)
 
-Thanks to our maintainers, who review new contributions of all kind before it finds its way to our code, documentation or website <3
+Thanks to our maintainers, who review all kinds of new contributions before they make their way to our code, documentation or website <3
 
 - [Charlotteis](https://github.com/Charlotteis)
 - [HipsterBrown](https://github.com/HipsterBrown)
