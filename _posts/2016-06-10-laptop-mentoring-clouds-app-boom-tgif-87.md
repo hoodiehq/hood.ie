@@ -46,7 +46,7 @@ The United Nations is hosting 25+ Open Source events, with 6000+ attendees, 400+
 
 > Sites can adapt to any screen size, work on all devices, and are open to everyone to use regardless of their device. “If you believe in the open internet that will always win,” he says. And they’re much cheaper to maintain, he adds, because when an upgrade is required, only one platform needs recoding.
 
-<cite>Ben Terrett, former head of the UK Government Digital Service in [Why Britain Banned Mobile Apps](https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/)</cite>
+<cite>Ben Terrett, former head of the UK Government Digital Service, [Why Britain Banned Mobile Apps](https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/)</cite>
 
 ## The Tech World and Culture
 [Cloud.gov](https://cloud.gov/) provides robust, cloud hosting for federal agencies. Looks to be US-only for now.
@@ -110,7 +110,7 @@ Offline Camp is also [looking for sponsors](http://offlinefirst.org/camp/)
 
 >Parents, meet Winnie. As a mobile app, Winnie gives you a modern interface to the information you and your family need to know, wherever you are. As a service, it is a central, trustworthy source of local information for parents.
 
-<cite>[Parents, Meet Winnie](https://medium.com/winnie-labs/meet-winnie-16d689d9bd4f#.pm77cvewc)</cite>
+<cite>Sara Mauskopf, [Parents, Meet Winnie](https://medium.com/winnie-labs/meet-winnie-16d689d9bd4f#.pm77cvewc)</cite>
 
 [Laptop is set up to take a picture after three incorrect password attempts](http://imgur.com/gallery/aal9N)
 
