@@ -24,8 +24,6 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just discovered Randoma11y. Super app to create a11y compliant color palettes <a href="https://t.co/SMQFk7WBT3">https://t.co/SMQFk7WBT3</a> <a href="https://twitter.com/hashtag/accessibility?src=hash">#accessibility</a> <a href="https://t.co/DB55cFB7u5">pic.twitter.com/DB55cFB7u5</a></p>&mdash; And Purnell⚡️ (@andpurnell) <a href="https://twitter.com/andpurnell/status/740529003770089476">June 8, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-
-
 ## The Web and Development
 
 >Sites can adapt to any screen size, work on all devices, and are open to everyone to use regardless of their device. “If you believe in the open internet that will always win,” he says. And they’re much cheaper to maintain, he adds, because when an upgrade is required, only one platform needs recoding.
