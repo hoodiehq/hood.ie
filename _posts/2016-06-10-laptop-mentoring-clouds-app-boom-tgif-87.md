@@ -18,9 +18,9 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 [Open Source Bridge is looking for conference volunteers](http://volunteer.opensourcebridge.org/)
 
-The UN is hosting 25+ Open Source events, with 6000+ Attendees, 400+ Presentations, 15+ Trainings during [Open Camps](http://opencamps.org/) this July as part of their Unite Open Source initiative. 
+The United Nations is hosting 25+ Open Source events, with 6000+ attendees, 400+ presentations, 15+ trainings during [Open Camps](http://opencamps.org/) this July as part of their Unite Open Source initiative. 
 
-> Microsoft just released its own version of FreeBSD for Azure. So what, you say? Who uses FreeBSD? Well, you've probably heard of a little company called Netflix. Then, there's Citrix, Array Networks, Gemalto. and Netgate, which already have virtual appliances on the Azure Marketplace.
+> Microsoft just released its own version of FreeBSD for Azure. So what, you say? Who uses FreeBSD? Well, you’ve probably heard of a little company called Netflix. Then, there’s Citrix, Array Networks, Gemalto. and Netgate, which already have virtual appliances on the Azure Marketplace.
 
 <cite> Steven J. Vaughan-Nichols, [Why Microsoft is turning into an open-source company](http://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/)</cite>
 
