@@ -108,6 +108,6 @@ Offline Camp is also [looking for sponsors](http://offlinefirst.org/camp/)
 
 > People ruin their lives, reporting and writing and covering the news. They lose friends, they lose sleep, they lose nights and weekends and uninterrupted vacations and unblemished memories and sometimes they lose more than that. People die, reporting the news. Because reporting the news is more important to them than their lives. Those people deserve better than “tronc.” <cite>Allison Hantschel, [On #Tronc, Journalism, and Its Value](https://first-draft.com/2016/06/02/on-tronc-journalism-and-its-value/)</cite>
 
-Hoodie contributor [Nolan Lawson](https://twitter.com/nolanlawson) on [On joining Microsoft Edge and moving to Seattle](https://nolanlawson.com/2016/06/09/on-joining-microsoft-edge-and-moving-to-seattle/)
+Hoodie contributor [Nolan Lawson](https://twitter.com/nolanlawson) [On joining Microsoft Edge and moving to Seattle](https://nolanlawson.com/2016/06/09/on-joining-microsoft-edge-and-moving-to-seattle/)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">All my video game training is telling me to take this rope <a href="https://t.co/0lB6OVqxsi">pic.twitter.com/0lB6OVqxsi</a></p>&mdash; (((spacer.r15))) (@brianloveswords) <a href="https://twitter.com/brianloveswords/status/740885636253646848">June 9, 2016</a></blockquote>
