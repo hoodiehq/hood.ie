@@ -20,9 +20,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 The United Nations is hosting 25+ Open Source events, with 6000+ attendees, 400+ presentations, 15+ trainings during [Open Camps](http://opencamps.org/) this July as part of their Unite Open Source initiative.
 
-> Microsoft just released its own version of FreeBSD for Azure. So what, you say? Who uses FreeBSD? Well, you’ve probably heard of a little company called Netflix. Then, there’s Citrix, Array Networks, Gemalto. and Netgate, which already have virtual appliances on the Azure Marketplace.
-
-<cite> Steven J. Vaughan-Nichols, [Why Microsoft is turning into an open-source company](http://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/)</cite>
+> Microsoft just released its own version of FreeBSD for Azure. So what, you say? Who uses FreeBSD? Well, you’ve probably heard of a little company called Netflix. Then, there’s Citrix, Array Networks, Gemalto. and Netgate, which already have virtual appliances on the Azure Marketplace. <cite>Steven J. Vaughan-Nichols, [Why Microsoft is turning into an open-source company](http://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/)</cite>
 
 [An open process for discovering your core values](https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values)
 
@@ -30,9 +28,7 @@ The United Nations is hosting 25+ Open Source events, with 6000+ attendees, 400+
 
 [This Interactive Proves Just How Wrong Our World Maps Really Are](http://www.fastcodesign.com/3060594/infographic-of-the-day/this-interactive-proves-just-how-insane-world-maps-really-are)
 
-> Imagination is our window into the future. At NASA/JPL we strive to be bold in advancing the edge of possibility so that someday, with the help of new generations of innovators and explorers, these visions of the future can become a reality. As you look through these images of imaginative travel destinations, remember that you can be an architect of the future.
-
-<cite>NASA, [Visions of the Future](http://www.jpl.nasa.gov/visions-of-the-future/)</cite>
+> Imagination is our window into the future. At NASA/JPL we strive to be bold in advancing the edge of possibility so that someday, with the help of new generations of innovators and explorers, these visions of the future can become a reality. As you look through these images of imaginative travel destinations, remember that you can be an architect of the future. <cite>NASA, [Visions of the Future](http://www.jpl.nasa.gov/visions-of-the-future/)</cite>
 
 [Revision Path interviews Facebook product designer Kingsley Harris](https://soundcloud.com/revisionpath/episode-143-kingsley-harris)
 
@@ -44,9 +40,7 @@ The United Nations is hosting 25+ Open Source events, with 6000+ attendees, 400+
 
 ## The Web and Development
 
-> Sites can adapt to any screen size, work on all devices, and are open to everyone to use regardless of their device. “If you believe in the open internet that will always win,” he says. And they’re much cheaper to maintain, he adds, because when an upgrade is required, only one platform needs recoding.
-
-<cite>Ben Terrett, former head of the UK Government Digital Service, [Why Britain Banned Mobile Apps](https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/)</cite>
+> Sites can adapt to any screen size, work on all devices, and are open to everyone to use regardless of their device. “If you believe in the open internet that will always win,” he says. And they’re much cheaper to maintain, he adds, because when an upgrade is required, only one platform needs recoding. <cite>Ben Terrett, former head of the UK Government Digital Service, [Why Britain Banned Mobile Apps](https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/)</cite>
 
 ## The Tech World and Culture
 [Cloud.gov](https://cloud.gov/) provides robust, cloud hosting for federal agencies. Looks to be US-only for now.
@@ -63,9 +57,7 @@ The United Nations is hosting 25+ Open Source events, with 6000+ attendees, 400+
 
 ## Business
 
-> This is my favourite channel, the one where the company makes money — As soon as a customer moves from a trial to a paid account, I ping this channel, it pushes to my phone, and I do a little celebration. Stripe have an official webhook that’ll take care of this for you.
-
-<cite> Ben Schwarz, [How I use Slack as my company ops centre](https://building.calibreapp.com/how-i-use-slack-as-company-ops-centre-fda441a6e71d#.td4dsgues)</cite>
+> This is my favourite channel, the one where the company makes money — As soon as a customer moves from a trial to a paid account, I ping this channel, it pushes to my phone, and I do a little celebration. Stripe have an official webhook that’ll take care of this for you. <cite> Ben Schwarz, [How I use Slack as my company ops centre](https://building.calibreapp.com/how-i-use-slack-as-company-ops-centre-fda441a6e71d#.td4dsgues)</cite>
 
 [Overcoming the Challenges of Mentoring](https://prezi.com/yg36mrh2tf0k/overcoming-the-challenges-of-mentoring/)
 
@@ -108,17 +100,13 @@ Offline Camp is also [looking for sponsors](http://offlinefirst.org/camp/)
 ## We <3
 
 
->Parents, meet Winnie. As a mobile app, Winnie gives you a modern interface to the information you and your family need to know, wherever you are. As a service, it is a central, trustworthy source of local information for parents.
-
-<cite>Sara Mauskopf, [Parents, Meet Winnie](https://medium.com/winnie-labs/meet-winnie-16d689d9bd4f#.pm77cvewc)</cite>
+> Parents, meet Winnie. As a mobile app, Winnie gives you a modern interface to the information you and your family need to know, wherever you are. As a service, it is a central, trustworthy source of local information for parents. <cite>Sara Mauskopf, [Parents, Meet Winnie](https://medium.com/winnie-labs/meet-winnie-16d689d9bd4f#.pm77cvewc)</cite>
 
 [Laptop is set up to take a picture after three incorrect password attempts](http://imgur.com/gallery/aal9N)
 
 [A Woman Has Re-Created Asian Roles In Hollywood To “Correct The Yellowface”](https://www.buzzfeed.com/tanyachen/mom-correcting-yellowface)
 
-> People ruin their lives, reporting and writing and covering the news. They lose friends, they lose sleep, they lose nights and weekends and uninterrupted vacations and unblemished memories and sometimes they lose more than that. People die, reporting the news. Because reporting the news is more important to them than their lives. Those people deserve better than “tronc.”
-
-<cite>  Allison Hantschel, [On #Tronc, Journalism, and Its Value](https://first-draft.com/2016/06/02/on-tronc-journalism-and-its-value/)</cite>
+> People ruin their lives, reporting and writing and covering the news. They lose friends, they lose sleep, they lose nights and weekends and uninterrupted vacations and unblemished memories and sometimes they lose more than that. People die, reporting the news. Because reporting the news is more important to them than their lives. Those people deserve better than “tronc.” <cite>Allison Hantschel, [On #Tronc, Journalism, and Its Value](https://first-draft.com/2016/06/02/on-tronc-journalism-and-its-value/)</cite>
 
 Hoodie contributor [Nolan Lawson](https://twitter.com/nolanlawson) on [On joining Microsoft Edge and moving to Seattle](https://nolanlawson.com/2016/06/09/on-joining-microsoft-edge-and-moving-to-seattle/)
 
