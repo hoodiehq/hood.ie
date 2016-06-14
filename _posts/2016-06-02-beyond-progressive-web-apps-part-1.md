@@ -78,7 +78,7 @@ Now. Let’s look behind the scenes.
 
 ### The Cycle of (the) Web
 
-Even though there are many hops at which things can go wrong in a HTTP request/response cycle (see part [one](http://example.com/) and [two](http://hood.ie/blog/offline-first-and-the-circle-of-web-part-ii-breaking-the-circle.html "Offline First and the Circle of Web, Part II: Breaking the Circle") of this Hoodie series on offline first), there are generally two parts: the request and the response. 
+Even though there are many hops at which things can go wrong in a HTTP request/response cycle (see part [one](http://hood.ie/blog/offline-first-and-the-circle-of-web.html) and [two](http://hood.ie/blog/offline-first-and-the-circle-of-web-part-ii-breaking-the-circle.html "Offline First and the Circle of Web, Part II: Breaking the Circle") of this Hoodie series on offline first), there are generally two parts: the request and the response. 
 
 Each part can fail, so we have to account for the following scenarios:
 
