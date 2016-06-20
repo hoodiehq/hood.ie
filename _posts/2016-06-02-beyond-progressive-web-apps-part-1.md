@@ -11,6 +11,9 @@ comments: true
 
 I am very excited about a new initiative to make web sites and web apps more compelling for end users. And in this series of posts, I intend to provide a tutorial to get you up and running with it. 
 
+**Update June 15th: [See Part 2](http://hood.ie/blog/beyond-progressive-web-apps-part-2.html)**
+
+
 The initiative is called [*Progressive Web Apps*](https://medium.com/@slightlylate/progressive-apps-escaping-tabs-without-losing-our-soul-3b93a8561955). And while it has “Apps” in the title, the principles and technology behind them are applicable across apps and sites alike.
 
 The best introduction into the topic is Jake Archibald’s Google I/O 2016 talk:
