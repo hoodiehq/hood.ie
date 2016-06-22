@@ -46,7 +46,7 @@ People will ask why one person gets paid while others don’t, for the same kind
 
 I’m not concerned about traditional open source contributions. I think the real challenge is to scale the work we currently put into making Hoodie [the most welcoming community possible](http://hood.ie/blog/welcoming-communities.html).
 
-This kind of work is about _serving_ the community. Less like volunteers, more like employees for a non profit organisation. The work is labour intensive, it has to be done constantly and it is happening in the background, often times invisible to the rest of the community. Sometimes it just to be available, in case moderation is needed in a discussion, or to enforce our code of conduct in a timely manner. And we have to hold people accountable for community work, which is much more practicable when paying for it.
+This kind of work is about _serving_ the community. Less like volunteers, more like employees for a non profit organisation. The work is labour intensive, it has to be done constantly and it is happening in the background, often times invisible to the rest of the community. Sometimes it’s just to be available, in case moderation is needed in a discussion, or to enforce our code of conduct in a timely manner. And we have to hold people accountable for community work, which is much more practicable when paying for it.
 
 ## Value
 
