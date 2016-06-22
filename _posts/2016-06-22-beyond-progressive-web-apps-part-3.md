@@ -129,7 +129,7 @@ But what if the typo fix both create result in the *same* text? With timestamps 
 
 I realise this example is a little bit contrived, but I hope by staying within our example project, we can see the problem here. Where the problem would *actually* make our lives harder is when we don’t have a single sync server, but a cluster of sync servers, which we might need for scaling to higher and higher loads of our system.
 
-Explaining all this takes time, and this tutorial is already getting long, so we are going to skip the nitty-gritty details of that one. I hope you forgive me. If you don’t, I hope this gif of a squirrel makes up for it:
+Explaining all this takes time, and this tutorial is already getting long, so we are going to skip the details of this. I hope you forgive me. If you don’t, I hope this gif of a squirrel makes up for it:
 
 ![Squirrel eating](../dist1/blog/2016/06/squirrel.gif)
 
