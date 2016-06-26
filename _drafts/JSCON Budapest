@@ -48,7 +48,59 @@ Watch his talk here: https://youtu.be/98z0XjYWX0o
 Rachel had a problem. Her cats kept waking her up at ungodly hours. So she built a web based feeder that is remote controlled!
 In this talk she walks us through her learning process and how to submit it to open source community.
 Watch it here: https://youtu.be/PTgqSpclwvE
-10. 
+10. Anand  Vemuri @brownhat57
+Anand explains how cyber security breaches have occurred at the web application layer. In his talk anand talks about the less
+frequently talked about vulnerabilities developed with javascript. Anand  will also go into how to prevent these vulnerabilities.
+His talk can be seen here: https://youtu.be/qNmOUzxGg0Y
+11.Claudia  Hernandez @koste4
+Javascript has many interesting oddities and Claudia does a beautiful job of explaining them to us. This should help future and upcoming
+developers avoid some upcoming headaches.
+12.Rob Kerr @robrkerr
+Rob is a neuroscientist who is also a web developer. He wants to bring the old ways of analyzing data and spread the resources to everyone!
+Rob shows us the simulations of the electricity activity in our brain cells using javascript!
+Watch it here: https://youtu.be/mz4N3U5f2tg
+13.Nicolas  Bevacqua @nzgb
+Nicolas also talks about web performance but in a different perspective! He does a great job explaining  about modifying CSS, and controlling TCP
+delivery. Nicolas closes it off by talking about the upcoming HTTP 2.0and its new features!
+14.Princiya Sequeira @princi_ya
+Video games is a huge industry in todays world. We are getting more and more closer to virtual reality everyday! In this talk, Princiya  explains how
+javascript can  be used to enhance our interaction and further progress video game technology.
+15. Maurice Debeijer @mauricedb
+Maurice gives us an interesting perspective on event sourcing our react-flux apps.Most react apps currently store the data  without change. However
+using Event-Sourcing  with Command Query Responsibility Segregation (CQRS) is much more optimal.Maurice goes more into the detail of how the data is
+stored  and how we can start using it for ourselves in our React apps.
+16.Oliver Joseph Ash @OliverJAsh
+What if we are working on an app and  we lose internet connection? In this talk Oliver explains using service workers to build an offline page for
+theguardian.com . Working offline soon won't be an issue anymore!
+17.Safia Abdalla  @captainsafia
+Safia cracks some funny jokes and takes us on an adventure on memory management in javascript.Through this Safia tells us how we can implement code
+better to improve performance and learn javascript concepts better.
+Check out her interesting talk here: https://youtu.be/AeUCN2lPqL8
+18. Nick Hehr @hipsterbrown
+Last but not least our very own Nick Hehr does a fantastic job describing how the community is as important as the code. Its the people behind the project
+that make it such an unique experience. Nick explains how fostering a community can  benefit the project and products.
+Check it out here: https://youtu.be/kTuAQen5iTA
+
+#Workshops
+1. Nodebots
+Users got to assemble, program and  battle bots! This was lead by Markus Leutwyler!
+2.Journey towards Angular 2
+In this workshop, Gabor and Andras walk through the migration process from  old school Angular JS to
+more modern Angular. Users learnt to refactor the application to make migration easier!
+3.Composing Music with Javascript
+Andor Polgar uses Websockets and Web MIDI API to send musical notes to a synthesizer . He demonstrates how this can be used to control
+any hardware with USB ports and decode MIDI messages.
+4.Develop Webapps with Haxe
+Balazs and Francis walk through using the Haxe language  using hexMachina MVC framework.
+5.NodeSchool
+Nodeschool teaches Node.js . Learn an important framework that can be used anywhere to implement apps.
+6.Three.JS Viewer API
+Jaime  and Adam  demonstrate setting up a node.js server and client side JS to create an interactive  website where 3D  model extensions
+can be added!
+7.Tessel-2
+Nick is back in this one with Istvan as they showcase building a hardware project with Tessel-2. They demonstrate using javascript to
+access the hardware  and build environmentally sensitive apps using web development skills. 
+
 
 
 
