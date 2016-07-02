@@ -1,6 +1,6 @@
 ---
 
-title: 'Empty Title TGIF'
+title: 'Async Emojis Go Offline Camp TGIF (90)'
 author: Gregor
 layout: blog-post-tgif
 comments: true
