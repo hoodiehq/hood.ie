@@ -185,7 +185,11 @@ aside img { border: 0; }
   text-align: center;
   padding-bottom: rem-calc(25);
 
-  input {
+  label {
+      display: block;
+  }
+
+  input, button {
     border: 1px solid;
     font-size: 1em;
     height: 2.2rem;
@@ -214,11 +218,30 @@ aside img { border: 0; }
       outline: none;
       background-color: #C1A7BC;
       border-color: #C1A7BC;
+      color: #404040;
     }
   }
 
   .message {
+    visibility: hidden;
+  }
+  
+  .message-done, .message-fail {
+    visibility: visible;
+    width: 60%;
+    margin: rem-calc(7) auto 0;
     font-weight: 400;
     line-height: 2;
   }
+  
+  .message-fail {
+    border: 1px solid #E8260C;
+    background-color: #ffefef;
+  }
+  
+  .message-done {
+      border: 1px solid $green;
+      background-color: 1px solid $green-l;
+  }
+
 }
