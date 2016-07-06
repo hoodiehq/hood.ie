@@ -17,93 +17,6 @@ Situated in Budapest, this year's JavaScript conference showcased plenty of work
 Budapest is a city located on the Danube river. The capital consists of two cities, Buda and Pest. Budapest has been
 reported as one of the best places to visit in Europe. As such it makes for a perfect place to  hold the JS conference.
 
-#Speakers
-1.LAURIE VOSS @seldo
-Laurie talked about how  NPM  expects you to use NPM. He also talked about the commands and workflows that can make you better at NPM.
-The talk can be found here :https://youtu.be/zWEU8kNKi3Q
-2.Suz Hinton @noopat
-Suze talked about  how Data creation, analysis, and corruption can be paired with JavaScript to discover new and improved things. The
-talk can be found here: https://youtu.be/P8Cy2_ZHWI8
-3.DENYS MISHUNOV @mishunov
-Denys talked about the importance of performance in his talk. There are a lot of factors influencing performance  but Denys talked about the importance of perception.
-Although the site may have few requests and be mathematically fast, it nonetheless may seem slow. He gives an interesting
-speech on the how the user's perspective is the true measure of speed. Check it out here!
-https://youtu.be/j9TrSkLZa5A?list=PL37ZVnwpeshE6PbF5GB4hvtU3A4HqMfxf
-4. Yan Zhu @bcrypt
-Yan talked about the importance of security and how it shouldn't be compromised for performance. Check it out here:
-https://youtu.be/n9Fe68xgKUw?list=PL37ZVnwpeshE6PbF5GB4hvtU3A4HqMfxf
-5.TimPietrusky @TimPietrusky/ MartinSchuhfuss @usefulthink
-Tim and Martin put on a awesome audio/visual  performance with their skills in music,lights,MDI,and electronic.
-Check it out here: https://youtu.be/KkV4alDBVhk
-6.Lena Reinhard @lrnrd
-Lena (our very own!!)  talks about how software plays an important role in peoples' everyday lives. She also dives into how you as a person can make a change in the tech industry.
-You can listen to her talk here:
-7. Sam Bellen
-Sam decided to use the web-audio-api to change the sounds of his guitar . He talks  about how he accomplished this and showcases his skills.
-Check it out here:https://youtu.be/BEdFcnI-ppk
-8.Stefan Baumgartner @ddprrt
-Stefan talks about the new version of HTTP and how it will affect the javascript developers of the future.
-Watch his talk here: https://youtu.be/98z0XjYWX0o
-9.Rachel  White @ohhoe
-Rachel had a problem. Her cats kept waking her up at ungodly hours. So she built a web based feeder that is remote controlled!
-In this talk she walks us through her learning process and how to submit it to open source community.
-Watch it here: https://youtu.be/PTgqSpclwvE
-10. Anand  Vemuri @brownhat57
-Anand explains how cyber security breaches have occurred at the web application layer. In his talk anand talks about the less
-frequently talked about vulnerabilities developed with javascript. Anand  will also go into how to prevent these vulnerabilities.
-His talk can be seen here: https://youtu.be/qNmOUzxGg0Y
-11.Claudia  Hernandez @koste4
-Javascript has many interesting oddities and Claudia does a beautiful job of explaining them to us. This should help future and upcoming
-developers avoid some upcoming headaches.
-12.Rob Kerr @robrkerr
-Rob is a neuroscientist who is also a web developer. He wants to bring the old ways of analyzing data and spread the resources to everyone!
-Rob shows us the simulations of the electricity activity in our brain cells using javascript!
-Watch it here: https://youtu.be/mz4N3U5f2tg
-13.Nicolas  Bevacqua @nzgb
-Nicolas also talks about web performance but in a different perspective! He does a great job explaining  about modifying CSS, and controlling TCP
-delivery. Nicolas closes it off by talking about the upcoming HTTP 2.0and its new features!
-14.Princiya Sequeira @princi_ya
-Video games is a huge industry in todays world. We are getting more and more closer to virtual reality everyday! In this talk, Princiya  explains how
-javascript can  be used to enhance our interaction and further progress video game technology.
-15. Maurice Debeijer @mauricedb
-Maurice gives us an interesting perspective on event sourcing our react-flux apps.Most react apps currently store the data  without change. However
-using Event-Sourcing  with Command Query Responsibility Segregation (CQRS) is much more optimal.Maurice goes more into the detail of how the data is
-stored  and how we can start using it for ourselves in our React apps.
-16.Oliver Joseph Ash @OliverJAsh
-What if we are working on an app and  we lose internet connection? In this talk Oliver explains using service workers to build an offline page for
-theguardian.com . Working offline soon won't be an issue anymore!
-17.Safia Abdalla  @captainsafia
-Safia cracks some funny jokes and takes us on an adventure on memory management in javascript.Through this Safia tells us how we can implement code
-better to improve performance and learn javascript concepts better.
-Check out her interesting talk here: https://youtu.be/AeUCN2lPqL8
-18. Nick Hehr @hipsterbrown
-Last but not least our very own Nick does a fantastic job describing how the community is as important as the code. Its the people behind the project
-that make it such an unique experience. Nick explains how fostering a community can  benefit the project and products.
-Check it out here: https://youtu.be/kTuAQen5iTA
-
-#Workshops
-1. Nodebots
-Users got to assemble, program and  battle bots! This was lead by Markus Leutwyler!
-2.Journey towards Angular 2
-In this workshop, Gabor and Andras walk through the migration process from  old school Angular JS to
-more modern Angular. Users learnt to refactor the application to make migration easier!
-3.Composing Music with Javascript
-Andor Polgar uses Websockets and Web MIDI API to send musical notes to a synthesizer . He demonstrates how this can be used to control
-any hardware with USB ports and decode MIDI messages.
-4.Develop Webapps with Haxe
-Balazs and Francis walk through using the Haxe language  using hexMachina MVC framework.
-5.NodeSchool
-Nodeschool teaches Node.js . Learn an important framework that can be used anywhere to implement apps.
-6.Three.JS Viewer API
-Jaime  and Adam  demonstrate setting up a node.js server and client side JS to create an interactive  website where 3D  model extensions
-can be added!
-7.Tessel-2
-Nick is back in this one with Istvan as they showcase building a hardware project with Tessel-2. They demonstrate using javascript to
-access the hardware  and build environmentally sensitive apps using web development skills.
-8. Crash Course on Progressive Web Apps
-Nolan demonstrates building fast mobile apps  with web technologies  using cutting edge APIs that works
-well in all browsers.
-
 #Follow JSconBP on twitter!
 https://twitter.com/jsconfbp
 
@@ -118,5 +31,38 @@ http://jotaen.net/assets/2016/budapest-skyline-full.jpg
 Visit the official JS Con BP youtube page!
 https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA
 
+#Quotes
+Nolan Lawson:
+I had a blast. My workshop on Progressive Web Apps drew a nice little crowd (~30 people),
+who were all eager to learn about how to make offline web apps with modern web tools. In the course of the 6-hour workshop,
+we built a small offline Star Wars app (here's the finished product), and afterwards we went out for drinks and mingled with other speakers and organizers.
+I found the pre-conference workshop to be a great way for speakers to get to know the local developer community. Flaki, Mozilla, and all the organizers did a
+fantastic job running the event, and really took care of their speakers and workshoppers. (I felt like royalty when they picked me up at the airport!)
+The venue itself was hip and relaxed, and people stayed late into the evening for the drinks, atmosphere, and sparkling post-conf conversation.
+
+Oh yeah, and the speakers (that's what we were all there to see, right? 😉) were phenomenal! All in all, a great conference and highly recommended
 Hope you enjoyed the read! Don't forget to giv e a shout out to our Hoodie  members who did a
 fantastic job at the conference!
+
+Tim Holman:
+Things that I like about my profession about development specifically is that it's kind of constantly evolving and it's moving really really fast i think
+compared to other things.
+
+Tim Pietrusky:
+I love my job because I can do everything I have in my past and create stuff that other people can see because you only need the problem.
+
+Princiya Sequiera:
+I like javascript so anything that has to do a job that immediately excites me.
+
+Laurie Voss:
+There's no right way to do things.I think a note in particular people keep inventing new ways of doing stuff and everybody goes out
+we could be doing it that way we could be doing it this way nobody's really sure like what's the best way and that's my favorite thing about
+it is it's still constantly changing.
+
+Maurice De Beijer:
+I really love developing so far and helping other I'm also in the structure and I love combining the two wear a pencil
+experience you can go to people and explain stuff that really works at a community.
+
+Nick Hehr:
+I mean as i talked about in my talk ways i love the community is why I stick with the web and white stuff with continuing to push it forward
+because i think it's really inclusive and really easy and approachable to get started with an occasion to bring in more people from different disciplines.
