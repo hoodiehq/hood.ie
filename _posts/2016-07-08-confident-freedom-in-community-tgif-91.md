@@ -1,4 +1,3 @@
-
 ---
 
 title: 'CONFIDENT FREEDOM IN COMMUNITY: TGIF (91)'
