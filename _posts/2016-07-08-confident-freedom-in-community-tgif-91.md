@@ -3,7 +3,7 @@
 title: 'CONFIDENT FREEDOM IN COMMUNITY: TGIF (91)'
 author: Cecily
 layout: blog-post-tgif
-comments: true
+comments: false
 
 ---
 
@@ -22,7 +22,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 ## Design
 
->Complexity in product design tends to rear its head in two ways 1) the complexity of managing people and opinions. And 2) the complexity of designing the product itself. It’s not always intuitive how to keep your head above water in a sea of features, users and stakeholders. I’ve certainly fallen on my face in the past, so I’d like to share some insights I’ve gleaned about tackling these big design projects. <cite>[Erik Klimczak](https://twitter.com/eklimcz) in [Designing Complex Products](https://blog.truthlabs.com/designing-complex-products-8f9289ab26c9#.ok7ewfgrq)
+> Complexity in product design tends to rear its head in two ways 1) the complexity of managing people and opinions. And 2) the complexity of designing the product itself. It’s not always intuitive how to keep your head above water in a sea of features, users and stakeholders. I’ve certainly fallen on my face in the past, so I’d like to share some insights I’ve gleaned about tackling these big design projects. <cite>[Erik Klimczak](https://twitter.com/eklimcz) in [Designing Complex Products](https://blog.truthlabs.com/designing-complex-products-8f9289ab26c9#.ok7ewfgrq)</cite>
 
 [Design Better Forms](uxdesign.cc/design-better-forms-96fadca0f49c#.katp81t5k)
 
@@ -33,7 +33,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again
 
 [Inline Validation in Forms - Designing the Experience](https://medium.com/wdstack/inline-validation-in-forms-designing-the-experience-123fb34088ce#.v5uqv15xz)
 
-Remember when the US Government launched Healthcare.gov? [Read about the secret startup that saved "the worst website in America."](http://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/)
+Remember when the US Government launched Healthcare.gov? [Read about the secret startup that saved “the worst website in America.”](http://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/)
 
 [Maureen McElaney shared a fantastic list of tools that make developing Offline First applications easier.](https://medium.com/offline-camp/lets-talk-about-tooling-8c0c827bae87#.ehi1csn5e)
 
@@ -41,13 +41,14 @@ Remember when the US Government launched Healthcare.gov? [Read about the secret 
 
 > In today’s world, where the social web is mainstream, innovating on the core values of tools and technology while ignoring the value of inclusiveness is tantamount to building a gated community. Even with the promise that the less privileged might get a chance to show up later, you’re making a fundamentally unfair system. <cite>[Anil Dash](http://twitter.com/anildash) on [You Can’t Start the Revolution from the Country Club](https://medium.com/i-m-h-o/you-cant-start-the-revolution-from-the-country-club-65fb61abc815#.7wzfald5d)</cite>
 
+[Building Community for Fun and Profit](https://medium.com/@BradleyHolt/building-community-for-fun-and-profit-a757bcbd30c8#.dya94wbm2)
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If one big way to boost a failing division at a publicly-traded company is to profit from police violence, that&#39;s a huge danger.</p>&mdash; Anil Dash (@anildash) <a href="https://twitter.com/anildash/status/751187458390364160">July 7, 2016</a></blockquote>
 
-[Building Community for Fun and Profit](https://medium.com/@BradleyHolt/building-community-for-fun-and-profit-a757bcbd30c8#.dya94wbm2)
 
 ## The Business
 
->Senseless acts of violence affect all of us. Mass shootings, suicide bombers, assassinations — the emotions such events bring up are strong, even if our personal connection to the events themselves is not. Feelings of sadness, pain, confusion, and anger don’t get checked at the office door. If you’re leading a team or an organization, how can you help manage the emotional culture of the people you’re responsible for? <cite>Jennifer Porter in [Being a Good Boss in Dark Times](https://hbr.org/2016/07/being-a-good-boss-in-dark-times)</cite>
+> Senseless acts of violence affect all of us. Mass shootings, suicide bombers, assassinations — the emotions such events bring up are strong, even if our personal connection to the events themselves is not. Feelings of sadness, pain, confusion, and anger don’t get checked at the office door. If you’re leading a team or an organization, how can you help manage the emotional culture of the people you’re responsible for? <cite>Jennifer Porter in [Being a Good Boss in Dark Times](https://hbr.org/2016/07/being-a-good-boss-in-dark-times)</cite>
 
 [Building the Offline First Community](https://medium.com/offline-camp/building-the-offline-first-community-f496b86cc589#.nqo7e4du8)
 
