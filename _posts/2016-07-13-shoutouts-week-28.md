@@ -7,10 +7,10 @@ comments: true
 
 ---
 
-We do our best to follow a more regular schedule with our shout out blog posts, but we could use some help :)
-We started [documenting the workflow to create a blog post like this](https://github.com/hoodiehq/editorial/wiki/How-to-create-a-shout-out-blog-post), it’s about 2h of work right now. If you know JavaScript / Node.js, you can also help us by improving our little [github-shoutouts](https://github.com/finnp/github-shoutouts) CLI tool. Please [get in touch](http://hood.ie/contact/).
+We do our best to follow a more regular schedule with our shout out blog posts, but we could use some help. :)
+We started [documenting the workflow to create a blog post like this](https://github.com/hoodiehq/editorial/wiki/How-to-create-a-shout-out-blog-post), it’s about two hours of work right now. If you know JavaScript / Node.js, you can also help us by improving our [github-shoutouts](https://github.com/finnp/github-shoutouts) CLI tool. Please [get in touch](http://hood.ie/contact/).
 
-If you are interested, [there are many ways you can contribute](http://hood.ie/contribute/) <3
+If you are interested, [there are many ways you can contribute](http://hood.ie/contribute/). <3
 
 ### Backers and Sponsors
 
@@ -32,7 +32,7 @@ And our very first sponsor:
 
 ### New Contributors
 
-We want to welcome our backers Eric, Jens, Justin, Pia and Stefan to the Hoodie community! As far as we can tell, your backing this month is also your first contribution to the Hoodie Community, thanks so much, and welcome <3
+We want to welcome our backers Eric, Jens, Justin, Pia and Stefan to the Hoodie community! As far as we can tell, your backing this month is also your first contribution to the Hoodie community, thanks so much, and welcome! <3
 
 We also welcome
 
@@ -44,11 +44,11 @@ We also welcome
 
 - [Aaron](https://github.com/courajs) continued to work on the new Admin Dashboard. He landed [Allow showing the password being typed in the new user form](https://github.com/hoodiehq/hoodie-admin/pull/11) and [Fix a silly-looking layout of the new-user dialog](https://github.com/hoodiehq/hoodie-admin/pull/12).
 - [Charlotte](https://github.com/Charlotteis) landed [fix(slack): make the slack form accessible](https://github.com/hoodiehq/hood.ie/pull/188)
-- [Jan](https://github.com/janl) contributed several blog posts and helped out with our TIGF
+- [Jan](https://github.com/janl) contributed several blog posts and helped out with our TGIF
 - [N. Peeters](https://github.com/peetersn) reviewed an [old issue with Safari on iOS](https://github.com/hoodiehq/discussion/issues/33#issuecomment-230177321) and checked if the issue persists in the latest Hoodie. It does not, so we could close it :)
 - [Sandra](https://github.com/schisepo) landed [Added file twitter process](https://github.com/hoodiehq/editorial/pull/89) to our editorial repository.
 - [Sebastian](https://github.com/sebbel) created tests to reproduce an issue we ran into with the Hoodie Client: [add test for unexpected behaviour of store.add and removeAll](https://github.com/hoodiehq/hoodie-store-client/pull/96)
-- [Cecily](https://github.com/skeskali) created three TGIFs <3 <3 <3
+- [Cecily](https://github.com/skeskali) created three weeks of TGIFs <3 <3 <3
 
 ### Thanks to our maintainers
 
@@ -67,6 +67,6 @@ Thanks to our maintainers, who review all kinds of new contributions before they
 
 ### Special thanks
 
-Our Editorial Team produced some great blog posts this month. If you haven’t yet, make sure to read Jan’s "Beyond Progressive Web Apps" series Part [1](http://hood.ie/blog/beyond-progressive-web-apps-part-1.html), [2](http://hood.ie/blog/beyond-progressive-web-apps-part-2.html) and [3](http://hood.ie/blog/beyond-progressive-web-apps-part-3.html). Gregor wrote on how we plan to grow [a sustainable Hoodie Community](http://hood.ie/blog/sustaining-hoodie.html).
+Our Editorial Team produced some great blog posts this month. If you haven’t yet, make sure to read Jan’s “Beyond Progressive Web Apps” series Part [1](http://hood.ie/blog/beyond-progressive-web-apps-part-1.html), [2](http://hood.ie/blog/beyond-progressive-web-apps-part-2.html) and [3](http://hood.ie/blog/beyond-progressive-web-apps-part-3.html). Gregor wrote on how we plan to grow [a sustainable Hoodie Community](http://hood.ie/blog/sustaining-hoodie.html).
 
-Hoodie’s TGIF became a central product of the Hoodie community, and we are proud to send a weekly list of recommended reads about Open Source, Design, Business and more to our community and beyond. Thanks for keeping up the great work [Cecily](https://github.com/skeskali), [Jenn](https://github.com/renrutnnej) and everyone else who helped as needed.
+Hoodie’s TGIF has become a central product of the Hoodie community, and we are proud to send a weekly list of recommended reads about Open Source, design, business, and more to our community and beyond. Thanks for keeping up the great work [Cecily](https://github.com/skeskali), [Jenn](https://github.com/renrutnnej), and everyone else who helped as needed.
