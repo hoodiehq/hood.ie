@@ -37,7 +37,7 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and agai
 
 [WebKit is ES6 100%, but there’s more to the story. Read how the JSC team kept high-performance for new ES6 features](https://webkit.org/blog/6756/es6-feature-complete/).
 
-> To me, this `Mutex` abstraction and this last example in particular show off the real power of promises. By separating business logic from control flow, by treating pending results as values, they enable the creation of generic constructs for solving concurrency problems. They let you write code that concisely describes the concurrent structure of a problem, without having to explicitly specify when each operation should happen. You’re describing the problem constraints, and the abstractions make sure everything is correctly ordered. <cite>James Coglan (the Jimi Hendrix of JavaScript), [Mutexes and JavaScript](https://blog.jcoglan.com/2016/07/12/mutexes-and-javascript/)</cite>
+> To me, this Mutex abstraction and this last example in particular show off the real power of promises. By separating business logic from control flow, by treating pending results as values, they enable the creation of generic constructs for solving concurrency problems. They let you write code that concisely describes the concurrent structure of a problem, without having to explicitly specify when each operation should happen. You’re describing the problem constraints, and the abstractions make sure everything is correctly ordered. <cite>James Coglan (the Jimi Hendrix of JavaScript), [Mutexes and JavaScript](https://blog.jcoglan.com/2016/07/12/mutexes-and-javascript/)</cite>
 
 [Enabling Secure HTTP for BBC Online](http://www.bbc.co.uk/blogs/internet/entries/f6f50d1f-a879-4999-bc6d-6634a71e2e60)
 
@@ -109,4 +109,4 @@ _Meet the Hoodie community at one or more of these fine events:_
 
 [I Am NOT Black, You are NOT White.](https://www.facebook.com/PrinceEa/videos/vb.71760664768/10154108925139769/?type=2&theater) A video from Prince Ea.
 
-[:heart: Emotional Expression on Steven Universe :heart:](https://www.youtube.com/watch?v=5Z5ICVEIRIk&feature=youtu.be)
+[💗 Emotional Expression on Steven Universe 💗](https://www.youtube.com/watch?v=5Z5ICVEIRIk&feature=youtu.be)
