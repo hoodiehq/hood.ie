@@ -16,7 +16,7 @@ If you are interested, [there are many ways you can contribute](http://hood.ie/c
 
 Starting this month, you can contribute to Hoodie by becoming a personal backer or official sponsor on [Hoodie’s OpenCollective Page](https://opencollective.com/hoodie).
 
-We’d like to thank very first backers:
+We'd like to thank our very first backers:
 
 - Eric Scouten
 - [Gregor Martynus](https://twitter.com/gr2m)
