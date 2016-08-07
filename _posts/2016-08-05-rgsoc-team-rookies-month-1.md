@@ -7,12 +7,13 @@ layout: blog-post
 
 ## Team Rookies and Hoodie project with RGSoC
 ![Team Rookies, Tehetena and Hyesoo](/blog/images/201608/team-Rookies.jpg)
+<font color="grey"><small><i>We're team Rookies, Tehetena and HyeSoo! (Image: Tehetena Masresha and HyeSoo Park)</i></small></font>
 
 Hei, we are [Tehetena](https://github.com/titay2) and [HyeSoo](https://github.com/flyjwayur) from team [Rookies](https://twitter.com/hoodierookies). We want to keep our beginner mind throughout the RGSOC journey, so we made our team name ‘Rookies’. We’re living from [Helsinki, Finland]. We are studying Information technology and we love to learn new technologies. We joined the Rails Girls summer of Code as a team ‘Rookies’. It has been an amazing experience, since we have started working on the Hoodie desktop application project. For making it, we’ve been working on UI/UX on the application and learning how to use Git, Node, localStorage and API to implement functionalities. 
 [Gregor](https://twitter.com/gr2m) is our project mentor. [Esko](https://twitter.com/orfjackal), [Omid](https://twitter.com/omidfi) and [Musse](https://github.com/mussebekabil) are our coaches, and [Pilar](https://twitter.com/Althaire) is our project supervisor. 
 
 ![Kick-off meeting with mentor, coaches](/blog/images/201608/team-Rookies-kickoffcall.jpg)
-<font color="grey"><small><i>Rookies team in the main, at the bottom-right corner, from the left, are Esko, Gregor, Omid and Pilar.</i></small></font>
+<font color="grey"><small><i>Rookies team in the main, at the bottom-right corner, from the left, are Esko, Gregor, Omid and Pilar. (Image: Pilar Huidobro)</i></small></font>
 
 ## What we’ve achieved so far
 When we started the project, we had low self confidence. Even though we have taken classes on different programming languages, but when it comes to working with it we always thought that we did not have all the knowledge it took to get the job done. Now we have understood that every working experience is a great opportunity to teach ourselves new things everyday.
@@ -28,7 +29,7 @@ This is our [repository](https://github.com/Rookies-RGSOC2016/hoodie-electron-ap
 Sometimes there were certain problems which took longer time to solve, but working with advanced coaches and mentors taught us different ways to solve them, and most of the times the new approaches were even easier and clearer to understand. The mentors and coaches’ guidance helped us experiment on different coding practices we came across online. It also ensured us that there was someone whom we could rely on and ask questions.
 
 ![First meeting with Coaches in Helsinki, Finland](/blog/images/201608/team-Rookies-coaches.jpg)
-<font color="grey"><small><i>From left, Tehetena, Omid, Esko and Hyesoo.</i></small></font>
+<font color="grey"><small><i>From left, Tehetena, Omid, Esko and Hyesoo.(Image: Tehetena Masresha and HyeSoo Park)</i></small></font>
 
 ## Our next journey and our hope
 Lastly, we would like to share one happy news with Hoodie community. A newborn baby joined our journey. HyeSoo delivered a baby just 3 weeks ago. We hope that the baby can bring happiness to our project and our team. We also hope that we can make a useful Hoodie desktop application for the users. Thank you for welcoming us and providing us a wonderful chance to join Hoodie project.
