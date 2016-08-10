@@ -10,7 +10,7 @@ Hey, we are [Tehetena](https://github.com/titay2) and [HyeSoo](https://github.co
 ## Team Rookies and Hoodie project with Rails Girls Summer of Code (RGSOC)
 ![Team Rookies, Tehetena and Hyesoo](/blog/images/201608/team-Rookies.jpg)
 <font color="grey"><small><i>We’re team Rookies, Tehetena and HyeSoo! (Image: Tehetena Masresha and HyeSoo Park)</i></small></font>
-  
+<br>  
 We started working on the Hoodie desktop application project. For making it, we’ve been working on UI/UX for the application and learning how to use Git, Node, localStorage and APIs to implement functionalities. 
 [Gregor](https://twitter.com/gr2m) is our project mentor. [Esko](https://twitter.com/orfjackal), [Omid](https://twitter.com/omidfi) and [Musse](https://github.com/mussebekabil) are our coaches, and [Pilar](https://twitter.com/Althaire) is our project supervisor. 
 
