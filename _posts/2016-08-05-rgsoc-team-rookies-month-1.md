@@ -5,11 +5,11 @@ layout: blog-post
 //permalink: /2013/06/Greeting-from-RGSOC-2016-team-Rookies/
 ---
 
+Hey, we are [Tehetena](https://github.com/titay2) and [HyeSoo](https://github.com/flyjwayur) from team [Rookies](https://twitter.com/hoodierookies). We want to keep our beginner mindset throughout the RGSOC journey, so we made our team name ‘Rookies’. We’re living and working from Helsinki, Finland. We are studying information technology and we love to learn new technologies. We joined the Rails Girls Summer of Code and it has been an amazing experience. 
+
 ## Team Rookies and Hoodie project with Rails Girls Summer of Code (RGSOC)
 ![Team Rookies, Tehetena and Hyesoo](/blog/images/201608/team-Rookies.jpg)
 <font color="grey"><small><i>We’re team Rookies, Tehetena and HyeSoo! (Image: Tehetena Masresha and HyeSoo Park)</i></small></font>
-
-Hey, we are [Tehetena](https://github.com/titay2) and [HyeSoo](https://github.com/flyjwayur) from team [Rookies](https://twitter.com/hoodierookies). We want to keep our beginner mindset throughout the RGSOC journey, so we made our team name ‘Rookies’. We’re living and working from Helsinki, Finland. We are studying information technology and we love to learn new technologies. We joined the Rails Girls Summer of Code and it has been an amazing experience. 
 
 We started working on the Hoodie desktop application project. For making it, we’ve been working on UI/UX for the application and learning how to use Git, Node, localStorage and APIs to implement functionalities. 
 [Gregor](https://twitter.com/gr2m) is our project mentor. [Esko](https://twitter.com/orfjackal), [Omid](https://twitter.com/omidfi) and [Musse](https://github.com/mussebekabil) are our coaches, and [Pilar](https://twitter.com/Althaire) is our project supervisor. 
