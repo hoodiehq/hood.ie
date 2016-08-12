@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-> TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it’s time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. This week, they’re curated for you by [Cecily](http://twitter.com/skeskali). Enjoy!
+TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday, and again it’s time for our weekly reading recommendations, prepared to help you get some good reading time on your weekend. This week, they’re curated for you by [Cecily](http://twitter.com/skeskali). Enjoy!
 
 
 ## Open Source
