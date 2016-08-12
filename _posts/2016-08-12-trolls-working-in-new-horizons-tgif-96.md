@@ -13,16 +13,22 @@ comments: false
 
 ## Open Source
 
-> When we started the project, we had low self confidence. Even though we have taken classes on different programming languages, when it came to working with it we thought we did not have all the knowledge it took to get the job done. Now we understand that every working experience is a great opportunity to teach ourselves new things everyday. <cite>Tehetena and HyeSoo, [Hoodie is once again participating in the Rails Girls Summer of Code](http://hood.ie/blog/rgsoc-team-rookies-month-1.html)</cite>
+> When we started the project, we had low self confidence. Even though we have taken classes on different programming languages, when it came to working with it we thought we did not have all the knowledge it took to get the job done. Now we understand that every working experience is a great opportunity to teach ourselves new things everyday. 
+
+–<cite>Tehetena and HyeSoo, [Hoodie is once again participating in the Rails Girls Summer of Code](http://hood.ie/blog/rgsoc-team-rookies-month-1.html)</cite>
 
 [Let’s drop the unrealistic expectation of total transparency in open source](https://m.signalvnoise.com/expectations-of-total-transparency-in-open-source-can-easily-lead-to-burn-out-28dea1a07417#.2m6e8q4fr)
 
 [White House released open source software policy](http://www.pcmag.com/news/346860/white-house-releases-open-source-software-policy)
 
+[Request For Commits](https://changelog.com/rfc/) (RFC) explores different perspectives in open source sustainability. It’s about the human side of code — community, governance, business, and licensing.
+
 
 ## Design
 
-> A two-part experiment found that different tones of voice on a website have measurable impacts on users’ perceptions of a brand’s friendliness, trustworthiness, and desirability. Casual, conversational, and enthusiastic tones performed best.  <cite>Kate Meyer, [The impact of tone of voice on users](https://www.nngroup.com/articles/tone-voice-users/)</cite>
+> A two-part experiment found that different tones of voice on a website have measurable impacts on users’ perceptions of a brand’s friendliness, trustworthiness, and desirability. Casual, conversational, and enthusiastic tones performed best.  
+
+–<cite>Kate Meyer, [The impact of tone of voice on users](https://www.nngroup.com/articles/tone-voice-users/)</cite>
 
 [No Man’s Sky designer on new gaming horizons and never giving up](http://www.vice.com/read/no-mans-sky-designer-sean-murray-on-new-gaming-horizons-and-never-giving-up-850)
 
@@ -30,7 +36,9 @@ comments: false
 
 ## The Web and Development
 
-> It often feels as though there’s an asymmetric level of respect between disciplines due to a belief that design is easy and therefore something everybody can have an opinion on, while development is hard and only for the specially initiated. So while designers are encouraged (sometimes expected) to involve everybody in the design process, they often aren’t afforded the same luxury. <cite>Smashing Magazine, [Developers own their code, so shouldn’t designers own the experience?](https://www.smashingmagazine.com/2016/08/developers-own-code-should-designers-own-experience/)</cite>
+> It often feels as though there’s an asymmetric level of respect between disciplines due to a belief that design is easy and therefore something everybody can have an opinion on, while development is hard and only for the specially initiated. So while designers are encouraged (sometimes expected) to involve everybody in the design process, they often aren’t afforded the same luxury. 
+
+–<cite>Smashing Magazine, [Developers own their code, so shouldn’t designers own the experience?](https://www.smashingmagazine.com/2016/08/developers-own-code-should-designers-own-experience/)</cite>
 
 [Google to push Flash closer to extinction with new version of Chrome](http://www.cnet.com/news/google-to-push-flash-closer-to-extinction-with-new-version-of-chrome/)
 
@@ -38,7 +46,9 @@ comments: false
 
 ## The Tech World and Culture
 	
-> According to 10 high-level former employees, the social network’s long history with abuse has been fraught with inaction and organizational disarray. Taken together, these interviews tell the story of a company that’s been ill-equipped to handle harassment since its beginnings. <cite>Charlie Warzel, [Inside Twitter’s 10-year failure to stop harassment](https://www.buzzfeed.com/charliewarzel/a-honeypot-for-assholes-inside-twitters-10-year-failure-to-s?utm_term=.sbVGpOXE#.vykvP38w)</cite>
+> According to 10 high-level former employees, the social network’s long history with abuse has been fraught with inaction and organizational disarray. Taken together, these interviews tell the story of a company that’s been ill-equipped to handle harassment since its beginnings. 
+
+–<cite>Charlie Warzel, [Inside Twitter’s 10-year failure to stop harassment](https://www.buzzfeed.com/charliewarzel/a-honeypot-for-assholes-inside-twitters-10-year-failure-to-s?utm_term=.sbVGpOXE#.vykvP38w)</cite>
 
 [Building accountable, empathetic, algorithms](https://medium.com/@Atipica/building-accountable-empathetic-algorithms-atipica-e652fde3d4f7#.xl2sdlieo)
 
@@ -46,7 +56,9 @@ comments: false
 
 ## The Business
 
-> When we were the Mac company, if we impacted 1% of our customers, it was measured in thousands. Now if we impact 1% of our customers, it’s measured in tens of millions. <cite>Eddy Cue in [Eddy Cue and Craig Federighi open up about learning from Apple’s failures](http://www.fastcompany.com/3062596/tim-cooks-apple/eddie-cue-and-craig-federighi-open-up-about-learning-from-apples-failures)</cite>
+> When we were the Mac company, if we impacted 1% of our customers, it was measured in thousands. Now if we impact 1% of our customers, it’s measured in tens of millions. 
+
+–<cite>Eddy Cue in [Eddy Cue and Craig Federighi open up about learning from Apple’s failures](http://www.fastcompany.com/3062596/tim-cooks-apple/eddie-cue-and-craig-federighi-open-up-about-learning-from-apples-failures)</cite>
 
 [This is why you can’t switch off at the weekend](http://www.bbc.com/capital/story/20160728-this-is-why-you-cant-switch-off-at-the-weekend)
 
