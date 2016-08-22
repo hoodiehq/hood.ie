@@ -23,7 +23,7 @@ comments: false
 
 ## Design
 
-> As a visual artist in general I can tell you when I see something that doesn’t work.  And I can tell you when something is being done to death.  The current web design trend is incredibly over-saturated.
+> As a visual artist in general I can tell you when I see something that doesn’t work.  And I can tell you when something is being done to death. The current web design trend is incredibly over-saturated.
 
 <cite>Chris Flanagan in [What happened to web design?](https://www.thewpcrowd.com/wordpress/design/happened-web-design/)</cite>
 
@@ -33,11 +33,11 @@ comments: false
 
 ## The Web and Development
 
-[Mimo's New App Teaches You To Code On Your Phone](https://techcrunch.com/2016/08/19/mimos-new-app-teaches-you-how-to-code-on-your-iphone/)
+[Mimo’s New App Teaches You To Code On Your Phone](https://techcrunch.com/2016/08/19/mimos-new-app-teaches-you-how-to-code-on-your-iphone/)
 
 [Building Pokémon Go In Pure HTML, Javascript And Css](http://blog.geofenceapi.org/post/149196681132/building-pokemongo-in-pure-html-javascript-css)
 
-[You're The Best Developer On Your Team - Why It'll Cost You Your Job](https://www.sitepoint.com/youre-the-best-developer-on-the-team-why-itll-cost-you-your-job/)
+[You’re The Best Developer On Your Team - Why It’ll Cost You Your Job](https://www.sitepoint.com/youre-the-best-developer-on-the-team-why-itll-cost-you-your-job/)
 
 ## The Tech World and Culture
 
