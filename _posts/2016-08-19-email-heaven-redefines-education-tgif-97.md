@@ -55,7 +55,7 @@ comments: false
 
 <cite>Anil Dash, in [There Is No Tech Industry](https://medium.com/humane-tech/there-is-no-technology-industry-44774dfb3ed7#.y7ctu7r0w)</cite>
 
-[Nobody Cares How Hard You Work](http://99u.com/articles/51908/nobody-cares-how-hard-you-work)</cite>
+[Nobody Cares How Hard You Work](http://99u.com/articles/51908/nobody-cares-how-hard-you-work)
 
 [Two Big Reasons Why Work Culture Is Overrated](http://www.fastcompany.com/3062899/hr/two-big-reasons-why-work-culture-is-overrated)
 
