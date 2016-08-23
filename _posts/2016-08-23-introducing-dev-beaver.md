@@ -13,7 +13,7 @@ Please join us in welcoming our newest animal mascot to the Hoodieverse, capture
 
 # Welcome our latest animal friend: Development Beaver
 
-![Dev Beaver](https://github.com/hoodiehq/hoodie-css/blob/gh-pages/src/content_img/animals/dev-beaver.png)
+![Dev Beaver](https://hoodiehq.github.io/hood.ie/blog/images/201608/dev-beaver.png)
 
 With barely a ripple, a beaver surfaced at the lake’s edge. They glanced around, filled with pride: this carefully-maintained lake was their creation, their beloved home. 
 
