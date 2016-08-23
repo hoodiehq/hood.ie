@@ -15,10 +15,10 @@ Please join us in welcoming our newest animal mascot to the Hoodieverse, capture
 
 ![Dev Beaver](https://github.com/hoodiehq/hoodie-css/blob/gh-pages/src/content_img/animals/dev-beaver.png)
 
-With barely a ripple, a beaver surfaced at the lake’s edge. She glanced around, filled with pride: this carefully-maintained lake was her creation, her beloved home. 
+With barely a ripple, a beaver surfaced at the lake’s edge. They glanced around, filled with pride: this carefully-maintained lake was their creation, their beloved home. 
 
-Making her way up the shore, she took measured steps along the tightly packed sand. She rummaged under a nearby rock for a moment before emerging with a trusty red toolbox. With a practiced tap of her claws, the box sprang open. Inside, a treasure trove of neatly arranged tools lay beside a crisply folded hoodie. 
+Making their way up the shore, they took measured steps along the tightly packed sand. They rummaged under a nearby rock for a moment before emerging with a trusty red toolbox. With a practiced tap of their claws, the box sprang open. Inside, a treasure trove of neatly arranged tools lay beside a crisply folded hoodie. 
 
-After a quick shake to dry her fur and a crisp zzzzzip into the hoodie, she tapped her tail in excitement: it was time to work. Tightly clutching a sharpened stick in her dainty paws, she began to sketch quickly in the sand. Diagrams, project ideas, problems she still needed to fix...
+After a quick shake to dry their fur and a crisp zzzzzip into the hoodie, they tapped their tail in excitement: it was time to work. Tightly clutching a sharpened stick in their dainty paws, they began to sketch quickly in the sand. Diagrams, project ideas, problems they still needed to fix...
 
-As we approached, she sat back on her haunches, absentmindedly sharpening the drawing stick with her claws. Glancing up, she caught sight of us, flashed a toothy grin, and raised a paw in welcome. We waved back, greeting our new friend and builder extraordinaire, the [Development Beaver](http://hood.ie/animals/#dev-beaver).
+As we approached, they sat back on their haunches, absentmindedly sharpening the drawing stick with their claws. Glancing up, they caught sight of us, flashed a toothy grin, and raised a paw in welcome. We waved back, greeting our new friend and builder extraordinaire, the [Development Beaver](http://hood.ie/animals/#dev-beaver).
