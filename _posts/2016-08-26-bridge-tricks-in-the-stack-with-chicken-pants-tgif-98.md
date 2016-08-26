@@ -57,7 +57,9 @@ Feminist Frequency’s [Bound Review](https://www.youtube.com/watch?v=xwfcgu2TR5
 
 _Meet the Hoodie community at one or more of these fine events:_
 
-[Offline Camp: West Coast Edition](https://medium.com/offline-camp/%EF%B8%8F-announcing-the-next-offline-camp-%EF%B8%8F-b2f86deb9c2d#.6spbfgeo8) Nov 4-7, Santa Margarita (CA), US
+[Node Interactive EU](http://events.linuxfoundation.org/events/node-interactive-europe) September 15-18, Beurs van Berlage, Amsterdam
+
+[Offline Camp: West Coast Edition](https://medium.com/offline-camp/%EF%B8%8F-announcing-the-next-offline-camp-%EF%B8%8F-b2f86deb9c2d#.6spbfgeo8) November 4-7, Santa Margarita (CA), US
 
 
 ### Events from our friends
