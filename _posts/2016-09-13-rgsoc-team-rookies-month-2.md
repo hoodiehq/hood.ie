@@ -5,7 +5,7 @@ layout: blog-post
 //permalink: /2016/09/2nd-part-of-Happy-journey-from-RGSOC-2016-team-Rookies/
 ---
 
-Hey, we are [Tehetena](https://github.com/titay2) and [HyeSoo](https://github.com/flyjwayur) from Team [Rookies](https://twitter.com/hoodierookies). We are happy to share part two of our Hoodie-RGSoC journey with you.
+Hey, we are [Tehetena](https://github.com/titay2) and [HyeSoo](https://github.com/flyjwayur) from Team [Rookies](https://twitter.com/hoodierookies). We are happy to share part two of our Hoodie-[Rails Girls Summer of Code (RGSoC)](http://railsgirlssummerofcode.org/) journey with you.
 
 ![Summary of our #2 our Hoodie-RGSoC journey](/blog/images/201609/team-Rookies-Summryofpart2Journey.jpg)<br>
 <font color="grey"><small><i>This is a visualization of the second part of our Hoodie-RGSoC journey. (Image: HyeSoo)</i></small></font>
