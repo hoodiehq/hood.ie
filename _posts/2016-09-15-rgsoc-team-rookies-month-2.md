@@ -23,20 +23,20 @@ We also wondered how to write clean and efficient code, and how to broaden our h
 
 ## Improvements and progress of Team Rookies’ project
 
-We made lots of changes to the code we created in the first month. First, we learned lots of new concepts in __JavaScript__. We made 8 different kinds of `EventHandler(s)` to create/edit/update/cancel/delete/go back/start/stop applications. When we received our first response by clicking button with handlers, we were so happy! 
+We made lots of changes to the code we created in the first month. First, we learned lots of new concepts in __JavaScript__. We made 8 different kinds of __EventHandler(s)__ to create/edit/update/cancel/delete/go back/start/stop applications. When we received our first response by clicking button with handlers, we were so happy! 
 
-We also learned how to debug using `debugger`, `breakpoint` and `watch` in the browser from Gregor. With these methods, we were able to observe the code flow and expressions and find where an error comes from. There are no perfect applications and most of the time, we try to improve our application by __debugging__, or adding more features. They became very useful tools for fixing problems in our project.
+We also learned how to debug using debugger, breakpoint and watch in the browser from Gregor. With these methods, we were able to observe the code flow and expressions and find where an error comes from. There are no perfect applications and most of the time, we try to improve our application by __debugging__, or adding more features. They became very useful tools for fixing problems in our project.
 
-While implementing several features for our project, we used `event.preventDefault` to make our custom event. For sorting the apps in the app list, we used `Array.prototype.filter()` and for looking through the application, we used `Array.prototype.forEach()`, and `Array.prototype.map()`.
+While implementing several features for our project, we used __event.preventDefault__ to make our custom event. For sorting the apps in the app list, we used __Array.prototype.filter()__ and for looking through the application, we used __Array.prototype.forEach()__, and __Array.prototype.map()__.
 
-We also learned two advanced JS concepts. The first was `promise` and after that, `closure`. Neither of us had ever worked with promises or closure before. It took us a while to grasp the concepts but thanks to Gregor's helpful tutorials, we managed to work with promises to make our API work asynchronously, and closure to make our API safer from the scope of the anonymous function with a private variable.
+We also learned two advanced JS concepts. The first was promise and after that, closure. Neither of us had ever worked with promises or closure before. It took us a while to grasp the concepts but thanks to Gregor's helpful tutorials, we managed to work with promises to make our API work asynchronously, and closure to make our API safer from the scope of the anonymous function with a private variable.
 
 ![Promise and Closure](/blog/images/201609/team-Rookies-code.png)<br>
 <font color="grey"><small><i>This is an example of our API which with promise and closure. (Image: Tehetena)</i></small></font>
 
 When we reviewed the [code feedback](https://github.com/Rookies-RGSOC2016/hoodie-electron-app/commits/gh-pages) from Gregor, we learned how to clean up our current code and how to make a uniform format with a standard style throughout our code.
 
-The other important thing we learned this month was working with APIs. In the beginning our application main.js file contained all its logics and methods in one long JavaScript file. Now we have split the code into several different tags, using `Riot.js`, so we can manage our code more efficiently. [Gregor’s example code](https://github.com/gr2m/riot-router-example) was very helpful to understand how to divide our application into several tags that will show and hide according to the routing.
+The other important thing we learned this month was working with APIs. In the beginning our application main.js file contained all its logics and methods in one long JavaScript file. Now we have split the code into several different tags, using [Riot.js](http://riotjs.com/), so we can manage our code more efficiently. [Gregor’s example code](https://github.com/gr2m/riot-router-example) was very helpful to understand how to divide our application into several tags that will show and hide according to the routing.
 
 ## Our plan for the last part of our journey
 
