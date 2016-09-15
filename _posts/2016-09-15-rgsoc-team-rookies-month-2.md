@@ -33,7 +33,7 @@ We also learned two advanced JS concepts. The first was promise and after that, 
 
 ![Promise and Closure](/blog/images/201609/team-Rookies-code.png)<br>
 <font color="grey"><small><i>This is an example of our API which with promise and closure. (Image: Tehetena)</i></small></font>
-
+<br>
 When we reviewed the [code feedback](https://github.com/Rookies-RGSOC2016/hoodie-electron-app/commits/gh-pages) from Gregor, we learned how to clean up our current code and how to make a uniform format with a standard style throughout our code.
 
 The other important thing we learned this month was working with APIs. In the beginning our application main.js file contained all its logics and methods in one long JavaScript file. Now we have split the code into several different tags, using [Riot.js](http://riotjs.com/), so we can manage our code more efficiently. [Gregor’s example code](https://github.com/gr2m/riot-router-example) was very helpful to understand how to divide our application into several tags that will show and hide according to the routing.
