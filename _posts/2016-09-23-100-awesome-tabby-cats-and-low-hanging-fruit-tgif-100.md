@@ -1,6 +1,6 @@
 ---
 
-title: 'Empty Title: TGIF (100)'
+title: '100 Awesome Tabby Cats and Low-Hanging Fruit: TGIF (100)'
 author: Jenn
 layout: blog-post-tgif
 comments: false
