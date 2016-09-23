@@ -39,7 +39,7 @@ First, we kick things off with a short list (shorter than 100, that is) of hundr
 
 [selfcare.tech](http://selfcare.tech/) – a repository of self-care resources for developers & others
 
-> Towards the end of 2016, we’re running the largest survey of the open source community to date, the results of which will be an open dataset for us all to use and learn from. <cite>Take [The Open Source Survey](http://opensourcesurvey.org/)now</cite> 
+> Towards the end of 2016, we’re running the largest survey of the open source community to date, the results of which will be an open dataset for us all to use and learn from. <cite>Take [The Open Source Survey](http://opensourcesurvey.org/) now</cite> 
 
 [TOAST (or the Talk on a Small Thing) Episode 2: No Code on Slides - Nolan Lawson](http://toast.show/series1/no-code-on-slides.html). How to make a talk without overwhelming the audience with technical details ? Nolan Lawson shares his tips and tricks.
 
