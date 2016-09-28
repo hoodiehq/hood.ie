@@ -77,9 +77,7 @@ redirect_from: "/irc/"
             btn.prop('disabled', true);
             $.ajax({
                 type: 'POST',
-                // workaround for #329
-                // url: 'https://hoodie-slack.herokuapp.com/invite',
-                url: 'https://hoodie-slackin-oxrukghvuu.now.sh/invite',
+                url: 'https://hoodie-slack.herokuapp.com/invite',
                 dataType: 'json',
                 crossDomain: true,
                 contentType: 'application/json; charset=utf-8',
@@ -88,7 +86,7 @@ redirect_from: "/irc/"
             .fail(function (res) {
                 if (!res.responseJSON) {
                   return formMessage.removeClass('message').addClass('message-fail')
-                      .text('Sorry, there was a server error.');
+                      .html('Sorry, there was a server error. Please try our backup form at <a href="https://hoodie-slackin-xuhlegfruy.now.sh">https://hoodie-slackin-xuhlegfruy.now.sh</a>');
                 }
                 if (res.responseJSON.msg === 'already_in_team') {
                     return formMessage.removeClass('message').addClass('message-fail')
