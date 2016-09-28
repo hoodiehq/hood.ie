@@ -77,7 +77,9 @@ redirect_from: "/irc/"
             btn.prop('disabled', true);
             $.ajax({
                 type: 'POST',
-                url: 'https://hoodie-slack.herokuapp.com/invite',
+                // workaround for #329
+                // url: 'https://hoodie-slack.herokuapp.com/invite',
+                url: 'https://hoodie-slackin-oxrukghvuu.now.sh/invite',
                 dataType: 'json',
                 crossDomain: true,
                 contentType: 'application/json; charset=utf-8',
