@@ -86,7 +86,7 @@ redirect_from: "/irc/"
             .fail(function (res) {
                 if (!res.responseJSON) {
                   return formMessage.removeClass('message').addClass('message-fail')
-                      .html('Sorry, there was a server error. Please try our backup form at <a href="https://hoodie-slackin-xuhlegfruy.now.sh">https://hoodie-slackin-xuhlegfruy.now.sh</a>');
+                      .html('Sorry, there was a server error. Please try our <a href="https://hoodie-slackin-xuhlegfruy.now.sh">Backup invite form</a>');
                 }
                 if (res.responseJSON.msg === 'already_in_team') {
                     return formMessage.removeClass('message').addClass('message-fail')
