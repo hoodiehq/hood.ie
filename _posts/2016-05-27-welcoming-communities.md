@@ -26,7 +26,7 @@ The are 3 things we focus on
 
 ## I. Reach out
 
-A typical Open Source contributor starts out as a user of the software. They find a bug, documentation lacking on a specific point or want a feature to be added, and contribute code through a code hosting platform like [GitHub](https://github.com/). Others are just want to work on a fun project. How can they find yours?
+A typical Open Source contributor starts out as a user of the software. They find a bug, documentation lacking on a specific point or want a feature to be added, and contribute code through a code hosting platform like [GitHub](https://github.com/). Others just want to work on a fun project. How can they find yours?
 
 ### 1. Go where your future contributors are
 
@@ -65,7 +65,7 @@ It doesn’t matter how fun and amazing your project is, if people don’t feel 
 
 ### 2. Be Legal
 
-Not only will people refrain from contributing to your project if it lacks a **license**, not having one can will get you in all kind of trouble. And according to [the definition](http://www.opensource.org/osd) of the term “open source,” *your library is not open source if it doesn’t have a license*. So [choose an Open Source license](http://choosealicense.com/ "Choose an open source license - Choose a License").
+Not only will people refrain from contributing to your project if it lacks a **license**, but not having one can and will get you in all kinds of trouble. And according to [the definition](http://www.opensource.org/osd) of the term “open source,” *your library is not open source if it doesn’t have a license*. So [choose an Open Source license](http://choosealicense.com/ "Choose an open source license - Choose a License").
 
 ### 3. Be Inclusive
 
@@ -73,7 +73,7 @@ Use simple language ([Hemingway](http://www.hemingwayapp.com/ "Hemingway Editor"
 
 ### 4. Lower barriers
 
-*It is the process of contributing that is oftentimes the most challenging.* Link to [Make a Pull Request](http://makeapullrequest.com/ "Make a Pull Request") for Open Source beginners Optimize for (new) contributors. Avoid excessive guidelines. Less [RTFM](http://www.urbandictionary.com/define.php?term=RTFM "Urban Dictionary: RTFM"), more [LMFTFY](http://www.urbandictionary.com/define.php?term=lmftfy "Urban Dictionary: lmftfy"). Less acronyms ;) Split up your code into self-contained, documented modules. For example, [the Hoodie Server is made of small modules](https://github.com/hoodiehq/hoodie/tree/master/server#architecture), new code contributors only need to understand the module they contribute to not the larger project. Require the minimum amount of tools. Invest in good tests and 100% coverage, so you can accept code contributions quickly and with confidence.
+*It is the process of contributing that is oftentimes the most challenging.* Link to [Make a Pull Request](http://makeapullrequest.com/ "Make a Pull Request") for Open Source beginners. Optimize for (new) contributors. Avoid excessive guidelines. Less [RTFM](http://www.urbandictionary.com/define.php?term=RTFM "Urban Dictionary: RTFM"), more [LMFTFY](http://www.urbandictionary.com/define.php?term=lmftfy "Urban Dictionary: lmftfy"). Less acronyms ;) Split up your code into self-contained, documented modules. For example, [the Hoodie Server is made of small modules](https://github.com/hoodiehq/hoodie/tree/master/server#architecture), new code contributors only need to understand the module they contribute to not the larger project. Require the minimum amount of tools. Invest in good tests and 100% coverage, so you can accept code contributions quickly and with confidence.
 
 ### 5. Dedicate space
 
@@ -98,7 +98,7 @@ Most communications within Open Source projects are anonymous. It makes a huge d
 
 ### 3. Turn contributors into committers
 
-A committer can edit code, create branches and manage issues. It’s a sign of trust and a award to be officially invited to become part of the project. You can require that all tests still pass and code coverage remains at 100% before anything can get merged into a master branch. Another integration we like at Hoodie is [LGTM](https://lgtm.co/) — it requires a “LGTM” comment from two members of the maintainers team. And if you use GitHub for collaboration, there are great ways to [protect branches](https://help.github.com/articles/about-protected-branches/), so nothing can (accidentally) be damaged.
+A committer can edit code, create branches and manage issues. It’s a sign of trust and an award to be officially invited to become part of the project. You can require that all tests still pass and code coverage remains at 100% before anything can get merged into a master branch. Another integration we like at Hoodie is [LGTM](https://lgtm.co/) — it requires a “LGTM” comment from two members of the maintainers team. And if you use GitHub for collaboration, there are great ways to [protect branches](https://help.github.com/articles/about-protected-branches/), so nothing can (accidentally) be damaged.
 
 ## 4. Turn committers into maintainers
 
