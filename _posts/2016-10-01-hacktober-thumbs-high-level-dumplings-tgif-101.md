@@ -72,7 +72,7 @@ _Meet the Hoodie community at one or more of these fine events:_
 
 [On building a culture of documentation](http://storytelling.voxmedia.com/2016/7/29/12299564/on-building-a-culture-of-documentation)
 
-> Since technology now literately touches almost everyone and it is no longer the playground of just a few, it isn’t economically prudent to build products and services that don’t reflect the needs and desires of large portions of the population. <cite>[Strategies For Attracting More of the “Underrepresented” Onto the Conference Stage](https://medium.com/@KimCrayton1/strategies-for-attracting-more-of-the-underrepresented-onto-the-conference-stage-f6d34464f635#.uf28uvfd6)</cite>
+> Since technology now literately [sic] touches almost everyone and it is no longer the playground of just a few, it isn’t economically prudent to build products and services that don’t reflect the needs and desires of large portions of the population. <cite>[Strategies For Attracting More of the “Underrepresented” Onto the Conference Stage](https://medium.com/@KimCrayton1/strategies-for-attracting-more-of-the-underrepresented-onto-the-conference-stage-f6d34464f635#.uf28uvfd6)</cite>
 
 [We Need a Better Way to Visualize People’s Skills](https://hbr.org/2016/09/we-need-a-better-way-to-visualize-peoples-skills)
 
