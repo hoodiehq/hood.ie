@@ -12,9 +12,9 @@ TGIF! – Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday-adjacent 
 
 ## Open Source
 
-[Hacktoberfest is open to everyone in the global community! DigitalOcean and GitHub team up to celebrate and support open source.](https://hacktoberfest.digitalocean.com/)
+[Hacktoberfest is open to everyone in the global community!](https://hacktoberfest.digitalocean.com/) DigitalOcean and GitHub team up to celebrate and support open source.
 
-[Today we met to talk about Open Source Communities and editorial contributors, and how to bring both together](https://twitter.com/hoodiehq/status/781372613985652736)
+[Today we met to talk about Open Source Communities and editorial contributors, and how to bring both together.](https://twitter.com/hoodiehq/status/781372613985652736)
 
 [Yahoo open sources its porn-detecting neural network](https://techcrunch.com/2016/09/30/yahoo-open-sources-its-porn-detecting-neural-network/)
 
@@ -90,3 +90,5 @@ _Meet the Hoodie community at one or more of these fine events:_
 [I’m so mad I looked at this so now you have to, too.](https://twitter.com/UnburntWitch/status/781991263641804800)
 
 [This very season appropriate Venn Diagram](https://twitter.com/thisjenlewis/status/781890026229665792)
+
+😎
