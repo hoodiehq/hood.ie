@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "scripts": {
     "start": "grunt",
-    "build": "grunt build"
+    "build": "grunt build",
+    "alex": "node alex"
   },
   "devDependencies": {
+    "alex": "^4.0.1",
+    "argv": "0.0.2",
+    "colors": "^1.1.2",
     "grunt": "^0.4.5",
     "grunt-autoprefixer": "^1.0.1",
     "grunt-cli": "^0.1.13",
@@ -16,7 +20,8 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-sass": "^1.0.0",
     "grunt-string-replace": "^1.0.0",
-    "time-grunt": "^1.0.0"
+    "time-grunt": "^1.0.0",
+    "to-vfile": "^2.1.1"
   },
   "frontend": {
     "name": "Hood.ie Sass/JS",
