@@ -40,9 +40,6 @@ if (args.options.file) {
     scanFile(args.options.file)
 }
 
-// default set of directories to scan through
-var dirs = ['_posts'];
-
 function scanFile (file) {
     try {
         var vfile = toVFile.readSync(file);
@@ -66,10 +63,4 @@ function scanDir (dir) {
     } catch(error) {
         console.log(colors.error('Error in reading directory ' + dir + ' - ' + error.message));
     }
-}
-
-function scanDefault () {
-    dirs.forEach(function (dir) {
-        scanDir(dir);
-    });
 }
