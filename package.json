@@ -4,7 +4,7 @@
   "scripts": {
     "start": "grunt",
     "build": "grunt build",
-    "alex": "node alex"
+    "alex": "node ./bin/language-checker.js"
   },
   "devDependencies": {
     "alex": "^4.0.1",
