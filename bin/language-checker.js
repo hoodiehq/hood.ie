@@ -32,44 +32,44 @@ var options = [
 
 var args = argv.option(options).run();
 
-if(args.options.dir) {
+if (args.options.dir) {
     scanDir(args.options.dir);
 }
 
-if(args.options.file) {
+if (args.options.file) {
     scanFile(args.options.file)
 }
 
 // default set of directories to scan through
 var dirs = ['_posts'];
 
-function scanFile(file) {
+function scanFile (file) {
     try {
         var vfile = toVFile.readSync(file);
         var messages = alex.markdown(vfile).messages;
-        if(messages.length) {
+        if (messages.length) {
             console.log(colors.warn(messages));
-        }else {
+        } else {
             console.log(colors.info('alex.js says ' + file + ' looks good!'));
         }
-    }catch(e) {
-        console.error(colors.error('Error in reading file ' + file + ' - ' + e.message));
+    } catch (error) {
+        console.error(colors.error('Error in reading file ' + file + ' - ' + error.message));
     }
 }
 
-function scanDir(dir) {
+function scanDir (dir) {
     try {
         var files = fs.readdirSync(dir);
-        files.forEach(function(file) {
+        files.forEach(function (file) {
             scanFile(dir + path.sep + file);
         });
-    }catch(e) {
-        console.log(colors.error('Error in reading directory ' + dir + ' - ' + e.message));
+    } catch(error) {
+        console.log(colors.error('Error in reading directory ' + dir + ' - ' + error.message));
     }
 }
 
-function scanDefault() {
-    dirs.forEach(function(dir) {
+function scanDefault () {
+    dirs.forEach(function (dir) {
         scanDir(dir);
     });
 }
