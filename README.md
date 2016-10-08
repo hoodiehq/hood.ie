@@ -137,9 +137,9 @@ The new hood.ie Website doesn't need to be deployed after making changes. (Only 
 ### Checking for insensitive content in the post
 * [Alex.js](http://alexjs.com/) is used to check for any insensitve content
 * When you want to check if the draft contains any insensitive content,
-    - run `npm run alex -f _drafts/<your-post>.md`
-    - fix the issues reported by alex.js
-    - you can also do `npm run alex -d _drafts` to check for insensitive content in all posts inside _drafts folder
+    - run `npm run alex -- -f _posts/<your-post-filename>.md
+    - look into reported issues and try to resolve them where it makes sense
+    - you can also do `npm run alex -- -d _drafts` to check for insensitive content in all posts inside _drafts folder
 
 ### Publishing the drafted Blog post
 
