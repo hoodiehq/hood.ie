@@ -42,9 +42,9 @@ Use the .editorsconfig file with your editor of choice to ensure a consistent co
 #### HTML
 
 * Avoid using IDs if possible
-* Try to fill the `alt-attribute` with meaning full content
+* Try to fill the `alt-attribute` with meaningful content
 * Try to adhere to the selector intendation
-* Add comments to your code if you think it could be usefull
+* Add comments to your code if you think it could be useful
 
 #### Sass
 
