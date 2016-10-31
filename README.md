@@ -43,7 +43,7 @@ Use the .editorsconfig file with your editor of choice to ensure a consistent co
 
 * Avoid using IDs if possible
 * Try to fill the `alt-attribute` with meaningful content
-* Try to adhere to the selector intendation
+* Try to adhere to the selector indentation
 * Add comments to your code if you think it could be useful
 
 #### Sass
