@@ -13,9 +13,9 @@ Thank Grohl, Gauss, Glob, Galileo and Science it’s Friday! This Friday’s lit
 
 Last week I hopped on a call with [Cecily](https://twitter.com/skeskali), [Gregor](https://twitter.com/gr2m), and [Jenn](https://twitter.com/jennwrites) to discuss the future of TGIF, Hoodie’s lazy Friday afternoon read started by [Lena](https://twitter.com/lrnrd) in [August 2013](http://hood.ie/blog/tgif-hoodies-top-links-of-the-week-1.html). After an hour-long chat with these amazing peeps we decided to take a step back and rethink how Hoodie’s weekly newsletter is created, delivered and promoted.
 
-Some of the things we discussed were TGIF having it’s own platform (separate from the blog), opening each issue up to multiple contributors (one contributor per section), making TGIF more accessible (with an email subscription option), and reaching out to publishers of content we share (to spread awareness).
+Some of the things we discussed were TGIF having its own platform (separate from the blog), opening each issue up to multiple contributors (one contributor per section), making TGIF more accessible (with an email subscription option), and reaching out to publishers of content we share (to spread awareness).
 
-I’m grateful to be part of this project and look forward to making TGIF one of the most anticipated newsletters in open source, intellect and fun! Now for what you may have missed over the past 2 weeks...
+I’m grateful to be part of this project and look forward to making TGIF one of the most anticipated newsletters in open source and tech. Now for what you may have missed over the past month...
 
 ## Open Source
 
@@ -25,11 +25,7 @@ Obama reads ten letters a day, but he can’t read em’ all, so he decided to s
 
 [FreeBSD stable/11 branch released](https://www.freebsd.org/releases/11.0R/announce.html) (freebsd.org)
 
-The OS that powers [many](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/nutshell.html%23introduction-nutshell-users) successful projects on the web is born again, with security improvements and better hardware support.
-
-[Google open sources Nomulus](https://techcrunch.com/2016/10/18/google-open-sources-the-code-that-powers-its-domain-registry/) (opensource.googleblog.com)
-
-Nomulus, the platform that powers Google’s top level domains like .google, was [open-sourced](https://github.com/google/nomulus/) to encourage interoperability and open standards in the domain name industry.
+FreeBSD (Berkley Software Distribution), the operating system that powers [many](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/nutshell.html%23introduction-nutshell-users) successful projects on the web, is born again, with security improvements and better hardware support.
 
 [Open source alternative to EpiPen](https://news.vice.com/story/epi-pen-epi-pencil-medicine) (vice.com)
 
@@ -53,17 +49,9 @@ Designers from all departments inside Facebook have a strong desire to “give b
 
 Uber’s senior product designer [Russell Wilkins](https://twitter.com/RussellWilkins) illustrates design’s evolution in the conception-to-realization journey of starting a project (UberCENTRAL in this case) and ending up with something better than what you planned.
 
-[A practical guide to invisible design](https://www.uxpin.com/studio/blog/a-practical-guide-to-invisible-design/) (uxpin.com)
-
-A swipe file-like post with examples of UX design that’s so brilliant it goes unnoticed.
-
-[A blog from Esty’s design team](https://medium.com/etsy-design) (https://medium.com/etsy-design)
-
-The design team at Etsy has a new blog that’s worth checking out.
-
 ## Web and Development
 
-[Open guide for AWS](https://github.com/open-guides/og-aws) (github.com)
+[Open guide for Amazon Web Services (AWS)](https://github.com/open-guides/og-aws) (github.com)
 
 Contribute to, and learn from, this growing guide that aims to uncomplicate the products offered by the largest web services platform.
 
@@ -101,7 +89,15 @@ Google’s data-driven approach ended up highlighting what leaders in the busine
 
 ## Events
 
-[Node.js Italian Conference](http://nodejsconf.it/), October 22, Desenzano, Italy
+*Meet the Hoodie community at one or more of these fine events:*
+
+[Offline Camp: California](https://medium.com/offline-camp/%EF%B8%8F-announcing-the-next-offline-camp-%EF%B8%8F-b2f86deb9c2d#.mlnp5vuy5), November 4-7, Santa Margarita (CA), US
+
+[Node Interactive North America](http://events.linuxfoundation.org/events/node-interactive), November 29-December 2, Austin (TX), US
+
+[NodeConf Budapest](http://budapest.nodeconf.com/), January 20, Budapest, Hungary
+
+### Events from our friends
 
 [NodeConf Argentina](https://2016.nodeconf.com.ar/), November 18-19, Buenos Aires, Argentina
 
@@ -113,7 +109,7 @@ Google’s data-driven approach ended up highlighting what leaders in the busine
 
 [Tim Wu’s latest book The Attention Merchants](http://www.timwu.org/AttentionMerchants.html)
 
-[Github’s community guidelines](https://www.google.com/url?sa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D1%26cad%3Drja%26uact%3D8%26ved%3D0ahUKEwj5--qrv-zPAhXJjz4KHT_0CAsQFggeMAA%26url%3Dhttps%253A%252F%252Fgithub.com%252Fblog%252F2267-introducing-github-community-guidelines%26usg%3DAFQjCNHmxcYBP9G9WhSUirqx3L7nWOslHg%26sig2%3D0p0Z9rhqUBTu6uSb07WpRw)
+[GitHub’s community guidelines](https://www.google.com/url?sa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D1%26cad%3Drja%26uact%3D8%26ved%3D0ahUKEwj5--qrv-zPAhXJjz4KHT_0CAsQFggeMAA%26url%3Dhttps%253A%252F%252Fgithub.com%252Fblog%252F2267-introducing-github-community-guidelines%26usg%3DAFQjCNHmxcYBP9G9WhSUirqx3L7nWOslHg%26sig2%3D0p0Z9rhqUBTu6uSb07WpRw)
 
 [Tips on having an awesome meetup when the host doesn’t show](http://developingian.com/how-to-have-an-awesome-meetup-even-if-the-host-doesnt-show/)
 
