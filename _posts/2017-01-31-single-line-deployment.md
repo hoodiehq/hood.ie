@@ -41,6 +41,6 @@ When you deploy with `now` you will receive a random subdomain where you can acc
 $ now alias set hoodie-app-tracker-randomxyz my-tracker-app
 ```
 
-That will make your deployed Hoodie Tracker app accessible at [https://my-tracker-app.now.sh](https://my-tracker-app.now.sh). For example, here is the app that I deployed myself: https://hoodie-app-tracker.now.sh/
+That will make your deployed Hoodie Tracker app accessible at [https://my-tracker-app.now.sh](https://my-tracker-app.now.sh). For example, here is the app that I deployed myself: [https://hoodie-app-tracker.now.sh/](https://hoodie-app-tracker.now.sh/)
 
 Enjoy!
