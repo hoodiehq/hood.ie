@@ -21,7 +21,7 @@ $ now hoodiehq/hoodie-app-tracker --npm -e NODE_ENV=production -e hoodie_inMemor
 
 `hoodiehq/hoodie-app-tracker` is the GitHub repository slug. `--npm` tells `now` to deploy using `npm`, as there is also `Dockerfile` in the repository. `-e NODE_ENV=production` sets the `NODE_ENV` environment variable to `production`, which makes the deployment faster as no `devDependencies` will be installed. The `-e hoodie_inMemory=true` makes the Hoodie app run in-memory mode, meaning that no data is persisted and no files are written. This is important because `now` is a read-only file system. That means that all user accounts and data will be lost on the next deployment, but it is great for for a quick test or demo of your application.
 
-If you want your data to be persisted, you will need [CouchDB](http://couchdb.apache.org/), accessible online. Luckily, there is a service that provides hosted CouchDB and they include a free plan:
+If you want your data to be persisted, you will need [CouchDB](https://couchdb.apache.org/), accessible online. Luckily, there is a service that provides hosted CouchDB and they include a free plan:
 
 ## Store data with Cloudant
 
