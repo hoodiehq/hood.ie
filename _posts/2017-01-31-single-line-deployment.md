@@ -9,7 +9,7 @@ Our mission is to empower more people to build applications by taking away the c
 
 But after you’ve built your Hoodie app you probably want to put it online. That was pretty hard and required system administration knowledge. Until today.
 
-<iframe width="600" height="320" src="https://www.youtube.com/embed/OVWCnEmjZBc" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="320" src="https://www.youtube.com/embed/29Uclxq_1Vw" frameborder="0" allowfullscreen></iframe>
 
 ## Deploying to now
 
