@@ -28,7 +28,6 @@ $rem-base: 16px;
 }
 
 @mixin color-scheme($color, $color-l, $color-name) {
-
     .content {
         background-image: url('../img/logo_cut_#{$color-name}.png');
         background-position: center rem-calc(56);
@@ -40,7 +39,6 @@ $rem-base: 16px;
         background-position: center 0;
         background-repeat: no-repeat;
     }
-
     h1,
     h2,
     h3,
