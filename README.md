@@ -161,3 +161,8 @@ From the GitHub UI –
 * Tadaaaa, it’s public. Your post is now online under http://hood.ie/blog/your-post-title.html (*not* YEAR-MONTH-DAY-your-post-title.md!)
 
 ![Now get some sleep](http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif)
+
+## License
+
+[Apache 2.0](LICENSE)
+
