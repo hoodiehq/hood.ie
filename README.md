@@ -135,7 +135,7 @@ The new hood.ie Website doesn't need to be deployed after making changes. (Only 
     - go to `localhost:4000/blog`. All currently available drafts are then just displayed as regular Blog posts. You can now check your draft and edit it in your editor. (Note: Jekyll is sometimes a bit slow, so this may take a little bit.)
 
 ### Checking for insensitive content in the post
-* [Alex.js](http://alexjs.com/) is used to check for any insensitve content
+* [Alex.js](http://alexjs.com/) is used to check for any insensitive content
 * When you want to check if the draft contains any insensitive content,
     - run `npm run alex -- -f _posts/<your-post-filename>.md`
     - look into reported issues and try to resolve them where it makes sense
