@@ -38,18 +38,8 @@ redirect_from: "/irc/"
         </p>
 
         <p>
-          To get started join these channels on Freenode or sign up for our Slack here:
+          To get started join these channels on Freenode or sign up for our Slack through our <a href="https://hoodie-slackin.now.sh/">Slack signup form</a>
         </p>
-
-        <p>
-          <form id="slack-integration">
-            <label for="mail-for-slack">Enter your email address</label>
-            <input id="mail-for-slack" type="email" placeholder="me@mydomain.com" required>
-            <button type="submit" id="submit-slack">Get your invite</button>
-            <div id="slack-form-message" class="message"></div>
-          </form>
-        </p>
-
 
         <h2>These are the guidelines:</h2>
          <p>
@@ -63,51 +53,6 @@ redirect_from: "/irc/"
 </div>
 <script src="http://hoodiehq.github.io/hoodie-css/src/js/jquery.min.js"></script>
 <script>
-    $(document).ready(function () {
-        $('#slack-integration').submit(function (e) {
-            e.preventDefault();
-            var btn = $('#submit-slack', this),
-                email = $('#mail-for-slack', this),
-                formMessage = $('#slack-form-message', this);
-
-            if (!email.val()) {
-                return;
-            }
-
-            btn.prop('disabled', true);
-            $.ajax({
-                type: 'POST',
-                url: 'https://hoodie-slack.herokuapp.com/invite',
-                dataType: 'json',
-                crossDomain: true,
-                contentType: 'application/json; charset=utf-8',
-                data: JSON.stringify({ email: email.val() })
-            })
-            .fail(function (res) {
-                if (!res.responseJSON) {
-                  return formMessage.removeClass('message').addClass('message-fail')
-                      .html('Sorry, there was a server error. Please try our <a href="https://hoodie-slackin-xuhlegfruy.now.sh">Backup invite form</a>');
-                }
-                if (res.responseJSON.msg === 'already_in_team') {
-                    return formMessage.removeClass('message').addClass('message-fail')
-                        .text('It looks like you\'ve already joined!');
-                }
-
-                formMessage.removeClass('message').addClass('message-fail')
-                    .text(res.responseJSON.msg);
-            })
-            .done(function (data) {
-                email.val('');
-                formMessage.removeClass('message')
-                    .addClass('message-done')
-                    .text('Woot! Check your email!');
-            })
-            .always(function () {
-                btn.prop('disabled', false);
-            });
-        });
-    });
-
     (function(window,undefined){
       var d = new Date();
 
