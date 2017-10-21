@@ -1555,7 +1555,6 @@ body.gray .animation.colorise .letter {
   overflow: hidden; }
 
 header {
-  cursor: pointer;
   height: 102px;
   overflow: hidden;
   position: absolute;
