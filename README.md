@@ -1,4 +1,4 @@
-Hood.ie: the Website for the Hoodie Open Source Project
+Hood.ie: A Website for the Hoodie Open Source Project
 ==================
 
 ## Getting started
